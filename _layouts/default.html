@@ -1,11 +1,89 @@
-{% include header.html %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            {{ site.name }}{% if page.title %}: {{ page.title }}{% endif %}
+        </title>
 
-<div class="container container-left">
-    <div class="row">
-        <div class="col-md-9">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=PT+Sans:400' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="{{ site.base }}/media/main.css">
+
+        <link rel="alternate" type="application/rss+xml" href="{{ site.base }}/blog.xml" title="Atom">
+
+        {% if page.date %}
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="{{ site.twitter }}">
+        <meta name="twitter:creator" content="{{ site.twitter }}">
+        <meta name="twitter:title" content="{{ page.title }}">
+        <meta name="twitter:description"
+            content="{{ page.excerpt | markdownify | strip_html | strip_newlines }}">
+
+        <meta name="og:type" content="article">
+        <meta name="og:title" content="{{ page.title }}">
+        <meta name="og:description"
+            content="{{ page.excerpt | markdownify | strip_html | strip_newlines }}">
+        {% endif %}
+    </head>
+    <body>
+        <div class="container{% if page.class %} {{ page.class }}{% endif %}">
+
+            {% if page.plain != true %}
+            <header>
+                <div id="leader">
+                    <h1>
+                        <a href="{{ site.base }}/">{{ site.name }}</a>
+                    </h1>
+                    <address>
+                        <a href="http://www.cs.washington.edu">Computer
+                            Science &amp; Engineering</a>
+                        <a href="http://www.washington.edu">University of
+                            Washington</a>
+                    </address>
+                </div>
+                <nav>
+                    {% assign shorturl = page.url | replace:'index.html','' %}
+                    {% for item in site.navigation %}
+                    <a
+                        {% if item.link == shorturl or (item.link == '/blog/' and page.date) %}
+                            class="active"
+                        {% endif %}
+                        href="{{ site.base }}{{ item.link }}">
+                        {{ item.title }}
+                    </a>
+                    {% endfor %}
+                </nav>
+            </header>
+            {% endif %}
+
             {{ content }}
-        </div>
-    </div>
-</div>
 
-{% include footer.html %}
+        </div>
+
+        {% if page.mathjax %}
+        <!-- MathJax -->
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({
+                tex2jax: {inlineMath: [['$','$']]}
+            });
+        </script>
+        <script type="text/javascript"
+            src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+        {% endif %}
+
+        <!-- Google Analytics -->
+        <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-20760409-1', 'washington.edu');
+ga('send', 'pageview');
+        </script>
+    </body>
+</html>

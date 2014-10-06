@@ -1,0 +1,25 @@
+---
+layout: default
+title: Blog
+---
+<h2 class="with-tagline">Bloggings</h2>
+
+<p class="tagline">
+<a href="{{ site.base }}/blog.xml" class="feed">
+    Subscribe
+</a>
+</p>
+
+{% for post in site.posts %}
+<article class="preview">
+    <p class="tagline">
+        {{ post.date || date_to_long_string }}
+    </p>
+    <h3>
+        <a href="{{ site.base }}{{ post.url }}">{{ post.title }}</a>
+    </h3>
+    <div class="excerpt">
+        {{ post.excerpt | replace: 'SITE_BASE', site.url | markdownify }}
+    </div>
+</article>
+{% endfor %}

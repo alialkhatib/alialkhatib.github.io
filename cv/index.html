@@ -1,0 +1,93 @@
+---
+layout: default
+plain: true
+class: cv
+title: CV
+---
+{% assign cv = site.data.cv %}
+
+<header>
+    <h1>
+        <a href="{{ site.base }}/">{{ cv.name }}</a>
+    </h1>
+    <address>
+        <a href="http://www.cs.washington.edu">University of
+            Washington Computer Science & Engineering</a>
+        <a href="mailto:{{ cv.email }}">{{ cv.email }}</a>
+    </address>
+</header>
+
+<section>
+    <h2>Education</h2>
+    {% for school in cv.education %}
+    <p>
+        <strong>{{ school.school }}</strong><br>
+        {{ school.degree }}<br>
+        {{ school.dates }}<br>
+        {{ school.note }}
+    </p>
+    {% endfor %}
+</section>
+
+<section>
+    <h2>Conference Publications</h2>
+    {% for paper in site.data.pubs %}
+        {% if paper.type == 'conference' %}
+            {% include paper_cv.html %}
+        {% endif %}
+    {% endfor %}
+</section>
+
+<section>
+    <h2>Workshop Publications</h2>
+    {% for paper in site.data.pubs %}
+        {% if paper.type == 'workshop' %}
+            {% include paper_cv.html %}
+        {% endif %}
+    {% endfor %}
+</section>
+
+<section>
+    <h2>Other Publications</h2>
+    {% for paper in site.data.pubs %}
+        {% if paper.type != 'conference' and paper.type != 'workshop' %}
+            {% include paper_cv.html %}
+        {% endif %}
+    {% endfor %}
+</section>
+
+<section>
+    <h2>Research Positions</h2>
+    {% for job in cv.jobs %}
+    <p>
+        {{ job.title }}<br>
+        <strong>{{ job.where }}</strong><br>
+        {{ job.dates }}
+    </p>
+    {% endfor %}
+</section>
+
+<section>
+    <h2>Honors</h2>
+    {% for text in cv.honors %}
+        {{ text | markdownify }}
+    {% endfor %}
+</section>
+
+<section>
+    <h2>Teaching</h2>
+    {% for text in cv.teaching %}
+        {{ text | markdownify }}
+    {% endfor %}
+</section>
+
+<section>
+    <h2>Service</h2>
+    {% for text in cv.service %}
+        {{ text | markdownify }}
+    {% endfor %}
+</section>
+
+<footer>
+    {{ cv.name }} &mdash; <a href="mailto:{{ cv.email }}">{{ cv.email }}</a>
+</footer>

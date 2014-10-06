@@ -1,0 +1,243 @@
+@import "../bower_components/bootstrap/less/bootstrap.less";
+
+// Bootstrap customization.
+// Narrow, centered page content even on large screen sizes.
+@container-md: @container-sm;
+@container-lg: @container-sm;
+
+// My trademarked green.
+@brand-primary: #51a012;
+
+// Non-pink <code>.
+@code-color: @pre-color;
+@code-bg: @pre-bg;
+
+@title-font: 'PT Sans', sans-serif;
+
+body {
+    font-family: Lora, serif;
+}
+
+// Page header.
+header {
+    .make-row();
+    color: @brand-primary;
+    font-family: @title-font;
+    a:hover {
+        text-decoration: none;
+    }
+    h1 {
+        margin-bottom: 0;
+        a:hover {
+            color: @brand-primary;
+        }
+    }
+    address {
+        font-size: 1.2em;
+        margin: 0;
+        a {
+            display: block;
+        }
+    }
+}
+#leader {
+    .make-md-column(6);
+    .make-sm-column(6);
+}
+nav {
+    .make-md-column(6);
+    .make-sm-column(6);
+    margin: 1em 0 0 0;
+    a {
+        display: inline-block;
+        margin: 0 0.25em;
+        font-size: 1.2em;
+        padding: 2px 6px;
+        border: 1px solid white;
+        border-radius: 3px;
+    }
+    a.active {
+        border-color: @brand-primary;
+    }
+    a.active:hover {
+        border-color: @link-hover-color;
+    }
+    @media (min-width: @screen-sm-min) {
+        margin-top: 2em;
+        text-align: right;
+    }
+}
+
+// Headings.
+h1, h2, h3, h4, h5, h6 {
+    font-family: @title-font;
+}
+
+// Lists.
+ul {
+    list-style: square;
+}
+ul, ol {
+    padding-left: 0;
+    ul, ol {
+        padding-left: 1em;
+    }
+}
+ul li, ol li {
+    margin: 0.8em 0;
+    ul li {
+        // Second level is more compact.
+        margin: 0;
+    }
+}
+
+// Front-page bio block.
+.blurb {
+    font-size: 1.2em;
+    margin: 1em 0;
+}
+
+// Adornments on blog posts and such.
+.tagline {
+    text-transform: uppercase;
+    font-family: @title-font;
+    margin: 0;
+    color: @gray-light;
+    a {
+        color: inherit;
+    }
+}
+.with-tagline {
+    margin-bottom: 0;
+}
+
+// Blog post previews on the homepage and blog index.
+article.preview {
+    margin-top: 1.5em;
+    h3 {
+        margin: 0;
+        font-family: @title-font;
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+    }
+    .excerpt p {
+        margin: 0;
+    }
+}
+article.preview.alone {
+    h3 {
+        font-size: 2em;
+    }
+}
+
+article.full {
+    margin-top: 1em;
+
+    // In full articles, shift down the type sizing.
+    h1 {
+        font-size: @font-size-h2;
+    }
+    h2 {
+        font-size: @font-size-h3;
+    }
+    h3 {
+        font-size: @font-size-h4;
+    }
+    h4 {
+        font-size: @font-size-h5;
+    }
+    h5 {
+        font-size: @font-size-h6;
+    }
+}
+
+
+// Blog post warning block.
+// Use Bootstrap's alert component.
+.warning {
+    display: block;
+    .alert;
+    .alert-warning;
+    p {
+        margin: 0;
+    }
+    a {
+        color: inherit;
+        text-decoration: underline;
+    }
+}
+
+footer {
+    color: @gray-light;
+    font-family: @title-font;
+    font-size: 1.2em;
+    border-top: 1px solid @brand-primary;
+    margin: 0.2em 0 0.5em;
+    padding-top: 0.2em;
+}
+
+img.illus {
+    float: right;
+    margin: 1em;
+}
+
+.portrait {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+
+// Plainer style for the CV page.
+.cv {
+    header {
+        color: inherit;
+        margin: 0;
+    }
+    footer {
+        border-top: none;
+        text-align: center;
+    }
+    .title {
+        font-style: italic;
+    }
+    ul, ol {
+        padding-left: 1.5em;
+        margin-top: -0.7em;
+        li {
+            margin: 0;
+        }
+    }
+    p strong {
+        font-weight: normal;
+        font-size: 1.2em;
+    }
+}
+
+/* Responsive video embed.
+ * http://amobil.se/2011/11/responsive-embeds/
+ */
+.embed {
+    position: relative;
+    padding-bottom: 56.25%; /* 16/9 ratio */
+    padding-top: 30px; /* IE6 workaround*/
+    height: 0;
+    overflow: hidden;
+}
+.embed iframe,
+.embed object,
+.embed embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+// Disable dumb print styles.
+@media print {
+    a[href]:after, abbr[title]:after {
+      content: "" !important;
+    }
+}
