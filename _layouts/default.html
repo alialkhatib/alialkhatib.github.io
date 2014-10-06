@@ -7,15 +7,16 @@
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=PT+Sans:400' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+        <!-- <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'> -->
+        <!-- <link href='http://fonts.googleapis.com/css?family=PT+Sans:400' rel='stylesheet' type='text/css'> -->
         <link rel="stylesheet" href="{{ site.base }}/media/main.css">
         <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
         
         <!-- <link rel="alternate" type="application/rss+xml" href="{{ site.base }}/blog.xml" title="Atom"> -->
 
         {% if page.date %}
+        {% assign shorturl = page.url | replace:'index.html','' %}
         <meta name="twitter:card" content="summary">
         <meta name="twitter:site" content="{{ site.twitter }}">
         <meta name="twitter:creator" content="{{ site.twitter }}">
@@ -33,7 +34,12 @@
         <div class="container{% if page.class %} {{ page.class }}{% endif %}">
 <header>
                 <div id="leader">
-                    <h1><a href="{{ site.base }}/">{{ site.name }}</a></h1>
+                    <ol class="breadcrumb">
+                    <li><h1><a href="{{ site.base }}/">{{ site.name }}</a></h1></li>
+                    {% if page.title!="" %}
+                    {{page.title.type}}
+                    <li><a href="{{shorturl}}">{{ page.title }}</a></li>
+                    {% endif %}
                 </div>
                 
             </header>
@@ -43,7 +49,6 @@
             {% if page.plain != true %}
             <div class="col-md-4">
                     <nav class="tabbable tabs-right">
-                        {% assign shorturl = page.url | replace:'index.html','' %}
                         {% for item in site.navigation %}
                         <a class="nav nav-tabs"
                             {% if item.link == shorturl or (item.link == '/blog/' and page.date) %}
