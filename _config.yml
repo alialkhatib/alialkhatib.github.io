@@ -1,7 +1,7 @@
 name: Ali Alkhatib
 author: Ali Alkhatib
 url: http://ali-alkhatib.com
-base: ''
+base: '/'
 twitter: '@alialkhatib_'
 
 markdown: kramdown
