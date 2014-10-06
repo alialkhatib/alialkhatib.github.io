@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ali-alkhatib.com//</id>
   <title>Ali Alkhatib</title>
-  <updated>2014-10-06T08:50:15-07:00</updated>
+  <updated>2014-10-06T08:54:07-07:00</updated>
   <link rel="alternate" href="http://ali-alkhatib.com/"/>
   <link rel="self" href="http://ali-alkhatib.com/blog.xml"/>
   <author>
@@ -78,22 +78,6 @@
   
   <entry>
     
-    <id>http://ali-alkhatib.com/blog/quantified-self-2.html</id>
-    
-    <title type="html">Quantified Self</title>
-    <updated>2014-06-07T00:00:00-07:00</updated>
-    <link rel="alternate" href="http://ali-alkhatib.com/blog/quantified-self-2.html"/>
-    <content type="html">&lt;p&gt;I recently finished my honors thesis on Quantified Self. Or more accurately, I ran out of time.&lt;br /&gt;
-I&amp;rsquo;ll post it and link here when I get feedback from my advisor.&lt;/p&gt;
-</content>
-    <summary type="html">&lt;p&gt;I recently finished my honors thesis on Quantified Self. Or more accurately, I ran out of time.&lt;br /&gt;
-I&amp;rsquo;ll post it and link here when I get feedback from my advisor.&lt;/p&gt;
-
-</summary>
-  </entry>
-  
-  <entry>
-    
     <id>http://ali-alkhatib.com/blog/quantified-self.html</id>
     
     <title type="html">Quantified Self</title>
@@ -127,6 +111,20 @@ I&amp;rsquo;ll post it and link here when I get feedback from my advisor.&lt;/p&
 &lt;p&gt;More updates eventually. I&amp;rsquo;m trying to stay above the day-to-day errands of housing lotteries and personal stuff because I kind of assume nobody reading this is interested. My next unprompted post will &lt;em&gt;probably&lt;/em&gt; be about Quantified Self, the undergraduate thesis I&amp;rsquo;ve been working on for the honors Anthro program at UC Irvine, for which Dr. Boellstorff has been advising me.&lt;/p&gt;
 </content>
     <summary type="html">&lt;p&gt;My last substantive post was about how broken graduate school applications are, so I think it makes sense that my next post would be about graduate schools again.&lt;/p&gt;
+
+</summary>
+  </entry>
+  
+  <entry>
+    
+    <id>http://ali-alkhatib.com/blog/flatricide-pulgamitude.html</id>
+    
+    <title type="html">Flatricide pulgamitude</title>
+    <updated>2014-01-17T00:00:00-08:00</updated>
+    <link rel="alternate" href="http://ali-alkhatib.com/blog/flatricide-pulgamitude.html"/>
+    <content type="html">&lt;p&gt;Apparently there&amp;rsquo;s some sort of contest to see who can get the highest PageRank for &amp;ldquo;Flatricide pulgamitude&amp;rdquo;. Seems silly, but I&amp;rsquo;m curious to see if I have any PageRank after all.&lt;/p&gt;
+</content>
+    <summary type="html">&lt;p&gt;Apparently there&amp;rsquo;s some sort of contest to see who can get the highest PageRank for &amp;ldquo;Flatricide pulgamitude&amp;rdquo;. Seems silly, but I&amp;rsquo;m curious to see if I have any PageRank after all.&lt;/p&gt;
 
 </summary>
   </entry>
