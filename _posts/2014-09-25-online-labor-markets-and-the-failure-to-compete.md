@@ -16,6 +16,7 @@ Our first round of fieldwork suggested *really* strongly that there was a single
 Not quite so. In practice, these [HITs][8] and others set a standard &#8211; a norm &#8211; in the marketplace, so that even academic researchers (whom we generally regard as being paragons of ethical behavior, justified or not) were paying workers poorly; the market had become one for [lemons][9].
 
 So we thought that a demonstration for this and other HIT requesters would give them the necessary push to show that  
+
 1. Turkers are not to be trifled with  
 2. Turkers are human beings  
 3. Turkers ought to be treated with basic respect and decency
@@ -27,9 +28,10 @@ Turkers were not enthusiastic with our idea. In fact, more accurately, they hate
 Eventually, we realized that we didn&#8217;t know anything (one could argue that I should&#8217;ve known this for quite a while, but I didn&#8217;t know anything; also, I digress), so we figured that we should just let Turkers come up with their own actions. While this was on one hand more practical than designing our own perfect campaign, it was more importantly a truer representation of homegrown **collective action**, which was becoming the focal point of our research.
 
 I won&#8217;t bore you with many more details &#8211; and frankly I find more and more that I don&#8217;t have time for them &#8211; but of note we have a few things which I think are worth patting ourselves on the back:  
-&#8211; We came up with a guideline of ethical research protocols developed by the community to which these guidelines are relevant.  
-&#8211; We got some serious buy-in from researchers in the HCI community (including, but not limited to, Don Norman of UCSD).  
-&#8211; We learned a *lot* about online workers, online labor markets, and online communities in general. I genuinely feel more confident about community design and building now than I ever did before.
+
+- We came up with a guideline of ethical research protocols developed by the community to which these guidelines are relevant.  
+- We got some serious buy-in from researchers in the HCI community (including, but not limited to, Don Norman of UCSD).  
+- We learned a *lot* about online workers, online labor markets, and online communities in general. I genuinely feel more confident about community design and building now than I ever did before.
 
 Now that we&#8217;ve submitted our paper to a conference (deadline was on my birthday, so that was fun&#8230;), I&#8217;m moving on to my own project, of my own design, with no conference deadline in immediate sight: I&#8217;m going to try and build a new type of online labor marketplace, where the workers set their own rules and norms, including things like minimum wage, what sorts of work they&#8217;ll do, and other factors. My hope is that this will return some of the leverage Amazon puts in the requester&#8217;s hands back to the workers themselves. Ideally, there should be as equal a playing field as possible, rather than one that&#8217;s exploitative of workers. If this all pans out, it just might be.
 

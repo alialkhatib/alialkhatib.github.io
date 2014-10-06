@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ali-alkhatib.com//</id>
   <title>Ali Alkhatib</title>
-  <updated>2014-10-06T09:35:15-07:00</updated>
+  <updated>2014-10-06T09:36:41-07:00</updated>
   <link rel="alternate" href="http://ali-alkhatib.com/"/>
   <link rel="self" href="http://ali-alkhatib.com/blog.xml"/>
   <author>
@@ -28,10 +28,13 @@
 
 &lt;p&gt;Not quite so. In practice, these &lt;a href=&quot;#HIT&quot;&gt;HITs&lt;/a&gt; and others set a standard &amp;ndash; a norm &amp;ndash; in the marketplace, so that even academic researchers (whom we generally regard as being paragons of ethical behavior, justified or not) were paying workers poorly; the market had become one for &lt;a href=&quot;http://www.iei.liu.se/nek/730g83/artiklar/1.328833/AkerlofMarketforLemons.pdf&quot;&gt;lemons&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;So we thought that a demonstration for this and other HIT requesters would give them the necessary push to show that&lt;br /&gt;
-1. Turkers are not to be trifled with&lt;br /&gt;
-2. Turkers are human beings&lt;br /&gt;
-3. Turkers ought to be treated with basic respect and decency&lt;/p&gt;
+&lt;p&gt;So we thought that a demonstration for this and other HIT requesters would give them the necessary push to show that  &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Turkers are not to be trifled with  &lt;/li&gt;
+  &lt;li&gt;Turkers are human beings  &lt;/li&gt;
+  &lt;li&gt;Turkers ought to be treated with basic respect and decency&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Our plan was to help Turkers stage a labor protest; they would do &lt;em&gt;bad&lt;/em&gt; work intentionally, in a systematically defined way, so that all of the work a requester solicited would be unusable. This was the idea &lt;strong&gt;we&lt;/strong&gt; came up with, bridging some gaps between online and offline labor markets, dynamics, and politics.&lt;/p&gt;
 
@@ -39,10 +42,13 @@
 
 &lt;p&gt;Eventually, we realized that we didn&amp;rsquo;t know anything (one could argue that I should&amp;rsquo;ve known this for quite a while, but I didn&amp;rsquo;t know anything; also, I digress), so we figured that we should just let Turkers come up with their own actions. While this was on one hand more practical than designing our own perfect campaign, it was more importantly a truer representation of homegrown &lt;strong&gt;collective action&lt;/strong&gt;, which was becoming the focal point of our research.&lt;/p&gt;
 
-&lt;p&gt;I won&amp;rsquo;t bore you with many more details &amp;ndash; and frankly I find more and more that I don&amp;rsquo;t have time for them &amp;ndash; but of note we have a few things which I think are worth patting ourselves on the back:&lt;br /&gt;
-&amp;ndash; We came up with a guideline of ethical research protocols developed by the community to which these guidelines are relevant.&lt;br /&gt;
-&amp;ndash; We got some serious buy-in from researchers in the HCI community (including, but not limited to, Don Norman of UCSD).&lt;br /&gt;
-&amp;ndash; We learned a &lt;em&gt;lot&lt;/em&gt; about online workers, online labor markets, and online communities in general. I genuinely feel more confident about community design and building now than I ever did before.&lt;/p&gt;
+&lt;p&gt;I won&amp;rsquo;t bore you with many more details &amp;ndash; and frankly I find more and more that I don&amp;rsquo;t have time for them &amp;ndash; but of note we have a few things which I think are worth patting ourselves on the back:  &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We came up with a guideline of ethical research protocols developed by the community to which these guidelines are relevant.  &lt;/li&gt;
+  &lt;li&gt;We got some serious buy-in from researchers in the HCI community (including, but not limited to, Don Norman of UCSD).  &lt;/li&gt;
+  &lt;li&gt;We learned a &lt;em&gt;lot&lt;/em&gt; about online workers, online labor markets, and online communities in general. I genuinely feel more confident about community design and building now than I ever did before.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Now that we&amp;rsquo;ve submitted our paper to a conference (deadline was on my birthday, so that was fun&amp;hellip;), I&amp;rsquo;m moving on to my own project, of my own design, with no conference deadline in immediate sight: I&amp;rsquo;m going to try and build a new type of online labor marketplace, where the workers set their own rules and norms, including things like minimum wage, what sorts of work they&amp;rsquo;ll do, and other factors. My hope is that this will return some of the leverage Amazon puts in the requester&amp;rsquo;s hands back to the workers themselves. Ideally, there should be as equal a playing field as possible, rather than one that&amp;rsquo;s exploitative of workers. If this all pans out, it just might be.&lt;/p&gt;
 
