@@ -13,7 +13,7 @@
         <link rel="stylesheet" href="{{ site.url }}media/main.css">
         <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
         
-        <!-- <link rel="alternate" type="application/rss+xml" href="{{ site.base }}/blog.xml" title="Atom"> -->
+        <!-- <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/blog.xml" title="Atom"> -->
 
         {% if page.date %}
         {% assign shorturl = page.url | replace:'index.html','' %}
@@ -35,7 +35,7 @@
 <header>
                 <div id="leader">
                     <ol class="breadcrumb">
-                    <li><h1><a href="{{ site.base }}/">{{ site.name }}</a></h1></li>
+                    <li><h1><a href="{{ site.url }}/">{{ site.name }}</a></h1></li>
                     {% if page.title!="" %}
                     {{page.title.type}}
                     <li><a href="{{shorturl}}">{{ page.title }}</a></li>
@@ -54,7 +54,7 @@
                             {% if item.link == shorturl or (item.link == '/blog/' and page.date) %}
                                 class="active"
                             {% endif %}
-                            href="{{ site.base }}{{ item.link }}">
+                            href="{{ site.url }}{{ item.link }}">
                             {{ item.title }}
                         </a>
                         {% endfor %}
