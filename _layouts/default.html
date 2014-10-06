@@ -37,8 +37,9 @@
                     <ol class="breadcrumb">
                     <li><h1><a href="{{ site.base }}/">{{ site.name }}</a></h1></li>
                     {% if page.title!="" %}
-                    {{page.title.type}}
-                    <li><a href="{{shorturl}}">{{ page.title }}</a></li>
+                    {% assign crumbs = page.url | split: '/' %}
+                    <li><a href="/{{crumbs[1]}}">{{crumbs[1] | replace:'.html',''}}</a></li>
+                    <!-- <li><a href="/{{crumbs[1]}}">{{page.title}}</a></li> -->
                     {% endif %}
                 </div>
                 
