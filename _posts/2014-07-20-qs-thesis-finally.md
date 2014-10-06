@@ -9,4 +9,4 @@ After getting some feedback from my advisor I&#8217;m pretty sure I&#8217;m read
 
 Take a look at my [Quantified Self thesis][1], which I completed as part of the honors program in Anthropology at UC Irvine
 
- [1]: /presentations/QSThesisFinal.pdf
+ [1]: http://ali-alkhatib.com/presentations/QSThesisFinal.pdf
