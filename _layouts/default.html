@@ -11,8 +11,9 @@
         <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=PT+Sans:400' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="{{ site.base }}/media/main.css">
-
-        <link rel="alternate" type="application/rss+xml" href="{{ site.base }}/blog.xml" title="Atom">
+        <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+        
+        <!-- <link rel="alternate" type="application/rss+xml" href="{{ site.base }}/blog.xml" title="Atom"> -->
 
         {% if page.date %}
         <meta name="twitter:card" content="summary">
@@ -30,37 +31,31 @@
     </head>
     <body>
         <div class="container{% if page.class %} {{ page.class }}{% endif %}">
-
-            {% if page.plain != true %}
-            <header>
+<header>
                 <div id="leader">
-                    <h1>
-                        <a href="{{ site.base }}/">{{ site.name }}</a>
-                    </h1>
-                    <address>
-                        <a href="http://www.cs.washington.edu">Computer
-                            Science &amp; Engineering</a>
-                        <a href="http://www.washington.edu">University of
-                            Washington</a>
-                    </address>
+                    <h1><a href="{{ site.base }}/">{{ site.name }}</a></h1>
                 </div>
-                <nav>
-                    {% assign shorturl = page.url | replace:'index.html','' %}
-                    {% for item in site.navigation %}
-                    <a
-                        {% if item.link == shorturl or (item.link == '/blog/' and page.date) %}
-                            class="active"
-                        {% endif %}
-                        href="{{ site.base }}{{ item.link }}">
-                        {{ item.title }}
-                    </a>
-                    {% endfor %}
-                </nav>
+                
             </header>
-            {% endif %}
-
+<div class="col-md-8" role="main">
             {{ content }}
-
+</div>
+            {% if page.plain != true %}
+            <div class="col-md-4">
+                    <nav class="tabbable tabs-right">
+                        {% assign shorturl = page.url | replace:'index.html','' %}
+                        {% for item in site.navigation %}
+                        <a class="nav nav-tabs"
+                            {% if item.link == shorturl or (item.link == '/blog/' and page.date) %}
+                                class="active"
+                            {% endif %}
+                            href="{{ site.base }}{{ item.link }}">
+                            {{ item.title }}
+                        </a>
+                        {% endfor %}
+                    </nav>
+                </div>
+            {% endif %}
         </div>
 
         {% if page.mathjax %}
