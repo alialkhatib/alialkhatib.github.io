@@ -20,7 +20,7 @@ This quarter I&#8217;ve been working with a small group of students, trying to g
 
 <div>
   <div class='p_embed p_image_embed'>
-    <a href="http://ali-alkhatib.com/content/Slide6.png.scaled.1000.jpg"><img /content/ alt="Slide6" height="281" src="http://ali-alkhatib.com/content/Slide6.png.scaled.1000-300x168.jpg" /></a>
+    <a href="http://ali-alkhatib.com/content/Slide6.png.scaled.1000.jpg"><img /content/ alt="Slide6"  src="http://ali-alkhatib.com/content/Slide6.png.scaled.1000-300x168.jpg" /></a>
   </div>
 </div>
 
@@ -30,7 +30,7 @@ This quarter I&#8217;ve been working with a small group of students, trying to g
 
 <div>
   <div class='p_embed p_image_embed'>
-    <a href="http://ali-alkhatib.com/content/Slide13.png.scaled.1000.jpg"><img /content/ alt="Slide13" height="281" src="http://ali-alkhatib.com/content/Slide13.png.scaled.1000-300x168.jpg" /></a>
+    <a href="http://ali-alkhatib.com/content/Slide13.png.scaled.1000.jpg"><img /content/ alt="Slide13"  src="http://ali-alkhatib.com/content/Slide13.png.scaled.1000-300x168.jpg" /></a>
   </div>
 </div>
 
@@ -40,7 +40,7 @@ This quarter I&#8217;ve been working with a small group of students, trying to g
 
 <div>
   <div class='p_embed p_image_embed'>
-    <a href="http://ali-alkhatib.com/content/Slide14.png.scaled.1000.jpg"><img /content/ alt="Slide14" height="281" src="http://ali-alkhatib.com/content/Slide14.png.scaled.1000-300x168.jpg" /></a>
+    <a href="http://ali-alkhatib.com/content/Slide14.png.scaled.1000.jpg"><img /content/ alt="Slide14"  src="http://ali-alkhatib.com/content/Slide14.png.scaled.1000-300x168.jpg" /></a>
   </div>
 </div>
 
@@ -54,7 +54,7 @@ This quarter I&#8217;ve been working with a small group of students, trying to g
 
 <div>
   <div class='p_embed p_image_embed'>
-    <a href="http://ali-alkhatib.com/content/transfer_presentation.png.scaled.1000.jpg"><img /content/ alt="Transfer_presentation" height="281" src="http://ali-alkhatib.com/content/transfer_presentation.png.scaled.1000-300x168.jpg" /></a>
+    <a href="http://ali-alkhatib.com/content/transfer_presentation.png.scaled.1000.jpg"><img /content/ alt="Transfer_presentation"  src="http://ali-alkhatib.com/content/transfer_presentation.png.scaled.1000-300x168.jpg" /></a>
   </div>
 </div>
 
