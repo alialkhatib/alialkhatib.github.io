@@ -10,7 +10,7 @@ categories:
   - Uncategorized
 ---
 <div class='p_embed p_image_embed'>
-  <a href="http://ali-alkhatib.com/blog/content/Screen_Shot_2012-12-17_at_12.2.png.scaled.1000.jpg"><img width="100%" alt="Screen_shot_2012-12-17_at_12" height="377" src="http://ali-alkhatib.com/blog/content/Screen_Shot_2012-12-17_at_12.2.png.scaled.1000-300x226.jpg" /></a>
+  <a href="http://ali-alkhatib.com/content/Screen_Shot_2012-12-17_at_12.2.png.scaled.1000.jpg"><img width="100%" alt="Screen_shot_2012-12-17_at_12" height="377" src="http://ali-alkhatib.com/content/Screen_Shot_2012-12-17_at_12.2.png.scaled.1000-300x226.jpg" /></a>
 </div>
 
 After looking at the blog, I realized I hadn&#8217;t posted a screenshot even vaguely resembling the current app. Here it is.
