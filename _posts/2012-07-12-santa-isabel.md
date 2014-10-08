@@ -1,5 +1,5 @@
 ---
-title: Santa Isabel. (7/01/2012)
+title: Santa Isabel.
 author: Ali
 layout: post
 posterous_aef3040f45df4620aa487475e2845672_post_id:

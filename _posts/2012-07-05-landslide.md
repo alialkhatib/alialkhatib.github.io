@@ -1,5 +1,5 @@
 ---
-title: Landslide. (7/05/2012)
+title: Landslide.
 author: Ali
 layout: post
 posterous_aef3040f45df4620aa487475e2845672_post_id:

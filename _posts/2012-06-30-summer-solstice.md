@@ -1,5 +1,5 @@
 ---
-title: Summer Solstice. (6/30/2012)
+title: Summer Solstice.
 author: Ali
 layout: post
 posterous_aef3040f45df4620aa487475e2845672_post_id:
