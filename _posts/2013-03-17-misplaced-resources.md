@@ -15,6 +15,6 @@ Every CS student who finally completes their derivative Othello/Reversi game is 
 
 In fact, maybe it stands a little higher than [graduate level work][1], apparently.
 
-<a href="http://ali-alkhatib.com/blog/wp-content/uploads/2013/03/Screen-Shot-2013-03-16-at-6.40.57-PM.png" rel="attachment wp-att-69"><img width="100%" src="http://ali-alkhatib.com/blog/wp-content/uploads/2013/03/Screen-Shot-2013-03-16-at-6.40.57-PM.png" alt="" title="screen-shot-2013-03-16-at-6-40-57-pm-png" class="alignnone size-full wp-image-69" /></a>
+<a href="http://ali-alkhatib.com/blog/content/Screen-Shot-2013-03-16-at-6.40.57-PM.png" rel="attachment wp-att-69"><img width="100%" src="http://ali-alkhatib.com/blog/content/Screen-Shot-2013-03-16-at-6.40.57-PM.png" alt="" title="screen-shot-2013-03-16-at-6-40-57-pm-png" class="alignnone size-full wp-image-69" /></a>
 
  [1]: http://www.theatlantic.com/magazine/archive/2012/12/the-data-vigilante/309172/

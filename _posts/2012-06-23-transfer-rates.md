@@ -20,7 +20,7 @@ This quarter I&#8217;ve been working with a small group of students, trying to g
 
 <div>
   <div class='p_embed p_image_embed'>
-    <a href="http://ali-alkhatib.com/blog/wp-content/uploads/2012/06/Slide6.png.scaled.1000.jpg"><img width="100%" alt="Slide6" height="281" src="http://ali-alkhatib.com/blog/wp-content/uploads/2012/06/Slide6.png.scaled.1000-300x168.jpg" /></a>
+    <a href="http://ali-alkhatib.com/blog/content/Slide6.png.scaled.1000.jpg"><img width="100%" alt="Slide6" height="281" src="http://ali-alkhatib.com/blog/content/Slide6.png.scaled.1000-300x168.jpg" /></a>
   </div>
 </div>
 
@@ -30,7 +30,7 @@ This quarter I&#8217;ve been working with a small group of students, trying to g
 
 <div>
   <div class='p_embed p_image_embed'>
-    <a href="http://ali-alkhatib.com/blog/wp-content/uploads/2012/06/Slide13.png.scaled.1000.jpg"><img width="100%" alt="Slide13" height="281" src="http://ali-alkhatib.com/blog/wp-content/uploads/2012/06/Slide13.png.scaled.1000-300x168.jpg" /></a>
+    <a href="http://ali-alkhatib.com/blog/content/Slide13.png.scaled.1000.jpg"><img width="100%" alt="Slide13" height="281" src="http://ali-alkhatib.com/blog/content/Slide13.png.scaled.1000-300x168.jpg" /></a>
   </div>
 </div>
 
@@ -40,7 +40,7 @@ This quarter I&#8217;ve been working with a small group of students, trying to g
 
 <div>
   <div class='p_embed p_image_embed'>
-    <a href="http://ali-alkhatib.com/blog/wp-content/uploads/2012/06/Slide14.png.scaled.1000.jpg"><img width="100%" alt="Slide14" height="281" src="http://ali-alkhatib.com/blog/wp-content/uploads/2012/06/Slide14.png.scaled.1000-300x168.jpg" /></a>
+    <a href="http://ali-alkhatib.com/blog/content/Slide14.png.scaled.1000.jpg"><img width="100%" alt="Slide14" height="281" src="http://ali-alkhatib.com/blog/content/Slide14.png.scaled.1000-300x168.jpg" /></a>
   </div>
 </div>
 
@@ -54,7 +54,7 @@ This quarter I&#8217;ve been working with a small group of students, trying to g
 
 <div>
   <div class='p_embed p_image_embed'>
-    <a href="http://ali-alkhatib.com/blog/wp-content/uploads/2012/06/transfer_presentation.png.scaled.1000.jpg"><img width="100%" alt="Transfer_presentation" height="281" src="http://ali-alkhatib.com/blog/wp-content/uploads/2012/06/transfer_presentation.png.scaled.1000-300x168.jpg" /></a>
+    <a href="http://ali-alkhatib.com/blog/content/transfer_presentation.png.scaled.1000.jpg"><img width="100%" alt="Transfer_presentation" height="281" src="http://ali-alkhatib.com/blog/content/transfer_presentation.png.scaled.1000-300x168.jpg" /></a>
   </div>
 </div>
 

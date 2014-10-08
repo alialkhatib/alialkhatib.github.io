@@ -12,7 +12,7 @@ categories:
 Good news: I&#8217;ve managed to pull the last tweets of people a user is following:
 
 <div class='p_embed p_image_embed'>
-  <a href="http://ali-alkhatib.com/blog/wp-content/uploads/2012/11/Screen_Shot_2012-11-13_at_12.39.46_AM.png.scaled1000.png"><img width="100%" alt="Screen_shot_2012-11-13_at_12" height="251" src="http://ali-alkhatib.com/blog/wp-content/uploads/2012/11/Screen_Shot_2012-11-13_at_12.39.46_AM.png.scaled1000-300x150.png" /></a>
+  <a href="http://ali-alkhatib.com/blog/content/Screen_Shot_2012-11-13_at_12.39.46_AM.png.scaled1000.png"><img width="100%" alt="Screen_shot_2012-11-13_at_12" height="251" src="http://ali-alkhatib.com/blog/content/Screen_Shot_2012-11-13_at_12.39.46_AM.png.scaled1000-300x150.png" /></a>
 </div>
 
 <div>
@@ -40,7 +40,7 @@ Good news: I&#8217;ve managed to pull the last tweets of people a user is follow
   
   <div>
     <div class='p_embed p_image_embed'>
-      <a href="http://ali-alkhatib.com/blog/wp-content/uploads/2012/11/Screen_Shot_2012-11-13_at_12.48.29_AM.png.scaled1000.png"><img width="100%" alt="Screen_shot_2012-11-13_at_12" height="582" src="http://ali-alkhatib.com/blog/wp-content/uploads/2012/11/Screen_Shot_2012-11-13_at_12.48.29_AM.png.scaled1000-257x300.png" /></a>
+      <a href="http://ali-alkhatib.com/blog/content/Screen_Shot_2012-11-13_at_12.48.29_AM.png.scaled1000.png"><img width="100%" alt="Screen_shot_2012-11-13_at_12" height="582" src="http://ali-alkhatib.com/blog/content/Screen_Shot_2012-11-13_at_12.48.29_AM.png.scaled1000-257x300.png" /></a>
     </div>
   </div>
   
@@ -50,7 +50,7 @@ Good news: I&#8217;ve managed to pull the last tweets of people a user is follow
   
   <div>
     <div class='p_embed p_image_embed'>
-      <a href="http://ali-alkhatib.com/blog/wp-content/uploads/2012/11/Screen_Shot_2012-11-13_at_1.08.37_AM.png.scaled1000.png"><img width="100%" alt="Screen_shot_2012-11-13_at_1" height="427" src="http://ali-alkhatib.com/blog/wp-content/uploads/2012/11/Screen_Shot_2012-11-13_at_1.08.37_AM.png.scaled1000-300x256.png" /></a>
+      <a href="http://ali-alkhatib.com/blog/content/Screen_Shot_2012-11-13_at_1.08.37_AM.png.scaled1000.png"><img width="100%" alt="Screen_shot_2012-11-13_at_1" height="427" src="http://ali-alkhatib.com/blog/content/Screen_Shot_2012-11-13_at_1.08.37_AM.png.scaled1000-300x256.png" /></a>
     </div>
   </div>
   

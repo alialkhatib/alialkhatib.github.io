@@ -13,4 +13,4 @@ This illustration is ugly as sin, but it&#8217;s illustrative of an interesting 
 
 A pretty picture will be forthcoming. I need to work on making this programmatic. Do I want to do it in R or Python? Input might be welcome.
 
-<a href="http://ali-alkhatib.com/blog/wp-content/uploads/2013/03/final.png" rel="attachment wp-att-87"><img width="100%" src="http://ali-alkhatib.com/blog/wp-content/uploads/2013/03/final.png" alt="" title="final-png" class="alignnone size-full wp-image-87" /></a>
+<a href="http://ali-alkhatib.com/blog/content/final.png" rel="attachment wp-att-87"><img width="100%" src="http://ali-alkhatib.com/blog/content/final.png" alt="" title="final-png" class="alignnone size-full wp-image-87" /></a>
