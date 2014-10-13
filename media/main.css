@@ -6250,7 +6250,7 @@ nav a.active:hover {
 @media (min-width: 768px) {
   nav {
     margin-top: 2em;
-    text-align: right;
+    text-align: left;
   }
 }
 .nav-tabs {
@@ -6266,10 +6266,6 @@ h6 {
 }
 #leader h1 {
   display: inline!important;
-}
-[role="main"] ul,
-[role="main"] ol {
-  margin-left: 2.5em;
 }
 #leader ul li,
 #leader ol li {
