@@ -5,15 +5,15 @@ layout: post
 categories:
   - Research
 ---
-Over the past several months I've been working on a project involving [Amazon Mechanical Turk](https://www.mturk.com) (henceforth AMT), a fascinating online labor market for "micro-labor". Some researchers have done the whole [crash course ethnographic thing][2], but for the most part research of online labor has taken a look from a step back (as [Horton][3], [Silberman et al.][4], and [others][5] have done).
+Over the past several months I've been working on a project involving [Amazon Mechanical Turk](https://www.mturk.com) (henceforth AMT), a fascinating online labor market for "micro-labor". Some researchers have done the whole [crash course ethnographic thing](http://www.cs.cmu.edu/~jbigham/posts/2014/half-workday-as-turker.html), but for the most part research of online labor has taken a look from a step back (as [Horton](http://john-joseph-horton.com/papers/online_labor_markets.pdf), [Silberman et al.](http://dl.acm.org/citation.cfm?id=1869100), and [others](http://john-joseph-horton.com/papers/futureofcrowdwork-cscw2013.pdf) have done).
 
-This project, resulting in a website called [Dynamo][6], has been intense, but enlightening. It's been a unique process going from iterating on a serious web project to thinking at a high level about the social significance of our design decisions and how to evoke the outcomes we want. In this case, the outcome we wanted was "collective action". By this I mean that we wanted to bring people together specifically to accomplish *something*. In some sense, we had no agenda because of this. In another sense, we absolutely had an ulterior motive, and a forceful one at that.
+This project, resulting in a website called [Dynamo](http://www.wearedynamo.org/), has been intense, but enlightening. It's been a unique process going from iterating on a serious web project to thinking at a high level about the social significance of our design decisions and how to evoke the outcomes we want. In this case, the outcome we wanted was "collective action". By this I mean that we wanted to bring people together specifically to accomplish *something*. In some sense, we had no agenda because of this. In another sense, we absolutely had an ulterior motive, and a forceful one at that.
 
 Our initial fieldwork results suggested that there were serious problems with AMT that desperately called for some collective action of some sort. Whether that be a union of Turkers, a labor strike, a letter-writing campaign, or whatever, we got the impression that Turkers were calling for *something*. Before you get ahead of yourself, I'll present a qualified view, not entirely dismissing this preconception but neither totally embracing it.
 
-Our first round of fieldwork suggested *really* strongly that there was a single actor in the AMT marketplace who was poisoning the well in some sense by putting out what Turkers call [penny HITs][7]. By itself, in a totally naive environment, this really wouldn't be that big a deal; he pays too little, some people aren't willing to do that much work for $0.25, but some people *are*, so those that are willing will do his work and those that are not will go do other tasks. Everyone wins (except the Turkers who do his work, but they're happy digging their grave. Or so the argument goes).
+Our first round of fieldwork suggested *really* strongly that there was a single actor in the AMT marketplace who was poisoning the well in some sense by putting out what Turkers call [penny HITs](#pennyHIT). By itself, in a totally naive environment, this really wouldn't be that big a deal; he pays too little, some people aren't willing to do that much work for $0.25, but some people *are*, so those that are willing will do his work and those that are not will go do other tasks. Everyone wins (except the Turkers who do his work, but they're happy digging their grave. Or so the argument goes).
 
-Not quite so. In practice, these [HITs][8] and others set a standard - a norm - in the marketplace, so that even academic researchers (whom we generally regard as being paragons of ethical behavior, justified or not) were paying workers poorly; the market had become one for [lemons][9].
+Not quite so. In practice, these [HITs](#HIT) and others set a standard - a norm - in the marketplace, so that even academic researchers (whom we generally regard as being paragons of ethical behavior, justified or not) were paying workers poorly; the market had become one for [lemons](http://www.iei.liu.se/nek/730g83/artiklar/1.328833/AkerlofMarketforLemons.pdf).
 
 So we thought that a demonstration for this and other HIT requesters would give them the necessary push to show that  
 
@@ -39,12 +39,3 @@ Now that we've submitted our paper to a conference (deadline was on my birthday,
 
 *   <a name="HIT"></a>HIT: Human Intelligence Task (essentially, a work task) 
 *   <a name="pennyHIT"></a>penny HIT: A cheap HIT, often one not worth the time to complete it. For example, a HIT that pays $1 for 5 minutes of work does not seem to be considered a "penny HIT", but a $1 HIT that takes 10 or 20 minutes to complete would fall squarely into "penny HIT" category
-
- [2]: http://www.cs.cmu.edu/~jbigham/posts/2014/half-workday-as-turker.html
- [3]: http://john-joseph-horton.com/papers/online_labor_markets.pdf
- [4]: http://dl.acm.org/citation.cfm?id=1869100
- [5]: http://john-joseph-horton.com/papers/futureofcrowdwork-cscw2013.pdf
- [6]: http://www.wearedynamo.org/
- [7]: #pennyHIT
- [8]: #HIT
- [9]: http://www.iei.liu.se/nek/730g83/artiklar/1.328833/AkerlofMarketforLemons.pdf
