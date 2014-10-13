@@ -2,12 +2,6 @@
 title: Crime Rates
 author: Ali
 layout: post
-posterous_aef3040f45df4620aa487475e2845672_post_id:
-  - 139581040
-posterous_aef3040f45df4620aa487475e2845672_permalink:
-  - http://ali-alkhatib.posterous.com/crime-rates
-categories:
-  - Uncategorized
 tags:
   - Crime Rates
   - Free Time
@@ -20,7 +14,7 @@ Actually, come to think of it, we see a bit of a spike in crimes around 8pm, 12p
 
 I've done some other data visualization stuff with R, a little bit of Photoshop and Illustrator, and lots of frustrated tinkering, but it falls into the "neat, but so what?" bin:
 
-![crime plotted](http://ali-alkhatib.com/content/1.png.scaled.1000-300x241.jpg)
+![crime plotted](http://ali-alkhatib.com/content/1.png.scaled.1000.jpg)
 
 and
 
