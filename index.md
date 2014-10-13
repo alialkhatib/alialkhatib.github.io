@@ -6,18 +6,15 @@ Hi, that's me.
 I'm a PhD student in the Computer Science department at Stanford University.
 I'm a part of the HCI group.
 
-Previously I was at [UC Irvine](http://www.uci.edu/), where I earned my B.A. in 
-[Anthropology](//en.wikipedia.org/wiki/Anthropology) 
-& B.S. in [Informatics](//en.wikipedia.org/wiki/Informatics_(academic_field)), 
-specializing in [Human-Computer Interaction](http://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction).
+Previously I was at UC Irvine, where I earned my B.A. in Anthropology & B.S. in Informatics, specializing in Human-Computer Interaction.
 
 I tend to work with
 
-- Web languages like HTML, CSS, JS, & PHP/SQL
-- General-purpose (often OOP) languages like Python & Java
-- Ethnographic methods
-- Statistics (some R)
-- And a few hipster-y languages probably not ready for prime time
+    Web languages like HTML, CSS, JS, & PHP/SQL
+    General-purpose (often OOP) languages like Python & Java
+    Ethnographic methods
+    Statistics (some R)
+    And a few hipster-y languages probably not ready for prime time
 
 but I'm always interested in new languages, approaches, and tools.
 
