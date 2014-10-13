@@ -6267,13 +6267,22 @@ h6 {
 #leader h1 {
   display: inline!important;
 }
-[role="main"] ul,
-[role="main"] ol {
+ul,
+ol {
   margin-left: 2.5em!important;
+}
+#leader ul {
+  margin-left: 0;
 }
 #leader ul li,
 #leader ol li {
   padding-left: 0;
+}
+#leader ul li ul,
+#leader ol li ul,
+#leader ul li ol,
+#leader ol li ol {
+  margin-left: 0;
 }
 ul,
 ol {
