@@ -5,7 +5,7 @@ layout: post
 categories:
   - Uncategorized
 ---
-In a post on Techcrunch a few days ago [Michael Arrington posted][1] his epiphanous realization that posting content to Twitter that gets auto-posted to Facebook garners less feedback on Facebook.
+In a post on Techcrunch a few days ago [Michael Arrington posted](http://techcrunch.com/2013/03/03/if-youre-worried-about-likes-avoid-posting-to-facebook-from-twitter/) his epiphanous realization that posting content to Twitter that gets auto-posted to Facebook garners less feedback on Facebook.
 
 Um, duh?
 
@@ -23,8 +23,4 @@ So yes, these things matter. Your perceptions and expectations of feedback on po
 
 [I didn't really take much offense or disdain for anything Arrington brought up, except for the obviousness of his observation; I just found this point interesting and wanted to raise it formally.]
 
-You can find me on Twitter at [@alialkhatib_][2]; Facebook at [/Ali.Alkhatib][3]; and I'm somewhere between the two.
-
- [1]: http://techcrunch.com/2013/03/03/if-youre-worried-about-likes-avoid-posting-to-facebook-from-twitter/
- [2]: https://twitter.com/alialkhatib_
- [3]: https://www.facebook.com/Ali.Alkhatib
+You can find me on Twitter at [@alialkhatib_](https://twitter.com/alialkhatib_); Facebook at [/Ali.Alkhatib](https://www.facebook.com/Ali.Alkhatib); and I'm somewhere between the two.

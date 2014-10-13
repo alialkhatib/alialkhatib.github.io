@@ -9,8 +9,8 @@ When I started working on grad school apps I found myself using a lot of the sam
 
 Anyway, this poses a problem because I don't want to come off as lazy and repetitive, so I started thinking about ways I could solve that problem. This posed some challenges:
 
-1.  I *am* lazy. Everyone is. I defy you to prove me wrong, which you won't do because it would take too much effort. Lazy*.
-2.  I was on a bit of a deadline; I couldn't necessarily acquire a vocabulary of significantly greater size than the one I already had in my head (and to be honest, I don't think that's the problem as much as it is that certain words sort of bubble to the top of my head, and those form a sort of go-to vocabulary list of "Ali's favorite words").
+1. I *am* lazy. Everyone is. I defy you to prove me wrong, which you won't do because it would take too much effort. Lazy*.
+2. I was on a bit of a deadline; I couldn't necessarily acquire a vocabulary of significantly greater size than the one I already had in my head (and to be honest, I don't think that's the problem as much as it is that certain words sort of bubble to the top of my head, and those form a sort of go-to vocabulary list of "Ali's favorite words").
 
 So I needed something that could do the checking for me, would be consistent and fair, and didn't mind doing some extra work *at all*. Often this would fall to a friend (or an acquaintance) who would review writing for me. I had considered asking some friends (and did at one point!) but I needed friends who could be as obsessive as me. That's a tall order.
 
@@ -18,8 +18,8 @@ So I thought about using something like Mechanical Turk. I don't know if you've 
 
 ## something
 
-I'll cut to the chase: I wrote a little web app in Javascript - a language I *mostly* learned last quarter (but had been hacking around with since last year) to identify and highlight words I was using too often. You can play with it [here][1].  
-![screenshot of highlighty][2]
+I'll cut to the chase: I wrote a little web app in Javascript - a language I *mostly* learned last quarter (but had been hacking around with since last year) to identify and highlight words I was using too often. You can play with it [here](http://ali-alkhatib.com/projects/highlighty).  
+![screenshot of highlighty](http://ali-alkhatib.com/projects/highlighty/thumb.png)
 
 It's still very much in progress, but I like the general thrust of its outcome. There are still some things I'd really like it to do:
 
@@ -28,7 +28,7 @@ It's still very much in progress, but I like the general thrust of its outcome. 
 *   stemming - I know, it doesn't do this and that's kind of a big deal.
 *   phrase-finding - while using the word "precipitate" (or various tenses of it) is itself kind of bad, I'd be *seriously* alarmed if the entire phrase "precipitated this outcome" showed up even twice. I want to spot those phrases and bring **those** to the attention of a writer right away. That example would require 3-gram analysis, but this script only deals with 1-grams. Obviously, I'd want to go up as high as 5-gram or more (dependent on how intensive this is on the processor (partly dependent on how efficiently I code it)).
 
-This has been kind of an interesting endeavor, not the least of which because it substantively took away from time I should have spent working on my last grad app (due January 1st), but also because it turned out I would be writing a text analysis engine in [an Informatics course this quarter][3].
+This has been kind of an interesting endeavor, not the least of which because it substantively took away from time I should have spent working on my last grad app (due January 1st), but also because it turned out I would be writing a text analysis engine in [an Informatics course this quarter](http://www.ics.uci.edu/~djp3/classes/2014_01_INF141/structure.html).
 
 ## Long term
 
@@ -37,7 +37,3 @@ I'll be putting this project on Github at some point when it's slightly more fle
 ## Other things
 
 I need to write a post about the workload I've unwisely taken on. Long story short, it's 33 units and weirdly I feel fine. Then again, we're still just wrapping up week 1, so I'll have to rethink this entire post in 5-6 weeks :)
-
- [1]: http://ali-alkhatib.com/projects/highlighty
- [2]: http://ali-alkhatib.com/projects/highlighty/thumb.png
- [3]: http://www.ics.uci.edu/~djp3/classes/2014_01_INF141/structure.html

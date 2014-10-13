@@ -13,8 +13,6 @@ And I find myself tweaking my stupid simple site so much that you'd really think
 
 Every CS student who finally completes their derivative Othello/Reversi game is unbelievably proud of themselves after finishing it, and I'm no different. Look at it, isn't it great? I don't care that the new game dialog window persists when you start the game. I'm pretty sure that like 10% of the class cheated so the fact that I have an academically honest, fully functional program seems like grad student level work.
 
-In fact, maybe it stands a little higher than [graduate level work][1], apparently.
+In fact, maybe it stands a little higher than [graduate level work](http://www.theatlantic.com/magazine/archive/2012/12/the-data-vigilante/309172/), apparently.
 
-<a href="http://ali-alkhatib.com/content/Screen-Shot-2013-03-16-at-6.40.57-PM.png" rel="attachment wp-att-69"><imgsrc="http://ali-alkhatib.com/content/Screen-Shot-2013-03-16-at-6.40.57-PM.png" alt="" title="screen-shot-2013-03-16-at-6-40-57-pm-png" class="alignnone size-full wp-image-69" /></a>
-
- [1]: http://www.theatlantic.com/magazine/archive/2012/12/the-data-vigilante/309172/
+![](/content/Screen-Shot-2013-03-16-at-6.40.57-PM.png)
