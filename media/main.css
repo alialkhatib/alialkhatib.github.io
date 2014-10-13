@@ -6267,6 +6267,10 @@ h6 {
 #leader h1 {
   display: inline!important;
 }
+[data-role="main"] ul,
+[data-role="main"] ol {
+  margin-left: 2em;
+}
 #leader ul li,
 #leader ol li {
   padding-left: 0;
