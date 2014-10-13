@@ -5,7 +5,7 @@ layout: post
 categories:
   - Research
 ---
-Over the past several months I've been working on a project involving [Amazon Mechanical Turk][https://www.mturk.com] (henceforth AMT), a fascinating online labor market for "micro-labor". Some researchers have done the whole [crash course ethnographic thing][2], but for the most part research of online labor has taken a look from a step back (as [Horton][3], [Silberman et al.][4], and [others][5] have done).
+Over the past several months I've been working on a project involving [Amazon Mechanical Turk](https://www.mturk.com) (henceforth AMT), a fascinating online labor market for "micro-labor". Some researchers have done the whole [crash course ethnographic thing][2], but for the most part research of online labor has taken a look from a step back (as [Horton][3], [Silberman et al.][4], and [others][5] have done).
 
 This project, resulting in a website called [Dynamo][6], has been intense, but enlightening. It's been a unique process going from iterating on a serious web project to thinking at a high level about the social significance of our design decisions and how to evoke the outcomes we want. In this case, the outcome we wanted was "collective action". By this I mean that we wanted to bring people together specifically to accomplish *something*. In some sense, we had no agenda because of this. In another sense, we absolutely had an ulterior motive, and a forceful one at that.
 
