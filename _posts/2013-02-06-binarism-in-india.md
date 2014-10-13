@@ -11,8 +11,6 @@ categories:
 tags:
   - India
 ---
-*This post has been updated since I use Markdown parsing for blog posts now*
-
 Over the past several weeks I've been reading articles and books describing the relationship between Colonial Britain and India during the 19th and 20th centuries. In all of these readings, I've noticed a thread that seems to connect every anecdote and interaction between the West and the "other" from then until now: The "West", assured of its own superiority and set in its views about what is “good” versus “bad”, imposed its binary paradigm on India in an effort both to pigeonhole Indian culture but also to reckon with the subtle, sometimes confusing, often contradictory aspects of Indian culture.
 
 This got me thinking... Can we see this up/down-forcing mindset play out in other ways in India? Can we see them play out in more than just Indian culture? I'm pretty sure the case could be made. Whether we look at the World Bank's approach with "development" in Lesotho or discourse about caste society, we see ripples of Western paradigms echo across the backdrop of day-to-day lives. And not just the day-to-day lives of people thousands of miles away, but here in California and elsewhere.
