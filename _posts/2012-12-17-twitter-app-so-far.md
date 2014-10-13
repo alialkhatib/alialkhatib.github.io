@@ -3,14 +3,14 @@ title: Twitter App so far
 author: Ali
 layout: post
 posterous_aef3040f45df4620aa487475e2845672_post_id:
-  - 172183557
+- 172183557
 posterous_aef3040f45df4620aa487475e2845672_permalink:
-  - http://ali-alkhatib.posterous.com/twitter-app-so-far
+- http://ali-alkhatib.posterous.com/twitter-app-so-far
 categories:
-  - Uncategorized
+- Uncategorized
 ---
-<div class='p_embed p_image_embed'>
-  <a href="http://ali-alkhatib.com/content/Screen_Shot_2012-12-17_at_12.2.png.scaled.1000.jpg"><img alt="Screen_shot_2012-12-17_at_12"  src="http://ali-alkhatib.com/content/Screen_Shot_2012-12-17_at_12.2.png.scaled.1000-300x226.jpg" /></a>
-</div>
+
+![image](/content/Screen_Shot_2012-12-17_at_12.2.png.scaled.1000.jpg)
+
 
 After looking at the blog, I realized I hadn't posted a screenshot even vaguely resembling the current app. Here it is.

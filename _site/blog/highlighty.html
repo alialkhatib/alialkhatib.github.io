@@ -7,7 +7,7 @@
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+        <!-- <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"> -->
         <!-- <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'> -->
         <!-- <link href='http://fonts.googleapis.com/css?family=PT+Sans:400' rel='stylesheet' type='text/css'> -->
         <link rel="stylesheet" href="http://ali-alkhatib.com/media/main.css">
@@ -64,16 +64,16 @@
 
 <h2>something</h2>
 
-<p>I&rsquo;ll cut to the chase: I wrote a little web app in Javascript &ndash; a language I <em>mostly</em> learned last quarter (but had been hacking around with since last year) to identify and highlight words I was using too often. You can play with it <a href="http://ali-alkhatib.com/projects/highlighty">here</a>.<br />
+<p>I&rsquo;ll cut to the chase: I wrote a little web app in Javascript - a language I <em>mostly</em> learned last quarter (but had been hacking around with since last year) to identify and highlight words I was using too often. You can play with it <a href="http://ali-alkhatib.com/projects/highlighty">here</a>.<br />
 <img src="http://ali-alkhatib.com/projects/highlighty/thumb.png" alt="screenshot of highlighty" /></p>
 
 <p>It&rsquo;s still very much in progress, but I like the general thrust of its outcome. There are still some things I&rsquo;d really like it to do:</p>
 
 <ul>
   <li>compare word usage against Google 1-grams (and maybe arbitrary n-grams?) for commonness (&ldquo;of&rdquo; is a naturally common word, so it shouldn&rsquo;t skew results if it shows up a lot in my writing)</li>
-  <li>overlapping UI &ndash; I originally thought it&rsquo;d be nice if writing in Google Drive could be augmented by this, but as it turns out the implementation for that is somewhat clunky and heavy. I don&rsquo;t mind doing it, I just want to come up with a cleverer solution first. As an extended example, the highlighting feature in Facebook when you @link someone&rsquo;s name (and it provides you with a blue background around the name itself) is a good illustration of what I&rsquo;d someday like to see (variable levels of red highlighting the text in the textbox into which you&rsquo;re typing).</li>
-  <li>stemming &ndash; I know, it doesn&rsquo;t do this and that&rsquo;s kind of a big deal.</li>
-  <li>phrase-finding &ndash; while using the word &ldquo;precipitate&rdquo; (or various tenses of it) is itself kind of bad, I&rsquo;d be <em>seriously</em> alarmed if the entire phrase &ldquo;precipitated this outcome&rdquo; showed up even twice. I want to spot those phrases and bring <strong>those</strong> to the attention of a writer right away. That example would require 3-gram analysis, but this script only deals with 1-grams. Obviously, I&rsquo;d want to go up as high as 5-gram or more (dependent on how intensive this is on the processor (partly dependent on how efficiently I code it)).</li>
+  <li>overlapping UI - I originally thought it&rsquo;d be nice if writing in Google Drive could be augmented by this, but as it turns out the implementation for that is somewhat clunky and heavy. I don&rsquo;t mind doing it, I just want to come up with a cleverer solution first. As an extended example, the highlighting feature in Facebook when you @link someone&rsquo;s name (and it provides you with a blue background around the name itself) is a good illustration of what I&rsquo;d someday like to see (variable levels of red highlighting the text in the textbox into which you&rsquo;re typing).</li>
+  <li>stemming - I know, it doesn&rsquo;t do this and that&rsquo;s kind of a big deal.</li>
+  <li>phrase-finding - while using the word &ldquo;precipitate&rdquo; (or various tenses of it) is itself kind of bad, I&rsquo;d be <em>seriously</em> alarmed if the entire phrase &ldquo;precipitated this outcome&rdquo; showed up even twice. I want to spot those phrases and bring <strong>those</strong> to the attention of a writer right away. That example would require 3-gram analysis, but this script only deals with 1-grams. Obviously, I&rsquo;d want to go up as high as 5-gram or more (dependent on how intensive this is on the processor (partly dependent on how efficiently I code it)).</li>
 </ul>
 
 <p>This has been kind of an interesting endeavor, not the least of which because it substantively took away from time I should have spent working on my last grad app (due January 1st), but also because it turned out I would be writing a text analysis engine in <a href="http://www.ics.uci.edu/~djp3/classes/2014_01_INF141/structure.html">an Informatics course this quarter</a>.</p>

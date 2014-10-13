@@ -1,5 +1,5 @@
 ---
-title: '"If it were anyone else, I'd call you nuts..."'
+title: "\"If it were anyone else, I'd call you nuts...\""
 author: Ali
 layout: post
 categories:

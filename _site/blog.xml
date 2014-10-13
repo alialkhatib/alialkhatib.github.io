@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ali-alkhatib.com//</id>
   <title>Ali Alkhatib</title>
-  <updated>2014-10-12T17:52:53-07:00</updated>
+  <updated>2014-10-12T20:42:01-07:00</updated>
   <link rel="alternate" href="http://ali-alkhatib.com/"/>
   <link rel="self" href="http://ali-alkhatib.com/blog.xml"/>
   <author>
@@ -10,6 +10,68 @@
     <uri>http://ali-alkhatib.com/</uri>
   </author>
   
+  
+  <entry>
+    
+    <id>http://ali-alkhatib.com/blog/2014-10-12-markdown-extension-regex.html</id>
+    
+    <title type="html">Markdown Extension Regex</title>
+    <updated>2014-10-12T20:23:40-07:00</updated>
+    <link rel="alternate" href="http://ali-alkhatib.com/blog/2014-10-12-markdown-extension-regex.html"/>
+    <content type="html">&lt;p&gt;First, the part you probably care about:&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/alialkhatib/fa11e17f385db6970cc3.js&quot;&gt; &lt;/script&gt;
+
+&lt;p&gt;Okay, let&amp;rsquo;s begin&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Recently I was avoiding some work with a personal project and I realized that I needed to find all of the Markdown files in a directory. I use &lt;code&gt;.md&lt;/code&gt; consistently in my own projects, but I&amp;rsquo;m sure in collaborative settings (or indeed across projects) the file extension differs significantly. Indeed, &lt;a href=&quot;http://superuser.com/questions/249436/file-extension-for-markdown-files&quot;&gt;this StackOverflow question&lt;/a&gt; suggested half a dozen file extensions.&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;rsquo;t do much looking (and in hindsight, I should do that at some point to check my answer) before I decided to write up the pattern for a Markdown extension myself based on the accepted answer. I could (perhaps should) have used the canonical Markdown source on what extensions should be used, but&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;That made for a less interesting challenge (I&amp;rsquo;ll explain in the next line)&lt;/li&gt;
+  &lt;li&gt;I wasn&amp;rsquo;t adhering to that prescription anyway (nor was most of Github - a cursory search (another thing I should revisit later) yields relatively few &lt;code&gt;.markdown&lt;/code&gt; extension files in favor of &lt;code&gt;.md&lt;/code&gt; even accounting somewhat for the bias Github creates by creating &lt;code&gt;readme.md&lt;/code&gt; files - again, I should come back to this later)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I think it&amp;rsquo;s a fairly simple pattern as far as regex goes, but that speaks more to how bizarre regex naturally looks than anything else. Walking through it can be difficult, but I find it&amp;rsquo;s easiest to read it from the outside inward, like peeling an onion.&lt;/p&gt;
+
+&lt;p&gt;If you want to cry while reading regex patterns, that&amp;rsquo;s fine too. Let&amp;rsquo;s begin:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;.*\.&lt;/code&gt;&amp;hellip;&lt;code&gt;$&lt;/code&gt;: These are sort of loose ends, so they&amp;rsquo;ll go together, but they serve a single purpose together. &lt;code&gt;.*\.&lt;/code&gt; means &amp;ldquo;I&amp;rsquo;m looking for &lt;em&gt;any&lt;/em&gt; character in any length (including zero characters) followed by a litteral &lt;code&gt;.&lt;/code&gt;&amp;rdquo; (hence the backslash). &lt;code&gt;$&lt;/code&gt; is a regex special character meaning &amp;ldquo;end of string&amp;rdquo;. It might be unique in Python&amp;rsquo;s implementation of regex (although I doubt it) that in &lt;em&gt;multiline&lt;/em&gt; strings, &lt;code&gt;$&lt;/code&gt; means &amp;ldquo;end of line&amp;rdquo;. Worth knowing, and as an aside if you want to search multiple lines there&amp;rsquo;s &lt;a href=&quot;https://docs.python.org/3.4/library/re.html#re.M&quot;&gt;a way to do that&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;(m&lt;/code&gt;&amp;hellip;&lt;code&gt;|text)&lt;/code&gt; - this means &amp;ldquo;I&amp;rsquo;m either looking for &lt;code&gt;m&lt;/code&gt;+whatever weird extras I ask for, or &lt;code&gt;text&lt;/code&gt;&amp;rdquo;&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;(?:&lt;/code&gt;&amp;hellip;&lt;code&gt;)&lt;/code&gt; - given the previous option (between &lt;code&gt;m&lt;/code&gt; and &lt;code&gt;text&lt;/code&gt;), if we&amp;rsquo;re going down the &lt;code&gt;m&lt;/code&gt; path then you need to find something matching in this group. The &lt;code&gt;?:&lt;/code&gt; modifier tells the engine not to capture it as its own &amp;ldquo;group&amp;rdquo;. As far as I can tell, this isn&amp;rsquo;t really that important except that retaining groups from these little bits and pieces is unnecessary, so why bother?&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;d&lt;/code&gt;&amp;hellip;&lt;code&gt;|arkdown|kdn?&lt;/code&gt; - I&amp;rsquo;m lumping things together so this post doesn&amp;rsquo;t go forever. I&amp;rsquo;m either looking for &lt;code&gt;d&lt;/code&gt; or &lt;code&gt;arkdown&lt;/code&gt; (forming &lt;code&gt;markdown&lt;/code&gt;, thanks to that previous &lt;code&gt;m&lt;/code&gt;), or &lt;code&gt;kdn&lt;/code&gt; (again, forming &lt;code&gt;mkdn&lt;/code&gt;). Here it&amp;rsquo;s becoming clearer to me that we could&amp;rsquo;ve made this slightly more concise. I might revisit it later.&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;(?:te?xt|o?wn)?&lt;/code&gt; - this is one of those mistakes you know you&amp;rsquo;re making in the moment but can&amp;rsquo;t help but make anyway; like all decisions one makes while drunk (except I wasn&amp;rsquo;t drunk while writing this, which would be a convenient excuse) - I&amp;rsquo;m looking not to capture (&lt;code&gt;?:&lt;/code&gt;) either &lt;code&gt;txt&lt;/code&gt; with an optional &lt;code&gt;e&lt;/code&gt; &lt;em&gt;or&lt;/em&gt; an optional &lt;code&gt;o&lt;/code&gt; followed by &lt;code&gt;wn&lt;/code&gt;. All of this is optional. This can result in patterns like &lt;code&gt;mdtxt&lt;/code&gt;, &lt;code&gt;mdtext&lt;/code&gt;, &lt;code&gt;mdwn&lt;/code&gt;, &lt;code&gt;mdown&lt;/code&gt;, or simply &lt;code&gt;md&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So that&amp;rsquo;s it. I might revisit the &lt;code&gt;arkdown&lt;/code&gt; cop-out later, since I&amp;rsquo;m sure there must be some clever way to integrate that in the existing pattern, but it&amp;rsquo;s worth pointing out that you could solve this problem another way, much more legibly, in Python:&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/alialkhatib/aef135321ad92e3328fd.js&quot;&gt; &lt;/script&gt;
+
+&lt;p&gt;The advantage of this is that it&amp;rsquo;s about a million times more readable. We&amp;rsquo;re looking for any of the things in the list at the top, which we can read and edit much more easily.&lt;/p&gt;
+
+&lt;p&gt;An hour wasted writing this post? Maybe. Let me know if this post helped, made you laugh, or inspired you in some way.&lt;/p&gt;
+</content>
+    <summary type="html">&lt;p&gt;First, the part you probably care about:&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/alialkhatib/fa11e17f385db6970cc3.js&quot;&gt; &lt;/script&gt;
+
+</summary>
+  </entry>
+  
+  <entry>
+    
+    <id>http://ali-alkhatib.com/blog/2014-10-13-change.org.html</id>
+    
+    <title type="html">change.org</title>
+    <updated>2014-10-10T16:40:02-07:00</updated>
+    <link rel="alternate" href="http://ali-alkhatib.com/blog/2014-10-13-change.org.html"/>
+    <content type="html">
+</content>
+    <summary type="html">
+</summary>
+  </entry>
   
   <entry>
     
@@ -60,7 +122,7 @@
     <title type="html">Online labor markets and the failure to compete</title>
     <updated>2014-09-25T00:00:00-07:00</updated>
     <link rel="alternate" href="http://ali-alkhatib.com/blog/online-labor-markets-and-the-failure-to-compete.html"/>
-    <content type="html">&lt;p&gt;Over the past several months I&amp;rsquo;ve been working on a project involving &lt;a href=&quot;https://www.mturk.com&quot;&gt;Amazon Mechanical Turk&lt;/a&gt; (henceforth AMT), a fascinating online labor market for &amp;ldquo;micro-labor&amp;rdquo;. Some researchers have done the whole &lt;a href=&quot;http://www.cs.cmu.edu/~jbigham/posts/2014/half-workday-as-turker.html&quot;&gt;crash course ethnographic thing&lt;/a&gt;, but for the most part research of online labor has taken a look from a step back (as &lt;a href=&quot;http://john-joseph-horton.com/papers/online_labor_markets.pdf&quot;&gt;Horton&lt;/a&gt;, &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1869100&quot;&gt;Silberman et al.&lt;/a&gt;, and &lt;a href=&quot;http://john-joseph-horton.com/papers/futureofcrowdwork-cscw2013.pdf&quot;&gt;others&lt;/a&gt; have done).&lt;/p&gt;
+    <content type="html">&lt;p&gt;Over the past several months I&amp;rsquo;ve been working on a project involving [Amazon Mechanical Turk][https://www.mturk.com] (henceforth AMT), a fascinating online labor market for &amp;ldquo;micro-labor&amp;rdquo;. Some researchers have done the whole &lt;a href=&quot;http://www.cs.cmu.edu/~jbigham/posts/2014/half-workday-as-turker.html&quot;&gt;crash course ethnographic thing&lt;/a&gt;, but for the most part research of online labor has taken a look from a step back (as &lt;a href=&quot;http://john-joseph-horton.com/papers/online_labor_markets.pdf&quot;&gt;Horton&lt;/a&gt;, &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1869100&quot;&gt;Silberman et al.&lt;/a&gt;, and &lt;a href=&quot;http://john-joseph-horton.com/papers/futureofcrowdwork-cscw2013.pdf&quot;&gt;others&lt;/a&gt; have done).&lt;/p&gt;
 
 &lt;p&gt;This project, resulting in a website called &lt;a href=&quot;http://www.wearedynamo.org/&quot;&gt;Dynamo&lt;/a&gt;, has been intense, but enlightening. It&amp;rsquo;s been a unique process going from iterating on a serious web project to thinking at a high level about the social significance of our design decisions and how to evoke the outcomes we want. In this case, the outcome we wanted was &amp;ldquo;collective action&amp;rdquo;. By this I mean that we wanted to bring people together specifically to accomplish &lt;em&gt;something&lt;/em&gt;. In some sense, we had no agenda because of this. In another sense, we absolutely had an ulterior motive, and a forceful one at that.&lt;/p&gt;
 
@@ -102,39 +164,7 @@
 &lt;/ul&gt;
 
 </content>
-    <summary type="html">&lt;p&gt;Over the past several months I&amp;rsquo;ve been working on a project involving [Amazon Mechanical Turk][1] (henceforth AMT), a fascinating online labor market for &amp;ldquo;micro-labor&amp;rdquo;. Some researchers have done the whole [crash course ethnographic thing][2], but for the most part research of online labor has taken a look from a step back (as [Horton][3], [Silberman et al.][4], and [others][5] have done).&lt;/p&gt;
-
-</summary>
-  </entry>
-  
-  <entry>
-    
-    <id>http://ali-alkhatib.com/blog/qs-thesis-finally.html</id>
-    
-    <title type="html">QS Thesis (finally)</title>
-    <updated>2014-07-20T00:00:00-07:00</updated>
-    <link rel="alternate" href="http://ali-alkhatib.com/blog/qs-thesis-finally.html"/>
-    <content type="html">&lt;p&gt;After getting some feedback from my advisor I&amp;rsquo;m pretty sure I&amp;rsquo;m ready to put this out there&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;Take a look at my &lt;a href=&quot;http://ali-alkhatib.com/presentations/QSThesisFinal.pdf&quot;&gt;Quantified Self thesis&lt;/a&gt;, which I completed as part of the honors program in Anthropology at UC Irvine&lt;/p&gt;
-
-</content>
-    <summary type="html">&lt;p&gt;After getting some feedback from my advisor I&amp;rsquo;m pretty sure I&amp;rsquo;m ready to put this out there&amp;hellip;&lt;/p&gt;
-
-</summary>
-  </entry>
-  
-  <entry>
-    
-    <id>http://ali-alkhatib.com/blog/quantified-self.html</id>
-    
-    <title type="html">Quantified Self</title>
-    <updated>2014-05-20T00:00:00-07:00</updated>
-    <link rel="alternate" href="http://ali-alkhatib.com/blog/quantified-self.html"/>
-    <content type="html">&lt;p&gt;For the past year I&amp;rsquo;ve been studying the culture of Quantified Self. Last weekend I gave a talk on the research at the &lt;a href=&quot;http://www.urop.uci.edu/symposium.html&quot;&gt;Undergraduate Research Opportunities Program Symposium&lt;/a&gt;, and in the spirit of QS culture (especially with regard to open access to data, etc&amp;hellip;) I thought I&amp;rsquo;d post the presentation. The PowerPoint is &lt;a href=&quot;/presentations/QS.ppt&quot;&gt;here&lt;/a&gt; (warning: 12.9 MB). Alternatively, you can download a PDF &lt;a href=&quot;/presentations/QS.pdf&quot;&gt;here&lt;/a&gt; (9.8 MB).&lt;/p&gt;
-
-</content>
-    <summary type="html">&lt;p&gt;For the past year I&amp;rsquo;ve been studying the culture of Quantified Self. Last weekend I gave a talk on the research at the [Undergraduate Research Opportunities Program Symposium][1], and in the spirit of QS culture (especially with regard to open access to data, etc&amp;hellip;) I thought I&amp;rsquo;d post the presentation. The PowerPoint is [here][2] (warning: 12.9 MB). Alternatively, you can download a PDF [here][3] (9.8 MB).&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Over the past several months I&amp;rsquo;ve been working on a project involving [Amazon Mechanical Turk][https://www.mturk.com] (henceforth AMT), a fascinating online labor market for &amp;ldquo;micro-labor&amp;rdquo;. Some researchers have done the whole [crash course ethnographic thing][2], but for the most part research of online labor has taken a look from a step back (as [Horton][3], [Silberman et al.][4], and [others][5] have done).&lt;/p&gt;
 
 </summary>
   </entry>

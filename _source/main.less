@@ -1,4 +1,5 @@
 @import "../bower_components/bootstrap/less/bootstrap.less";
+@import url(http://reset5.googlecode.com/hg/reset.min.css);
 
 // Bootstrap customization.
 // Narrow, centered page content even on large screen sizes.
@@ -87,18 +88,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 // Lists.
-ul {
-    // list-style: square;
-}
+// ul {
+//     list-style-type:disc;
+// }
+// ol {
+//     list-style-type:decimal;
+// }
+
 #leader ul li,#leader ol li {
     padding-left: 0;
     ul, ol {
-        // padding-left: 1em;
+        
     }
 }
-ul li, ol li {
-    // margin: 0.8em 0;
-    padding-left:2em;
+ul, ol {
+    margin: 0.2em 0;
     ul li {
         // Second level is more compact.
         margin: 0;
