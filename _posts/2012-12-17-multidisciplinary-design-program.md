@@ -38,7 +38,7 @@ With the Fall quarter finally over, I find I actually have time to blog. Great. 
   <p />
   
   <div>
-    It would be even more ideal if the two departments involved were Informatics and <i>Anthropology</i> (rather than Planning, Policy, & Design &#8211; in the school of Social Ecology), but seeing as there were <b>no</b> MDP projects involving Anthropology <i>or</i> Sociology, I'll take what I can get.
+    It would be even more ideal if the two departments involved were Informatics and <i>Anthropology</i> (rather than Planning, Policy, & Design - in the school of Social Ecology), but seeing as there were <b>no</b> MDP projects involving Anthropology <i>or</i> Sociology, I'll take what I can get.
   </div>
   
   <p />
@@ -83,7 +83,7 @@ With the Fall quarter finally over, I find I actually have time to blog. Great. 
   <p />
   
   <div>
-    I'll keep working on it and see what I can get done. I wanted to kill the project because the Terminal &#8211; while kind of obscure &#8211; isn't an ideal setting to interact with a stream of data from the internet. Things interrupt your input and that makes everything look bad. Maybe there's a solution but I'm not bothering to look for it. In any case, I'd rather just make my own GUI that works the way I want it to work. It's unfortunate that by this point my Java course had gotten around to teaching us user interfaces (if briefly), but the Python class never got there by the end of the quarter. Naturally I'm expecting the second course in the series to get there, but that puts this course on a slower pace than the Java class circuit I started at my community college, lending credence to my feelings that UCI isn't as rigorous as my community college (and making me feel worse about not being at a "top" university).
+    I'll keep working on it and see what I can get done. I wanted to kill the project because the Terminal - while kind of obscure - isn't an ideal setting to interact with a stream of data from the internet. Things interrupt your input and that makes everything look bad. Maybe there's a solution but I'm not bothering to look for it. In any case, I'd rather just make my own GUI that works the way I want it to work. It's unfortunate that by this point my Java course had gotten around to teaching us user interfaces (if briefly), but the Python class never got there by the end of the quarter. Naturally I'm expecting the second course in the series to get there, but that puts this course on a slower pace than the Java class circuit I started at my community college, lending credence to my feelings that UCI isn't as rigorous as my community college (and making me feel worse about not being at a "top" university).
   </div>
   
   <p />

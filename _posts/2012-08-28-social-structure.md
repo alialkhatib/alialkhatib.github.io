@@ -14,7 +14,7 @@ tags:
 ---
 I've been pretty fortunate with my first quarter at UC Irvine, particularly in that the classes I'm taking feed directly into my interests. That might seem like a very low bar for satisfaction, but consider that there are hundreds of classes offered (admittedly maybe only a dozen or so in Anthropology) and I could be taking any of those classes instead. More likely than not there would be some irrelevant classes where I was putting in a significant amount of work for something ultimately not related to my goals. More troublingly, though, is that I could be in a class where nothing meaningful got done. 
 <div>
-  That would be a waste of units &#8211; time <i>and</i> money, in my case &#8211; and I'd be pretty upset about that.
+  That would be a waste of units - time <i>and</i> money, in my case - and I'd be pretty upset about that.
 </div>
 
 <div>
@@ -30,7 +30,7 @@ I've been pretty fortunate with my first quarter at UC Irvine, particularly in t
 </div>
 
 <div>
-  It'd be rather interesting if it turned out that people form their social network &#8211; the aggregate of their connections &#8211; in different ways depending on their cultural background. This seems like an easy enough thing to evaluate, although it's fairly data-heavy. Then again, that's the beauty of the area I want to explore: questions which once would have been daunting in their data collection phase are now trivialized. We can map and graph a person's social network in a few seconds (less, really).
+  It'd be rather interesting if it turned out that people form their social network - the aggregate of their connections - in different ways depending on their cultural background. This seems like an easy enough thing to evaluate, although it's fairly data-heavy. Then again, that's the beauty of the area I want to explore: questions which once would have been daunting in their data collection phase are now trivialized. We can map and graph a person's social network in a few seconds (less, really).
 </div>
 
 <div>

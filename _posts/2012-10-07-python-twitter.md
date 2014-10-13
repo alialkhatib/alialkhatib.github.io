@@ -19,7 +19,7 @@ I'm a little more than a week into the Fall session at UC Irvine, and I'm strugg
 </div>
 
 <div>
-  I've been getting into Python (the language of choice for the programming circuit I'm taking), and I'm getting into it quite a bit. I've worked out how to tweet from my command line, but I'm still not sure how to bring it all together, make it work for others, or present it in a reasonable interface. Still&#8230; not that bad for 1 week, right?
+  I've been getting into Python (the language of choice for the programming circuit I'm taking), and I'm getting into it quite a bit. I've worked out how to tweet from my command line, but I'm still not sure how to bring it all together, make it work for others, or present it in a reasonable interface. Still... not that bad for 1 week, right?
 </div>
 
 <div>

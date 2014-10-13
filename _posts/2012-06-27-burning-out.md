@@ -12,7 +12,7 @@ tags:
   - Life
   - rants
 ---
-I tend to find this happening a lot more near the end of the year than anytime else (big surprise), but I'm beginning to feel burnt out from this past year &#8211; or more directly, this past year. After wrapping up three full-size studies on campus, tutoring a handful of kids in introductory stats, and getting back rejection letters from my top UC choices, I have to admit that I've lost some motivation. 
+I tend to find this happening a lot more near the end of the year than anytime else (big surprise), but I'm beginning to feel burnt out from this past year - or more directly, this past year. After wrapping up three full-size studies on campus, tutoring a handful of kids in introductory stats, and getting back rejection letters from my top UC choices, I have to admit that I've lost some motivation. 
 <div>
   The <b>studies</b>, for their part, are pretty cool. I know I'll look back and think
 </div>
@@ -28,7 +28,7 @@ I tend to find this happening a lot more near the end of the year than anytime e
   </ol>
   
   <div>
-    Tutoring in <b>statistics </b>has been informative and fun most of the time, but seeing one of my tutees(?) struggle and occasionally fail is really hard to take, almost as though it's a failure on my part. What's more challenging to deal with is when the mistakes aren't even statistical in nature &#8211; the kid just fucked up a trivial issue like rounding or whatever it was.
+    Tutoring in <b>statistics </b>has been informative and fun most of the time, but seeing one of my tutees(?) struggle and occasionally fail is really hard to take, almost as though it's a failure on my part. What's more challenging to deal with is when the mistakes aren't even statistical in nature - the kid just fucked up a trivial issue like rounding or whatever it was.
   </div></p>
 </div>
 
@@ -37,11 +37,11 @@ I tend to find this happening a lot more near the end of the year than anytime e
 </div>
 
 <div>
-  It's not that it was angering or anything. I just really wanted to see him do well in stats, and it bothered me a lot to see a good student with virtually no history of really succeeding academically come <i>so fucking close</i> to acing a class (and a hard one, at that), and then watching that slip out of reach. It's like re-living the beginning of my college career &#8211; dubious, at best &#8211; all over again.
+  It's not that it was angering or anything. I just really wanted to see him do well in stats, and it bothered me a lot to see a good student with virtually no history of really succeeding academically come <i>so fucking close</i> to acing a class (and a hard one, at that), and then watching that slip out of reach. It's like re-living the beginning of my college career - dubious, at best - all over again.
 </div>
 
 <div>
-  The UCs though&#8230; Those might have been the worst. I worked hard this year to demonstrate a significant difference in my motivation and resolve compared to previous years. I took the most challenging courses, opted for honors versions of classes when available (even though technically I wasn't participating in the Honors program), and aced everything. It was personally rewarding to see my work bear out, but rejections from top universities seem to invalidate the weight of that work and my change. Like despite all of this, I haven't proven that I'm good enough. And the appeal to Berkeley came back (rejection stands), so that felt like an even more personal blow; "after a more careful, personal evaluation, [<i>you're still not good enough</i>]."
+  The UCs though... Those might have been the worst. I worked hard this year to demonstrate a significant difference in my motivation and resolve compared to previous years. I took the most challenging courses, opted for honors versions of classes when available (even though technically I wasn't participating in the Honors program), and aced everything. It was personally rewarding to see my work bear out, but rejections from top universities seem to invalidate the weight of that work and my change. Like despite all of this, I haven't proven that I'm good enough. And the appeal to Berkeley came back (rejection stands), so that felt like an even more personal blow; "after a more careful, personal evaluation, [<i>you're still not good enough</i>]."
 </div>
 
 <div>

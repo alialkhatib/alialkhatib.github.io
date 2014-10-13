@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ali-alkhatib.com//</id>
   <title>Ali Alkhatib</title>
-  <updated>2014-10-08T22:27:48-07:00</updated>
+  <updated>2014-10-12T17:52:53-07:00</updated>
   <link rel="alternate" href="http://ali-alkhatib.com/"/>
   <link rel="self" href="http://ali-alkhatib.com/blog.xml"/>
   <author>
@@ -10,6 +10,48 @@
     <uri>http://ali-alkhatib.com/</uri>
   </author>
   
+  
+  <entry>
+    
+    <id>http://ali-alkhatib.com/blog/vote-predictors.html</id>
+    
+    <title type="html">Vote Predictors</title>
+    <updated>2014-10-10T00:00:00-07:00</updated>
+    <link rel="alternate" href="http://ali-alkhatib.com/blog/vote-predictors.html"/>
+    <content type="html">&lt;p&gt;Jure Leskovec has been teaching CS 224W this quarter, and a number of his lectures have used research questions to illustrate the concepts and models that he&amp;rsquo;s been teaching. It&amp;rsquo;s been an interesting way of surveying the kind of research he does, which is hopefully informative for anyone planning on rotating into Jure&amp;rsquo;s lab (e.g. me). Recently, he talked about a question of predicting Wikipedia admin elections, and described the results of some research wherein he found that, by accounting for voter-candidate similarity and for status difference (again, between the voter and the candidate), you can predict the outcome of the election just by knowing &lt;em&gt;which&lt;/em&gt; 5 people came out to vote first with ~70% reliability; this, without knowing &lt;strong&gt;for whom&lt;/strong&gt; they voted. Knowing their votes, you can predict with approximately 85% accuracy. By looking at voters 1-10 (again, not the votes, just the turnout), accuracy rises to 75%, after which point accuracy rises negligibly - even with all voters.&lt;/p&gt;
+
+&lt;p&gt;This was really fascinating, but ~70% is not &lt;em&gt;great&lt;/em&gt;, and there&amp;rsquo;s certainly room for improvement. I asked if looking at different subsets of votes (voters 2-6 instead of 1-5, for instance) would yield different predictive accuracy. It didn&amp;rsquo;t seem like this had been pursued, but I suspect that sock puppet voters and the like might be less representative of the overall outcome for an election, making voters 1-n (where n is small) more noise than signal.&lt;/p&gt;
+
+&lt;p&gt;If anyone is interested in following up on this question, I&amp;rsquo;m certainly interested in seeing if I&amp;rsquo;m right.&lt;/p&gt;
+</content>
+    <summary type="html">&lt;p&gt;Jure Leskovec has been teaching CS 224W this quarter, and a number of his lectures have used research questions to illustrate the concepts and models that he&amp;rsquo;s been teaching. It&amp;rsquo;s been an interesting way of surveying the kind of research he does, which is hopefully informative for anyone planning on rotating into Jure&amp;rsquo;s lab (e.g. me). Recently, he talked about a question of predicting Wikipedia admin elections, and described the results of some research wherein he found that, by accounting for voter-candidate similarity and for status difference (again, between the voter and the candidate), you can predict the outcome of the election just by knowing &lt;em&gt;which&lt;/em&gt; 5 people came out to vote first with ~70% reliability; this, without knowing &lt;strong&gt;for whom&lt;/strong&gt; they voted. Knowing their votes, you can predict with approximately 85% accuracy. By looking at voters 1-10 (again, not the votes, just the turnout), accuracy rises to 75%, after which point accuracy rises negligibly - even with all voters.&lt;/p&gt;
+
+</summary>
+  </entry>
+  
+  <entry>
+    
+    <id>http://ali-alkhatib.com/blog/metaphor-virality.html</id>
+    
+    <title type="html">Metaphor Virality</title>
+    <updated>2014-10-07T00:00:00-07:00</updated>
+    <link rel="alternate" href="http://ali-alkhatib.com/blog/metaphor-virality.html"/>
+    <content type="html">&lt;p&gt;Last week in &lt;a href=&quot;http://hci.stanford.edu/courses/cs547/&quot;&gt;CS 547&lt;/a&gt; &lt;a href=&quot;http://glow-wacky.com/&quot;&gt;David Glowacki&lt;/a&gt; gave a talk about some &lt;a href=&quot;http://danceroom-spec.com/&quot;&gt;technology&lt;/a&gt; that his lab developed which allowed people to use Kinect (and incidentally LeapMotion) to view the effect that their bodies - as sort of &amp;ldquo;force imprints&amp;rdquo; on a canvas (the background) - have on particles bouncing around arbitrarily. It was really interesting seeing a serious implementation of Kinect and LeapMotion that really seemed to have legs, since I&amp;rsquo;m generally kind of skeptical of the appeal of these full-body user interface devices (almost as much as I am about voice interfaces, although my opinion on that has been changing recently as I&amp;rsquo;ve biked to work/class and wanted to know things that only Siri could tell me).&lt;/p&gt;
+
+&lt;p&gt;None of that is why I&amp;rsquo;m writing this post. Or not really.&lt;/p&gt;
+
+&lt;p&gt;His talk was largely motivated by a prominent metaphor in his field where molecules are dancers, pirouetting and waltzing around each other as they get closer and ultimately bond. This metaphor is not only pervasive in the field of genetics where scientists try to understand how medicine bonds and passes through the system, but it&amp;rsquo;s informative as well; it provides a mental model for laypeople to understand the interactions of an esoteric system. It might also prompt some novel research questions that otherwise wouldn&amp;rsquo;t have been sparked had their researchers never been exposed to totally new ways of explaining biological systems at the microscopic level, but it&amp;rsquo;s hard to say for sure.&lt;/p&gt;
+
+&lt;p&gt;I was thinking, though, that in the highly structured network of academia, journal articles could give some good insight into the introduction of metaphors to unrelated fields. What could we learn about new terms and metaphors based on the circumstances surrounding their introductions? I suspect something interesting would emerge from these details. Off the top of my head, you could probably look at unique words in any given journal article and see if the word graph representing any of the unique words don&amp;rsquo;t match the word graph of those words in the general word corpus.&lt;/p&gt;
+
+&lt;p&gt;I can give an example; if the word &amp;ldquo;pirouette&amp;rdquo; shows up a lot around the word &amp;ldquo;isomer&amp;rdquo; in some articles, but pirouette &lt;em&gt;normally&lt;/em&gt; shows up surrounded by words like &amp;ldquo;dance&amp;rdquo;, &amp;ldquo;dressage&amp;rdquo;, &amp;ldquo;ballet&amp;rdquo;, etc&amp;hellip; then we can infer that the word is a loaner. More importantly, we can identify these loan-words as soon as they get introduced to the lexicon of a certain field (again determined by the words used in a field, made easier by the fact that academics are nothing if not meticulous), and plot the success of a term&amp;rsquo;s adoption over time.&lt;/p&gt;
+
+&lt;p&gt;If this kind of approach has legs, it&amp;rsquo;d be interesting to see whether a model based on the data could predict adoption of a new term in a field. I suspect that some equation involving &lt;strong&gt;the term itself&lt;/strong&gt; (the field and context of that term (if it&amp;rsquo;s borrowed from another field), its obscurity in the general population&amp;rsquo;s vocabulary, etc&amp;hellip;) as well as the &lt;strong&gt;quality of the paper&lt;/strong&gt; introducing the term (initially this would be determined by something like PageRank, a fairly conventional method for determining a paper&amp;rsquo;s impact involving the measurement of number of citations of that paper; later, one might develop a model predicting the cultural fit of a paper based on its adherence to established linguistic norms, especially within its subgroup - although my guess is that there&amp;rsquo;s no accounting for very high-impact papers).&lt;/p&gt;
+</content>
+    <summary type="html">&lt;p&gt;Last week in &lt;a href=&quot;http://hci.stanford.edu/courses/cs547/&quot;&gt;CS 547&lt;/a&gt; &lt;a href=&quot;http://glow-wacky.com/&quot;&gt;David Glowacki&lt;/a&gt; gave a talk about some &lt;a href=&quot;http://danceroom-spec.com/&quot;&gt;technology&lt;/a&gt; that his lab developed which allowed people to use Kinect (and incidentally LeapMotion) to view the effect that their bodies - as sort of &amp;ldquo;force imprints&amp;rdquo; on a canvas (the background) - have on particles bouncing around arbitrarily. It was really interesting seeing a serious implementation of Kinect and LeapMotion that really seemed to have legs, since I&amp;rsquo;m generally kind of skeptical of the appeal of these full-body user interface devices (almost as much as I am about voice interfaces, although my opinion on that has been changing recently as I&amp;rsquo;ve biked to work/class and wanted to know things that only Siri could tell me).&lt;/p&gt;
+
+</summary>
+  </entry>
   
   <entry>
     
@@ -26,7 +68,7 @@
 
 &lt;p&gt;Our first round of fieldwork suggested &lt;em&gt;really&lt;/em&gt; strongly that there was a single actor in the AMT marketplace who was poisoning the well in some sense by putting out what Turkers call &lt;a href=&quot;#pennyHIT&quot;&gt;penny HITs&lt;/a&gt;. By itself, in a totally naive environment, this really wouldn&amp;rsquo;t be that big a deal; he pays too little, some people aren&amp;rsquo;t willing to do that much work for $0.25, but some people &lt;em&gt;are&lt;/em&gt;, so those that are willing will do his work and those that are not will go do other tasks. Everyone wins (except the Turkers who do his work, but they&amp;rsquo;re happy digging their grave. Or so the argument goes).&lt;/p&gt;
 
-&lt;p&gt;Not quite so. In practice, these &lt;a href=&quot;#HIT&quot;&gt;HITs&lt;/a&gt; and others set a standard &amp;ndash; a norm &amp;ndash; in the marketplace, so that even academic researchers (whom we generally regard as being paragons of ethical behavior, justified or not) were paying workers poorly; the market had become one for &lt;a href=&quot;http://www.iei.liu.se/nek/730g83/artiklar/1.328833/AkerlofMarketforLemons.pdf&quot;&gt;lemons&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Not quite so. In practice, these &lt;a href=&quot;#HIT&quot;&gt;HITs&lt;/a&gt; and others set a standard - a norm - in the marketplace, so that even academic researchers (whom we generally regard as being paragons of ethical behavior, justified or not) were paying workers poorly; the market had become one for &lt;a href=&quot;http://www.iei.liu.se/nek/730g83/artiklar/1.328833/AkerlofMarketforLemons.pdf&quot;&gt;lemons&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;So we thought that a demonstration for this and other HIT requesters would give them the necessary push to show that  &lt;/p&gt;
 
@@ -42,7 +84,7 @@
 
 &lt;p&gt;Eventually, we realized that we didn&amp;rsquo;t know anything (one could argue that I should&amp;rsquo;ve known this for quite a while, but I didn&amp;rsquo;t know anything; also, I digress), so we figured that we should just let Turkers come up with their own actions. While this was on one hand more practical than designing our own perfect campaign, it was more importantly a truer representation of homegrown &lt;strong&gt;collective action&lt;/strong&gt;, which was becoming the focal point of our research.&lt;/p&gt;
 
-&lt;p&gt;I won&amp;rsquo;t bore you with many more details &amp;ndash; and frankly I find more and more that I don&amp;rsquo;t have time for them &amp;ndash; but of note we have a few things which I think are worth patting ourselves on the back:  &lt;/p&gt;
+&lt;p&gt;I won&amp;rsquo;t bore you with many more details - and frankly I find more and more that I don&amp;rsquo;t have time for them - but of note we have a few things which I think are worth patting ourselves on the back:  &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;We came up with a guideline of ethical research protocols developed by the community to which these guidelines are relevant.  &lt;/li&gt;
@@ -93,44 +135,6 @@
 
 </content>
     <summary type="html">&lt;p&gt;For the past year I&amp;rsquo;ve been studying the culture of Quantified Self. Last weekend I gave a talk on the research at the [Undergraduate Research Opportunities Program Symposium][1], and in the spirit of QS culture (especially with regard to open access to data, etc&amp;hellip;) I thought I&amp;rsquo;d post the presentation. The PowerPoint is [here][2] (warning: 12.9 MB). Alternatively, you can download a PDF [here][3] (9.8 MB).&lt;/p&gt;
-
-</summary>
-  </entry>
-  
-  <entry>
-    
-    <id>http://ali-alkhatib.com/blog/130.html</id>
-    
-    <title type="html">Oh right, this exists</title>
-    <updated>2014-04-13T00:00:00-07:00</updated>
-    <link rel="alternate" href="http://ali-alkhatib.com/blog/130.html"/>
-    <content type="html">&lt;p&gt;My last substantive post was about how broken graduate school applications are, so I think it makes sense that my next post would be about graduate schools again.&lt;/p&gt;
-
-&lt;p&gt;I spent the better part of the last few months worrying that my statements of purpose wouldn&amp;rsquo;t be well-received. Not because I worried that I hadn&amp;rsquo;t written my SoPs well, or because my research wasn&amp;rsquo;t interesting (well, to me anyway), but because I was afraid that I had been on the fence for too long, so committed to interdisciplinary studies that I had forfeited my stake in both social sciences and computer science. I was afraid that I was too quantitative for qualitative fields (like Anthropology) and too qualitative for quantitative fields (like Computer Science).&lt;/p&gt;
-
-&lt;p&gt;Several months ago I got a call from Stanford. I went for a visit, and I&amp;rsquo;ve signed the proverbial papers; I&amp;rsquo;ll be joining Stanford&amp;rsquo;s Computer Science program to pursue a PhD. Specifically, I&amp;rsquo;ll be studying digital cultures and working in the HCI group (after the initial year of rotations).&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m still settling into the bizarre turn of events, especially the lingering misgivings I&amp;rsquo;ve had about ultimately leaving the social sciences, which got me into academia in the first place (and where I feel my research interests belong), but after speaking with Michael Bernstein, Jure Leskovec, Dan Jurafsky, Chris Re, and others, I really can&amp;rsquo;t imagine being anywhere but Stanford and in Computer Science.&lt;/p&gt;
-
-&lt;p&gt;It just happens to be really convenient that the clout associated with CS at Stanford affords me immense credibility in some circles.&lt;/p&gt;
-
-&lt;p&gt;More updates eventually. I&amp;rsquo;m trying to stay above the day-to-day errands of housing lotteries and personal stuff because I kind of assume nobody reading this is interested. My next unprompted post will &lt;em&gt;probably&lt;/em&gt; be about Quantified Self, the undergraduate thesis I&amp;rsquo;ve been working on for the honors Anthro program at UC Irvine, for which Dr. Boellstorff has been advising me.&lt;/p&gt;
-</content>
-    <summary type="html">&lt;p&gt;My last substantive post was about how broken graduate school applications are, so I think it makes sense that my next post would be about graduate schools again.&lt;/p&gt;
-
-</summary>
-  </entry>
-  
-  <entry>
-    
-    <id>http://ali-alkhatib.com/blog/flatricide-pulgamitude.html</id>
-    
-    <title type="html">Flatricide pulgamitude</title>
-    <updated>2014-01-17T00:00:00-08:00</updated>
-    <link rel="alternate" href="http://ali-alkhatib.com/blog/flatricide-pulgamitude.html"/>
-    <content type="html">&lt;p&gt;Apparently there&amp;rsquo;s some sort of contest to see who can get the highest PageRank for &amp;ldquo;Flatricide pulgamitude&amp;rdquo;. Seems silly, but I&amp;rsquo;m curious to see if I have any PageRank after all.&lt;/p&gt;
-</content>
-    <summary type="html">&lt;p&gt;Apparently there&amp;rsquo;s some sort of contest to see who can get the highest PageRank for &amp;ldquo;Flatricide pulgamitude&amp;rdquo;. Seems silly, but I&amp;rsquo;m curious to see if I have any PageRank after all.&lt;/p&gt;
 
 </summary>
   </entry>

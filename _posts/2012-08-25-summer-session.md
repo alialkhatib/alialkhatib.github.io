@@ -22,7 +22,7 @@ I'm glad I waited a few weeks after coming back from Ecuador to post another upd
 </div>
 
 <div>
-  This Summer Session has been a mix of rush and lethargy, no doubt in part thanks to the fact that until recently I didn't have a computer to do the most basic work. I'm glad I have a computer now (I found out I can do assignments <i>whenever</i> I want; imagine that!), but there's still a lot stuck on my mind (money, long-term academics, etc&#8230;)
+  This Summer Session has been a mix of rush and lethargy, no doubt in part thanks to the fact that until recently I didn't have a computer to do the most basic work. I'm glad I have a computer now (I found out I can do assignments <i>whenever</i> I want; imagine that!), but there's still a lot stuck on my mind (money, long-term academics, etc...)
 </div>
 
 <div>

@@ -21,7 +21,7 @@ tags:
 </div>
 
 <div>
-  But there's a reason that Archaeology fascinates me &#8211; a devoted Cultural Anthro major with interests in pulling technology into Anthropology and Anthropology into technology &#8211; and it's something that I think should ring true for any cultural studies person (including sociologists et al.).
+  But there's a reason that Archaeology fascinates me - a devoted Cultural Anthro major with interests in pulling technology into Anthropology and Anthropology into technology - and it's something that I think should ring true for any cultural studies person (including sociologists et al.).
 </div>
 
 <div>
@@ -37,15 +37,15 @@ tags:
       Whatever friends he had, now have to reconcile this new loss.
     </li>
     <li>
-      His family &#8211; both the family he made and the one he was born into &#8211; will have to figure out how to work without him.
+      His family - both the family he made and the one he was born into - will have to figure out how to work without him.
     </li>
     <li>
-      Every single organization, company, community group, etc&#8230; he was a part of will acknowledge his passing in some way, and cope with the loss.
+      Every single organization, company, community group, etc... he was a part of will acknowledge his passing in some way, and cope with the loss.
     </li>
   </ul>
   
   <div>
-    That man's life is a thread, and cutting it isn't as simple as pulling a trigger. There are repercussions that carry across towns, provinces, states, countries, and across the world &#8211; in some way or another. Human life is profound, and the loss of one &#8211; particularly the abrupt loss of one &#8211; is staggering in its impact.
+    That man's life is a thread, and cutting it isn't as simple as pulling a trigger. There are repercussions that carry across towns, provinces, states, countries, and across the world - in some way or another. Human life is profound, and the loss of one - particularly the abrupt loss of one - is staggering in its impact.
   </div></p>
 </div>
 
@@ -58,7 +58,7 @@ tags:
 </div>
 
 <div>
-  This is a similar take on the theme presented by Abraham Rosman in an introductory Cultural Anthro textbook he authored, but in a crucial way it's different. It's not that the aspects of life themselves (concepts, theories, rituals, beliefs, etc&#8230;) are the threads. Instead, the <i>people</i> who make up the community and civilization are the threads, with their views and traditions and customs and ideas all constituting the composition of their threads. They allow every individual thread to be distinct, diverse, and truly unique; the "final product" still looks coherent from a distance, and indeed is more stunning with more people from more backgrounds contributing to it.
+  This is a similar take on the theme presented by Abraham Rosman in an introductory Cultural Anthro textbook he authored, but in a crucial way it's different. It's not that the aspects of life themselves (concepts, theories, rituals, beliefs, etc...) are the threads. Instead, the <i>people</i> who make up the community and civilization are the threads, with their views and traditions and customs and ideas all constituting the composition of their threads. They allow every individual thread to be distinct, diverse, and truly unique; the "final product" still looks coherent from a distance, and indeed is more stunning with more people from more backgrounds contributing to it.
 </div>
 
 <div>

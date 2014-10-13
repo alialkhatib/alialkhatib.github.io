@@ -15,7 +15,7 @@ tags:
 ---
 Taking an introductory Anthro course (on ethnographic methods) has been surprisingly rewarding. 
 <div>
-  Don't get me wrong; most of the historical background and ideas of pluralism, multilinearism, etc&#8230; are all familiar to me, but it's prompting me to revisit old techniques about which I first learned when I was too stupid (or uncreative) to think of novel ways of going about measuring these topics.
+  Don't get me wrong; most of the historical background and ideas of pluralism, multilinearism, etc... are all familiar to me, but it's prompting me to revisit old techniques about which I first learned when I was too stupid (or uncreative) to think of novel ways of going about measuring these topics.
 </div>
 
 <div>
@@ -35,7 +35,7 @@ Taking an introductory Anthro course (on ethnographic methods) has been surprisi
 </div>
 
 <div>
-  It wouldn't be too difficult to write a simple Android/iOS app which would record your general location every 5-20 minutes and sent that off &#8211; anonymously &#8211; to a researcher's server. Ethically speaking, all you'd have to do is inform the user of exactly what the app does and why (which isn't too difficult since most app store environments provide an opportunity to disclose permissions requirements and rationales for such requests), and be damn sure the app &#8211; and the research &#8211; doesn't do anything it didn't announce it would do at the outset.
+  It wouldn't be too difficult to write a simple Android/iOS app which would record your general location every 5-20 minutes and sent that off - anonymously - to a researcher's server. Ethically speaking, all you'd have to do is inform the user of exactly what the app does and why (which isn't too difficult since most app store environments provide an opportunity to disclose permissions requirements and rationales for such requests), and be damn sure the app - and the research - doesn't do anything it didn't announce it would do at the outset.
 </div>
 
 <div>
@@ -51,11 +51,11 @@ Taking an introductory Anthro course (on ethnographic methods) has been surprisi
 </div>
 
 <div>
-  This, and the study of social network structure, has been an interesting area of study for me for some time. I still need to do some searching, but I haven't seen a whole lot of research done in this area, even to demonstrate how feasible this all is in conceptual terms. Maybe this is something I could do&#8230;?
+  This, and the study of social network structure, has been an interesting area of study for me for some time. I still need to do some searching, but I haven't seen a whole lot of research done in this area, even to demonstrate how feasible this all is in conceptual terms. Maybe this is something I could do...?
 </div>
 
 <div>
-  This is where comments are solicited: Would you &#8211; hypothetically &#8211; take part in a study which essentially tracks where you go on your campus? Keep in mind that it would not communicate your name or personal information, and you could opt out at any time (as well, perhaps, as evaluate your own data before it gets sent off to make sure nothing salacious shows up). I understand that conceivably a person's identity could be deduced from the pattern of space use (someone who singularly spends lots of time in a secluded area of campus might give him or herself away to anyone who could access individual records (potentially this would be limited), or someone who exhibits a very distinct, predictable pattern), but perhaps some sort of incentive (either a guaranteed nominal gift card or a lottery chance at a substantial reward) could make it worth the inconvenience.
+  This is where comments are solicited: Would you - hypothetically - take part in a study which essentially tracks where you go on your campus? Keep in mind that it would not communicate your name or personal information, and you could opt out at any time (as well, perhaps, as evaluate your own data before it gets sent off to make sure nothing salacious shows up). I understand that conceivably a person's identity could be deduced from the pattern of space use (someone who singularly spends lots of time in a secluded area of campus might give him or herself away to anyone who could access individual records (potentially this would be limited), or someone who exhibits a very distinct, predictable pattern), but perhaps some sort of incentive (either a guaranteed nominal gift card or a lottery chance at a substantial reward) could make it worth the inconvenience.
 </div>
 
 <div>

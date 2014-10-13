@@ -9,7 +9,7 @@ posterous_aef3040f45df4620aa487475e2845672_permalink:
 categories:
   - Uncategorized
 ---
-Good news: I&#8217;ve managed to pull the last tweets of people a user is following:
+Good news: I've managed to pull the last tweets of people a user is following:
 
 <div class='p_embed p_image_embed'>
   <a href="http://ali-alkhatib.com/content/Screen_Shot_2012-11-13_at_12.39.46_AM.png.scaled1000.png"><img alt="Screen_shot_2012-11-13_at_12"  src="http://ali-alkhatib.com/content/Screen_Shot_2012-11-13_at_12.39.46_AM.png.scaled1000-300x150.png" /></a>
@@ -23,19 +23,19 @@ Good news: I&#8217;ve managed to pull the last tweets of people a user is follow
   <p />
   
   <div>
-    Bad news: I hit some nasty call limits when I try to deal with any significant number of individuals. It&#8217;s not a big deal for my paltry ~40 friends (and I&#8217;m making a distinction between <strong>friend</strong>&nbsp;and <strong>follower</strong>&nbsp;here; the former is someone whose tweets I read, while the latter is someone who reads my tweets), but it quickly becomes a more serious issue as it scales up.
+    Bad news: I hit some nasty call limits when I try to deal with any significant number of individuals. It's not a big deal for my paltry ~40 friends (and I'm making a distinction between <strong>friend</strong> and <strong>follower</strong> here; the former is someone whose tweets I read, while the latter is someone who reads my tweets), but it quickly becomes a more serious issue as it scales up.
   </div>
   
   <p />
   
   <div>
-    To understand why this is a problem, I need to explain. Twitter has an API call limit, which is kind of like saying that you can only ask Twitter for something a certain number of times per hour. Twitter allows up to 350 calls per hour (per user, per application), which means that you could use this app to do 350 distinct things. What Twitter considers a &#8220;thing&#8221; is where this gets annoying.
+    To understand why this is a problem, I need to explain. Twitter has an API call limit, which is kind of like saying that you can only ask Twitter for something a certain number of times per hour. Twitter allows up to 350 calls per hour (per user, per application), which means that you could use this app to do 350 distinct things. What Twitter considers a "thing" is where this gets annoying.
   </div>
   
   <p />
   
   <div>
-    Pulling up your timeline/feed/whatever &#8211; the thing that tells you what people have been saying lately (see pic below) &#8211; is <strong>one</strong>&nbsp;call.
+    Pulling up your timeline/feed/whatever - the thing that tells you what people have been saying lately (see pic below) - is <strong>one</strong> call.
   </div>
   
   <div>
@@ -45,7 +45,7 @@ Good news: I&#8217;ve managed to pull the last tweets of people a user is follow
   </div>
   
   <div>
-    But what if you want to pull all of the tweets that Bill Nye has made? That&#8217;s <strong>1</strong>&nbsp;call as well. It&#8217;s a completely separate call.
+    But what if you want to pull all of the tweets that Bill Nye has made? That's <strong>1</strong> call as well. It's a completely separate call.
   </div>
   
   <div>
@@ -61,7 +61,7 @@ Good news: I&#8217;ve managed to pull the last tweets of people a user is follow
   <p />
   
   <div>
-    And if you have 40 people you follow? That would require&nbsp;<strong>40</strong>&nbsp;calls.
+    And if you have 40 people you follow? That would require <strong>40</strong> calls.
   </div>
   
   <div>
@@ -71,25 +71,25 @@ Good news: I&#8217;ve managed to pull the last tweets of people a user is follow
   <p />
   
   <div>
-    So that&#8217;s only kind of annoying&nbsp;<em>until</em>&nbsp;you start coming closer to that magic number, 350. Once a user hits that, they get blocked from making any further calls with the specific app which hit that limit. They can still tweet from a web browser or their mobile device, but they have to take a break from your app.&nbsp;
+    So that's only kind of annoying <em>until</em> you start coming closer to that magic number, 350. Once a user hits that, they get blocked from making any further calls with the specific app which hit that limit. They can still tweet from a web browser or their mobile device, but they have to take a break from your app. 
   </div>
   
   <p />
   
   <div>
-    That&#8217;s kinda bad because some friends &#8211; the ones for whom this app would be <strong>perfect</strong>, follow hundreds of people, which would trip the call limiter.
+    That's kinda bad because some friends - the ones for whom this app would be <strong>perfect</strong>, follow hundreds of people, which would trip the call limiter.
   </div>
   
   <p />
   
   <div>
-    I could keep going with the current implementation I have, but there would be no point. I have a well-pruned friend list, so it wouldn&#8217;t benefit me anymore. I&#8217;ve made a <a>discussion</a>&nbsp;on Twitter&#8217;s dev forum, and maybe someone will chime in with a suggestion for a different implementation. If that happens, I might as well not get entrenched in this approach.
+    I could keep going with the current implementation I have, but there would be no point. I have a well-pruned friend list, so it wouldn't benefit me anymore. I've made a <a>discussion</a> on Twitter's dev forum, and maybe someone will chime in with a suggestion for a different implementation. If that happens, I might as well not get entrenched in this approach.
   </div>
   
   <p />
   
   <div>
-    No, I&#8217;m not depressed. But it sure feels like it.
+    No, I'm not depressed. But it sure feels like it.
   </div>
   
   <p />

@@ -12,7 +12,7 @@ categories:
 <div>
   <blockquote class="twitter-tweet">
     <p>
-      What&#8217;s the best way to do a Twitter clean-up of who you follow? Need to remove dups/junk accounts/dead accts, etc.
+      What's the best way to do a Twitter clean-up of who you follow? Need to remove dups/junk accounts/dead accts, etc.
     </p>
     
     <p>

@@ -5,4 +5,4 @@ layout: post
 categories:
   - Uncategorized
 ---
-Apparently there&#8217;s some sort of contest to see who can get the highest PageRank for &#8220;Flatricide pulgamitude&#8221;. Seems silly, but I&#8217;m curious to see if I have any PageRank after all.
+Apparently there's some sort of contest to see who can get the highest PageRank for "Flatricide pulgamitude". Seems silly, but I'm curious to see if I have any PageRank after all.
