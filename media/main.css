@@ -6252,6 +6252,9 @@ nav a.active:hover {
     margin-top: 2em;
     text-align: left;
   }
+  nav nav {
+    width: 100%;
+  }
 }
 .nav-tabs {
   font-size: 2em;
