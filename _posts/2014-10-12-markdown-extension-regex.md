@@ -5,9 +5,7 @@ layout: post
 categories:
   - Code
 ---
-First, the part you probably care about:
-    
-{% gist alialkhatib/fa11e17f385db6970cc3 %}
+First, the part you probably care about (a regex pattern to identify Markdown files): {% gist alialkhatib/fa11e17f385db6970cc3 %}
 
 Okay, let's begin...
 
