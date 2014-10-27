@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Ali Alkhatib: Vote Predictors
+        </title>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"> -->
+        <!-- <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'> -->
+        <!-- <link href='http://fonts.googleapis.com/css?family=PT+Sans:400' rel='stylesheet' type='text/css'> -->
+        <link rel="stylesheet" href="http://ali-alkhatib.com/media/main.css">
+        <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+        
+        <!-- <link rel="alternate" type="application/rss+xml" href="/blog.xml" title="Atom"> -->
+
+        
+        
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@alialkhatib_">
+        <meta name="twitter:creator" content="@alialkhatib_">
+        <meta name="twitter:title" content="Vote Predictors">
+        <meta name="twitter:description"
+            content="Jure Leskovec has been teaching CS 224W this quarter, and a number of his lectures have used research questions to illustrate the concepts and models that he&rsquo;s been teaching. It&rsquo;s been an interesting way of surveying the kind of research he does, which is hopefully informative for anyone planning on rotating into Jure&rsquo;s lab (e.g. me). Recently, he talked about a question of predicting Wikipedia admin elections, and described the results of some research wherein he found that, by accounting for voter-candidate similarity and for status difference (again, between the voter and the candidate), you can predict the outcome of the election just by knowing which 5 people came out to vote first with ~70% reliability; this, without knowing for whom they voted. Knowing their votes, you can predict with approximately 85% accuracy. By looking at voters 1-10 (again, not the votes, just the turnout), accuracy rises to 75%, after which point accuracy rises negligibly - even with all voters.">
+
+        <meta name="og:type" content="article">
+        <meta name="og:title" content="Vote Predictors">
+        <meta name="og:description"
+            content="Jure Leskovec has been teaching CS 224W this quarter, and a number of his lectures have used research questions to illustrate the concepts and models that he&rsquo;s been teaching. It&rsquo;s been an interesting way of surveying the kind of research he does, which is hopefully informative for anyone planning on rotating into Jure&rsquo;s lab (e.g. me). Recently, he talked about a question of predicting Wikipedia admin elections, and described the results of some research wherein he found that, by accounting for voter-candidate similarity and for status difference (again, between the voter and the candidate), you can predict the outcome of the election just by knowing which 5 people came out to vote first with ~70% reliability; this, without knowing for whom they voted. Knowing their votes, you can predict with approximately 85% accuracy. By looking at voters 1-10 (again, not the votes, just the turnout), accuracy rises to 75%, after which point accuracy rises negligibly - even with all voters.">
+        
+    </head>
+    <body>
+        <div class="container">
+<header>
+                <div id="leader">
+                    <ol class="breadcrumb">
+                    <li><h1><a href="/">Ali Alkhatib</a></h1></li>
+                    
+                    
+                    <li><a href="/blog">blog</a></li>
+                    <!-- <li><a href="/blog">Vote Predictors</a></li> -->
+                    
+                </div>
+                
+            </header>
+<div class="col-md-8" role="main">
+            <h2 class="with-tagline">Vote Predictors</h2>
+<p class="tagline">10 October 2014</p>
+
+<article class="full">
+<p>Jure Leskovec has been teaching CS 224W this quarter, and a number of his lectures have used research questions to illustrate the concepts and models that he&rsquo;s been teaching. It&rsquo;s been an interesting way of surveying the kind of research he does, which is hopefully informative for anyone planning on rotating into Jure&rsquo;s lab (e.g. me). Recently, he talked about a question of predicting Wikipedia admin elections, and described the results of some research wherein he found that, by accounting for voter-candidate similarity and for status difference (again, between the voter and the candidate), you can predict the outcome of the election just by knowing <em>which</em> 5 people came out to vote first with ~70% reliability; this, without knowing <strong>for whom</strong> they voted. Knowing their votes, you can predict with approximately 85% accuracy. By looking at voters 1-10 (again, not the votes, just the turnout), accuracy rises to 75%, after which point accuracy rises negligibly - even with all voters.</p>
+
+<p>This was really fascinating, but ~70% is not <em>great</em>, and there&rsquo;s certainly room for improvement. I asked if looking at different subsets of votes (voters 2-6 instead of 1-5, for instance) would yield different predictive accuracy. It didn&rsquo;t seem like this had been pursued, but I suspect that sock puppet voters and the like might be less representative of the overall outcome for an election, making voters 1-n (where n is small) more noise than signal.</p>
+
+<p>If anyone is interested in following up on this question, I&rsquo;m certainly interested in seeing if I&rsquo;m right.</p>
+
+</article>
+
+<footer>If you have something to say about this post, 
+<a href="mailto:ali.alkhatib@cs.stanford.edu">email me</a> or 
+<a href="https://twitter.com/alialkhatib_">tweet</a> at me.
+</footer>
+</div>
+            
+            <div class="col-md-4">
+                    <nav class="tabbable tabs-right">
+                        
+                        <a class="nav nav-tabs"
+                            
+                            href="/">
+                            home
+                        </a>
+                        
+                        <a class="nav nav-tabs"
+                            
+                            href="/research.html">
+                            research
+                        </a>
+                        
+                        <a class="nav nav-tabs"
+                            
+                                class="active"
+                            
+                            href="/blog/">
+                            blog
+                        </a>
+                        
+                        <a class="nav nav-tabs"
+                            
+                            href="/contact.html">
+                            contact
+                        </a>
+                        
+                    </nav>
+                </div>
+            
+        </div>
+
+        
+
+        <!-- Google Analytics -->
+        <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-20760409-1', 'washington.edu');
+ga('send', 'pageview');
+        </script>
+    </body>
+</html>

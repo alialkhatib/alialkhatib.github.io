@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://ali-alkhatib.com//</id>
+  <title>Ali Alkhatib</title>
+  <updated>2014-10-16T08:03:42-07:00</updated>
+  <link rel="alternate" href="http://ali-alkhatib.com/"/>
+  <link rel="self" href="http://ali-alkhatib.com/blog.xml"/>
+  <author>
+    <name>Ali Alkhatib</name>
+    <uri>http://ali-alkhatib.com/</uri>
+  </author>
+  
+  
+  <entry>
+    
+    <id>http://ali-alkhatib.com/blog/markdown-extension-regex.html</id>
+    
+    <title type="html">Markdown Extension Regex</title>
+    <updated>2014-10-12T00:00:00-07:00</updated>
+    <link rel="alternate" href="http://ali-alkhatib.com/blog/markdown-extension-regex.html"/>
+    <content type="html">&lt;p&gt;First, the part you probably care about (a regex pattern to identify Markdown files): &lt;script src=&quot;https://gist.github.com/alialkhatib/fa11e17f385db6970cc3.js&quot;&gt; &lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Okay, let&amp;rsquo;s begin&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Recently I was avoiding some work with a personal project and I realized that I needed to find all of the Markdown files in a directory. I use &lt;code&gt;.md&lt;/code&gt; consistently in my own projects, but I&amp;rsquo;m sure in collaborative settings (or indeed across projects) the file extension differs significantly. Indeed, &lt;a href=&quot;http://superuser.com/questions/249436/file-extension-for-markdown-files&quot;&gt;this StackOverflow question&lt;/a&gt; suggested half a dozen file extensions.&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;rsquo;t do much looking (and in hindsight, I should do that at some point to check my answer) before I decided to write up the pattern for a Markdown extension myself based on the accepted answer. I could (perhaps should) have used the canonical Markdown source on what extensions should be used, but&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;That made for a less interesting challenge (I&amp;rsquo;ll explain in the next line)&lt;/li&gt;
+  &lt;li&gt;I wasn&amp;rsquo;t adhering to that prescription anyway (nor was most of Github - a cursory search (another thing I should revisit later) yields relatively few &lt;code&gt;.markdown&lt;/code&gt; extension files in favor of &lt;code&gt;.md&lt;/code&gt; even accounting somewhat for the bias Github creates by creating &lt;code&gt;readme.md&lt;/code&gt; files - again, I should come back to this later)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I think it&amp;rsquo;s a fairly simple pattern as far as regex goes, but that speaks more to how bizarre regex naturally looks than anything else. Walking through it can be difficult, but I find it&amp;rsquo;s easiest to read it from the outside inward, like peeling an onion.&lt;/p&gt;
+
+&lt;p&gt;If you want to cry while reading regex patterns, that&amp;rsquo;s fine too. Let&amp;rsquo;s begin:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;.*\.&lt;/code&gt;&amp;hellip;&lt;code&gt;$&lt;/code&gt;: These are sort of loose ends, so they&amp;rsquo;ll go together, but they serve a single purpose together. &lt;code&gt;.*\.&lt;/code&gt; means &amp;ldquo;I&amp;rsquo;m looking for &lt;em&gt;any&lt;/em&gt; character in any length (including zero characters) followed by a litteral &lt;code&gt;.&lt;/code&gt;&amp;rdquo; (hence the backslash). &lt;code&gt;$&lt;/code&gt; is a regex special character meaning &amp;ldquo;end of string&amp;rdquo;. It might be unique in Python&amp;rsquo;s implementation of regex (although I doubt it) that in &lt;em&gt;multiline&lt;/em&gt; strings, &lt;code&gt;$&lt;/code&gt; means &amp;ldquo;end of line&amp;rdquo;. Worth knowing, and as an aside if you want to search multiple lines there&amp;rsquo;s &lt;a href=&quot;https://docs.python.org/3.4/library/re.html#re.M&quot;&gt;a way to do that&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;(m&lt;/code&gt;&amp;hellip;&lt;code&gt;|text)&lt;/code&gt; - this means &amp;ldquo;I&amp;rsquo;m either looking for &lt;code&gt;m&lt;/code&gt;+whatever weird extras I ask for, or &lt;code&gt;text&lt;/code&gt;&amp;rdquo;&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;(?:&lt;/code&gt;&amp;hellip;&lt;code&gt;)&lt;/code&gt; - given the previous option (between &lt;code&gt;m&lt;/code&gt; and &lt;code&gt;text&lt;/code&gt;), if we&amp;rsquo;re going down the &lt;code&gt;m&lt;/code&gt; path then you need to find something matching in this group. The &lt;code&gt;?:&lt;/code&gt; modifier tells the engine not to capture it as its own &amp;ldquo;group&amp;rdquo;. As far as I can tell, this isn&amp;rsquo;t really that important except that retaining groups from these little bits and pieces is unnecessary, so why bother?&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;d&lt;/code&gt;&amp;hellip;&lt;code&gt;|arkdown|kdn?&lt;/code&gt; - I&amp;rsquo;m lumping things together so this post doesn&amp;rsquo;t go forever. I&amp;rsquo;m either looking for &lt;code&gt;d&lt;/code&gt; or &lt;code&gt;arkdown&lt;/code&gt; (forming &lt;code&gt;markdown&lt;/code&gt;, thanks to that previous &lt;code&gt;m&lt;/code&gt;), or &lt;code&gt;kdn&lt;/code&gt; (again, forming &lt;code&gt;mkdn&lt;/code&gt;). Here it&amp;rsquo;s becoming clearer to me that we could&amp;rsquo;ve made this slightly more concise. I might revisit it later.&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;(?:te?xt|o?wn)?&lt;/code&gt; - this is one of those mistakes you know you&amp;rsquo;re making in the moment but can&amp;rsquo;t help but make anyway; like all decisions one makes while drunk (except I wasn&amp;rsquo;t drunk while writing this, which would be a convenient excuse) - I&amp;rsquo;m looking not to capture (&lt;code&gt;?:&lt;/code&gt;) either &lt;code&gt;txt&lt;/code&gt; with an optional &lt;code&gt;e&lt;/code&gt; &lt;em&gt;or&lt;/em&gt; an optional &lt;code&gt;o&lt;/code&gt; followed by &lt;code&gt;wn&lt;/code&gt;. All of this is optional. This can result in patterns like &lt;code&gt;mdtxt&lt;/code&gt;, &lt;code&gt;mdtext&lt;/code&gt;, &lt;code&gt;mdwn&lt;/code&gt;, &lt;code&gt;mdown&lt;/code&gt;, or simply &lt;code&gt;md&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So that&amp;rsquo;s it. I might revisit the &lt;code&gt;arkdown&lt;/code&gt; cop-out later, since I&amp;rsquo;m sure there must be some clever way to integrate that in the existing pattern, but it&amp;rsquo;s worth pointing out that you could solve this problem another way, much more legibly, in Python:&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/alialkhatib/aef135321ad92e3328fd.js&quot;&gt; &lt;/script&gt;
+
+&lt;p&gt;The advantage of this is that it&amp;rsquo;s about a million times more readable. We&amp;rsquo;re looking for any of the things in the list at the top, which we can read and edit much more easily.&lt;/p&gt;
+
+&lt;p&gt;An hour wasted writing this post? Maybe. Let me know if this post helped, made you laugh, or inspired you in some way.&lt;/p&gt;
+</content>
+    <summary type="html">&lt;p&gt;First, the part you probably care about (a regex pattern to identify Markdown files): &lt;script src=&quot;https://gist.github.com/alialkhatib/fa11e17f385db6970cc3.js&quot;&gt; &lt;/script&gt;&lt;/p&gt;
+
+</summary>
+  </entry>
+  
+  <entry>
+    
+    <id>http://ali-alkhatib.com/blog/vote-predictors.html</id>
+    
+    <title type="html">Vote Predictors</title>
+    <updated>2014-10-10T00:00:00-07:00</updated>
+    <link rel="alternate" href="http://ali-alkhatib.com/blog/vote-predictors.html"/>
+    <content type="html">&lt;p&gt;Jure Leskovec has been teaching CS 224W this quarter, and a number of his lectures have used research questions to illustrate the concepts and models that he&amp;rsquo;s been teaching. It&amp;rsquo;s been an interesting way of surveying the kind of research he does, which is hopefully informative for anyone planning on rotating into Jure&amp;rsquo;s lab (e.g. me). Recently, he talked about a question of predicting Wikipedia admin elections, and described the results of some research wherein he found that, by accounting for voter-candidate similarity and for status difference (again, between the voter and the candidate), you can predict the outcome of the election just by knowing &lt;em&gt;which&lt;/em&gt; 5 people came out to vote first with ~70% reliability; this, without knowing &lt;strong&gt;for whom&lt;/strong&gt; they voted. Knowing their votes, you can predict with approximately 85% accuracy. By looking at voters 1-10 (again, not the votes, just the turnout), accuracy rises to 75%, after which point accuracy rises negligibly - even with all voters.&lt;/p&gt;
+
+&lt;p&gt;This was really fascinating, but ~70% is not &lt;em&gt;great&lt;/em&gt;, and there&amp;rsquo;s certainly room for improvement. I asked if looking at different subsets of votes (voters 2-6 instead of 1-5, for instance) would yield different predictive accuracy. It didn&amp;rsquo;t seem like this had been pursued, but I suspect that sock puppet voters and the like might be less representative of the overall outcome for an election, making voters 1-n (where n is small) more noise than signal.&lt;/p&gt;
+
+&lt;p&gt;If anyone is interested in following up on this question, I&amp;rsquo;m certainly interested in seeing if I&amp;rsquo;m right.&lt;/p&gt;
+</content>
+    <summary type="html">&lt;p&gt;Jure Leskovec has been teaching CS 224W this quarter, and a number of his lectures have used research questions to illustrate the concepts and models that he&amp;rsquo;s been teaching. It&amp;rsquo;s been an interesting way of surveying the kind of research he does, which is hopefully informative for anyone planning on rotating into Jure&amp;rsquo;s lab (e.g. me). Recently, he talked about a question of predicting Wikipedia admin elections, and described the results of some research wherein he found that, by accounting for voter-candidate similarity and for status difference (again, between the voter and the candidate), you can predict the outcome of the election just by knowing &lt;em&gt;which&lt;/em&gt; 5 people came out to vote first with ~70% reliability; this, without knowing &lt;strong&gt;for whom&lt;/strong&gt; they voted. Knowing their votes, you can predict with approximately 85% accuracy. By looking at voters 1-10 (again, not the votes, just the turnout), accuracy rises to 75%, after which point accuracy rises negligibly - even with all voters.&lt;/p&gt;
+
+</summary>
+  </entry>
+  
+  <entry>
+    
+    <id>http://ali-alkhatib.com/blog/metaphor-virality.html</id>
+    
+    <title type="html">Metaphor Virality</title>
+    <updated>2014-10-07T00:00:00-07:00</updated>
+    <link rel="alternate" href="http://ali-alkhatib.com/blog/metaphor-virality.html"/>
+    <content type="html">&lt;p&gt;Last week in &lt;a href=&quot;http://hci.stanford.edu/courses/cs547/&quot;&gt;CS 547&lt;/a&gt; &lt;a href=&quot;http://glow-wacky.com/&quot;&gt;David Glowacki&lt;/a&gt; gave a talk about some &lt;a href=&quot;http://danceroom-spec.com/&quot;&gt;technology&lt;/a&gt; that his lab developed which allowed people to use Kinect (and incidentally LeapMotion) to view the effect that their bodies - as sort of &amp;ldquo;force imprints&amp;rdquo; on a canvas (the background) - have on particles bouncing around arbitrarily. It was really interesting seeing a serious implementation of Kinect and LeapMotion that really seemed to have legs, since I&amp;rsquo;m generally kind of skeptical of the appeal of these full-body user interface devices (almost as much as I am about voice interfaces, although my opinion on that has been changing recently as I&amp;rsquo;ve biked to work/class and wanted to know things that only Siri could tell me).&lt;/p&gt;
+
+&lt;p&gt;None of that is why I&amp;rsquo;m writing this post. Or not really.&lt;/p&gt;
+
+&lt;p&gt;His talk was largely motivated by a prominent metaphor in his field where molecules are dancers, pirouetting and waltzing around each other as they get closer and ultimately bond. This metaphor is not only pervasive in the field of genetics where scientists try to understand how medicine bonds and passes through the system, but it&amp;rsquo;s informative as well; it provides a mental model for laypeople to understand the interactions of an esoteric system. It might also prompt some novel research questions that otherwise wouldn&amp;rsquo;t have been sparked had their researchers never been exposed to totally new ways of explaining biological systems at the microscopic level, but it&amp;rsquo;s hard to say for sure.&lt;/p&gt;
+
+&lt;p&gt;I was thinking, though, that in the highly structured network of academia, journal articles could give some good insight into the introduction of metaphors to unrelated fields. What could we learn about new terms and metaphors based on the circumstances surrounding their introductions? I suspect something interesting would emerge from these details. Off the top of my head, you could probably look at unique words in any given journal article and see if the word graph representing any of the unique words don&amp;rsquo;t match the word graph of those words in the general word corpus.&lt;/p&gt;
+
+&lt;p&gt;I can give an example; if the word &amp;ldquo;pirouette&amp;rdquo; shows up a lot around the word &amp;ldquo;isomer&amp;rdquo; in some articles, but pirouette &lt;em&gt;normally&lt;/em&gt; shows up surrounded by words like &amp;ldquo;dance&amp;rdquo;, &amp;ldquo;dressage&amp;rdquo;, &amp;ldquo;ballet&amp;rdquo;, etc&amp;hellip; then we can infer that the word is a loaner. More importantly, we can identify these loan-words as soon as they get introduced to the lexicon of a certain field (again determined by the words used in a field, made easier by the fact that academics are nothing if not meticulous), and plot the success of a term&amp;rsquo;s adoption over time.&lt;/p&gt;
+
+&lt;p&gt;If this kind of approach has legs, it&amp;rsquo;d be interesting to see whether a model based on the data could predict adoption of a new term in a field. I suspect that some equation involving &lt;strong&gt;the term itself&lt;/strong&gt; (the field and context of that term (if it&amp;rsquo;s borrowed from another field), its obscurity in the general population&amp;rsquo;s vocabulary, etc&amp;hellip;) as well as the &lt;strong&gt;quality of the paper&lt;/strong&gt; introducing the term (initially this would be determined by something like PageRank, a fairly conventional method for determining a paper&amp;rsquo;s impact involving the measurement of number of citations of that paper; later, one might develop a model predicting the cultural fit of a paper based on its adherence to established linguistic norms, especially within its subgroup - although my guess is that there&amp;rsquo;s no accounting for very high-impact papers).&lt;/p&gt;
+</content>
+    <summary type="html">&lt;p&gt;Last week in &lt;a href=&quot;http://hci.stanford.edu/courses/cs547/&quot;&gt;CS 547&lt;/a&gt; &lt;a href=&quot;http://glow-wacky.com/&quot;&gt;David Glowacki&lt;/a&gt; gave a talk about some &lt;a href=&quot;http://danceroom-spec.com/&quot;&gt;technology&lt;/a&gt; that his lab developed which allowed people to use Kinect (and incidentally LeapMotion) to view the effect that their bodies - as sort of &amp;ldquo;force imprints&amp;rdquo; on a canvas (the background) - have on particles bouncing around arbitrarily. It was really interesting seeing a serious implementation of Kinect and LeapMotion that really seemed to have legs, since I&amp;rsquo;m generally kind of skeptical of the appeal of these full-body user interface devices (almost as much as I am about voice interfaces, although my opinion on that has been changing recently as I&amp;rsquo;ve biked to work/class and wanted to know things that only Siri could tell me).&lt;/p&gt;
+
+</summary>
+  </entry>
+  
+  <entry>
+    
+    <id>http://ali-alkhatib.com/blog/online-labor-markets-and-the-failure-to-compete.html</id>
+    
+    <title type="html">Online labor markets and the failure to compete</title>
+    <updated>2014-09-25T00:00:00-07:00</updated>
+    <link rel="alternate" href="http://ali-alkhatib.com/blog/online-labor-markets-and-the-failure-to-compete.html"/>
+    <content type="html">&lt;p&gt;Over the past several months I&amp;rsquo;ve been working on a project involving &lt;a href=&quot;https://www.mturk.com&quot;&gt;Amazon Mechanical Turk&lt;/a&gt; (henceforth AMT), a fascinating online labor market for &amp;ldquo;micro-labor&amp;rdquo;. Some researchers have done the whole &lt;a href=&quot;http://www.cs.cmu.edu/~jbigham/posts/2014/half-workday-as-turker.html&quot;&gt;crash course ethnographic thing&lt;/a&gt;, but for the most part research of online labor has taken a look from a step back (as &lt;a href=&quot;http://john-joseph-horton.com/papers/online_labor_markets.pdf&quot;&gt;Horton&lt;/a&gt;, &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1869100&quot;&gt;Silberman et al.&lt;/a&gt;, and &lt;a href=&quot;http://john-joseph-horton.com/papers/futureofcrowdwork-cscw2013.pdf&quot;&gt;others&lt;/a&gt; have done).&lt;/p&gt;
+
+&lt;p&gt;This project, resulting in a website called &lt;a href=&quot;http://www.wearedynamo.org/&quot;&gt;Dynamo&lt;/a&gt;, has been intense, but enlightening. It&amp;rsquo;s been a unique process going from iterating on a serious web project to thinking at a high level about the social significance of our design decisions and how to evoke the outcomes we want. In this case, the outcome we wanted was &amp;ldquo;collective action&amp;rdquo;. By this I mean that we wanted to bring people together specifically to accomplish &lt;em&gt;something&lt;/em&gt;. In some sense, we had no agenda because of this. In another sense, we absolutely had an ulterior motive, and a forceful one at that.&lt;/p&gt;
+
+&lt;p&gt;Our initial fieldwork results suggested that there were serious problems with AMT that desperately called for some collective action of some sort. Whether that be a union of Turkers, a labor strike, a letter-writing campaign, or whatever, we got the impression that Turkers were calling for &lt;em&gt;something&lt;/em&gt;. Before you get ahead of yourself, I&amp;rsquo;ll present a qualified view, not entirely dismissing this preconception but neither totally embracing it.&lt;/p&gt;
+
+&lt;p&gt;Our first round of fieldwork suggested &lt;em&gt;really&lt;/em&gt; strongly that there was a single actor in the AMT marketplace who was poisoning the well in some sense by putting out what Turkers call &lt;a href=&quot;#pennyHIT&quot;&gt;penny HITs&lt;/a&gt;. By itself, in a totally naive environment, this really wouldn&amp;rsquo;t be that big a deal; he pays too little, some people aren&amp;rsquo;t willing to do that much work for $0.25, but some people &lt;em&gt;are&lt;/em&gt;, so those that are willing will do his work and those that are not will go do other tasks. Everyone wins (except the Turkers who do his work, but they&amp;rsquo;re happy digging their grave. Or so the argument goes).&lt;/p&gt;
+
+&lt;p&gt;Not quite so. In practice, these &lt;a href=&quot;#HIT&quot;&gt;HITs&lt;/a&gt; and others set a standard - a norm - in the marketplace, so that even academic researchers (whom we generally regard as being paragons of ethical behavior, justified or not) were paying workers poorly; the market had become one for &lt;a href=&quot;http://www.iei.liu.se/nek/730g83/artiklar/1.328833/AkerlofMarketforLemons.pdf&quot;&gt;lemons&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So we thought that a demonstration for this and other HIT requesters would give them the necessary push to show that  &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Turkers are not to be trifled with  &lt;/li&gt;
+  &lt;li&gt;Turkers are human beings  &lt;/li&gt;
+  &lt;li&gt;Turkers ought to be treated with basic respect and decency&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Our plan was to help Turkers stage a labor protest; they would do &lt;em&gt;bad&lt;/em&gt; work intentionally, in a systematically defined way, so that all of the work a requester solicited would be unusable. This was the idea &lt;strong&gt;we&lt;/strong&gt; came up with, bridging some gaps between online and offline labor markets, dynamics, and politics.&lt;/p&gt;
+
+&lt;p&gt;Turkers were not enthusiastic with our idea. In fact, more accurately, they hated it with a passion I haven&amp;rsquo;t seen in a while. So we went back to the drawing board for a bit.&lt;/p&gt;
+
+&lt;p&gt;Eventually, we realized that we didn&amp;rsquo;t know anything (one could argue that I should&amp;rsquo;ve known this for quite a while, but I didn&amp;rsquo;t know anything; also, I digress), so we figured that we should just let Turkers come up with their own actions. While this was on one hand more practical than designing our own perfect campaign, it was more importantly a truer representation of homegrown &lt;strong&gt;collective action&lt;/strong&gt;, which was becoming the focal point of our research.&lt;/p&gt;
+
+&lt;p&gt;I won&amp;rsquo;t bore you with many more details - and frankly I find more and more that I don&amp;rsquo;t have time for them - but of note we have a few things which I think are worth patting ourselves on the back:  &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We came up with a guideline of ethical research protocols developed by the community to which these guidelines are relevant.  &lt;/li&gt;
+  &lt;li&gt;We got some serious buy-in from researchers in the HCI community (including, but not limited to, Don Norman of UCSD).  &lt;/li&gt;
+  &lt;li&gt;We learned a &lt;em&gt;lot&lt;/em&gt; about online workers, online labor markets, and online communities in general. I genuinely feel more confident about community design and building now than I ever did before.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now that we&amp;rsquo;ve submitted our paper to a conference (deadline was on my birthday, so that was fun&amp;hellip;), I&amp;rsquo;m moving on to my own project, of my own design, with no conference deadline in immediate sight: I&amp;rsquo;m going to try and build a new type of online labor marketplace, where the workers set their own rules and norms, including things like minimum wage, what sorts of work they&amp;rsquo;ll do, and other factors. My hope is that this will return some of the leverage Amazon puts in the requester&amp;rsquo;s hands back to the workers themselves. Ideally, there should be as equal a playing field as possible, rather than one that&amp;rsquo;s exploitative of workers. If this all pans out, it just might be.&lt;/p&gt;
+
+&lt;h4&gt;Glossary:&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a name=&quot;HIT&quot;&gt;&lt;/a&gt;HIT: Human Intelligence Task (essentially, a work task) &lt;/li&gt;
+  &lt;li&gt;&lt;a name=&quot;pennyHIT&quot;&gt;&lt;/a&gt;penny HIT: A cheap HIT, often one not worth the time to complete it. For example, a HIT that pays $1 for 5 minutes of work does not seem to be considered a &amp;ldquo;penny HIT&amp;rdquo;, but a $1 HIT that takes 10 or 20 minutes to complete would fall squarely into &amp;ldquo;penny HIT&amp;rdquo; category&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    <summary type="html">&lt;p&gt;Over the past several months I&amp;rsquo;ve been working on a project involving &lt;a href=&quot;https://www.mturk.com&quot;&gt;Amazon Mechanical Turk&lt;/a&gt; (henceforth AMT), a fascinating online labor market for &amp;ldquo;micro-labor&amp;rdquo;. Some researchers have done the whole &lt;a href=&quot;http://www.cs.cmu.edu/~jbigham/posts/2014/half-workday-as-turker.html&quot;&gt;crash course ethnographic thing&lt;/a&gt;, but for the most part research of online labor has taken a look from a step back (as &lt;a href=&quot;http://john-joseph-horton.com/papers/online_labor_markets.pdf&quot;&gt;Horton&lt;/a&gt;, &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1869100&quot;&gt;Silberman et al.&lt;/a&gt;, and &lt;a href=&quot;http://john-joseph-horton.com/papers/futureofcrowdwork-cscw2013.pdf&quot;&gt;others&lt;/a&gt; have done).&lt;/p&gt;
+
+</summary>
+  </entry>
+  
+  <entry>
+    
+    <id>http://ali-alkhatib.com/blog/qs-thesis-finally.html</id>
+    
+    <title type="html">QS Thesis (finally)</title>
+    <updated>2014-07-20T00:00:00-07:00</updated>
+    <link rel="alternate" href="http://ali-alkhatib.com/blog/qs-thesis-finally.html"/>
+    <content type="html">&lt;p&gt;After getting some feedback from my advisor I&amp;rsquo;m pretty sure I&amp;rsquo;m ready to put this out there&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Take a look at my &lt;a href=&quot;//www.academia.edu/8715029/Quantified_Self_Anthropology_Undergraduate_Thesis_&quot;&gt;Quantified Self thesis&lt;/a&gt;, which I completed as part of the honors program in Anthropology at UC Irvine.&lt;/p&gt;
+</content>
+    <summary type="html">&lt;p&gt;After getting some feedback from my advisor I&amp;rsquo;m pretty sure I&amp;rsquo;m ready to put this out there&amp;hellip;&lt;/p&gt;
+
+</summary>
+  </entry>
+  
+</feed>
