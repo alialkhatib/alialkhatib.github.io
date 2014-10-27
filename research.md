@@ -6,7 +6,7 @@ blurb: |
 ---
 
 
-This isn't a comprehensive list of the research that I've been up to, but probably more of a list of highlights of some of the research I've been involved with:
+This isn't a comprehensive list of what I've been up to; it's more of a list of highlights of some of the research I've been involved with.
 
 ### We Are Dynamo
 Abstract: By lowering the costs of communication, the web promises to enable distributed communities to act collectively around issues that they face. However, many collective action efforts never succeed: while the web’s affordances make it easy to gather, these same decentralizing characteristics challenge any focus towards action. In this paper, we study challenges to collective action efforts through the lens of online labor by engaging with Amazon Mechanical Turk workers. Through a year of ethnographic fieldwork, we sought to understand online workers’ unique barriers to collective action. We then created Dynamo, a platform to support the Mechanical Turk community in forming publics around issues and then mobilizing. We found that collective action publics tread a precariously narrow path between the twin perils of stalling and friction, balancing with each step between losing momentum and flaring into acrimony. However, specially structured labor to maintain efforts' forward motion can help such publics take action.
