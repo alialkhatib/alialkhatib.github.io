@@ -1,0 +1,13 @@
+#${GREEN}                 ###
+#${GREEN}               ####                   $userText $user
+#${GREEN}               ###                    $hostnameText $hostname
+#${GREEN}       #######    #######             $distroText $distro
+#${YELLOW}     ######################           $kernelText $kernel
+#${YELLOW}    #####################             $uptimeText $uptime
+#${RED}    ####################              $shellText $shell
+#${RED}    ####################              $terminalText $terminal
+#${RED}    #####################             $packagehandlerText $packagehandler
+#${PURPLE}     ######################           $cpuText $cpu
+#${PURPLE}      ####################            $memoryText $ram
+#${BLUE}        ################              $diskText $disk
+#${BLUE}         ####     ##### ${normal}
