@@ -7,7 +7,7 @@ categories:
 ---
 About a week ago I deactivated my Facebook account. I went through the whole process of disabling all of the hapless shit Facebook does to keep me tied in (the periodic emails, the notification emails in case my friends say stuff I might care about, etc...) and entered the confirmation code, and that was that.
 
-<a href="http://ali-alkhatib.com/content/Screen-Shot-2013-09-06-at-10.33.28-AM.png" rel="attachment wp-att-104"><img src="http://ali-alkhatib.com/content/Screen-Shot-2013-09-06-at-10.33.28-AM.png" alt="" title="screen-shot-2013-09-06-at-10-33-28-am-png" class="alignnone size-full wp-image-104" /></a>
+<a href="//ali-alkhatib.com/content/Screen-Shot-2013-09-06-at-10.33.28-AM.png" rel="attachment wp-att-104"><img src="//ali-alkhatib.com/content/Screen-Shot-2013-09-06-at-10.33.28-AM.png" alt="" title="screen-shot-2013-09-06-at-10-33-28-am-png" class="alignnone size-full wp-image-104" /></a>
 
 How often do I see the Facebook login screen? Not very.
 

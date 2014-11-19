@@ -14,10 +14,10 @@ Actually, come to think of it, we see a bit of a spike in crimes around 8pm, 12p
 
 I've done some other data visualization stuff with R, a little bit of Photoshop and Illustrator, and lots of frustrated tinkering, but it falls into the "neat, but so what?" bin:
 
-![crime plotted](http://ali-alkhatib.com/content/1.png.scaled.1000.jpg)
+![crime plotted](//ali-alkhatib.com/content/1.png.scaled.1000.jpg)
 
 and
 
-![smaller categories](http://ali-alkhatib.com/content/2.png.scaled.1000.jpg)
+![smaller categories](//ali-alkhatib.com/content/2.png.scaled.1000.jpg)
 
 I need to get back to work on the stuff I'm actually assigned. Maybe I'll post about that stuff this week.

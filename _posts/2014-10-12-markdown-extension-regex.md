@@ -9,7 +9,7 @@ First, the part you probably care about (a regex pattern to identify Markdown fi
 
 Okay, let's begin...
 
-Recently I was avoiding some work with a personal project and I realized that I needed to find all of the Markdown files in a directory. I use `.md` consistently in my own projects, but I'm sure in collaborative settings (or indeed across projects) the file extension differs significantly. Indeed, [this StackOverflow question](http://superuser.com/questions/249436/file-extension-for-markdown-files) suggested half a dozen file extensions.
+Recently I was avoiding some work with a personal project and I realized that I needed to find all of the Markdown files in a directory. I use `.md` consistently in my own projects, but I'm sure in collaborative settings (or indeed across projects) the file extension differs significantly. Indeed, [this StackOverflow question](//superuser.com/questions/249436/file-extension-for-markdown-files) suggested half a dozen file extensions.
 
 I didn't do much looking (and in hindsight, I should do that at some point to check my answer) before I decided to write up the pattern for a Markdown extension myself based on the accepted answer. I could (perhaps should) have used the canonical Markdown source on what extensions should be used, but
 
@@ -20,7 +20,7 @@ I think it's a fairly simple pattern as far as regex goes, but that speaks more 
 
 If you want to cry while reading regex patterns, that's fine too. Let's begin:
 
-- `.*\.`...`$`: These are sort of loose ends, so they'll go together, but they serve a single purpose together. `.*\.` means "I'm looking for *any* character in any length (including zero characters) followed by a litteral `.`" (hence the backslash). `$` is a regex special character meaning "end of string". It might be unique in Python's implementation of regex (although I doubt it) that in *multiline* strings, `$` means "end of line". Worth knowing, and as an aside if you want to search multiple lines there's [a way to do that](https://docs.python.org/3.4/library/re.html#re.M).
+- `.*\.`...`$`: These are sort of loose ends, so they'll go together, but they serve a single purpose together. `.*\.` means "I'm looking for *any* character in any length (including zero characters) followed by a litteral `.`" (hence the backslash). `$` is a regex special character meaning "end of string". It might be unique in Python's implementation of regex (although I doubt it) that in *multiline* strings, `$` means "end of line". Worth knowing, and as an aside if you want to search multiple lines there's [a way to do that](//docs.python.org/3.4/library/re.html#re.M).
 - `(m`...`|text)` - this means "I'm either looking for `m`+whatever weird extras I ask for, or `text`"
 - `(?:`...`)` - given the previous option (between `m` and `text`), if we're going down the `m` path then you need to find something matching in this group. The `?:` modifier tells the engine not to capture it as its own "group". As far as I can tell, this isn't really that important except that retaining groups from these little bits and pieces is unnecessary, so why bother?
 - `d`...`|arkdown|kdn?` - I'm lumping things together so this post doesn't go forever. I'm either looking for `d` or `arkdown` (forming `markdown`, thanks to that previous `m`), or `kdn` (again, forming `mkdn`). Here it's becoming clearer to me that we could've made this slightly more concise. I might revisit it later.

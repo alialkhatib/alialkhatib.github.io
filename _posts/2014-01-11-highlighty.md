@@ -18,8 +18,8 @@ So I thought about using something like Mechanical Turk. I don't know if you've 
 
 ## something
 
-I'll cut to the chase: I wrote a little web app in Javascript - a language I *mostly* learned last quarter (but had been hacking around with since last year) to identify and highlight words I was using too often. You can play with it [here](http://ali-alkhatib.com/projects/highlighty).  
-![screenshot of highlighty](http://ali-alkhatib.com/projects/highlighty/thumb.png)
+I'll cut to the chase: I wrote a little web app in Javascript - a language I *mostly* learned last quarter (but had been hacking around with since last year) to identify and highlight words I was using too often. You can play with it [here](//ali-alkhatib.com/projects/highlighty).  
+![screenshot of highlighty](//ali-alkhatib.com/projects/highlighty/thumb.png)
 
 It's still very much in progress, but I like the general thrust of its outcome. There are still some things I'd really like it to do:
 
@@ -28,7 +28,7 @@ It's still very much in progress, but I like the general thrust of its outcome. 
 *   stemming - I know, it doesn't do this and that's kind of a big deal.
 *   phrase-finding - while using the word "precipitate" (or various tenses of it) is itself kind of bad, I'd be *seriously* alarmed if the entire phrase "precipitated this outcome" showed up even twice. I want to spot those phrases and bring **those** to the attention of a writer right away. That example would require 3-gram analysis, but this script only deals with 1-grams. Obviously, I'd want to go up as high as 5-gram or more (dependent on how intensive this is on the processor (partly dependent on how efficiently I code it)).
 
-This has been kind of an interesting endeavor, not the least of which because it substantively took away from time I should have spent working on my last grad app (due January 1st), but also because it turned out I would be writing a text analysis engine in [an Informatics course this quarter](http://www.ics.uci.edu/~djp3/classes/2014_01_INF141/structure.html).
+This has been kind of an interesting endeavor, not the least of which because it substantively took away from time I should have spent working on my last grad app (due January 1st), but also because it turned out I would be writing a text analysis engine in [an Informatics course this quarter](//www.ics.uci.edu/~djp3/classes/2014_01_INF141/structure.html).
 
 ## Long term
 

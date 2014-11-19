@@ -74,19 +74,19 @@ So those are my suggestions. Jawbone should continue to lead in design (even if 
 
 Whether Jawbone has the interest or the courage to turn its device into a shell and to relinquish control over so much of its functionality and output is certainly questionable. Whether any company would ever immediately gravitate toward that position after having maintained an opposite position for any amount of time is unclear. But if Jawbone *can* do it, they can undercut even the big players like Apple by creating a device that works *just as well* for most users as an Apple Watch does, with the added benefit of *potential* to do even more if someone just thinks up the use and codes it up.
 
-[0]: http://www.fitbit.com/
-[1]: http://en.wikipedia.org/wiki/Nike%2B_FuelBand
-[2]: https://jawbone.com/up
-[3]: https://www.fitbit.com/surge
-[4]: http://en.wikipedia.org/wiki/Apple_Watch
-[5]: http://www.microsoft.com/microsoft-band/en-us
-[6]: http://en.wikipedia.org/wiki/Samsung_Galaxy_Gear
-[7]: http://thenextweb.com/gadgets/2014/10/16/will-introduces-wearable-puls/
-[8]: http://en.wikipedia.org/wiki/Moto_360
-[9]: http://en.wikipedia.org/wiki/Spray_and_pray
-[10]: http://mobihealthnews.com/28566/fitbit-shipped-the-most-activity-trackers-in-2013/
-[11]: http://pando.com/tag/healbe/
-[12]: http://jawbone.com/store/buy/up3
-[13]: http://en.wikipedia.org/wiki/Sleep_inertia
-[14]: https://developers.google.com/fit/
-[15]: https://www.apple.com/ios/whats-new/health/
+[0]: //www.fitbit.com/
+[1]: //en.wikipedia.org/wiki/Nike%2B_FuelBand
+[2]: //jawbone.com/up
+[3]: //www.fitbit.com/surge
+[4]: //en.wikipedia.org/wiki/Apple_Watch
+[5]: //www.microsoft.com/microsoft-band/en-us
+[6]: //en.wikipedia.org/wiki/Samsung_Galaxy_Gear
+[7]: //thenextweb.com/gadgets/2014/10/16/will-introduces-wearable-puls/
+[8]: //en.wikipedia.org/wiki/Moto_360
+[9]: //en.wikipedia.org/wiki/Spray_and_pray
+[10]: //mobihealthnews.com/28566/fitbit-shipped-the-most-activity-trackers-in-2013/
+[11]: //pando.com/tag/healbe/
+[12]: //jawbone.com/store/buy/up3
+[13]: //en.wikipedia.org/wiki/Sleep_inertia
+[14]: //developers.google.com/fit/
+[15]: //www.apple.com/ios/whats-new/health/

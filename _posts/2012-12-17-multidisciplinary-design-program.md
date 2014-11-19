@@ -7,7 +7,7 @@ posterous_aef3040f45df4620aa487475e2845672_post_id:
 - 172182765
 posterous_aef3040f45df4620aa487475e2845672_permalink:
 
-- http://ali-alkhatib.posterous.com/multidisciplinary-design-program
+- //ali-alkhatib.posterous.com/multidisciplinary-design-program
 categories:
 
 - Uncategorized

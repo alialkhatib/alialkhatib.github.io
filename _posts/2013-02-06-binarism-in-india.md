@@ -5,7 +5,7 @@ layout: post
 posterous_aef3040f45df4620aa487475e2845672_post_id:
   - 175039362
 posterous_aef3040f45df4620aa487475e2845672_permalink:
-  - http://ali-alkhatib.posterous.com/binarism-in-india
+  - //ali-alkhatib.posterous.com/binarism-in-india
 categories:
   - India
 tags:

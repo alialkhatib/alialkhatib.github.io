@@ -5,7 +5,7 @@ layout: post
 posterous_aef3040f45df4620aa487475e2845672_post_id:
   - 157435140
 posterous_aef3040f45df4620aa487475e2845672_permalink:
-  - http://ali-alkhatib.posterous.com/social-structure
+  - //ali-alkhatib.posterous.com/social-structure
 categories:
   - Uncategorized
 tags:
@@ -42,11 +42,11 @@ I've been pretty fortunate with my first quarter at UC Irvine, particularly in t
 **
 
 **
-  PandoDaily recently ran a <a href="http://pandodaily.com/2012/08/27/big-data-be-damned-the-web-still-needs-a-human-touch/">story</a> which raised this point: so we have big data, a big industry with big hotshots doing impressive stuff with petabytes of information on us. This magnitude of information is simply too much to throw tactics at haphazardly. You need to figure out what questions (and equally importantly, how) you'll ask that data.
+  PandoDaily recently ran a <a href="//pandodaily.com/2012/08/27/big-data-be-damned-the-web-still-needs-a-human-touch/">story</a> which raised this point: so we have big data, a big industry with big hotshots doing impressive stuff with petabytes of information on us. This magnitude of information is simply too much to throw tactics at haphazardly. You need to figure out what questions (and equally importantly, how) you'll ask that data.
 **
 
 **
-  Ars Technica published a less immediately relevant <a href="http://arstechnica.com/features/2012/08/why-your-smart-device-cant-get-wifi-in-the-home-teams-stadium/">article</a>, but with much of the same undertones. The challenges these engineers face with serving tens of thousands of users regularly (and simultaneously) is unfathomable. That said, this is practically the dictionary definition of Cultural Anthropology's use-of-space observation method. What better way to resolve a technically confounding problem than by finding human patterns which can allow engineers to focus resources on the right places (both literally in this case, but also figuratively).
+  Ars Technica published a less immediately relevant <a href="//arstechnica.com/features/2012/08/why-your-smart-device-cant-get-wifi-in-the-home-teams-stadium/">article</a>, but with much of the same undertones. The challenges these engineers face with serving tens of thousands of users regularly (and simultaneously) is unfathomable. That said, this is practically the dictionary definition of Cultural Anthropology's use-of-space observation method. What better way to resolve a technically confounding problem than by finding human patterns which can allow engineers to focus resources on the right places (both literally in this case, but also figuratively).
 **
 
 **
