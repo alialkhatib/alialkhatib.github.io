@@ -17,7 +17,7 @@ There used to be a section here about my common tools, but they've been shifting
 - reasonable to learn
 - (bonus) interesting and new
 
-There might be some stuff in my [blog](/blog) about current projects, but there might not. (the whole point is that I'm working and *not* blogging, right?)
+There might be some stuff in my [blog](/blog/) about current projects, but there might not. (the whole point is that I'm working and *not* blogging, right?)
 
 I keep a frequently updated public wishlist on Amazon for books I'd really like to read. If you'd like to grab my attention, [buy me a book](//amzn.com/w/26BOYXJ3IHQKJ) instead of coffee.
 
