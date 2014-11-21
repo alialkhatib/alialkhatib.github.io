@@ -9,7 +9,7 @@ I'm a part of the HCI group (but I'm rotating each quarter, as per the [first-ye
 
 Previously I was at UC Irvine, where I earned my B.A. in Anthropology & B.S. in Informatics, specializing in Human-Computer Interaction.
 
-My senior honors thesis was on [Quantified Self](/presentations/QSThesisFinal.pdf), and my advisor was [Tom Boellstorff]().
+My senior honors thesis was on [Quantified Self](/presentations/QSThesisFinal.pdf), and my advisor was [Tom Boellstorff](http://faculty.sites.uci.edu/boellstorff/).
 
 There used to be a section here about my common tools, but they've been shifting around a lot lately; suffice it to say that I use whatever tools are:
 
