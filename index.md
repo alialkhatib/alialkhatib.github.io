@@ -5,7 +5,7 @@ Hi, that's me.
 
 I'm a PhD student in the Computer Science department at Stanford University.
 
-I'm a part of the HCI group (but I'm rotating each quarter, as per the [first-year rotation program](http://cs.stanford.edu/content/first-year-research-rotation-program)). My last project was [Dynamo](//www.wearedynamo.org), a platform to facilitate collective action.
+I'm a part of the HCI group (but I'm rotating each quarter, as per the [first-year rotation program](http://cs.stanford.edu/content/first-year-research-rotation-program)). My last project was [Dynamo](http://www.wearedynamo.org), a platform to facilitate collective action.
 
 Previously I was at UC Irvine, where I earned my B.A. in Anthropology & B.S. in Informatics, specializing in Human-Computer Interaction.
 
