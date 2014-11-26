@@ -2,7 +2,7 @@
 title: Research
 layout: longy
 blurb: |
-    "Anthro Hacker"
+*"Anthro Hacker"*
 ---
 
 
