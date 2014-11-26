@@ -10,8 +10,8 @@
         <!-- <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"> -->
         <!-- <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'> -->
         <!-- <link href='http://fonts.googleapis.com/css?family=PT+Sans:400' rel='stylesheet' type='text/css'> -->
-        <link rel="stylesheet" href="http://ali-alkhatib.com/media/main.css">
-        <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://ali-alkhatib.com/media/main.css">
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
         
         <!-- <link rel="alternate" type="application/rss+xml" href="/blog.xml" title="Atom"> -->
 
@@ -53,7 +53,7 @@
 
 <p>Okay, let&rsquo;s begin&hellip;</p>
 
-<p>Recently I was avoiding some work with a personal project and I realized that I needed to find all of the Markdown files in a directory. I use <code>.md</code> consistently in my own projects, but I&rsquo;m sure in collaborative settings (or indeed across projects) the file extension differs significantly. Indeed, <a href="http://superuser.com/questions/249436/file-extension-for-markdown-files">this StackOverflow question</a> suggested half a dozen file extensions.</p>
+<p>Recently I was avoiding some work with a personal project and I realized that I needed to find all of the Markdown files in a directory. I use <code>.md</code> consistently in my own projects, but I&rsquo;m sure in collaborative settings (or indeed across projects) the file extension differs significantly. Indeed, <a href="//superuser.com/questions/249436/file-extension-for-markdown-files">this StackOverflow question</a> suggested half a dozen file extensions.</p>
 
 <p>I didn&rsquo;t do much looking (and in hindsight, I should do that at some point to check my answer) before I decided to write up the pattern for a Markdown extension myself based on the accepted answer. I could (perhaps should) have used the canonical Markdown source on what extensions should be used, but</p>
 
@@ -67,7 +67,7 @@
 <p>If you want to cry while reading regex patterns, that&rsquo;s fine too. Let&rsquo;s begin:</p>
 
 <ul>
-  <li><code>.*\.</code>&hellip;<code>$</code>: These are sort of loose ends, so they&rsquo;ll go together, but they serve a single purpose together. <code>.*\.</code> means &ldquo;I&rsquo;m looking for <em>any</em> character in any length (including zero characters) followed by a litteral <code>.</code>&rdquo; (hence the backslash). <code>$</code> is a regex special character meaning &ldquo;end of string&rdquo;. It might be unique in Python&rsquo;s implementation of regex (although I doubt it) that in <em>multiline</em> strings, <code>$</code> means &ldquo;end of line&rdquo;. Worth knowing, and as an aside if you want to search multiple lines there&rsquo;s <a href="https://docs.python.org/3.4/library/re.html#re.M">a way to do that</a>.</li>
+  <li><code>.*\.</code>&hellip;<code>$</code>: These are sort of loose ends, so they&rsquo;ll go together, but they serve a single purpose together. <code>.*\.</code> means &ldquo;I&rsquo;m looking for <em>any</em> character in any length (including zero characters) followed by a litteral <code>.</code>&rdquo; (hence the backslash). <code>$</code> is a regex special character meaning &ldquo;end of string&rdquo;. It might be unique in Python&rsquo;s implementation of regex (although I doubt it) that in <em>multiline</em> strings, <code>$</code> means &ldquo;end of line&rdquo;. Worth knowing, and as an aside if you want to search multiple lines there&rsquo;s <a href="//docs.python.org/3.4/library/re.html#re.M">a way to do that</a>.</li>
   <li><code>(m</code>&hellip;<code>|text)</code> - this means &ldquo;I&rsquo;m either looking for <code>m</code>+whatever weird extras I ask for, or <code>text</code>&rdquo;</li>
   <li><code>(?:</code>&hellip;<code>)</code> - given the previous option (between <code>m</code> and <code>text</code>), if we&rsquo;re going down the <code>m</code> path then you need to find something matching in this group. The <code>?:</code> modifier tells the engine not to capture it as its own &ldquo;group&rdquo;. As far as I can tell, this isn&rsquo;t really that important except that retaining groups from these little bits and pieces is unnecessary, so why bother?</li>
   <li><code>d</code>&hellip;<code>|arkdown|kdn?</code> - I&rsquo;m lumping things together so this post doesn&rsquo;t go forever. I&rsquo;m either looking for <code>d</code> or <code>arkdown</code> (forming <code>markdown</code>, thanks to that previous <code>m</code>), or <code>kdn</code> (again, forming <code>mkdn</code>). Here it&rsquo;s becoming clearer to me that we could&rsquo;ve made this slightly more concise. I might revisit it later.</li>

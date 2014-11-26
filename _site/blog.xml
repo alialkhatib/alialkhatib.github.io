@@ -1,28 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://ali-alkhatib.com//</id>
+  <id>https://ali-alkhatib.com//</id>
   <title>Ali Alkhatib</title>
-  <updated>2014-10-26T20:16:43-07:00</updated>
-  <link rel="alternate" href="http://ali-alkhatib.com/"/>
-  <link rel="self" href="http://ali-alkhatib.com/blog.xml"/>
+  <updated>2014-11-26T10:00:44-08:00</updated>
+  <link rel="alternate" href="https://ali-alkhatib.com/"/>
+  <link rel="self" href="https://ali-alkhatib.com/blog.xml"/>
   <author>
     <name>Ali Alkhatib</name>
-    <uri>http://ali-alkhatib.com/</uri>
+    <uri>https://ali-alkhatib.com/</uri>
   </author>
   
   
   <entry>
     
-    <id>http://ali-alkhatib.com/blog/markdown-extension-regex.html</id>
+    <id>https://ali-alkhatib.com/blog/jawbone-and-the-future-of-qs.html</id>
+    
+    <title type="html">Jawbone and the Future of QS</title>
+    <updated>2014-11-05T00:00:00-08:00</updated>
+    <link rel="alternate" href="https://ali-alkhatib.com/blog/jawbone-and-the-future-of-qs.html"/>
+    <content type="html">&lt;p&gt;A few days ago Jawbone announced a new revision of their activity tracker called the UP. This one is called the &lt;a href=&quot;//jawbone.com/store/buy/up3&quot;&gt;UP3&lt;/a&gt; and as you can probably imagine, it&amp;rsquo;s their third generation device. I used their second generation device - the UP24 - for a number of months while studying the culture of Quantified Self (at this point linked enough times that I&amp;rsquo;ll just say &amp;ldquo;google it&amp;rdquo; if you want to read it), and I think that from that perspective I have some insight into the sorts of things they need to do to remain true to their QS roots, gain some budding self-quantifiers, and win precious wrist-space from new and old competitors.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to try to make my post answer the following questions in order:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Who are the competitors?&lt;/li&gt;
+  &lt;li&gt;What do they offer?&lt;/li&gt;
+  &lt;li&gt;What does Jawbone need to offer?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Let&amp;rsquo;s get started.&lt;/p&gt;
+
+&lt;h2&gt;Who are the competitors?&lt;/h2&gt;
+&lt;p&gt;The thesis of this section is essentially that Jawbone can&amp;rsquo;t afford to mess around like it used to be able to given the competition it faces today. If you agree with this contention but don&amp;rsquo;t care much either way, you can skip to the next section. If you&amp;rsquo;re not sold, feel free to read on. If you&amp;rsquo;re in passionate agreement with me on this, then maybe you&amp;rsquo;ll enjoy reading about how &lt;em&gt;right&lt;/em&gt; you are. I dunno.&lt;/p&gt;
+
+&lt;p&gt;Things have heated up a little bit since I wrote my QS thesis, but it&amp;rsquo;s been quantitative rather than qualitative (I&amp;rsquo;m so, so sorry). When I was doing my fieldwork, &lt;a href=&quot;//www.fitbit.com/&quot;&gt;Fitbit&lt;/a&gt;, &lt;a href=&quot;//en.wikipedia.org/wiki/Nike%2B_FuelBand&quot;&gt;Nike&lt;/a&gt;, and &lt;a href=&quot;//jawbone.com/up&quot;&gt;Jawbone&lt;/a&gt; represented the major players. With the exception of Jawbone&amp;rsquo;s devices (the UP and the UP24), virtually all of these companies&amp;rsquo; wristbands offered some sort of face display, but otherwise their features were mostly the same. If I remember correctly, only Jawbone&amp;rsquo;s UP/24 offered fine-grained sleep tracking, which was why I went with it at the time.&lt;/p&gt;
+
+&lt;p&gt;Things have changed since then. Fitbit has more robust wristbands like the &lt;a href=&quot;//www.fitbit.com/surge&quot;&gt;Surge&lt;/a&gt; coming out &amp;ldquo;soon&amp;rdquo; (as of this writing), Apple&amp;rsquo;s &lt;a href=&quot;//en.wikipedia.org/wiki/Apple_Watch&quot;&gt;Watch&lt;/a&gt; is slated for - er, well, &amp;ldquo;soon&amp;rdquo; as well, Microsoft has announced (and, shockingly, &lt;em&gt;already&lt;/em&gt; started shipping) their &lt;a href=&quot;//www.microsoft.com/microsoft-band/en-us&quot;&gt;Band&lt;/a&gt;, and Samsung has their &lt;a href=&quot;//en.wikipedia.org/wiki/Samsung_Galaxy_Gear&quot;&gt;Gear (and assorted products)&lt;/a&gt; cluttering the market, bless their souls. Just for shits and giggles, we should also include Google/Motorola&amp;rsquo;s &lt;a href=&quot;//en.wikipedia.org/wiki/Moto_360&quot;&gt;Moto 360&lt;/a&gt;, which is admittedly gorgeous but right at the outer limit of what I would call an &amp;ldquo;activity tracker&amp;rdquo;. Still, it&amp;rsquo;s a viable candidate for &amp;ldquo;things that go on your wrist&amp;rdquo;, and I doubt more than 2% of the population will ever even consider wearing two smart items on their wrist, so if it&amp;rsquo;s the Moto 360 then it sure as heck won&amp;rsquo;t be next to a Jawbone or anything else.&lt;/p&gt;
+
+&lt;p&gt;Oh, and Will.I.Am has the &lt;a href=&quot;//thenextweb.com/gadgets/2014/10/16/will-introduces-wearable-puls/&quot;&gt;Puls&lt;/a&gt; (also not an activity tracker &lt;em&gt;per se&lt;/em&gt;, but damn near everything else as it seems to make calls without a phone connected to it). I really hope that someday we look back and acknowledge how ridiculous things were getting right around now.&lt;/p&gt;
+
+&lt;p&gt;So Jawbone is not in a three-way duel or even a two-way duel (as was effectively the case) anymore. Fitbit has gained in popularity, &lt;a href=&quot;//mobihealthnews.com/28566/fitbit-shipped-the-most-activity-trackers-in-2013/&quot;&gt;shipping some 60% of the fitness trackers in 2013&lt;/a&gt;, and general-purpose heavyweights like Samsung, Microsoft, Apple, and Google threaten to acquire or otherwise eclipse the landscape. I don&amp;rsquo;t believe it&amp;rsquo;s an exaggeration to say that Microsoft has cavalierly hemorrhaged more money than Jawbone is even worth. If it came down to it, any of the heavyweights could hold their breath and keep flooding the market just for the purpose of achieving marketshare. I think the only thing preventing them from doing it (aside from poor business sense, and the fact that I think Samsung maybe &lt;em&gt;is&lt;/em&gt; doing it), is the fact that the other major players would get into a war of attrition if they started saturating the market with self-cannibalizing devices. Each needs to come up with one - maybe two - good candidates and lead with them. Apple has done it, Microsoft seems to be doing it, even Google is putting its weight behind only a small handful of Samsung and Motorola devices (although the nature of their role in Android prevents them from doing anything but tacitly accepting Samsung&amp;rsquo;s &lt;a href=&quot;//en.wikipedia.org/wiki/Spray_and_pray&quot;&gt;spray&amp;rsquo;n&amp;rsquo;pray&lt;/a&gt; approach).&lt;/p&gt;
+
+&lt;h2&gt;What do these competitors offer?&lt;/h2&gt;
+&lt;p&gt;Broadly speaking, wristband devices these days are focusing on extending the use case supported by smartphones. To be more concrete, they&amp;rsquo;re giving you very immediate access to things you might do on your phone (checking time and messages, maybe writing a very quick reply, etc.). In addition to these functions, a lot of these devices are taking to tracking your motion, heart rate, and other quantifiable details. I genuinely believe that this data will soon become a core aspect of the lives of people affluent enough to own smartphones and these wristband devices. Whether it benefits less affluent people remains to be seen, and I can see it going in practically any direction (BP has been testing this idea of tracking its employees&amp;rsquo; activity to lower health care premiums and get them to lose weight; that&amp;rsquo;s great, but gets into a more complex form of Taylorism or Panopticon stuff that I think people should be wary of, and this is pretending that government bodies take no interest in the living quantitative data that their citizens are generating).&lt;/p&gt;
+
+&lt;p&gt;I digress. The point is that somewhat clear broader functions emerge when you consider the smart watch and activity tracker market in larger scope:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;tracking activity (including, in some cases, sleep)&lt;/li&gt;
+  &lt;li&gt;nutrition and health tracking (with &lt;a href=&quot;//pando.com/tag/healbe/&quot;&gt;dubious results&lt;/a&gt; thus far)&lt;/li&gt;
+  &lt;li&gt;extending smartphone functionality (displaying notifications and other data)&lt;/li&gt;
+  &lt;li&gt;contextual computing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are a few aspects of these functions that need to be sorted out before I think consumers in general will really latch on to these use cases, but these seem to be the primary ways that companies &lt;em&gt;want&lt;/em&gt; consumers to use smart wrist devices these days. I&amp;rsquo;ll get into the solutions in the next major section.&lt;/p&gt;
+
+&lt;h3&gt;So what does Jawbone offer?&lt;/h3&gt;
+&lt;p&gt;Not much, to be honest. Jawbone tracks activity - and does it quite well, actually - but it doesn&amp;rsquo;t accomplish nutrition or health tracking at all (not even heart rate measurements, which these days doesn&amp;rsquo;t seem that hard to incorporate into a device that&amp;rsquo;s constantly touching your skin). With no screen, Jawbone devices have trouble extending smartphone functionality (although it&amp;rsquo;s not impossible, which I&amp;rsquo;ll discuss later). The Jawbone does contextual computing in a loose sense, which is rather cool, in that it will wake you up at the optimal time given the indications your body has made toward what sleep cycle you&amp;rsquo;re in. So if you&amp;rsquo;re about to head into deep sleep but you need to wake up in 20 minutes, Jawbone will wake you up &amp;ldquo;early&amp;rdquo; - rather than late - to ensure that you awaken refreshed, having not been jerked out of deep sleep (which we now know largely &lt;a href=&quot;//en.wikipedia.org/wiki/Sleep_inertia&quot;&gt;causes grogginess&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2&gt;What does Jawbone need to offer?&lt;/h2&gt;
+&lt;p&gt;Jawbone doesn&amp;rsquo;t need to hit every single point above, and my impression is that at this point that would be damn near impossible. Without breaking apart their UP3 band (to which I don&amp;rsquo;t even have access yet :), I can imagine that they&amp;rsquo;ve more or less smashed everything into that space that they possibly can. Barring some limited trade-offs, I&amp;rsquo;m assuming that the hardware design they&amp;rsquo;ve come up with is set in stone. Or Silicon.&lt;/p&gt;
+
+&lt;p&gt;That being said, there are simply &lt;em&gt;use cases&lt;/em&gt; that they could design into the device to start encroaching on devices like the Apple Watch, Samsung Gear, and others. Let&amp;rsquo;s consider them:&lt;/p&gt;
+
+&lt;h3&gt;Tracking activity&lt;/h3&gt;
+&lt;p&gt;Jawbone is good here. Really. They do a great job tracking activity with the exception of bicycling and swimming, and with the UP3&amp;rsquo;s announcement it seems that both will be trackable in the near future with this revised hardware. I ride a bike &lt;em&gt;a lot&lt;/em&gt;, so this is personally exciting news as well.&lt;/p&gt;
+
+&lt;h3&gt;Nutrition and health tracking&lt;/h3&gt;
+&lt;p&gt;This is trickier. Tracking nutrition is basically not going to happen in the hardware. It&amp;rsquo;s medically impossible, so on the bright side Jawbone, Apple, and others actually don&amp;rsquo;t need to worry about some company (like Healbe) coming along and &amp;ldquo;beating them to the punch&amp;rdquo;, since there&amp;rsquo;s no punch. Anyone who claims that they can figure out what you ate - or even the constituent nutrients - from your galvanic skin response or from something else essentially limited to accessing the exterior of your wrist is lying to you. It&amp;rsquo;d be nice if it were true, but it&amp;rsquo;d be nice if we could eliminate world hunger. Actually, that might be more practical.&lt;/p&gt;
+
+&lt;p&gt;That being said, health tracking is certainly doable. Tracking sleep, heart rate, and other superficial criteria of human health is easy, and the UP3 is finally bringing all of this to the table. They need to &lt;em&gt;leverage&lt;/em&gt; it, and they&amp;rsquo;re trying to do that with their coaching app/software, but I don&amp;rsquo;t think Jawbone should waste its time in software. Software engineering is cheaper than hardware engineering, but it&amp;rsquo;s profoundly entrenched and there&amp;rsquo;s really no need to risk that being a failure point that causes people to stop using Jawbone devices. Instead, they should make that data &lt;strong&gt;open access&lt;/strong&gt;. More on this in a bit.&lt;/p&gt;
+
+&lt;h3&gt;Extending smartphone functionality&lt;/h3&gt;
+&lt;p&gt;Here&amp;rsquo;s the trickiest part of Jawbone&amp;rsquo;s problem. See, they&amp;rsquo;ve focused on not building screens into their devices, which is their call to make, but it means that they&amp;rsquo;re fundamentally limited compared even to years-old devices like the Nike FuelBand, which has a crummy but technically usable LED display. With no display, users can&amp;rsquo;t see notifications or interact even superficially without bringing their phones back out.&lt;/p&gt;
+
+&lt;p&gt;All&amp;rsquo;s not lost though. Jawbone UP devices use a very small motor to notify the wearer of all sorts of things, ranging from wake-up time to mode changes to idleness warnings. While this would dramatically impact battery life, Jawbone could open the connection to their wristbands so that very important notifications (perhaps only from trusted apps and services) could feed into the wristband and cause it to vibrate briefly. This gentle nudge would be all most people need to know that the notification is worth checking, and it would provide more nuanced control over notifications than &amp;ldquo;LOUD&amp;rdquo;, &amp;ldquo;vibrate&amp;rdquo;, and &amp;ldquo;Do Not Disturb&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s a lot that could go wrong here. For one thing, app makers could get permission from Jawbone and then go muck it up by spamming their users with notifications. I don&amp;rsquo;t know what viable processes would support approval-revocation, but if nothing comes to mind Jawbone could just mediate the relationship non-stop. It wouldn&amp;rsquo;t be ideal, but it would allow them to retain ultimate control over the device and the data it produces (because let&amp;rsquo;s face it, they want that data just like everyone else).&lt;/p&gt;
+
+&lt;h3&gt;Contextual computing&lt;/h3&gt;
+&lt;p&gt;This is somewhat similar to the previous point. As you enter and exit spaces, do and fail to do certain things, etc. you could get prompted on your wristband to check your phone and see what tip or advice &lt;em&gt;someone&lt;/em&gt; has for you (whether that&amp;rsquo;s Jawbone or some other service).&lt;/p&gt;
+
+&lt;h3&gt;Open access to data&lt;/h3&gt;
+&lt;p&gt;Here&amp;rsquo;s the crucial thing: the smart wristband device market is shaping up to get very competitive, and the best thing Jawbone can do, in my opinion, is to make the device well, continue to support a basic app leveraging some or most of that data, and then provide developers with an API to access the device and collect data at whatever granularity the developer chooses. This would finally allow Jawbone to focus its energy on making wristbands, just making sure that they do the bare minimum by tying into major health tracking services and apps like &lt;a href=&quot;//www.apple.com/ios/whats-new/health/&quot;&gt;Apple&amp;rsquo;s Health&lt;/a&gt; and &lt;a href=&quot;//developers.google.com/fit/&quot;&gt;Google&amp;rsquo;s Fit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If nothing else, Jawbone ought to provide more fine-grain data to developers, requiring them to get permission from their users for the nature and specificity of the data they request, if need be. What matters is that ultimately there should be some way for a concerned or otherwise interested user to get one&amp;rsquo;s own data in the fineness of granularity that Jawbone is able to get. With that in hand, users can start to piece together their own uses without any significant outlay from Jawbone to figure out what works. It&amp;rsquo;s a little simplistic just to say &amp;ldquo;oh the crowd will think of something&amp;rdquo;, but in a highly active, very conscientious community like that of self-quantifiers, it&amp;rsquo;s sufficient to hand wave that aspect away; they really will come up with a use for more granular data.&lt;/p&gt;
+
+&lt;h2&gt;Summing up&lt;/h2&gt;
+&lt;p&gt;So those are my suggestions. Jawbone should continue to lead in design (even if that means taking some funky risks, as they have done in the past) and in simply tracking activity. They should continue to extend on ambient tracking, because major players like the Apple Watch (with its &amp;ldquo;~1 day battery&amp;rdquo; life) could never compete on longevity and ambience. They should get serious about extending smartphone functionality by providing developers access to the device&amp;rsquo;s lower level functions and notifications. But most of all, Jawbone should seriously consider turning its device into a platform, opening access to its data (and maybe even allowing changes to its functionality). By doing that, they&amp;rsquo;ll turn the Jawbone UP into a whole ecosystem that appeals to the long tail of bizarre users and use cases, creating a dominant collective marketshare and hopefully ultimately gaining the marketshare of the short tail consumers as well.&lt;/p&gt;
+
+&lt;p&gt;Whether Jawbone has the interest or the courage to turn its device into a shell and to relinquish control over so much of its functionality and output is certainly questionable. Whether any company would ever immediately gravitate toward that position after having maintained an opposite position for any amount of time is unclear. But if Jawbone &lt;em&gt;can&lt;/em&gt; do it, they can undercut even the big players like Apple by creating a device that works &lt;em&gt;just as well&lt;/em&gt; for most users as an Apple Watch does, with the added benefit of &lt;em&gt;potential&lt;/em&gt; to do even more if someone just thinks up the use and codes it up.&lt;/p&gt;
+
+</content>
+    <summary type="html">&lt;p&gt;A few days ago Jawbone announced a new revision of their activity tracker called the UP. This one is called the &lt;a href=&quot;//jawbone.com/store/buy/up3&quot;&gt;UP3&lt;/a&gt; and as you can probably imagine, it&amp;rsquo;s their third generation device. I used their second generation device - the UP24 - for a number of months while studying the culture of Quantified Self (at this point linked enough times that I&amp;rsquo;ll just say &amp;ldquo;google it&amp;rdquo; if you want to read it), and I think that from that perspective I have some insight into the sorts of things they need to do to remain true to their QS roots, gain some budding self-quantifiers, and win precious wrist-space from new and old competitors.&lt;/p&gt;
+
+</summary>
+  </entry>
+  
+  <entry>
+    
+    <id>https://ali-alkhatib.com/blog/markdown-extension-regex.html</id>
     
     <title type="html">Markdown Extension Regex</title>
     <updated>2014-10-12T00:00:00-07:00</updated>
-    <link rel="alternate" href="http://ali-alkhatib.com/blog/markdown-extension-regex.html"/>
+    <link rel="alternate" href="https://ali-alkhatib.com/blog/markdown-extension-regex.html"/>
     <content type="html">&lt;p&gt;First, the part you probably care about (a regex pattern to identify Markdown files): &lt;script src=&quot;https://gist.github.com/alialkhatib/fa11e17f385db6970cc3.js&quot;&gt; &lt;/script&gt;&lt;/p&gt;
 
 &lt;p&gt;Okay, let&amp;rsquo;s begin&amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;Recently I was avoiding some work with a personal project and I realized that I needed to find all of the Markdown files in a directory. I use &lt;code&gt;.md&lt;/code&gt; consistently in my own projects, but I&amp;rsquo;m sure in collaborative settings (or indeed across projects) the file extension differs significantly. Indeed, &lt;a href=&quot;http://superuser.com/questions/249436/file-extension-for-markdown-files&quot;&gt;this StackOverflow question&lt;/a&gt; suggested half a dozen file extensions.&lt;/p&gt;
+&lt;p&gt;Recently I was avoiding some work with a personal project and I realized that I needed to find all of the Markdown files in a directory. I use &lt;code&gt;.md&lt;/code&gt; consistently in my own projects, but I&amp;rsquo;m sure in collaborative settings (or indeed across projects) the file extension differs significantly. Indeed, &lt;a href=&quot;//superuser.com/questions/249436/file-extension-for-markdown-files&quot;&gt;this StackOverflow question&lt;/a&gt; suggested half a dozen file extensions.&lt;/p&gt;
 
 &lt;p&gt;I didn&amp;rsquo;t do much looking (and in hindsight, I should do that at some point to check my answer) before I decided to write up the pattern for a Markdown extension myself based on the accepted answer. I could (perhaps should) have used the canonical Markdown source on what extensions should be used, but&lt;/p&gt;
 
@@ -36,7 +122,7 @@
 &lt;p&gt;If you want to cry while reading regex patterns, that&amp;rsquo;s fine too. Let&amp;rsquo;s begin:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;code&gt;.*\.&lt;/code&gt;&amp;hellip;&lt;code&gt;$&lt;/code&gt;: These are sort of loose ends, so they&amp;rsquo;ll go together, but they serve a single purpose together. &lt;code&gt;.*\.&lt;/code&gt; means &amp;ldquo;I&amp;rsquo;m looking for &lt;em&gt;any&lt;/em&gt; character in any length (including zero characters) followed by a litteral &lt;code&gt;.&lt;/code&gt;&amp;rdquo; (hence the backslash). &lt;code&gt;$&lt;/code&gt; is a regex special character meaning &amp;ldquo;end of string&amp;rdquo;. It might be unique in Python&amp;rsquo;s implementation of regex (although I doubt it) that in &lt;em&gt;multiline&lt;/em&gt; strings, &lt;code&gt;$&lt;/code&gt; means &amp;ldquo;end of line&amp;rdquo;. Worth knowing, and as an aside if you want to search multiple lines there&amp;rsquo;s &lt;a href=&quot;https://docs.python.org/3.4/library/re.html#re.M&quot;&gt;a way to do that&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;.*\.&lt;/code&gt;&amp;hellip;&lt;code&gt;$&lt;/code&gt;: These are sort of loose ends, so they&amp;rsquo;ll go together, but they serve a single purpose together. &lt;code&gt;.*\.&lt;/code&gt; means &amp;ldquo;I&amp;rsquo;m looking for &lt;em&gt;any&lt;/em&gt; character in any length (including zero characters) followed by a litteral &lt;code&gt;.&lt;/code&gt;&amp;rdquo; (hence the backslash). &lt;code&gt;$&lt;/code&gt; is a regex special character meaning &amp;ldquo;end of string&amp;rdquo;. It might be unique in Python&amp;rsquo;s implementation of regex (although I doubt it) that in &lt;em&gt;multiline&lt;/em&gt; strings, &lt;code&gt;$&lt;/code&gt; means &amp;ldquo;end of line&amp;rdquo;. Worth knowing, and as an aside if you want to search multiple lines there&amp;rsquo;s &lt;a href=&quot;//docs.python.org/3.4/library/re.html#re.M&quot;&gt;a way to do that&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;&lt;code&gt;(m&lt;/code&gt;&amp;hellip;&lt;code&gt;|text)&lt;/code&gt; - this means &amp;ldquo;I&amp;rsquo;m either looking for &lt;code&gt;m&lt;/code&gt;+whatever weird extras I ask for, or &lt;code&gt;text&lt;/code&gt;&amp;rdquo;&lt;/li&gt;
   &lt;li&gt;&lt;code&gt;(?:&lt;/code&gt;&amp;hellip;&lt;code&gt;)&lt;/code&gt; - given the previous option (between &lt;code&gt;m&lt;/code&gt; and &lt;code&gt;text&lt;/code&gt;), if we&amp;rsquo;re going down the &lt;code&gt;m&lt;/code&gt; path then you need to find something matching in this group. The &lt;code&gt;?:&lt;/code&gt; modifier tells the engine not to capture it as its own &amp;ldquo;group&amp;rdquo;. As far as I can tell, this isn&amp;rsquo;t really that important except that retaining groups from these little bits and pieces is unnecessary, so why bother?&lt;/li&gt;
   &lt;li&gt;&lt;code&gt;d&lt;/code&gt;&amp;hellip;&lt;code&gt;|arkdown|kdn?&lt;/code&gt; - I&amp;rsquo;m lumping things together so this post doesn&amp;rsquo;t go forever. I&amp;rsquo;m either looking for &lt;code&gt;d&lt;/code&gt; or &lt;code&gt;arkdown&lt;/code&gt; (forming &lt;code&gt;markdown&lt;/code&gt;, thanks to that previous &lt;code&gt;m&lt;/code&gt;), or &lt;code&gt;kdn&lt;/code&gt; (again, forming &lt;code&gt;mkdn&lt;/code&gt;). Here it&amp;rsquo;s becoming clearer to me that we could&amp;rsquo;ve made this slightly more concise. I might revisit it later.&lt;/li&gt;
@@ -58,11 +144,11 @@
   
   <entry>
     
-    <id>http://ali-alkhatib.com/blog/vote-predictors.html</id>
+    <id>https://ali-alkhatib.com/blog/vote-predictors.html</id>
     
     <title type="html">Vote Predictors</title>
     <updated>2014-10-10T00:00:00-07:00</updated>
-    <link rel="alternate" href="http://ali-alkhatib.com/blog/vote-predictors.html"/>
+    <link rel="alternate" href="https://ali-alkhatib.com/blog/vote-predictors.html"/>
     <content type="html">&lt;p&gt;Jure Leskovec has been teaching CS 224W this quarter, and a number of his lectures have used research questions to illustrate the concepts and models that he&amp;rsquo;s been teaching. It&amp;rsquo;s been an interesting way of surveying the kind of research he does, which is hopefully informative for anyone planning on rotating into Jure&amp;rsquo;s lab (e.g. me). Recently, he talked about a question of predicting Wikipedia admin elections, and described the results of some research wherein he found that, by accounting for voter-candidate similarity and for status difference (again, between the voter and the candidate), you can predict the outcome of the election just by knowing &lt;em&gt;which&lt;/em&gt; 5 people came out to vote first with ~70% reliability; this, without knowing &lt;strong&gt;for whom&lt;/strong&gt; they voted. Knowing their votes, you can predict with approximately 85% accuracy. By looking at voters 1-10 (again, not the votes, just the turnout), accuracy rises to 75%, after which point accuracy rises negligibly - even with all voters.&lt;/p&gt;
 
 &lt;p&gt;This was really fascinating, but ~70% is not &lt;em&gt;great&lt;/em&gt;, and there&amp;rsquo;s certainly room for improvement. I asked if looking at different subsets of votes (voters 2-6 instead of 1-5, for instance) would yield different predictive accuracy. It didn&amp;rsquo;t seem like this had been pursued, but I suspect that sock puppet voters and the like might be less representative of the overall outcome for an election, making voters 1-n (where n is small) more noise than signal.&lt;/p&gt;
@@ -76,12 +162,12 @@
   
   <entry>
     
-    <id>http://ali-alkhatib.com/blog/metaphor-virality.html</id>
+    <id>https://ali-alkhatib.com/blog/metaphor-virality.html</id>
     
     <title type="html">Metaphor Virality</title>
     <updated>2014-10-07T00:00:00-07:00</updated>
-    <link rel="alternate" href="http://ali-alkhatib.com/blog/metaphor-virality.html"/>
-    <content type="html">&lt;p&gt;Last week in &lt;a href=&quot;http://hci.stanford.edu/courses/cs547/&quot;&gt;CS 547&lt;/a&gt; &lt;a href=&quot;http://glow-wacky.com/&quot;&gt;David Glowacki&lt;/a&gt; gave a talk about some &lt;a href=&quot;http://danceroom-spec.com/&quot;&gt;technology&lt;/a&gt; that his lab developed which allowed people to use Kinect (and incidentally LeapMotion) to view the effect that their bodies - as sort of &amp;ldquo;force imprints&amp;rdquo; on a canvas (the background) - have on particles bouncing around arbitrarily. It was really interesting seeing a serious implementation of Kinect and LeapMotion that really seemed to have legs, since I&amp;rsquo;m generally kind of skeptical of the appeal of these full-body user interface devices (almost as much as I am about voice interfaces, although my opinion on that has been changing recently as I&amp;rsquo;ve biked to work/class and wanted to know things that only Siri could tell me).&lt;/p&gt;
+    <link rel="alternate" href="https://ali-alkhatib.com/blog/metaphor-virality.html"/>
+    <content type="html">&lt;p&gt;Last week in &lt;a href=&quot;//hci.stanford.edu/courses/cs547/&quot;&gt;CS 547&lt;/a&gt; &lt;a href=&quot;//glow-wacky.com/&quot;&gt;David Glowacki&lt;/a&gt; gave a talk about some &lt;a href=&quot;//danceroom-spec.com/&quot;&gt;technology&lt;/a&gt; that his lab developed which allowed people to use Kinect (and incidentally LeapMotion) to view the effect that their bodies - as sort of &amp;ldquo;force imprints&amp;rdquo; on a canvas (the background) - have on particles bouncing around arbitrarily. It was really interesting seeing a serious implementation of Kinect and LeapMotion that really seemed to have legs, since I&amp;rsquo;m generally kind of skeptical of the appeal of these full-body user interface devices (almost as much as I am about voice interfaces, although my opinion on that has been changing recently as I&amp;rsquo;ve biked to work/class and wanted to know things that only Siri could tell me).&lt;/p&gt;
 
 &lt;p&gt;None of that is why I&amp;rsquo;m writing this post. Or not really.&lt;/p&gt;
 
@@ -93,27 +179,27 @@
 
 &lt;p&gt;If this kind of approach has legs, it&amp;rsquo;d be interesting to see whether a model based on the data could predict adoption of a new term in a field. I suspect that some equation involving &lt;strong&gt;the term itself&lt;/strong&gt; (the field and context of that term (if it&amp;rsquo;s borrowed from another field), its obscurity in the general population&amp;rsquo;s vocabulary, etc&amp;hellip;) as well as the &lt;strong&gt;quality of the paper&lt;/strong&gt; introducing the term (initially this would be determined by something like PageRank, a fairly conventional method for determining a paper&amp;rsquo;s impact involving the measurement of number of citations of that paper; later, one might develop a model predicting the cultural fit of a paper based on its adherence to established linguistic norms, especially within its subgroup - although my guess is that there&amp;rsquo;s no accounting for very high-impact papers).&lt;/p&gt;
 </content>
-    <summary type="html">&lt;p&gt;Last week in &lt;a href=&quot;http://hci.stanford.edu/courses/cs547/&quot;&gt;CS 547&lt;/a&gt; &lt;a href=&quot;http://glow-wacky.com/&quot;&gt;David Glowacki&lt;/a&gt; gave a talk about some &lt;a href=&quot;http://danceroom-spec.com/&quot;&gt;technology&lt;/a&gt; that his lab developed which allowed people to use Kinect (and incidentally LeapMotion) to view the effect that their bodies - as sort of &amp;ldquo;force imprints&amp;rdquo; on a canvas (the background) - have on particles bouncing around arbitrarily. It was really interesting seeing a serious implementation of Kinect and LeapMotion that really seemed to have legs, since I&amp;rsquo;m generally kind of skeptical of the appeal of these full-body user interface devices (almost as much as I am about voice interfaces, although my opinion on that has been changing recently as I&amp;rsquo;ve biked to work/class and wanted to know things that only Siri could tell me).&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Last week in &lt;a href=&quot;//hci.stanford.edu/courses/cs547/&quot;&gt;CS 547&lt;/a&gt; &lt;a href=&quot;//glow-wacky.com/&quot;&gt;David Glowacki&lt;/a&gt; gave a talk about some &lt;a href=&quot;//danceroom-spec.com/&quot;&gt;technology&lt;/a&gt; that his lab developed which allowed people to use Kinect (and incidentally LeapMotion) to view the effect that their bodies - as sort of &amp;ldquo;force imprints&amp;rdquo; on a canvas (the background) - have on particles bouncing around arbitrarily. It was really interesting seeing a serious implementation of Kinect and LeapMotion that really seemed to have legs, since I&amp;rsquo;m generally kind of skeptical of the appeal of these full-body user interface devices (almost as much as I am about voice interfaces, although my opinion on that has been changing recently as I&amp;rsquo;ve biked to work/class and wanted to know things that only Siri could tell me).&lt;/p&gt;
 
 </summary>
   </entry>
   
   <entry>
     
-    <id>http://ali-alkhatib.com/blog/online-labor-markets-and-the-failure-to-compete.html</id>
+    <id>https://ali-alkhatib.com/blog/online-labor-markets-and-the-failure-to-compete.html</id>
     
     <title type="html">Online labor markets and the failure to compete</title>
     <updated>2014-09-25T00:00:00-07:00</updated>
-    <link rel="alternate" href="http://ali-alkhatib.com/blog/online-labor-markets-and-the-failure-to-compete.html"/>
-    <content type="html">&lt;p&gt;Over the past several months I&amp;rsquo;ve been working on a project involving &lt;a href=&quot;https://www.mturk.com&quot;&gt;Amazon Mechanical Turk&lt;/a&gt; (henceforth AMT), a fascinating online labor market for &amp;ldquo;micro-labor&amp;rdquo;. Some researchers have done the whole &lt;a href=&quot;http://www.cs.cmu.edu/~jbigham/posts/2014/half-workday-as-turker.html&quot;&gt;crash course ethnographic thing&lt;/a&gt;, but for the most part research of online labor has taken a look from a step back (as &lt;a href=&quot;http://john-joseph-horton.com/papers/online_labor_markets.pdf&quot;&gt;Horton&lt;/a&gt;, &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1869100&quot;&gt;Silberman et al.&lt;/a&gt;, and &lt;a href=&quot;http://john-joseph-horton.com/papers/futureofcrowdwork-cscw2013.pdf&quot;&gt;others&lt;/a&gt; have done).&lt;/p&gt;
+    <link rel="alternate" href="https://ali-alkhatib.com/blog/online-labor-markets-and-the-failure-to-compete.html"/>
+    <content type="html">&lt;p&gt;Over the past several months I&amp;rsquo;ve been working on a project involving &lt;a href=&quot;//www.mturk.com&quot;&gt;Amazon Mechanical Turk&lt;/a&gt; (henceforth AMT), a fascinating online labor market for &amp;ldquo;micro-labor&amp;rdquo;. Some researchers have done the whole &lt;a href=&quot;//www.cs.cmu.edu/~jbigham/posts/2014/half-workday-as-turker.html&quot;&gt;crash course ethnographic thing&lt;/a&gt;, but for the most part research of online labor has taken a look from a step back (as &lt;a href=&quot;//john-joseph-horton.com/papers/online_labor_markets.pdf&quot;&gt;Horton&lt;/a&gt;, &lt;a href=&quot;//dl.acm.org/citation.cfm?id=1869100&quot;&gt;Silberman et al.&lt;/a&gt;, and &lt;a href=&quot;//john-joseph-horton.com/papers/futureofcrowdwork-cscw2013.pdf&quot;&gt;others&lt;/a&gt; have done).&lt;/p&gt;
 
-&lt;p&gt;This project, resulting in a website called &lt;a href=&quot;http://www.wearedynamo.org/&quot;&gt;Dynamo&lt;/a&gt;, has been intense, but enlightening. It&amp;rsquo;s been a unique process going from iterating on a serious web project to thinking at a high level about the social significance of our design decisions and how to evoke the outcomes we want. In this case, the outcome we wanted was &amp;ldquo;collective action&amp;rdquo;. By this I mean that we wanted to bring people together specifically to accomplish &lt;em&gt;something&lt;/em&gt;. In some sense, we had no agenda because of this. In another sense, we absolutely had an ulterior motive, and a forceful one at that.&lt;/p&gt;
+&lt;p&gt;This project, resulting in a website called &lt;a href=&quot;//www.wearedynamo.org/&quot;&gt;Dynamo&lt;/a&gt;, has been intense, but enlightening. It&amp;rsquo;s been a unique process going from iterating on a serious web project to thinking at a high level about the social significance of our design decisions and how to evoke the outcomes we want. In this case, the outcome we wanted was &amp;ldquo;collective action&amp;rdquo;. By this I mean that we wanted to bring people together specifically to accomplish &lt;em&gt;something&lt;/em&gt;. In some sense, we had no agenda because of this. In another sense, we absolutely had an ulterior motive, and a forceful one at that.&lt;/p&gt;
 
 &lt;p&gt;Our initial fieldwork results suggested that there were serious problems with AMT that desperately called for some collective action of some sort. Whether that be a union of Turkers, a labor strike, a letter-writing campaign, or whatever, we got the impression that Turkers were calling for &lt;em&gt;something&lt;/em&gt;. Before you get ahead of yourself, I&amp;rsquo;ll present a qualified view, not entirely dismissing this preconception but neither totally embracing it.&lt;/p&gt;
 
 &lt;p&gt;Our first round of fieldwork suggested &lt;em&gt;really&lt;/em&gt; strongly that there was a single actor in the AMT marketplace who was poisoning the well in some sense by putting out what Turkers call &lt;a href=&quot;#pennyHIT&quot;&gt;penny HITs&lt;/a&gt;. By itself, in a totally naive environment, this really wouldn&amp;rsquo;t be that big a deal; he pays too little, some people aren&amp;rsquo;t willing to do that much work for $0.25, but some people &lt;em&gt;are&lt;/em&gt;, so those that are willing will do his work and those that are not will go do other tasks. Everyone wins (except the Turkers who do his work, but they&amp;rsquo;re happy digging their grave. Or so the argument goes).&lt;/p&gt;
 
-&lt;p&gt;Not quite so. In practice, these &lt;a href=&quot;#HIT&quot;&gt;HITs&lt;/a&gt; and others set a standard - a norm - in the marketplace, so that even academic researchers (whom we generally regard as being paragons of ethical behavior, justified or not) were paying workers poorly; the market had become one for &lt;a href=&quot;http://www.iei.liu.se/nek/730g83/artiklar/1.328833/AkerlofMarketforLemons.pdf&quot;&gt;lemons&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Not quite so. In practice, these &lt;a href=&quot;#HIT&quot;&gt;HITs&lt;/a&gt; and others set a standard - a norm - in the marketplace, so that even academic researchers (whom we generally regard as being paragons of ethical behavior, justified or not) were paying workers poorly; the market had become one for &lt;a href=&quot;//www.iei.liu.se/nek/730g83/artiklar/1.328833/AkerlofMarketforLemons.pdf&quot;&gt;lemons&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;So we thought that a demonstration for this and other HIT requesters would give them the necessary push to show that  &lt;/p&gt;
 
@@ -146,23 +232,7 @@
   &lt;li&gt;&lt;a name=&quot;pennyHIT&quot;&gt;&lt;/a&gt;penny HIT: A cheap HIT, often one not worth the time to complete it. For example, a HIT that pays $1 for 5 minutes of work does not seem to be considered a &amp;ldquo;penny HIT&amp;rdquo;, but a $1 HIT that takes 10 or 20 minutes to complete would fall squarely into &amp;ldquo;penny HIT&amp;rdquo; category&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-    <summary type="html">&lt;p&gt;Over the past several months I&amp;rsquo;ve been working on a project involving &lt;a href=&quot;https://www.mturk.com&quot;&gt;Amazon Mechanical Turk&lt;/a&gt; (henceforth AMT), a fascinating online labor market for &amp;ldquo;micro-labor&amp;rdquo;. Some researchers have done the whole &lt;a href=&quot;http://www.cs.cmu.edu/~jbigham/posts/2014/half-workday-as-turker.html&quot;&gt;crash course ethnographic thing&lt;/a&gt;, but for the most part research of online labor has taken a look from a step back (as &lt;a href=&quot;http://john-joseph-horton.com/papers/online_labor_markets.pdf&quot;&gt;Horton&lt;/a&gt;, &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1869100&quot;&gt;Silberman et al.&lt;/a&gt;, and &lt;a href=&quot;http://john-joseph-horton.com/papers/futureofcrowdwork-cscw2013.pdf&quot;&gt;others&lt;/a&gt; have done).&lt;/p&gt;
-
-</summary>
-  </entry>
-  
-  <entry>
-    
-    <id>http://ali-alkhatib.com/blog/qs-thesis-finally.html</id>
-    
-    <title type="html">QS Thesis (finally)</title>
-    <updated>2014-07-20T00:00:00-07:00</updated>
-    <link rel="alternate" href="http://ali-alkhatib.com/blog/qs-thesis-finally.html"/>
-    <content type="html">&lt;p&gt;After getting some feedback from my advisor I&amp;rsquo;m pretty sure I&amp;rsquo;m ready to put this out there&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;Take a look at my &lt;a href=&quot;//www.academia.edu/8715029/Quantified_Self_Anthropology_Undergraduate_Thesis_&quot;&gt;Quantified Self thesis&lt;/a&gt;, which I completed as part of the honors program in Anthropology at UC Irvine.&lt;/p&gt;
-</content>
-    <summary type="html">&lt;p&gt;After getting some feedback from my advisor I&amp;rsquo;m pretty sure I&amp;rsquo;m ready to put this out there&amp;hellip;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Over the past several months I&amp;rsquo;ve been working on a project involving &lt;a href=&quot;//www.mturk.com&quot;&gt;Amazon Mechanical Turk&lt;/a&gt; (henceforth AMT), a fascinating online labor market for &amp;ldquo;micro-labor&amp;rdquo;. Some researchers have done the whole &lt;a href=&quot;//www.cs.cmu.edu/~jbigham/posts/2014/half-workday-as-turker.html&quot;&gt;crash course ethnographic thing&lt;/a&gt;, but for the most part research of online labor has taken a look from a step back (as &lt;a href=&quot;//john-joseph-horton.com/papers/online_labor_markets.pdf&quot;&gt;Horton&lt;/a&gt;, &lt;a href=&quot;//dl.acm.org/citation.cfm?id=1869100&quot;&gt;Silberman et al.&lt;/a&gt;, and &lt;a href=&quot;//john-joseph-horton.com/papers/futureofcrowdwork-cscw2013.pdf&quot;&gt;others&lt;/a&gt; have done).&lt;/p&gt;
 
 </summary>
   </entry>

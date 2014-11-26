@@ -10,8 +10,8 @@
         <!-- <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"> -->
         <!-- <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'> -->
         <!-- <link href='http://fonts.googleapis.com/css?family=PT+Sans:400' rel='stylesheet' type='text/css'> -->
-        <link rel="stylesheet" href="http://ali-alkhatib.com/media/main.css">
-        <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://ali-alkhatib.com/media/main.css">
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
         
         <!-- <link rel="alternate" type="application/rss+xml" href="/blog.xml" title="Atom"> -->
 
@@ -65,7 +65,7 @@
 
 <h1>grad school apps suck</h1>
 
-<p><strong>We need better ways of aggregating graduate school deadlines and requirements</strong>. I refuse to believe that I&rsquo;m the first person to notice this (edit: I know for a fact that others hate this process just as much or more than I do; some of them are even <a href="http://jeffhuang.com/rethinking_the_phd_application.html">on the other side</a> of things). As soon as I have a few weeks off (read: never) I&rsquo;m going to look into aggregating this kind of information if it&rsquo;s at all pragmatic. All I really need/want is:</p>
+<p><strong>We need better ways of aggregating graduate school deadlines and requirements</strong>. I refuse to believe that I&rsquo;m the first person to notice this (edit: I know for a fact that others hate this process just as much or more than I do; some of them are even <a href="//jeffhuang.com/rethinking_the_phd_application.html">on the other side</a> of things). As soon as I have a few weeks off (read: never) I&rsquo;m going to look into aggregating this kind of information if it&rsquo;s at all pragmatic. All I really need/want is:</p>
 
 <ul>
   <li>well-formed data points of universities</li>
@@ -76,11 +76,11 @@
 
 <p>I&rsquo;m thinking it could be implemented pretty quickly: Either server-side (PHP has regex, right?) or client-side (I <em>know</em> JS has regex) scraping of a few pages for something like <code>r'deadline+*?(December|January) \d+'</code> (case-insensitive hopefully).</p>
 
-<p>I write that but I <strong>know</strong> UC Berkeley uses <code>table</code> elements to neatly lay out their <a href="http://grad.berkeley.edu/admissions/list.shtml">deadlines</a>. Thanks, Berkeley! (<em>cough please admit me cough</em>)</p>
+<p>I write that but I <strong>know</strong> UC Berkeley uses <code>table</code> elements to neatly lay out their <a href="//grad.berkeley.edu/admissions/list.shtml">deadlines</a>. Thanks, Berkeley! (<em>cough please admit me cough</em>)</p>
 
 <p>So if the university uses tables, that might be easier because you just grab the nth table in every row (except the ones which simply repeat the header). Otherwise just <code>regex.search</code> (in python at least) for anything along the lines of the above pattern.</p>
 
-<p>The implementation is &ldquo;janky&rdquo; to be generous, but the need is there, so I think it&rsquo;s worth pursuing. I&rsquo;m <strong>not</strong> saying we need a Common App for grad school (with students firing buckshot at graduate admissions committees, inundating them with obviously unserious applications), but grad applicants could be better informed about deadlines, requirements, and faculty. There&rsquo;s no good reason that this shouldn&rsquo;t all be in one place (to some extent, you could argue that <a href="http://scholar.google.com">Google Scholar</a> is an index of sorts). I bet most grad applicants will have created their own index of faculty at myriad universities with recent publications, research areas, and contact info. I know I did.</p>
+<p>The implementation is &ldquo;janky&rdquo; to be generous, but the need is there, so I think it&rsquo;s worth pursuing. I&rsquo;m <strong>not</strong> saying we need a Common App for grad school (with students firing buckshot at graduate admissions committees, inundating them with obviously unserious applications), but grad applicants could be better informed about deadlines, requirements, and faculty. There&rsquo;s no good reason that this shouldn&rsquo;t all be in one place (to some extent, you could argue that <a href="//scholar.google.com">Google Scholar</a> is an index of sorts). I bet most grad applicants will have created their own index of faculty at myriad universities with recent publications, research areas, and contact info. I know I did.</p>
 
 <p>You can argue that this is good practice for doing legwork and research (something grad students should get used to), or that this is all part of the challenge. This is specious:</p>
 
