@@ -22,4 +22,4 @@ At my visit (I lied about not talking about this) I met potential students in my
 
 Instead, I found a group of people I would struggle to describe as less social than the group of Anthropologists who became my cohort when I was working on my senior honors thesis at UC Irvine. We met more often, talked about our ongoing projects, shared theories and ideas, and made collaborative suggestions that my Anthropologist friends never made in my undergrad. Some of these people came from the social sciences in some way or another - and all had some sociocultural theoretical foundation upon which to build. In this sense, the group which I've been living and working with - about which I'll write over the next few posts - is less like an orthodox CS group and more like a group of bootstrapped Anthropologists who can code, or so it would seem.
 
-[1]: http://hci.stanford.edu/courses/cs376/2014/
+[1]:http://hci.stanford.edu/courses/cs376/2014/
