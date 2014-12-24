@@ -3,7 +3,7 @@ layout: shorty
 title: Contact
 ---
 
-You can [email](ali.alkhatib@cs.stanford.edu) me if you'd like.
+You can [email](mailto:ali.alkhatib@cs.stanford.edu) me if you'd like.
 I'm always swamped, so short emails get replies sooner.
 
 I'm also on [twitter](//twitter.com/alialkhatib_) & 
