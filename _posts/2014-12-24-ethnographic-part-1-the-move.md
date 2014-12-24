@@ -1,5 +1,5 @@
 ---
-title: Ethnographic part 1: the move
+title: Ethnographic part 1&#58; the move
 author: Ali
 layout: post
 categories:
