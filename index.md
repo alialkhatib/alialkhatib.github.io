@@ -5,17 +5,13 @@ Hi, that's me.
 
 I'm a PhD student in the Computer Science department at Stanford University.
 
-I'm a part of the HCI group (but I'm rotating each quarter, as per the [first-year rotation program](http://cs.stanford.edu/content/first-year-research-rotation-program)). My last project was [Dynamo](http://www.wearedynamo.org), a platform to facilitate collective action.
+I'm currently rotating with Jure Leskovec's group 
+as per the [first-year rotation program](http://cs.stanford.edu/content/first-year-research-rotation-program). 
+Lately I've been working on crowd worker cooperatives.
 
 Previously I was at UC Irvine, where I earned my B.A. in Anthropology & B.S. in Informatics, specializing in Human-Computer Interaction.
 
 My senior honors thesis was on [Quantified Self](/presentations/QSThesisFinal.pdf), and my advisor was [Tom Boellstorff](http://faculty.sites.uci.edu/boellstorff/).
-
-There used to be a section here about my common tools, but they've been shifting around a lot lately; suffice it to say that I use whatever tools are:
-
-- useful for the task
-- reasonable to learn
-- (bonus) interesting and new
 
 There might be some stuff in my [blog](/blog/) about current projects, but there might not. (the whole point is that I'm working and *not* blogging, right?)
 
