@@ -28,3 +28,5 @@ navigation:
       link: /blog/
     - title: contact
       link: /contact.html
+    - title: cv
+      link: /content/CV.pdf
