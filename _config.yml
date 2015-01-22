@@ -27,6 +27,6 @@ navigation:
     - title: blog
       link: /blog/
     - title: CV
-      link: //s3.amazonaws.com/alialkhatib/CV.pdf
+      link: /content/CV.pdf
     - title: contact
       link: /contact.html
