@@ -66,7 +66,7 @@ Nevertheless, sometimes things crash, and that means quite a while sitting aroun
 
 A while back I heard about this thing called [mosh][5], and now that I have more downtime I decided to check it out. If you're familiar with `ssh` dropping out when your WiFi network coughs loudly, you almost certainly hate how fussy `ssh` can be in general. mosh takes a decent stab at solving that problem. If you're curious about the technical details (and why shouldn't you be?!), you should check out the talk and the page in general. Otherwise, it's a neat (but not quite complete) project that's definitely worth keeping an eye on.
 
-## <a href="downtheroad"></a>Down the road
+## <a name="downtheroad"></a>Down the road
 
 I'm looking into research internships this summer and have an interview lined up this week, so I'm actually pretty excited about that. In the meantime, I'm just working diligently on the stuff I've got on my plate, and trying not to overthink things that may or may not happen. Who would've thought I'd develop such a healthy mindset about the future?
 
