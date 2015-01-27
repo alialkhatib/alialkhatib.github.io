@@ -13,6 +13,7 @@ This post got away from me, so I'll try and roadmap it:
 - [Jure's Lab][6]
 - [Winter Research][13]
 - [Mosh][8]
+- [Down the Road][15]
 
 ## <a name="formallychi"></a>(Formally,) CHI!(!!)
 A while back the group I was working with found out that our paper for [CHI][9] had been tentatively accepted to the 2015 conference in Seoul. I won't pretend this was some trivial thing - this was a huge deal for me. I was really excited to get to work on [Dynamo][10], and it was incredibly validating not only to bring an Anthropological perspective to the research, but importantly to get approval for it from anonymous peer reviewers.
@@ -65,7 +66,7 @@ Nevertheless, sometimes things crash, and that means quite a while sitting aroun
 
 A while back I heard about this thing called [mosh][5], and now that I have more downtime I decided to check it out. If you're familiar with `ssh` dropping out when your WiFi network coughs loudly, you almost certainly hate how fussy `ssh` can be in general. mosh takes a decent stab at solving that problem. If you're curious about the technical details (and why shouldn't you be?!), you should check out the talk and the page in general. Otherwise, it's a neat (but not quite complete) project that's definitely worth keeping an eye on.
 
-## Down the road
+## <a href="downtheroad"></a>Down the road
 
 I'm looking into research internships this summer and have an interview lined up this week, so I'm actually pretty excited about that. In the meantime, I'm just working diligently on the stuff I've got on my plate, and trying not to overthink things that may or may not happen. Who would've thought I'd develop such a healthy mindset about the future?
 
@@ -87,3 +88,4 @@ This was a much longer post than intended or desired. Future posts will be more 
 [12]: #fallresearch
 [13]: #winterresearch
 [14]: https://www.azumio.com/
+[15]: #downtheroad
