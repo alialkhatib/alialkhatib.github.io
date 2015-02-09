@@ -6,6 +6,8 @@ categories:
   - Uncategorized
 ---
 
+### Warning: Links are broken for now. I'll get to it before 2/10 (arbitrary date)
+
 Recently I was asked to talk about a paper to the [SNAP][1] group, and I couldn't help but choose an Anthro paper. Here are the very low-quality notes that I prepared for the paper I gave everyone ("[The Anthropology of Online Communities][2]").
 
 - Overview: this is mostly a review of a fair amount of Anthro literature on online communities and cultures, so it's fairly high level and doesn't offer very much new research *per se*, but for someone looking to survey the field for worthwhile theories to reference (or just anecdotes to use in the intro), this is hopefully a good choice
@@ -28,8 +30,6 @@ Recently I was asked to talk about a paper to the [SNAP][1] group, and I couldn'
 - Ephemerality(!)
 - Identity, Communication, Power Ideology and Access
 - Ethical Considerations
-
-Links are broken for now
 
 [1]: #
 [2]: #
