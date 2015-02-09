@@ -14,8 +14,7 @@ Recently I was asked to talk about a paper to the [SNAP][1] group, and I couldn'
 - Optimism and pessimism regarding technology and the future, but no mention of Foucault?!
 - Where's my panopticon?
 - Some hilarious glossary (World Wide Web, CD ROM, etc...)
-
-## The Internet as a site of cultural (re)production
+- The Internet as a site of cultural (re)production
 - Bringing "cyberspace" research back into the conventional social sciences into negotiating gendered, geographical, racialized, etc... identities
 - Text analyses represent just "...one of many available mediated communication technologies on the Internet..." (pg 454)
 - Difficulty in identifying a coherent community (pg 455++)
