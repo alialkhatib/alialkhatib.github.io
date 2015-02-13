@@ -6,9 +6,7 @@ categories:
   - Uncategorized
 ---
 
-### Warning: Links are broken for now. I'll get to it before 2/10 (arbitrary date)
-
-Recently I was asked to talk about a paper to the [SNAP][1] group, and I couldn't help but choose an Anthro paper. Here are the very low-quality notes that I prepared for the paper I gave everyone ("[The Anthropology of Online Communities][2]").
+Recently I was asked to talk about a paper to the [infolab][1] group, and I couldn't help but choose an Anthro paper. Here are the very low-quality notes that I prepared for the paper I gave everyone ("[The Anthropology of Online Communities][2]" ([contact me][4] if you can't access JSTOR)).
 
 - Overview: this is mostly a review of a fair amount of Anthro literature on online communities and cultures, so it's fairly high level and doesn't offer very much new research *per se*, but for someone looking to survey the field for worthwhile theories to reference (or just anecdotes to use in the intro), this is hopefully a good choice
 - Anthropologists interested in online cultures for a lot of the same reasons that data/computer scientists are interested in culture ("...millions of users linked..." (pg 449))
@@ -23,7 +21,7 @@ Recently I was asked to talk about a paper to the [SNAP][1] group, and I couldn'
   - *infolab has its own thoughts on that (community detection, etc...)*
   - the idea here is that people can be part of multiple communities; one's centrality can be non-monotonic.
 - community heterogeneity (Appadurai 1991)
-- Maybe the notion of [MINER][3]'s heterogeneity as applied to communities is too distinct and needs to account for this softness
+- Maybe the notion of MINER*'s heterogeneity as applied to communities is too distinct and needs to account for this softness
 - Relating online interactions with offline interactions is necessary (pg 456)
   - The notion that cultures were completely face-to-face has been under fire for decades (Anderson 1984, Basch et al. 1994, Hannerz 1996)
 - Focus on the dichotomies of offline-online
@@ -31,6 +29,8 @@ Recently I was asked to talk about a paper to the [SNAP][1] group, and I couldn'
 - Identity, Communication, Power Ideology and Access
 - Ethical Considerations
 
-[1]: #
-[2]: #
-[3]: #
+* MINER isn't quite ready for prime time. My bad; will post more about it when there's a page up and everything.
+
+[1]: http://infolab.stanford.edu/
+[2]: http://www.jstor.org/stable/4132888?seq=1#page_scan_tab_contents
+[4]: https://ali-alkhatib.com/contact.html
