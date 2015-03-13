@@ -1,5 +1,5 @@
 ---
-title: Reassigning Tasks
+title: Reassigning (Update&#58; and Pausing/Resuming!) Tasks
 author: Ali
 layout: post
 ---
@@ -27,5 +27,21 @@ and in a for loop calls `taskset` and reassigns the core affinity on that `n` (w
 What you get is a pretty neat allocation (in this case I used 15-96 as my range):
 
 ![jerk move](/media/jerkmove.png)
+
+Edit (March 4): Later I found that I would want to *pause* and *continue* my tasks occasionally (in this case, our disk I/O was severely limited for some unknown reason, but 80 separate processes hitting the disk weren't helping). You can easily do that with the following run-on sentence one-liner:
+
+    ps -u $(whoami) | awk '{ print $1 }' | xargs kill -STOP
+
+will *pause* all of your processes. If you're thinking ahead, you might realize that your ssh session involves a process or two, so you might want to filter for just your python scripts, for example:
+
+    ps -u $(whoami) | grep python2.7 | awk '{ print $1 }' | xargs kill -STOP
+
+This gets all of your processes, filters for just `python2.7` processes (e.g. doesn't grab the `iPython` instance you have running :), and throws the first cluster of non-whitespace text into `kill -STOP`.
+
+I usually find that once I've done that, looking at `htop [-u $(whoami)]` makes it easy to monitor tasks as I reenable them by using
+
+    kill -CONT pid
+
+Hope that helps people
 
 [1]: http://linux.die.net/man/1/taskset
