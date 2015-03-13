@@ -5,27 +5,22 @@ Hi, that's me.
 
 I'm a PhD student in the Computer Science department at Stanford University.
 
-Lately I've been interested in how online workers (e.g. Turkers) might design 
-their own labor markets, which has led me to the idea of an online worker 
-cooperative.
+I'm currently finishing up a [rotation][1] with [Jure Leskovec][6]'s research group in the [InfoLab][7]. There, I'm working on some Quantified Self (QS) stuff and thinking about how it relates to quality of life and other things not as easily quantified as steps. This dovetails pretty nicely with my undergraduate work.
 
-I'm currently rotating with Jure Leskovec's research group 
-as per the [first-year rotation program][1]. There, I'm working on some 
-Quantified Self (QS) stuff and thinking about how it relates to quality of life 
-and other things not as easily quantified as steps.
+I earned my B.A. in Anthropology & B.S. in Informatics, specializing in Human-Computer Interaction, both from UC Irvine.
 
-Previously I was at UC Irvine, where I earned my B.A. in Anthropology & B.S. in Informatics, specializing in Human-Computer Interaction.
+My senior honors thesis was on the culture of people who engage in the [Quantified Self][2], and my advisor was [Tom Boellstorff][4].
 
-My senior honors thesis was on [QS][2], and my advisor was [Tom Boellstorff][4].
+Check my [blog][3] for things that are not quite ready for prime-time.
 
-There might be some stuff in my [blog][3] about current projects, but there might not. (the whole point is that I'm working and *not* blogging, right?)
+I *try* to reply to all emails that are actually sent to me (and not mass mailers), but if you want to be sure to get my attention I'm pretty sure a book off my [wishlist][5] would do the trick.
 
-I keep a frequently updated public wishlist on Amazon for books I'd really like to read. If you'd like to grab my attention, [buy me a book][5] instead of coffee.
-
-If this isn't enough, click on some links to the right (or below, I guess it depends on the size of your screen).
+If this isn't enough, click on some links floating around this text in various places determined by the size of your window.
 
 [1]: http://cs.stanford.edu/content/first-year-research-rotation-program
 [2]: /presentations/QSThesisFinal.pdf
 [3]: /blog/
 [4]: http://faculty.sites.uci.edu/boellstorff/
 [5]: //amzn.com/w/26BOYXJ3IHQKJ
+[6]: http://cs.stanford.edu/people/jure/
+[7]: http://infolab.stanford.edu/
