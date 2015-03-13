@@ -4,3 +4,8 @@ author: Ali
 layout: post
 ---
 Write about piping files into innumerable threads through bash/Popen/calls
+
+# this 
+*hello* is my text.
+
+**Hmm**
