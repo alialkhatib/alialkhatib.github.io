@@ -3,7 +3,7 @@ title: InfoLab Talk Notes
 author: Ali
 layout: post
 ---
-# Quantified Self, Azumio, Argus, etc... Talk
+Quantified Self, Azumio, Argus, etc... Talk
 ## Background
 - Did my undergrad thesis on Quantified Self
 - Lots of cool stuff [here][QS presentation][ppt], more thoroughly [here][QS Thesis][pdf]
