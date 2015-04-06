@@ -12,6 +12,8 @@ We also got into a pretty interesting conversation about truly ethnographic stud
 
 - Fox, Nick, Katie Ward, and Alan O'Rourke. "[Pro‐anorexia, weight‐loss drugs and the internet: an 'anti‐recovery' explanatory model of anorexia][fnwkoa2005]." *Sociology of health & illness* 27.7 (2005): 944-971.
 - Giles, David. "[Constructing identities in cyberspace: The case of eating disorders][dg2006]." *British journal of social psychology* 45.3 (2006): 463-477.
+- Nardi, Bonnie, and Justin Harris. "[Strangers and friends: Collaborative play in World of Warcraft][nbhj2006]." *Proceedings of the 2006 20th anniversary conference on Computer supported cooperative work*. ACM, 2006.
+- Bernal, Victoria. "[Diaspora, cyberspace and political imagination: the Eritrean diaspora online][bv2006]." *Global networks* 6.2 (2006): 161-179.
 
 It occurs to me that there's a whole second aspect of flagging, which is moderation and the relationships with censorship, the effect that deletion has on the Internet, and the difficult nature of critiquing censorship the Internet creates as a result of making it relatively easy to scrub all references to a historical artifact (e.g. on Tumblr there must be a way for admins to delete not only your post, but also every reblog anyone has ever made). In some ways this can be made more difficult by users remixing and changing content, but that requires the users to have lost trust in the administrators, for them to save content locally, to modify and permutate it in various ways, etc... which might not happen if Youtube (for instance) summarily deletes a video before anyone considers it interesting enough to save (and again, Youtube doesn't really like people doing that (but then again *cough* [youtube-dl][youtubedl])).
 
@@ -33,3 +35,5 @@ I'm quickly identifying a theme in my presentations, and it is [keyboard cat][ke
 [youtubedl]: //rg3.github.io/youtube-dl/
 [fnwkoa2005]: //onlinelibrary.wiley.com/doi/10.1111/j.1467-9566.2005.00465.x/full
 [dg2006]: //citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.413.2943&rep=rep1&type=pdf
+[nbhj2006]: //www.pensivepuffin.com/dwmcphd/syllabi/info447_au10/readings/nardi.harris.WoW.CSCW06.pdf
+[bv2006]: //is.muni.cz/el/1423/podzim2006/SAN209/um/Bernal__Victoria._2006._Diaspora__cyberspace_and_political_imagination._The_Eritrean_diaspora_online.pdf
