@@ -8,7 +8,9 @@ This quarter the [HCI][hcigroup] and [Infolab][infolabgroup] groups came togethe
 
 This week was more or less my turn to introduce a paper to the group, so I introduced "What is a flag for? Social media reporting tools and the vocabulary of complaint". Kate Crawford and Tarleton Gillespie authored it in *New Media & Society*, and it shines a light on a really interested topic that I don't think computational social scientists have explored very much yet.
 
-Anyway, my talk notes are available in original [keynote][presentationkeynote] form as well as in [powerpoint (pptx)][presentationpptx] forms. I had a Youtube video in there so I'm reluctant to make a PDF of it, but if someone can't access either option, let me know (contact info below) and I'll accommodate.
+Anyway, my talk notes are available in original [keynote][presentationkeynote] form as well as in [powerpoint (pptx)][presentationpptx] forms. You might want the [Source Serif Pro][source serif] font, which is a great font and one of 3 great fonts Adobe publishes (the other two being [Source Sans Pro][source sans] and [Source Code Pro][source code])
+
+I had a Youtube video in there so I'm reluctant to make a PDF of it, but if someone can't access either option, let me know (contact info below) and I'll accommodate.
 
 I'm quickly identifying a theme in my presentations, and it is [keyboard cat][keyboardcat].
 
@@ -17,3 +19,6 @@ I'm quickly identifying a theme in my presentations, and it is [keyboard cat][ke
 [presentationkeynote]: /presentations/flags.key
 [presentationpptx]: /presentations/flags.pptx
 [keyboardcat]: //www.youtube.com/watch?v=J---aiyznGQ
+[source serif]: //github.com/adobe-fonts/source-serif-pro
+[source code]: //github.com/adobe-fonts/source-code-pro
+[source sans]: //github.com/adobe-fonts/source-sans-pro
