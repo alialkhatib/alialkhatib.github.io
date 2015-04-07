@@ -2,10 +2,6 @@
 title: Transfer Rates
 author: Ali
 layout: post
-posterous_aef3040f45df4620aa487475e2845672_post_id:
-- 140370167
-posterous_aef3040f45df4620aa487475e2845672_permalink:
-- //ali-alkhatib.posterous.com/transfer-rates-tag-foothill-caa
 categories:
 - Uncategorized
 tags:

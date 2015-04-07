@@ -2,10 +2,6 @@
 title: Use of Space (or, How I Learned to Stop Worrying and Love the GPS)
 author: Ali
 layout: post
-posterous_aef3040f45df4620aa487475e2845672_post_id:
-  - 159733480
-posterous_aef3040f45df4620aa487475e2845672_permalink:
-  - //ali-alkhatib.posterous.com/use-of-space-or-how-i-learned-to-stop-worryin
 categories:
   - Uncategorized
 tags:

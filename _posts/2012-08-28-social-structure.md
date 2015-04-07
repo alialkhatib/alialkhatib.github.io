@@ -2,10 +2,6 @@
 title: Social Structure
 author: Ali
 layout: post
-posterous_aef3040f45df4620aa487475e2845672_post_id:
-  - 157435140
-posterous_aef3040f45df4620aa487475e2845672_permalink:
-  - //ali-alkhatib.posterous.com/social-structure
 categories:
   - Uncategorized
 tags:

@@ -2,10 +2,6 @@
 title: Stumbling and Momentum
 author: Ali
 layout: post
-posterous_aef3040f45df4620aa487475e2845672_post_id:
-  - 139573661
-posterous_aef3040f45df4620aa487475e2845672_permalink:
-  - //ali-alkhatib.posterous.com/stumbling-and-momentum
 categories:
   - Uncategorized
 tags:
