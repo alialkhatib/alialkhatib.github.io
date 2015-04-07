@@ -5,7 +5,7 @@ Hi, that's me.
 
 I'm a PhD student in the Computer Science department at Stanford University.
 
-Last quarter I was working in [Jure Leskovec][jure]'s lab (the [InfoLab][infolab]). This upcoming quarter I'm working with [Dan Jurafsky][DJ] in the Linguistics department. Check my [blog][blog] for more info as I can tell more.
+Last quarter I was working in [Jure Leskovec][jure]'s lab (the [InfoLab][infolab]). This quarter I'm working with [Dan Jurafsky][DJ] in the [Linguistics][stanfordnlp] department. Check my [blog][blog] for more info as I can tell more.
 
 I earned my B.A. in Anthropology & B.S. in Informatics, specializing in Human-Computer Interaction, both from UC Irvine.
 
@@ -19,8 +19,9 @@ If this isn't enough, click on some links floating around this text in various p
 
 [qsthesis]: /presentations/QSThesisFinal.pdf
 [blog]: /blog/
-[boell]: http://faculty.sites.uci.edu/boellstorff/
+[boell]: //faculty.sites.uci.edu/boellstorff/
 [wishlist]: //amzn.com/w/26BOYXJ3IHQKJ
-[jure]: http://cs.stanford.edu/people/jure/
-[infolab]: http://infolab.stanford.edu/
-[DJ]: http://web.stanford.edu/~jurafsky/
+[jure]: //cs.stanford.edu/people/jure/
+[infolab]: //infolab.stanford.edu/
+[DJ]: //web.stanford.edu/~jurafsky/
+[stanfordnlp]: //nlp.stanford.edu/
