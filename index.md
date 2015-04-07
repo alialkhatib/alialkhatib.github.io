@@ -19,9 +19,9 @@ If this isn't enough, click on some links floating around this text in various p
 
 [qsthesis]: /presentations/QSThesisFinal.pdf
 [blog]: /blog/
-[boell]: //faculty.sites.uci.edu/boellstorff/
+[boell]: http://faculty.sites.uci.edu/boellstorff/
 [wishlist]: //amzn.com/w/26BOYXJ3IHQKJ
 [jure]: //cs.stanford.edu/people/jure/
-[infolab]: //infolab.stanford.edu/
+[infolab]: http://infolab.stanford.edu/
 [DJ]: //web.stanford.edu/~jurafsky/
-[stanfordnlp]: //nlp.stanford.edu/
+[stanfordnlp]: http://nlp.stanford.edu/
