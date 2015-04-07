@@ -6,7 +6,7 @@ layout: post
 
 This quarter the [HCI][hcigroup] and [Infolab][infolabgroup] groups came together for a weekly reading group thing. Each Monday at noon someone brings a new, *impactful* reading to the group and discusses it for everyone. It's kind of a cool way to get the HCI group - often somewhat ethnographic or qualitative-leaning - and the Infolab - generally more quantitative - together to see where cross-pollination of ideas might happen. We're tentatively calling it "Reading With Friends", but I'm pretty sure we're open to alternative names.
 
-This week was more or less my turn to introduce a paper to the group, so I introduced "What is a flag for? Social media reporting tools and the vocabulary of complaint". Kate Crawford and Tarleton Gillespie authored it in *New Media & Society*, and it shines a light on a really interested topic that I don't think computational social scientists have explored very much yet.
+This week was more or less my turn to introduce a paper to the group, so I introduced "[What is a flag for? Social media reporting tools and the vocabulary of complaint][paper]". Kate Crawford and Tarleton Gillespie authored it in *New Media & Society*, and it shines a light on a really interested topic that I don't think computational social scientists have explored very much yet.
 
 We also got into a pretty interesting conversation about truly ethnographic studies of communities like Tumblr and others. I found a handful of interesting, seemingly relevant papers:
 
@@ -37,3 +37,5 @@ I'm quickly identifying a theme in my presentations, and it is [keyboard cat][ke
 [dg2006]: //citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.413.2943&rep=rep1&type=pdf
 [nbhj2006]: //www.pensivepuffin.com/dwmcphd/syllabi/info447_au10/readings/nardi.harris.WoW.CSCW06.pdf
 [bv2006]: //is.muni.cz/el/1423/podzim2006/SAN209/um/Bernal__Victoria._2006._Diaspora__cyberspace_and_political_imagination._The_Eritrean_diaspora_online.pdf
+[paper]: http://nms.sagepub.com/content/early/2014/07/15/1461444814543163.full
+
