@@ -19,7 +19,7 @@ Abstract: The term “Quantified Self” refers to people who track, measure, an
 
 Links: thesis ([pdf][QSThesis]) & symposium presentation ([ppt][QSppt]/[pdf][QSpdf])
 
-[DynamoPDF]: /media/papers/pn2032-paper.pdf
+[DynamoPDF]: /media/papers/p1621.pdf
 [QSThesis]: //www.academia.edu/8715029/Quantified_Self_Anthropology_Undergraduate_Thesis_
 [QSppt]: /presentations/QS.ppt
 [QSpdf]: /presentations/QS.pdf
