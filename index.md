@@ -7,11 +7,9 @@ I'm a PhD student in the Computer Science department at Stanford University.
 
 Last quarter I was working in [Jure Leskovec][jure]'s lab (the [InfoLab][infolab]). This quarter I'm working with [Dan Jurafsky][DJ] in the [Linguistics][stanfordnlp] department. Check my [blog][blog] for more info as I can tell more.
 
-I earned my B.A. in Anthropology & B.S. in Informatics, specializing in Human-Computer Interaction, both from UC Irvine.
+This upcoming summer I'll be in Seattle, interning with Microsoft Research's [FUSE labs][fuselabs]. As above, check my blog for more info as I can discuss it.
 
-My senior honors thesis was on the culture of people who engage in the [Quantified Self][qsthesis], and my advisor was [Tom Boellstorff][boell].
-
-Check my [blog][blog] for things that are not quite ready for prime-time.
+I earned my B.A. in Anthropology & B.S. in Informatics, specializing in Human-Computer Interaction, both from UC Irvine. My senior honors thesis was on the culture of people who engage in the [Quantified Self][qsthesis], and my advisor was [Tom Boellstorff][boell].
 
 I *try* to reply to all emails that are actually sent to me (and not mass mailers), but if you want to be sure to get my attention I'm pretty sure a book off my [wishlist][wishlist] would do the trick (shameless? Absolutely).
 
@@ -25,3 +23,4 @@ If this isn't enough, click on some links floating around this text in various p
 [infolab]: http://infolab.stanford.edu/
 [DJ]: //web.stanford.edu/~jurafsky/
 [stanfordnlp]: http://nlp.stanford.edu/
+[fuselabs]: http://fuse.microsoft.com/
