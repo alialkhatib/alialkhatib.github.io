@@ -1,5 +1,5 @@
 ---
-title: Get to the Point
+title: CSCW Reflections
 author: Ali
 layout: post
 ---
@@ -37,7 +37,7 @@ If you're writing a very gnarled paragraph, I urge you to take a walk around you
 
 I'm not saying you need to do this with every sentence you write, or even that you should try to do this in all of your writing. It's just that, in academic writing, your goal is to get your point across as clearly as possible. When you write long, rambling sentences, you risk one of two things happening. First, you run the risk that someone will navigate your murky circumlocution poorly and come out the other side with the wrong takeaway. The second danger, however, is no less troubling: you run the serious risk that people won't bother to see the insight you've buried in your murky writing.
 
-Then what was all of it?
+Then what was all of it *for*?
 
 ---
 
