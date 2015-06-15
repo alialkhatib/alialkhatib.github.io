@@ -1,1 +1,0 @@
-jekyll-twitter-plugin/lib/jekyll-twitter-plugin.rb

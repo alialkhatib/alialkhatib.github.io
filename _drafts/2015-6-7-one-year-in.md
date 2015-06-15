@@ -18,6 +18,9 @@ It's impossible to overstate how surreal this experience has been for me. "Surre
 
 But none of that's what happened; I studied Anthropology. My application to Stanford was a complete shot in the dark - something I did because I saw good fit with a few people and figured I'd never get over *not* taking that shot, but certainly not expecting that shot to land. But then it did.
 
-I'm being really careful and deliberate about my wording here because I'm struggling with two seemingly competing feelings. The first, perhaps unsurprisingly, is "impostor syndrome". If you've never heard of it, go read about it. It's an amazing phenomenon in human psychology that seems to affect everyone, and yet we can't seem to get over it, having realized how ubiquitous this particular misconception is. Fundamentally, it's the notion that you don't belong where you are - that you're an *impostor* among truly deserving folks. One can imagine why impostor syndrome is common - if you place a lot of value and esteem in an institution (academic, industrial, or otherwise), you might struggle to see yourself belonging there.
+I'm being really careful and deliberate about my wording here because I'm struggling with two seemingly competing biases. The first, perhaps unsurprisingly, is "impostor syndrome". If you've never heard of it, go [read about it][impostorsyndrom]. It's an amazing phenomenon in human psychology that seems to affect everyone, and yet we can't seem to get over it, having realized how ubiquitous this particular misconception is. Fundamentally, it's the notion that you don't belong where you are - that you're an *impostor* among truly deserving folks. One can imagine why impostor syndrome is common - if you place a lot of value and esteem in an institution (academic, industrial, or otherwise), you might struggle to see yourself belonging there.
 
 There are a few things I can offer those with impostor syndrome, but some of the best insights are usually the pithiest. Case in point:
+
+
+[impostorsyndrom]: #
