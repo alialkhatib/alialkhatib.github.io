@@ -5,9 +5,7 @@ Hi, that's me.
 
 I'm a PhD student in the Computer Science department at Stanford University.
 
-Last quarter I was working in [Jure Leskovec][jure]'s lab (the [InfoLab][infolab]). This quarter I'm working with [Dan Jurafsky][DJ] in the [Linguistics][stanfordnlp] department. Check my [blog][blog] for more info as I can tell more.
-
-This upcoming summer I'll be in Seattle, interning with Microsoft Research's [FUSE labs][fuselabs]. As above, check my blog for more info as I can discuss it.
+Last quarter I worked with [Dan Jurafsky][DJ] in the [Linguistics][stanfordnlp] department. I'm currently in Seattle, interning with Microsoft Research's [FUSE labs][fuselabs]. Check my [blog][blog] for more info as I can discuss it.
 
 I earned my B.A. in Anthropology & B.S. in Informatics, specializing in Human-Computer Interaction, both from UC Irvine. My senior honors thesis was on the culture of people who engage in the [Quantified Self][qsthesis], and my advisor was [Tom Boellstorff][boell].
 

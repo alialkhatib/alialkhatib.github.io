@@ -4,7 +4,7 @@ author: Ali
 layout: post
 ---
 
-I've been thinking about (and working on!) this post for the past few weeks, particularly after I started seeing the (pre-)graduation photos of friends who walked this year. One year ago today I walked across the stage at the Bren Events Center at UC Irvine to recognize having earned a B.A. in Anthropology. As I'm sure people often say, this represented more than "just" earning my degree, though.
+I've been thinking about (and working on!) this post for the past few weeks, particularly after I started seeing the graduation photos of friends who walked this year. A year ago today I walked across the stage at the Bren Events Center at UC Irvine, recognizing my having earned a B.A. in Anthropology. But 
 
 - It represented the payoff of spending the better part of *5 years* at a community college not knowing what I really wanted to do with myself before I even got to UC Irvine.
 - It represented the about-face of going from being a C and D-student in high school to becoming a student worthy of a few accolades and graduate school.
