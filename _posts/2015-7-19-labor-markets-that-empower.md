@@ -23,7 +23,7 @@ The argument so far unstated is that there's a connection between the kind of in
 
 In some ways, the relationship "gig economy" markets have made between workers and customers has paralleled the relationships Amazon and Kempelen instantiated with their Turks. That is, workers are seen as exchangeable, if as distinct things at all (let alone as people). More importantly, they're not stakeholders in the way we usually think of them. Employees of conventional companies are recognized for having an interest in the organizations for which they work; some form labor unions, others make the organization worker-run (these are called co-ops, and full disclosure: I'm really into them lately).
 
-This summer, I'm hoping to demonstrate that this isn't how it has to be. At MSR we're working on building a labor market that's worker-centric, meaning that it benefits workers as well as consumers. We think that participants in a market don't need to be exploited for the market to succeed.
+This summer, I'm hoping to demonstrate that alienating the worker isn't how it has to be. At [the FUSE Labs][fuse] at [MSR][msr] we're working on building a labor market that's worker-centric; in part, that means it benefits workers as well as consumers. We think that participants in a market don't need to be exploited for the market to succeed.
 
 To this end, we've been interviewing people from something like half a dozen distinct industries. Some of those industries have been "Uberized", but many haven't. We're pretty sure we're not looking to compete with Uber on driving - not yet, anyway - while we *also* try to prove that a totally different kind of market than the ones we often see can thrive.
 
@@ -37,3 +37,5 @@ This is all fairly high level and more about motivation than implementation. I'l
 [cross-section]: https://upload.wikimedia.org/wikipedia/commons/2/22/Tuerkischer_schachspieler_racknitz3.jpg
 [fedsArticle]: http://arstechnica.com/tech-policy/2015/07/watch-out-sharing-economy-the-feds-are-watching-this-whole-contractor-thing/
 [rioting]: http://www.independent.co.uk/news/world/europe/uber-row-in-france-president-hollande-condemns-lowcost-firm-after-violent-taxi-driver-protests-in-paris-10346909.html
+[fuse]: http://fuse.microsoft.com/ 
+[msr]: http://research.microsoft.com/
