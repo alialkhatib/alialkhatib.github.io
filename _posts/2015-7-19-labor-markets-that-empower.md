@@ -25,7 +25,7 @@ In some ways, the relationship "gig economy" markets have made between workers a
 
 This summer, I'm hoping to demonstrate that alienating the worker isn't how it has to be. At [the FUSE Labs][fuse] at [MSR][msr] we're working on building a labor market that's worker-centric; in part, that means it benefits workers as well as consumers. We think that participants in a market don't need to be exploited for the market to succeed.
 
-To this end, we've been interviewing people from something like half a dozen distinct industries. Some of those industries have been "Uberized", but many haven't. We're pretty sure we're not looking to compete with Uber on driving - not yet, anyway - while we *also* try to prove that a totally different kind of market than the ones we often see can thrive.
+To this end, we've been interviewing people from something like half a dozen distinct industries. Some of those industries have been "Uberized", but many haven't. We're pretty sure we're not looking to compete with Uber on driving while we *also* try to prove that a totally different kind of market than the ones we often see can thrive. Not yet, anyway.
 
 I'm earnestly looking forward to telling more about the partnerships we've made in the last few weeks, but the next steps now that we've made something like half a dozen mock-ups and had dozens of hours of meetings with stakeholders is to get started prototyping something tangible. Medium-term, we're trying to build systems that enable workers to work flexibly the way "gig economy" markets allow, but with these workers as first-class citizens rather than as the commodity being traded.
 
