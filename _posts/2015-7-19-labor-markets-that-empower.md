@@ -39,3 +39,4 @@ This is all fairly high level and more about motivation than implementation. I'l
 [rioting]: http://www.independent.co.uk/news/world/europe/uber-row-in-france-president-hollande-condemns-lowcost-firm-after-violent-taxi-driver-protests-in-paris-10346909.html
 [fuse]: http://fuse.microsoft.com/ 
 [msr]: http://research.microsoft.com/
+
