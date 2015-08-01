@@ -7,7 +7,7 @@ categories:
 ---
 About a week ago I deactivated my Facebook account. I went through the whole process of disabling all of the hapless shit Facebook does to keep me tied in (the periodic emails, the notification emails in case my friends say stuff I might care about, etc...) and entered the confirmation code, and that was that.
 
-<a href="//ali-alkhatib.com/content/Screen-Shot-2013-09-06-at-10.33.28-AM.png" rel="attachment wp-att-104"><img src="//ali-alkhatib.com/content/Screen-Shot-2013-09-06-at-10.33.28-AM.png" alt="" title="screen-shot-2013-09-06-at-10-33-28-am-png" class="alignnone size-full wp-image-104" /></a>
+![screenshot][]
 
 How often do I see the Facebook login screen? Not very.
 
@@ -22,3 +22,5 @@ I'm not sure if the issue is some old token/credential giving any arbitrary hold
 if this is just Facebook keeping my name/identity in the chat list (which makes sense) but somehow failing to disconnect the notification bit that would naturally disconnect when your account is deactivated. If that's the case, there's still the matter of why my Notification Center was able to access them (let alone why it was *pushed* those messages).
 
 I've asked a friend to try sending another message to the group chat, hopefully with something pithy like "I think Ali's eavesdropping on us". I'll update if I catch a notification in-progress.
+
+[screenshot]: /content/Screen-Shot-2013-09-06-at-10.33.28-AM.png

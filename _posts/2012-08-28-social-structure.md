@@ -8,9 +8,9 @@ tags:
   - Anthropology
   - Sociology
 ---
-I've been pretty fortunate with my first quarter at UC Irvine, particularly in that the classes I'm taking feed directly into my interests. That might seem like a very low bar for satisfaction, but consider that there are hundreds of classes offered (admittedly maybe only a dozen or so in Anthropology) and I could be taking any of those classes instead. More likely than not there would be some irrelevant classes where I was putting in a significant amount of work for something ultimately not related to my goals. More troublingly, though, is that I could be in a class where nothing meaningful got done. 
+I've been pretty fortunate with my first quarter at UC Irvine, particularly in that the classes I'm taking feed directly into my interests. That might seem like a very low bar for satisfaction, but consider that there are hundreds of classes offered (admittedly maybe only a dozen or so in Anthropology) and I could be taking any of those classes instead. More likely than not there would be some irrelevant classes where I was putting in a significant amount of work for something ultimately not related to my goals. More troubling, though, is that I could be in a class where nothing meaningful got done. 
 **
-  That would be a waste of units - time <i>and</i> money, in my case - and I'd be pretty upset about that.
+  That would be a waste of units - time *and* money, in my case - and I'd be pretty upset about that.
 **
 
 **
@@ -18,7 +18,7 @@ I've been pretty fortunate with my first quarter at UC Irvine, particularly in t
 **
 
 **
-  Or at least, that's how <i>I presume</i> it is. In the US. For people in Generation (X?, ) Y and Z. Maybe.
+  Or at least, that's how *I presume* it is. In the US. For people in Generation (X?, ) Y and Z. Maybe.
 **
 
 **
@@ -38,13 +38,17 @@ I've been pretty fortunate with my first quarter at UC Irvine, particularly in t
 **
 
 **
-  PandoDaily recently ran a <a href="//pandodaily.com/2012/08/27/big-data-be-damned-the-web-still-needs-a-human-touch/">story</a> which raised this point: so we have big data, a big industry with big hotshots doing impressive stuff with petabytes of information on us. This magnitude of information is simply too much to throw tactics at haphazardly. You need to figure out what questions (and equally importantly, how) you'll ask that data.
+  PandoDaily recently ran a [story][pando] which raised this point: so we have big data, a big industry with big hotshots doing impressive stuff with petabytes of information on us. This magnitude of information is simply too much to throw tactics at haphazardly. You need to figure out what questions (and equally importantly, how) you'll ask that data.
 **
 
 **
-  Ars Technica published a less immediately relevant <a href="//arstechnica.com/features/2012/08/why-your-smart-device-cant-get-wifi-in-the-home-teams-stadium/">article</a>, but with much of the same undertones. The challenges these engineers face with serving tens of thousands of users regularly (and simultaneously) is unfathomable. That said, this is practically the dictionary definition of Cultural Anthropology's use-of-space observation method. What better way to resolve a technically confounding problem than by finding human patterns which can allow engineers to focus resources on the right places (both literally in this case, but also figuratively).
+  Ars Technica published a less immediately relevant [article][ars], but with much of the same undertones. The challenges these engineers face with serving tens of thousands of users regularly (and simultaneously) is unfathomable. That said, this is practically the dictionary definition of Cultural Anthropology's use-of-space observation method. What better way to resolve a technically confounding problem than by finding human patterns which can allow engineers to focus resources on the right places (both literally in this case, but also figuratively).
 **
 
 **
-  It's kind of exciting to be studying Anthropology at this particular moment; I'm seeing untapped areas of study which could benefit enormously from simply asking the <i>right questions</i>, something people so often struggle with but which Anthropologists are trained to do well.<br /> <p />
+  It's kind of exciting to be studying Anthropology at this particular moment; I'm seeing untapped areas of study which could benefit enormously from simply asking the *right questions*, something people so often struggle with but which Anthropologists are trained to do well.<br /> <p />
 **
+
+
+[ars]: arstechnica.com/features/2012/08/why-your-smart-device-cant-get-wifi-in-the-home-teams-stadium
+[pando]: pandodaily.com/2012/08/27/big-data-be-damned-the-web-still-needs-a-human-touch

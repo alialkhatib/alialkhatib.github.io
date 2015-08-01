@@ -13,4 +13,7 @@ This illustration is ugly as sin, but it's illustrative of an interesting relati
 
 A pretty picture will be forthcoming. I need to work on making this programmatic. Do I want to do it in R or Python? Input might be welcome.
 
-<a href="//ali-alkhatib.com/content/final.png" rel="attachment wp-att-87"><imgsrc="//ali-alkhatib.com/content/final.png" alt="" title="final-png" class="alignnone size-full wp-image-87" /></a>
+
+![final][]
+
+[final]: /content/final.png
