@@ -18,11 +18,11 @@ I'm glad I waited a few weeks after coming back from Ecuador to post another upd
 **
 
 **
-  This Summer Session has been a mix of rush and lethargy, no doubt in part thanks to the fact that until recently I didn't have a computer to do the most basic work. I'm glad I have a computer now (I found out I can do assignments <i>whenever</i> I want; imagine that!), but there's still a lot stuck on my mind (money, long-term academics, etc...)
+  This Summer Session has been a mix of rush and lethargy, no doubt in part thanks to the fact that until recently I didn't have a computer to do the most basic work. I'm glad I have a computer now (I found out I can do assignments *whenever* I want; imagine that!), but there's still a lot stuck on my mind (money, long-term academics, etc...)
 **
 
 **
-  Lately we've been hearing a lot of lectures on Undergraduate Research Opportunities Programs (UROP), and it's prompted me to look more seriously into the literature behind the topics I'm interested in researching personally. It worries me because I'm not seeing myself fit perfectly in Anthropology, but I <i>do</i> see myself fit a little in Sociology, and Computer Science, and a host of other areas. I'm terrified that I might be in the wrong field, not just because it would have meant that I was wrong all this time, but because of the time involved in "catching up" to get back on track with that major. Even a slight change to my major (within the school of social sciences) would probably add another year to my college career. This is unsettling.
+  Lately we've been hearing a lot of lectures on Undergraduate Research Opportunities Programs (UROP), and it's prompted me to look more seriously into the literature behind the topics I'm interested in researching personally. It worries me because I'm not seeing myself fit perfectly in Anthropology, but I *do* see myself fit a little in Sociology, and Computer Science, and a host of other areas. I'm terrified that I might be in the wrong field, not just because it would have meant that I was wrong all this time, but because of the time involved in "catching up" to get back on track with that major. Even a slight change to my major (within the school of social sciences) would probably add another year to my college career. This is unsettling.
 **
 
 **

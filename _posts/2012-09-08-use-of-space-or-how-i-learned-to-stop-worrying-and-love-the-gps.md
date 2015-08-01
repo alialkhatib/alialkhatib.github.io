@@ -35,7 +35,7 @@ Taking an introductory Anthro course (on ethnographic methods) has been surprisi
 **
 
 **
-  This is part of ethical tech research which involves humans. Ethically, a corporate entity such as Facebook should be clear and upfront about how it uses <i>your</i> data. As it stands, however, Facebook does not even agree that the data is <i>yours</i> to assert ownership over, so we're not exactly on the same page, really.
+  This is part of ethical tech research which involves humans. Ethically, a corporate entity such as Facebook should be clear and upfront about how it uses *your* data. As it stands, however, Facebook does not even agree that the data is *yours* to assert ownership over, so we're not exactly on the same page, really.
 **
 
 **
