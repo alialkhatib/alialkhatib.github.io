@@ -14,7 +14,6 @@ Once it's renamed, go into your terminal and clone:
 
 ```
 $ git clone https://github.com/yourusername/yourusername.github.io.git
-
 ```
 
 Now that you have the code, there are a few tweaks I suggest people make:
