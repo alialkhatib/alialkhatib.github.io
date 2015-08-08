@@ -3,25 +3,48 @@ title: Seattle Tips, and Maybe some tips about Microsoft
 author: Ali
 layout: post
 ---
-I've been interning at Microsoft for just shy of 2 months now and I figure this is as good a time as any to reflect on some of the tips I've accumulated while I've been here. I'm going to try and focus the tips on things you might benefit from knowing if you're interning at any company in the Seattle area (also, top tip: it's called the "Puget Sound"), but naturally some of the guidance will be more Microsoft-specific. I'll try and separate them accordingly.
+I've been interning at Microsoft for just shy of 2 months now and I figure this is as good a time as any to reflect on some of the tips I've noted while I've been here. I'm going to try and focus the tips on things you might benefit from knowing if you're interning at any company in the Seattle area (also, pro tip: it's called the "Puget Sound"), but naturally some of the guidance will be more Microsoft-specific. I'll try and separate them accordingly.
 
 # General advice
 
 ## Where to live
-## Good work places?
-A few really excellent coffee shops seem to lend themselves to working on personal stuff if you're looking for a place to hang out after work. These 3 suggestions have solid WiFi and are located in Capitol Hill, although I honestly don't know of any good places outside of Capitol Hill (and not for lack of trying; one place in the University District might work in a pinch but I would travel *out* of the U District to come to these places, if I didn't already live in Capitol Hill).
+If you're reasonably social, do yourself a favor and live in Seattle. That is, don't take corporate housing (something Microsoft offers, which may be tempting). Yes, you'll save some money - a nearly infinitesimal amount - but it's just not worth it. In my case (with bumbling and everything else factored in), I spent about $200 more for housing in Seattle (Capitol Hill, in a pretty good location) than I would've had deducted if I went with corporate housing. If you're at a tech internship, you're making enough that $200 shouldn't bother you.
 
-- [Bauhaus Books and Coffee][bauhaus] is open till midnight most nights (and 1am others, but those nights you should really be hanging out with friends) and has a very library-ish feel with a wall stacked to the ceiling with books. This became such a haunt for me that the people at the register started giving me preferential treatment (moving the smaller pastries aside to grab the biggest one when I ordered one). There's a nice outdoor balcony but with traffic going by it became a bit noisy and distracting (the balcony is top notch for a hangout, maybe not as ideal for working).
+If you need me to rationalize living in a reasonable place, here it is: living in Seattle for the summer (versus Kirkland or Redmond) is worth a great deal more than $200. Being able to go to a nearby coffee shop after work, hit up a bar without worrying about who'll drive you back across the bridge, and be within walking distance of community events (like the [Capitol Hill Block Party][chbp]) makes living *somewhere* in Seattle preferable without qualification (except for the following one).
 
-- [Roy Street Coffee and Tea][roy] is a [Steal Starbucks][stealth] location. Nice couches, excellent WiFi (provided by Google), and pretty good atmosphere. Open till 10:30 or 11pm each day. There's way more seating here than at Bauhaus and it just feels more social. Communal tables make it easy to sit, work for a while, and then strike up a conversation with someone working near you. Or, you know, continue working and not be annoying.
+I'll caveat by saying that plenty of friends (especially friends with families) seem *very* happy with the arranged housing they took, but if you're single, planning on spending time in Seattle, and might occasionally be a tiny bit lazy about going out, just eliminate that barrier and live in the city.
 
-- [Cafe Solstice][solstice] is another place open till midnight like Bauhaus, but with a more industrial atmosphere. There's a cool loft setup that gives you a nice view of the main floor if you work from up there. At all coffee shops you should buy food and/or drink in exchange for the space/WiFi you use, but here in particular I've seen the proprietor give someone a little heat for squatting on the second floor without buying anything. It's a shitty thing to do in the first place (it's widely agreed that [you should buy *something*][don't be a jerk]), but here I think you're more likely to get shamed for it.
+## Okay but *where* in Seattle?
+Various neighborhoods have their own distinct cultures, but  Capitol Hill got favorable mentions by everyone I've talked to who's lived in Seattle, with Queen Anne in a close second. I'd argue this was justified, but I live in Capitol Hill so it's clear that I'm biased. I can at least say that I'm satisfied living here. If you're looking for a quieter place, Queen Anne might serve you better than Capitol Hill, but I haven't felt like things were that raucous and I was here through the [Seafair][] and the [Capitol Hill Block Party][chbp].
 
+Central is reportedly a little dicier, the University District is fine but across the bridge making it that much more trouble to get into Seattle (and in my case I'm optimizing for laziness), and the Downtown area around Pike Place and the Space Needle was grotesquely expensive. Not worth it unless... I dunno. Let's just say it's not worth it and be done with that thought.
+
+I wouldn't bother living north of the [Montlake Cut][the cut] (meaning I'm ruling out Fremont, Ballard, and the U District), since that'll give you all the disadvantages of living far from work with all the disadvantages of being too far from Seattle (again, we're optimizing for laziness here). I also wouldn't necessarily live in Magnolia, despite it being in the same land mass and adjacent to Queen Anne, because it's not as well-serviced by public transportation and might add disproportionately more to your commute time than you would otherwise think.
+
+Let's pretend there's a paragraph here where I implore you to use common sense and skepticism to avoid getting scammed by someone on Craigslist.
+
+## Any good work places?
+A few really excellent coffee shops seem to lend themselves to working on personal stuff if you're looking for a place to hang out after work. These suggestions have solid WiFi and are located in Capitol Hill, although I honestly don't know of any good places outside of Capitol Hill (and not for lack of trying; one place in the University District might work in a pinch but I would travel *out* of the U District to come to these places, if I didn't already live here).
+
+- [Bauhaus Books and Coffee][bauhaus] is open till midnight most nights (and 1am others, but those nights you should really be hanging out with friends) and has a very library-ish feel with books stacked up to the ceiling. This became such a haunt for me that the people at the register started giving me preferential treatment (moving the smaller pastries aside to grab the biggest one when I ordered one). There's a nice outdoor balcony but with traffic going by it gets a little too noisy and distracting for working alone (it's great for a hangout/chat though).
+
+- [Roy Street Coffee and Tea][roy] is a [Steal Starbucks][stealth] location. Nice couches, excellent WiFi (provided by Google), and pretty good atmosphere. Open till 10:30 or 11pm. There's way more seating here than at Bauhaus and it just feels more social. Communal tables make it easy to sit, work for a while, and then strike up a conversation with someone working near you. Or, you know, continue working and not be annoying. *Whatever you want.*
+
+- [Cafe Solstice][solstice] is another place open till midnight like Bauhaus, but with a more industrial look and feel to it. There's a cool loft setup that gives you a nice view of the main floor if you work from up there. At all coffee shops you should buy food and/or drink in exchange for the space & WiFi you use, but here in particular I've seen the proprietor give someone some heat for squatting on the second floor without buying anything. It's a shitty thing to do in the first place (it's widely agreed that [you should buy *something*][don't be a jerk]), but here I think you're more likely to get shamed for it.
+
+So, you know, be a good patron and buy something easy to make.
 
 # Microsoft Stuff
 The following is advice that I suspect is only useful for MS interns (and even then, maybe only MSR folks), but hopefully I'm wrong.
 
-## How to Commute (for Microsoft)
+## How to commute to work
+### Is a car worth it?
+### Connectors
+### Public buses
+
+## Prime card uses
+
+
 
 
 [bauhaus]: http://www.yelp.com/biz/bauhaus-books-and-coffee-seattle-5
@@ -29,3 +52,6 @@ The following is advice that I suspect is only useful for MS interns (and even t
 [stealth]: https://en.wikipedia.org/wiki/Stealth_Starbucks
 [solstice]: http://www.yelp.com/biz/cafe-solstice-seattle-3
 [don't be a jerk]: https://www.americanexpress.com/us/small-business/openforum/articles/the-entrepreneurs-guide-to-coffee-shop-etiquette/
+[Seafair]: http://www.seafair.com/
+[chbp]: http://capitolhillblockparty.com/
+[the cut]: https://en.wikipedia.org/wiki/Montlake_Cut
