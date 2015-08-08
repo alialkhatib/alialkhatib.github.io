@@ -24,7 +24,7 @@ Now that you have the code, there are a few tweaks I suggest people make:
 ga('create', 'UA-54110533-1');
 ```
 
-so that the code is yours. That's it! If you don't use Google Analytics, you should probably just comment out the whole \<script\> block at the bottom of the page.
+so that the code is yours. That's it! If you don't use Google Analytics, you should probably just comment out the whole `<script>` block at the bottom of the page.
 
 - You should either *remove* `CNAME` or *change* the value of it based on the domain name you're going to use. There are excellent instructions (by GitHub, no less!) [here][custom domain instructions], and you should follow them. There's also some acrobatics you'll need to do with A records and your domain registrar, and I remember it being vaguely confusing, but I can't remember any specific tips. The [GitHub][A record stuff] page on it was good. Follow those instructions and make the appropriate changes with your registrar.
 
