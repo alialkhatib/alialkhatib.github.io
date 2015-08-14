@@ -38,11 +38,32 @@ So, you know, be a good patron and buy something easy to make.
 The following is advice that I suspect is only useful for MS interns (and even then, maybe only MSR folks), but hopefully I'm wrong.
 
 ## How to commute to work
+Getting to and from work can have a dramatic effect on your quality of life. If it's stressful and time-consuming to get to and from work, that's going to cap your day at both ends with a miserable experience, which will just weigh down good days and make bad days worse. So try to assess yourself and figure out what you want; plan significantly around your wants. In *general*, plan around the things that matter to you and will affect you significantly. Just like the bed you sleep in 8 hours a night is important, so too is the method you use to get to work.
+
 ### Is a car worth it?
+Simple question, more or less simple answer: It's (probably) worth it if you live in Redmond or Kirkland because you can drive across the bridge (you know, to get to Seattle) whenever you want. I'm not even 100% sure that this is a sufficient cause, however, for 3 reasons:
+
+- you're exceedingly likely to know someone who opted for a car, and if you two are going to the same place you'll carpool anyway
+- you'll have an ORCA card that gives you unlimited free use of the public transit system (so, you know, use it)
+- you can always call an Uber or Lyft if you really need a ride somewhere
+
+Now, if you're living in Seattle, I have no idea where one would even confidently park a car what with parking regulations and whatnot. More importantly, you're in an even better position to take advantage of the bus system and ubiquitous ride-sharing services living in Seattle. So no, don't get a car if you're living in Seattle.
+
+Oh hey look at that, that's way more than $200 saved.
+
 ### Connectors
+Microsoft has these Connector shuttles. They're *fine*, but that's it. There's free WiFi, but I've found that you can reliably expect to get Internet speeds on par with in-flight WiFi on a trans-oceanic flight. Except on this shuttle you can just use your phone's cellular service, which is faster and doesn't inexplicably cause substantial battery use.
+
+There's a reservation system that allows you to guarantee yourself a seat, but it's probably worse than useless: in the dozen or so times that I've looked, I've never seen an open spot on the buses I wished to use. This flies in the face of all the conversations I've had with Full Time Employees (FTEs) who claim that they don't use the registration system. So I've figured that I'll go and try to get on anyway, and about 95% of the time I successfully do. The other 5% of the time I get thrown 
+
 ### Public buses
 
 ## Prime card uses
+
+## Food
+
+
+## "Insider" stuff
 
 
 
