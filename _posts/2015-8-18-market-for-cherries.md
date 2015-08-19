@@ -7,7 +7,7 @@ Last night someone asked [a really great question][tweet] in response to the [fu
 
 > Do you guys worry that by making it worker-centric you could scare some Requesters away?
 
-The short answer I gave was that I think higher quality workers will generally enrich the market, and make it appealing for requesters to do business there. This totally glossed over a number of assumptions and unstated ideas, so I want to take a minute to back up that argument based on some literature and the preliminary findings I've made from (some limited) fieldwork and interviews among workers. That's actually the format this post will take: first the literature, then the fieldwork (fair warning: I can't report much on the fieldwork side in part because I'm still processing stuff, so that'll be a short section, light on details).
+The short answer I gave was that I think higher quality workers will generally enrich the market, and make it appealing for requesters to do business there. This totally glossed over a number of assumptions and unstated ideas, so I want to take a minute to back up that argument based on some literature and the preliminary findings I've made from (some limited) fieldwork and interviews. That's actually the format this post will take: first the literature, then the fieldwork (fair warning: I can't report much on the fieldwork side in part because I'm still processing stuff, so that'll be a short section, light on details).
 
 This work will hopefully end up in a published paper, in which case I'll write a post/tweet a tweet/instagram an... instagram about it, but for now this will serve as a tentative "background" to the rationale behind my thinking that a worker-centric market is good for everyone.
 
