@@ -19,7 +19,7 @@ If you'd like to contact me by Google Hangouts or Skype, my accounts for both ar
 
 ali`[at]`ali-alkhatib.com
 
-*Please* email, tweet, or somehow contact me to let me know if you plan on contacting me this way. I'm rarely logged in to Skype or (that particular) Google account, so it'll seem like I'm never online unless I know someone's waiting for me.
+**Please** email, tweet, or somehow contact me to let me know if you plan on contacting me this way. I'm rarely logged in to Skype or (that particular) Google account, so it'll seem like I'm never online unless I know someone's waiting for me.
 
 [email]: mailto:ali.alkhatib@cs.stanford.edu
 [tw]: //twitter.com/alialkhatib_
