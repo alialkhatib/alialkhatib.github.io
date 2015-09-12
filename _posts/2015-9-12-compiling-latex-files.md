@@ -1,5 +1,5 @@
 ---
-title: Compile Latex Files Without Tearing Your Hair Out
+title: Compile LaTeX Files Without Tearing Your Hair Out
 author: Ali
 layout: post
 ---
