@@ -6,7 +6,7 @@ layout: post
 I actually think that's extremely optimistic (you'll probably still hate LaTeX no matter what), but I wrote a little shell function that does the repetitive crap that you usually have to do when you want to compile a latex file with references (especially if the references are updated).
 
 So here's the file:
-<% gist alialkhatib/35bba9fec12a63fcd5f1 %>
+{% gist alialkhatib/35bba9fec12a63fcd5f1 %}
 
 The things you should know (and I should document on Github) are:
 
