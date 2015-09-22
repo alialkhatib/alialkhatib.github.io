@@ -15,7 +15,7 @@ Check my [blog][blog] for more info
 I earned my B.A. in Anthropology & B.S. in Informatics,
 specializing in Human-Computer Interaction,
 both from UC Irvine in 2014.
-My senior honors thesis was on the culture of [Quantified Self][qsthesis],
+My honors thesis was on the culture of [Quantified Self][qsthesis],
 and my advisor was [Tom Boellstorff][boellstorff].
 
 I *try* to reply to all emails that are actually sent to me (but not mass mailers);
