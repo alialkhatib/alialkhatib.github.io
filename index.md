@@ -5,7 +5,7 @@ Hi, that's me.
 
 I'm a PhD student in the Computer Science department at Stanford University, specifically studying Human-Computer Interaction. My advisor is [Michael Bernstein][msb].
 
-Last quarter I worked with [Dan Jurafsky][DJ] in the [Linguistics][stanfordnlp] department. I'm currently in Seattle, interning with Microsoft Research's [FUSE labs][fuselabs]. Check my [blog][blog] for more info as I can discuss the project I'm working on (Incidentally, [this post][fuseblogpost] on the FUSE labs blog is a good overview of what I'm working on).
+This past Summer I was in Seattle, interning with Microsoft Research's [FUSE labs][fuselabs]. Check my [blog][blog] for more info (Also, [this post][fuseblogpost] on the FUSE labs blog is a good overview of what I was working on).
 
 I earned my B.A. in Anthropology & B.S. in Informatics, specializing in Human-Computer Interaction, both from UC Irvine in 2014. My senior honors thesis was on the culture of [Quantified Self][qsthesis], and my advisor was [Tom Boellstorff][boellstorff].
 
