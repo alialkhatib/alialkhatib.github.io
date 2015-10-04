@@ -13,4 +13,4 @@ The talk itself is where the content really is, but if you were there and you wa
 
 Note that there's no PDF version; there were too many animations so it would've made the export kind of pointless. If you happen to use a program that doesn't open pptx files, contact me (below?) and I'll jump through up to 5 metaphorical hoops to help you out as best I can.
 
-[presentation]: /presentations/FoothillTalk.pptx
+[presentation]: /media/presentations/FoothillTalk.pptx

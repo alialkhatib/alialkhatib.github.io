@@ -25,8 +25,8 @@ I'm quickly identifying a theme in my presentations, and it is [keyboard cat][ke
 
 [hcigroup]: //hci.stanford.edu/
 [infolabgroup]: //infolab.stanford.edu/
-[presentationkeynote]: /presentations/flags.key
-[presentationpptx]: /presentations/flags.pptx
+[presentationkeynote]: /media/presentations/flags.key
+[presentationpptx]: /media/presentations/flags.pptx
 [keyboardcat]: //www.youtube.com/watch?v=J---aiyznGQ
 [source serif]: //github.com/adobe-fonts/source-serif-pro
 [source code]: //github.com/adobe-fonts/source-code-pro
