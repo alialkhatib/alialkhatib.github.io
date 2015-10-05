@@ -24,7 +24,7 @@ that being said, if you want to be sure to get my attention I'm pretty sure a bo
 If this isn't enough info, click on some links floating around this text in various places
 (determined mostly by the size of your window).
 
-[qsthesis]: /presentations/QSThesisFinal.pdf
+[qsthesis]: /media/presentations/QSThesisFinal.pdf
 [blog]: /blog/
 [boellstorff]: http://faculty.sites.uci.edu/boellstorff/
 [wishlist]: //amzn.com/w/26BOYXJ3IHQKJ
