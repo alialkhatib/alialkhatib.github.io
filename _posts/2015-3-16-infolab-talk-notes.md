@@ -50,4 +50,4 @@ Ultimately, there are a few outcomes that would be great (and would not be mutua
 11. Mohammad, Saif M., and Peter D. Turney. "Crowdsourcing a word–emotion association lexicon." Computational Intelligence 29.3 (2013): 436-465.
 
 [QS presentation]:/media/presentations/QS.ppt
-[QS Thesis]: /media/presentations/QSThesisFinal.pdf
+[QS Thesis]: /media/papers/quantified_self.pdf
