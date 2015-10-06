@@ -21,6 +21,6 @@ Links: thesis ([pdf][QSThesis]) & symposium presentation ([ppt][QSppt]/[pdf][QSp
 
 [DynamoPaper]: /media/papers/p1621.pdf
 [DynamoSite]: http://www.wearedynamo.org
-[QSThesis]: //www.academia.edu/8715029/Quantified_Self_Anthropology_Undergraduate_Thesis_
-[QSppt]: /presentations/QS.ppt
-[QSpdf]: /presentations/QS.pdf
+[QSThesis]: /media/papers/quantified_self.pdf
+[QSppt]: /media/presentations/QS.ppt
+[QSpdf]: /media/presentations/QS.pdf
