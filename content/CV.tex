@@ -2,7 +2,6 @@
 % (c) 2003-2007 David J. Grant <davidgrant-at-gmail.com> http://www.davidgrant.ca
 % (c) 2008 Nathaniel Johnston <nathaniel@nathanieljohnston.com> http://www.nathanieljohnston.com
 % (c) 2015 Ali Alkhatib <ali.alkhatib@cs.stanford.edu> https://ali-alkhatib.com
-
 %This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 2.5 License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/2.5/ or send a letter to Creative Commons, 543 Howard Street, 5th Floor, San Francisco, California, 94105, USA.
 
 \documentclass[letterpaper,10pt]{article}
@@ -11,9 +10,20 @@
 \raggedbottom
 \raggedright
 \usepackage[svgnames]{xcolor}
-\usepackage{framed,tocloft,etoolbox,enumitem,biblatex}
+\usepackage{framed,tocloft,etoolbox,enumitem}
+\usepackage[normalem]{ulem} %for \uline
+\usepackage{array, xcolor, lipsum, bibentry}
+\usepackage{natbib}
+\usepackage[margin=3cm]{geometry}
+
 \robustify\cftdotfill
-\bibliography{references}
+
+\definecolor{lightgray}{gray}{0.8}
+\newcolumntype{L}{>{\raggedleft}p{0.05\textwidth}}
+\newcolumntype{R}{p{0.94\textwidth}}
+\newcommand\VRule{\color{lightgray}\vrule width 0.5pt}
+ 
+
 %-----------------------------------------------------------
 %Edit these values as you see fit
 \renewcommand{\labelitemi}{}
@@ -43,10 +53,7 @@
 
 \newcommand{\resheading}[1]{\vspace{8pt}
 \underline{\parbox{\textwidth}
-  % \parbox{\textwidth}{\setlength{\FrameSep}{\outerbordwidth}
-    % \begin{shaded}
 {\textbf{\sffamily{\large #1}}}
-    % \end{shaded}
   }
 }
 \newcommand{\ressubheading}[4]{
@@ -56,124 +63,114 @@
 \end{tabular*}\vspace{-6pt}}
 %-----------------------------------------------------------
 
-
 \begin{document}
 
-\begin{tabular*}{7in}{l@{\extracolsep{\fill}}r}
-\textbf{\huge Ali Alkhatib} & \textbf{Contact Information} \\
-PhD Student, Stanford University & ali.alkhatib@cs.stanford.edu \\
-\textit{last updated \today}& https://ali-alkhatib.com \\
-\end{tabular*}
-\\
 
-\resheading{Education}
-\begin{itemize}
-  \item
-    \ressubheading{Stanford University}{Stanford, CA}
-    {Ph.D. Computer Science (in progress)}           {September 2014 -- present}
-  \item
-    \ressubheading{University of California, Irvine}{Irvine, CA}
-    {B.A. Anthropology,
-     B.S. Informatics,
-     \textit{Phi Beta Kappa}}                         {August 2012 -- June 2014}
-    \begin{itemize}
-      \resitem{Informatics specialization: Human--Computer Interaction}
-      \resitem{Anthropology honors thesis: \textit{The Culture of Quantified Self} (Advisor: Tom Boellstorff)}
-    \end{itemize}
-
-\end{itemize}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\resheading{Research Experience}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{itemize}
-  \item
-    \ressubheading{Microsoft Research}{Redmond, WA}
-                  {FUSE Labs}{June 2015 -- September 2015}
-    \begin{itemize}
-      \resitem{Conducted study of piecemeal (or gig) workers}
-      \resitem{Designed front-end for worker-centric labor market platform}
-    \end{itemize}
-  
-  \item
-    \ressubheading{Stanford University}{Stanford, CA}
-                  {Human--Computer Interaction Group}{June 2014 -- September 2014}
-    \begin{itemize}
-      \resitem{Explored collective research of online communities}
-      \resitem{Prototyped online collective action platform}
-    \end{itemize}
-
-  \item
-    \ressubheading{University of California, Irvine}{Irvine, CA}
-                  {Evoke Laboratory \& Studio}{April 2014 -- June 2014}
-    \begin{itemize}
-      \resitem{Ethnographic research of values in design}
-      \resitem{Assembled guide for data co-ownership}
-    \end{itemize}
-  
-  \item
-    \ressubheading{University of California, Irvine}{Irvine, CA}
-                  {Honors Program in Anthropology}{September 2013 -- June 2014}
-    \begin{itemize}
-      \resitem{Senior research and thesis on Quantified Self}
-      % \resitem{}
-    \end{itemize}
-
-  \item
-    \ressubheading{University of California, Irvine}{Irvine, CA}
-                  {Multidisciplinary Design Program}{January 2013 -- June 2013}
-    \begin{itemize}
-      \resitem{Studied use of space on campus grounds}
-      \resitem{Brainstormed changes to sociofugal spaces to promote sociopetality}
-    \end{itemize}
-
-  \item
-    \ressubheading{Foothill College \& Columbia University}{Cangahua, Ecuador}
-                  {Pambamarca Archaeological Project}{June 2012 -- July 2012}
-    \begin{itemize}
-      \resitem{Mentored 20 students in ethnographic methods}
-      \resitem{Administered lab artifact database consisting of more than 8000 entries}
-    \end{itemize}
-
-\end{itemize}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  %%%%%% Header/Contact Information %%%%%%
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{tabular*}{7in}{l@{\extracolsep{\fill}}r}
+    \textbf{\huge Ali Alkhatib} & \textbf{Contact Information} \\
+    PhD Student, Stanford University & ali.alkhatib@cs.stanford.edu \\
+    \textit{last updated \today}& https://ali-alkhatib.com \\
+  \end{tabular*}
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\resheading{Publications}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \resheading{Education}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{itemize}
+    \item
+      \ressubheading{Stanford University}{Stanford, CA}
+      {Ph.D. Computer Science (in progress)}           {September 2014 -- present}
+    \item
+      \ressubheading{University of California, Irvine}{Irvine, CA}
+      {B.A. Anthropology,
+       B.S. Informatics,
+       \textit{Phi Beta Kappa}}                         {August 2012 -- June 2014}
+      \begin{itemize}
+        \resitem{Informatics specialization:
+          Human--Computer Interaction}
+        \resitem{Anthropology honors thesis:
+          \textit{Quantified Self: Ethnography of a Digital Culture}
+          (Advisor: Tom Boellstorff)}
+      \end{itemize}
+  \end{itemize}
 
-\nocite{weAreDynamo}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \resheading{Research Experience}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{itemize}
+    \item
+      \ressubheading{Microsoft Research}{Redmond, WA}
+                    {FUSE Labs}{June 2015 -- September 2015}
+      \begin{itemize}
+        \resitem{Conducted study of piecemeal (or gig) workers}
+        \resitem{Designed front-end for worker-centric labor market platform}
+      \end{itemize}
+    
+    \item
+      \ressubheading{Stanford University}{Stanford, CA}
+                    {Human--Computer Interaction Group}{June 2014 -- September 2014}
+      \begin{itemize}
+        \resitem{Explored collective research of online communities}
+        \resitem{Prototyped online collective action platform}
+      \end{itemize}
 
-% \nocite{weAreDynamo}
+    \item
+      \ressubheading{University of California, Irvine}{Irvine, CA}
+                    {Evoke Laboratory \& Studio}{April 2014 -- June 2014}
+      \begin{itemize}
+        \resitem{Ethnographic research of values in design}
+        \resitem{Assembled guide for data co-ownership}
+      \end{itemize}
+    
+    \item
+      \ressubheading{University of California, Irvine}{Irvine, CA}
+                    {Honors Program in Anthropology}{September 2013 -- June 2014}
+      \begin{itemize}
+        \resitem{Senior research and thesis on Quantified Self}
+        % \resitem{}
+      \end{itemize}
+
+    \item
+      \ressubheading{University of California, Irvine}{Irvine, CA}
+                    {Multidisciplinary Design Program}{January 2013 -- June 2013}
+      \begin{itemize}
+        \resitem{Studied use of space on campus grounds}
+        \resitem{Brainstormed changes to sociofugal spaces to promote sociopetality}
+      \end{itemize}
+
+    \item
+      \ressubheading{Foothill College \& Columbia University}{Cangahua, Ecuador}
+                    {Pambamarca Archaeological Project}{June 2012 -- July 2012}
+      \begin{itemize}
+        \resitem{Mentored 20 students in ethnographic methods}
+        \resitem{Administered lab artifact database consisting of more than 8000 entries}
+      \end{itemize}
+  \end{itemize}
 
 
-% \begin{enumerate}
-%   \item
-%     Salehi, N., Irani, L., Bernstein, M., {\bf Alkhatib, A.}, Ogbe, E., Milland, K., Clickhappier (2015).
-%     ``We Are Dynamo: Overcoming Stalling and Friction in Collective Action for Crowd Workers''.
-%     In {\it Proceedings of the SIGCHI Conference of Human Factors in Human Computing Systems}. ACM.
-  
-%   \item
-%     {\bf Alkhatib, A.} \& Boellstorff, T. (2014).
-%     ``Quantified Self: Ethnography of a Digital Culture''.
-%     In {\it UC Irvine Undergraduate Research Symposium}. Irvine, CA.
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \resheading{Publications}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \bibliographystyle{plain}
+  \nobibliography{references}
+  \begin{tabular}{L!{ \VRule\ } R}
+    2015 & \bibentry{weAreDynamo}\\[5pt]
+    2014 & \bibentry{QuantifiedSelf}\\[5pt]
+    2013 & \bibentry{ValuesInDesign}%\\[5pt]
+  \end{tabular}
 
-%   \item
-%     Costino, E., {\bf Alkhatib, A.}, Barsoum, F., Brown, I., Diep, B., Yang, W., Bowker, G., Gregory, J., Mazumdar, S. (2013).
-%     ``Values in Design: Designing for Hesitation and Presence''
-%     In {\it UC Irvine Undergraduate Research Symposium}. Irvine, CA.
- 
-% \end{enumerate}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\resheading{Skills}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{itemize}
-  \item {\bf Languages:}
-    Python, JavaScript, PHP, \LaTeX, Java, Bash, Ruby, R, HTML, CSS, SQL
-  \item {\bf Frameworks:}
-    Ruby on Rails, Node.js, AngularJS
-\end{itemize}
-
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \resheading{Skills}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{itemize}
+    \item {\bf Languages:}
+      Python, JavaScript, PHP, \LaTeX, Java, Bash, Ruby, R, HTML, CSS, SQL
+    \item {\bf Frameworks:}
+      Ruby on Rails, Node.js, AngularJS
+  \end{itemize}
 
 \end{document}
