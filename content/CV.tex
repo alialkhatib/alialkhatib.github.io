@@ -1,7 +1,8 @@
 % (c) 2002 Matthew Boedicker <mboedick@mboedick.org> (original author) http://mboedick.org
 % (c) 2003-2007 David J. Grant <davidgrant-at-gmail.com> http://www.davidgrant.ca
 % (c) 2008 Nathaniel Johnston <nathaniel@nathanieljohnston.com> http://www.nathanieljohnston.com
-%
+% (c) 2015 Ali Alkhatib <ali.alkhatib@cs.stanford.edu> https://ali-alkhatib.com
+
 %This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 2.5 License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/2.5/ or send a letter to Creative Commons, 543 Howard Street, 5th Floor, San Francisco, California, 94105, USA.
 
 \documentclass[letterpaper,10pt]{article}
@@ -10,19 +11,14 @@
 \raggedbottom
 \raggedright
 \usepackage[svgnames]{xcolor}
-\usepackage{framed}
-\usepackage{tocloft}
-\usepackage{etoolbox}
+\usepackage{framed,tocloft,etoolbox,enumitem}
 \robustify\cftdotfill
-
 
 %-----------------------------------------------------------
 %Edit these values as you see fit
-
-\setlength{\outerbordwidth}{3pt}  % Width of border outside of title bars
-\definecolor{shadecolor}{gray}{0.75}  % Outer background color of title bars (0 = black, 1 = white)
-\definecolor{shadecolorB}{gray}{0.93}  % Inner background color of title bars
-
+\renewcommand{\labelitemi}{}
+\setlist[itemize,1]{leftmargin=*,itemsep=5pt}
+\setlist[enumerate,1]{leftmargin=*,itemsep=5pt}
 
 %-----------------------------------------------------------
 %Margin setup
@@ -44,15 +40,17 @@
 %-----------------------------------------------------------
 %Custom commands
 \newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+
 \newcommand{\resheading}[1]{\vspace{8pt}
-  \parbox{\textwidth}{\setlength{\FrameSep}{\outerbordwidth}
-    \begin{shaded}
-\setlength{\fboxsep}{0pt}\framebox[\textwidth][l]{\setlength{\fboxsep}{4pt}\fcolorbox{shadecolorB}{shadecolorB}{\textbf{\sffamily{\mbox{~}\makebox[6.762in][l]{\large #1} \vphantom{p\^{E}}}}}}
-    \end{shaded}
-  }\vspace{-5pt}
+\underline{\parbox{\textwidth}
+  % \parbox{\textwidth}{\setlength{\FrameSep}{\outerbordwidth}
+    % \begin{shaded}
+{\textbf{\sffamily{\large #1}}}
+    % \end{shaded}
+  }
 }
 \newcommand{\ressubheading}[4]{
-\begin{tabular*}{6.5in}{l@{\cftdotfill{\cftsecdotsep}\extracolsep{\fill}}r}
+\begin{tabular*}{6.9in}{l@{\cftdotfill{\cftsecdotsep}\extracolsep{\fill}}r}
     \textbf{#1} & #2 \\
     \textit{#3} & \textit{#4} \\
 \end{tabular*}\vspace{-6pt}}
@@ -62,7 +60,7 @@
 \begin{document}
 
 \begin{tabular*}{7in}{l@{\extracolsep{\fill}}r}
-\textbf{\Large Ali Alkhatib} & \textbf{Contact Information} \\
+\textbf{\huge Ali Alkhatib} & \textbf{Contact Information} \\
 PhD Student, Stanford University & ali.alkhatib@cs.stanford.edu \\
 \textit{last updated \today}& https://ali-alkhatib.com \\
 \end{tabular*}
@@ -72,15 +70,16 @@ PhD Student, Stanford University & ali.alkhatib@cs.stanford.edu \\
 \begin{itemize}
   \item
     \ressubheading{Stanford University}{Stanford, CA}
-    {Ph.D. Computer Science (in progress)}{2014 - present}
+    {Ph.D. Computer Science (in progress)}           {September 2014 -- present}
   \item
     \ressubheading{University of California, Irvine}{Irvine, CA}
-    {B.A. Anthropology, B.S. Informatics}{2012 - 2014}
+    {B.A. Anthropology,
+     B.S. Informatics,
+     \textit{Phi Beta Kappa}}                         {August 2012 -- June 2014}
     \begin{itemize}
-      \resitem{Honors: Phi Beta Kappa}
-      \resitem{Informatics specialization: Human-Computer Interaction}
-      \resitem{Anthropology honors thesis: \textit{The Culture of Quantified Self}}
-      \resitem{Advisor: Tom Boellstorff}
+      \resitem{}
+      \resitem{Informatics specialization: Human--Computer Interaction}
+      \resitem{Anthropology honors thesis: \textit{The Culture of Quantified Self} (Advisor: Tom Boellstorff)}
     \end{itemize}
 
 \end{itemize}
@@ -90,21 +89,53 @@ PhD Student, Stanford University & ali.alkhatib@cs.stanford.edu \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{itemize}
   \item
-    \ressubheading{Microsoft Research}{Redmond, WA}{FUSE Labs}{June 2015 - September 2015}
+    \ressubheading{Microsoft Research}{Redmond, WA}
+                  {FUSE Labs}{June 2015 -- September 2015}
     \begin{itemize}
-      \resitem{Ethnographic study of laborers}
-            % \resitem{{\bf Optimization:} Co-developed and led team for MOE: the Metric Optimization Engine (\texttt{github.com/Yelp/MOE}, an \textbf{open source} optimization framework), found significant gains in different metrics across the organization using Bayesian Global Optimization algorithms.}
-            % \resitem{{\bf Targeting:} Implemented multi-armed bandit strategies for ad selection, sole targeting engineer on mobile app ads rollout, developed new location-based targeting algorithms, advised and helped develop other machine learning and math based targeting projects.}
-            % \resitem{{\bf Leadership:} Led cross-organization teams as director of the Yelp Dataset Challenge, MOE team lead, intern and new-hire mentor, founder and organizer of Applied Learning Group (bi-weekly, all-engineering technical speaker series) and more. Successfully managed projects from inception to on-time completion; balancing tradeoffs and coordinating teamwork.}
-            % \resitem{{\bf Recruiting:} Created, implemented, and directed \texttt{yelp.com/dataset\_challenge}, gave many dozens of tech talks across the country, led events, gave hundreds of technical interviews, and closed candidates.}
-  \end{itemize}
+      \resitem{Conducted study of piecemeal (or gig) workers}
+      \resitem{Designed front-end for worker-centric labor market platform}
+    \end{itemize}
+  
+  \item
+    \ressubheading{Stanford University}{Stanford, CA}
+                  {Human--Computer Interaction Group}{June 2014 -- September 2014}
+    \begin{itemize}
+      \resitem{Explored collective research of online communities}
+      \resitem{Prototyped online collective action platform}
+    \end{itemize}
 
-% \item
-%   \ressubheading{Bloomberg LP}{New York, NY}{Financial Software Development Intern}{Summer 2011}
-%   \begin{itemize}
-%     \resitem{Developed end-to-end reporting software in \texttt{C++} and \texttt{javascript}}
-%     \resitem{Implemented statistical models to perform forward and backward portfolio analysis}
-%   \end{itemize}
+  \item
+    \ressubheading{University of California, Irvine}{Irvine, CA}
+                  {Evoke Laboratory \& Studio}{April 2014 -- June 2014}
+    \begin{itemize}
+      \resitem{Ethnographic research of values in design}
+      \resitem{Assembled guide for data co-ownership}
+    \end{itemize}
+  
+  \item
+    \ressubheading{University of California, Irvine}{Irvine, CA}
+                  {Honors Program in Anthropology}{September 2013 -- June 2014}
+    \begin{itemize}
+      \resitem{Senior research and thesis on Quantified Self}
+      % \resitem{}
+    \end{itemize}
+
+  \item
+    \ressubheading{University of California, Irvine}{Irvine, CA}
+                  {Multidisciplinary Design Program}{January 2013 -- June 2013}
+    \begin{itemize}
+      \resitem{Studied use of space on campus grounds}
+      \resitem{Brainstormed changes to sociofugal spaces to promote sociopetality}
+    \end{itemize}
+
+  \item
+    \ressubheading{Foothill College \& Columbia University}{Cangahua, Ecuador}
+                  {Pambamarca Archaeological Project}{June 2012 -- July 2012}
+    \begin{itemize}
+      \resitem{Mentored 20 students in ethnographic methods}
+      \resitem{Administered lab artifact database consisting of more than 8000 entries}
+    \end{itemize}
+
 \end{itemize}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -151,14 +182,14 @@ PhD Student, Stanford University & ali.alkhatib@cs.stanford.edu \\
   
   \item
     {\bf Alkhatib, Ali}, and Tom Boellstorff.
-    {\it Quantified Self: Ethnography of a Digital Culture}.
-    University of California. 2014.
- % \item SC Clark, {\it PARALLEL MACHINE LEARNING ALGORITHMS IN BIOINFORMATICS AND GLOBAL OPTIMIZATION}. PhD Thesis in Applied Mathematics, Cornell University, May 2012.
- % \item SC Clark, R Egan, P Frazier, and Z Wang, {\it ALE: an Assembly Likelihood Evaluation Framework to Assess the
- %     Accuracy of Metagenome Assemblies} {\it Bioinformatics}  {\bf 29}, 4, 435-443 (2013).
- % \item SC Clark, N Hengartner, and J Berendzen, {\it Velvetrope: a parallel, bitwise algorithm for ﬁnding homologous regions within multiple sequences} submitted to {\it BMC Bioinformatics} (2010).
- % \item SC Clark, {\it Solving Genomic Jigsaws}. DEIXIS Magazine {\bf 8} 30--32 (2010).
- % \item KC Kunes, SC Clark, DL Cox, and RR Singh, {\it Left handed β helix models for mammalian prion fibrils.} Prion {\bf 2}, 2, 81--90 (2008).
+    (2014) {\it Quantified Self: Ethnography of a Digital Culture}.
+    In {\it UC Irvine Undergraduate Research Symposium}. Irvine, CA.
+
+  \item
+    Costino, E., {\bf Alkhatib, A.}, Barsoum, F., Brown, I., Diep, B., Yang, W., Bowker, G., Gregory, J., Mazumdar, S.
+    (2013) ``Values in Design: Designing for Hesitation and Presence''
+    In {\it UC Irvine Undergraduate Research Symposium}. Irvine, CA.
+ 
 \end{enumerate}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -424,11 +455,11 @@ PhD Student, Stanford University & ali.alkhatib@cs.stanford.edu \\
 \resheading{Skills}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{itemize}
-
-\item {\bf Languages:} Python, JavaScript, PHP, \LaTeX, Java, Bash, Ruby, R, HTML, CSS, SQL
-\item {\bf Frameworks:} Ruby on Rails, Node.JS, AngularJS
-
-% \item {\bf Development:} Python (preferred), C/C++, CUDA, JavaScript, \LaTeX
+  \item {\bf Languages:}
+    Python, JavaScript, PHP, \LaTeX, Java, Bash, Ruby, R, HTML, CSS, SQL
+  \item {\bf Frameworks:}
+    Ruby on Rails, Node.js, AngularJS
+\end{itemize}
 
 % \item {\bf Numerical Analysis and Computer Science:} Machine Learning, Data Mining, Optimization, Computational Science, Artificial Intelligence, Linear Algebra, Monte Carlo Methods, ODEs, PDEs, Iterative Methods, Parallel Programming, Distributed Systems, Data Structures
 
@@ -440,6 +471,6 @@ PhD Student, Stanford University & ali.alkhatib@cs.stanford.edu \\
 
 % \item I have worked in many places in a myriad of fields. I can readily learn and adapt to a new discipline, area or environment and start pushing real results quickly.
 
-\end{itemize}
+
 
 \end{document}
