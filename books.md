@@ -9,4 +9,5 @@ I have some books! You can see them here:
   <li>
     {{book.title}}
   </li>
+  {% endfor %}
 </ul>
