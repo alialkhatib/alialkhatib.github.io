@@ -1,6 +1,8 @@
 ---
-layout: shorty
+layout: longy
 title: Books
+blurb: | 
+    some weird kind of sharing thing.
 ---
 
 Some people have brought up that I have a fair number of books.
