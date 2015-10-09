@@ -1,246 +1,225 @@
 [
   {
-    "title":"The Internet Police: How Crime Went Online, and the Cops Followed",
-    "authors":["Nate Anderson"]
-    }, {
-    "title":"Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon",
-    "authors":["Kim Zetter"]
-    }, {
-    "title":"A PhD Is Not Enough!: A Guide to Survival in Science",
-    "authors":["Peter J Feibelman"]
-    }, {
-    "title":"The One World Schoolhouse: Education Reimagined",
-    "authors":["Salman Khan"]
-    }, {
-    "title":"Who Owns the Future?",
-    "authors":["Jaron Lanier"]
-    }, {
-    "title":"Digital Cosmopolitans: Why We Think the Internet Connects Us, Why It Doesn't, and How to Rewire It",
-    "authors":["Ethan Zuckerman"]
-    }, {
-    "title":"Numbersense: How to Use Big Data to Your Advantage",
-    "authors":["Kaiser Fung"]
-    }, {
-    "title":"Cities Are Good for You: The Genius of the Metropolis",
-    "authors":["Leo Hollis"]
-    }, {
-    "title":"Biological Anthropology",
-    "authors":["Michael Park"]
-    }, {
-    "title":"Physical Anthropology",
-    "authors":["Philip L. Stein","Bruce M. Rowe"]
-    }, {
-    "title":"Images of the Past",
-    "authors":["T. Douglas Price","Gary Feinman"]
-    }, {
-    "title":"Development and Underdevelopment: The Political Economy of Global Inequality",
-    "authors":["Mitchell A. Seligson","John T Passé-Smith"]
-    }, {
-    "title":"The Age of the Economist",
-    "authors":["Daniel R. Fusfeld"]
-    }, {
-    "title":"Global Political Economy",
-    "authors":["Theodore Cohn"]
-    }, {
-    "title":"Common Wealth: Economics for a Crowded Planet",
-    "authors":["Jeffrey D. Sachs"]
-    }, {
-    "title":"International Political Economy State-Market Relations in a Changing Global Order",
-    "authors":["Goddard C. Roe","Cronin Patrick"]
-    }, {
-    "title":"Macroeconomics",
-    "authors":["David Colander"]
-    }, {
-    "title":"Microeconomics",
-    "authors":["David Colander"]
-    }, {
-    "title":"Voyages to the Planets",
-    "authors":["Andrew Fraknoi","David Morrison"]
-    }, {
-    "title":"Voyages to the Stars and Galaxies",
-    "authors":["Andrew Fraknoi","David Morrison"]
-    }, {
-    "title":"Leadership at a Distance: Research in Technologically-Supported Work",
-    "authors":["Suzanne P. Weisband"]
-    }, {
-    "title":"Design for Hackers: Reverse Engineering Beauty",
-    "authors":["David Kadavy"]
-    }, {
-    "title":"Priests and Programmers: Technologies of Power in the Engineered Landscape of Bali",
-    "authors":["J. Stephen Lansing","William C. Clark"]
-    }, {
-    "title":"Thinking, Fast and Slow",
-    "authors":["Daniel Kahneman"]
-    }, {
-    "title":"Cold War, Cool Medium: Television, McCarthyism, and American Culture",
-    "authors":["Thomas Doherty"]
-    }, {
-    "title":"The World of the Ancient Maya",
-    "authors":["John S. Henderson"]
-    }, {
-    "title":"Gödel, Escher, Bach: An Eternal Golden Braid",
-    "authors":["Douglas R. Hofstadter"]
-    }, {
-    "title":"Castes of Mind: Colonialism and the Making of Modern India",
-    "authors":["Nicholas B. Dirks"]
-    }, {
-    "title":"Mexico: From the Olmecs to the Aztecs",
-    "authors":["Michael D. Coe","Rex Koontz"]
-    }, {
-    "title":"Big Structures, Large Processes, Huge Comparisons",
-    "authors":["Charles Tilly"]
-    }, {
-    "title":"The Ghosts of Europe: Central Europe's Past and Uncertain Future",
-    "authors":["Anna Porter"]
-    }, {
-    "title":"Everyday Life in Central Asia: Past and Present",
-    "authors":["Jeff Sahadeo","Russell Zanca"]
-    }, {
-    "title":"Magic Witchcraft and Religion: A Reader in the Anthropology of Religion",
-    "authors":["Pamela Moro","James Myers"]
-    }, {
-    "title":"Conformity and Conflict: Readings in Cultural Anthropology",
-    "authors":["James W. Spradley","David W. McCurdy"]
-    }, {
-    "title":"Social and Personal Ethics",
-    "authors":["William H. Shaw"]
-    }, {
-    "title":"Perspectives on Current Social Problems",
-    "authors":["Gregg Lee Carter"]
-    }, {
-    "title":"Ethnography and Virtual Worlds: A Handbook of Method",
-    "authors":["Tom Boellstorff","Bonnie Nardi"]
-    }, {
-    "title":"Understanding Digital Culture",
-    "authors":["Vincent Miller"]
-    }, {
-    "title":"Fixing Families: Parents, Power, and the Child Welfare System",
-    "authors":["Jennifer A. Reich"]
-    }, {
-    "title":"A World of Ideas: Essential Readings for College Writers",
-    "authors":["Lee A. Jacobus"]
-    }, {
-    "title":"The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures",
-    "authors":["Anne Fadiman"]
-    }, {
-    "title":"Warring Souls: Youth, Media, and Martyrdom in Post-Revolution Iran",
-    "authors":["Roxanne Varzi"]
-    }, {
-    "title":"Machines as the Measure of Men: Science, Technology, and Ideologies of Western Dominance",
-    "authors":["Michael Adas"]
-    }, {
-    "title":"Remix: Making Art and Commerce Thrive in the Hybrid Economy",
-    "authors":["Lawrence Lessig"]
-    }, {
-    "title":"Crowdsourcing",
-    "authors":["Daren C. Brabham"]
-    }, {
-    "title":"Big Data: A Revolution That Will Transform How We Live, Work, and Think",
-    "authors":["Viktor Mayer-Schönberger","Kenneth Cukier"]
-    }, {
-    "title":"What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
-    "authors":["Randall Munroe"]
-    }, {
-    "title":"Seductions Of Crime: Moral And Sensual Attractions In Doing Evil",
-    "authors":["Jack Katz"]
-    }, {
-    "title":"St. Thomas Aquinas on Politics and Ethics",
-    "authors":["Thomas Aquinas","Paul E. Sigmund"]
-    }, {
-    "title":"The Antichrist",
-    "authors":["Friedrich Nietzsche"]
-    }, {
-    "title":"Psychopathic Disorders",
-    "authors":["Michael Craft"]
-    }, {
-    "title":"Sway: The Irresistible Pull of Irrational Behavior",
-    "authors":["Ori Brafman","Rom Brafman"]
-    }, {
-    "title":"The Marshmallow Test: Why Self-Control Is the Engine of Success",
-    "authors":["Walter Mischel"]
-    }, {
-    "title":"Seeing What Others Don't: The Remarkable Ways We Gain Insights",
-    "authors":["Gary Klein"]
-    }, {
-    "title":"The Drunkard's Walk: How Randomness Rules Our Lives",
-    "authors":["Leonard Mlodinow"]
-    }, {
-    "title":"Who Controls the Internet?: Illusions of a Borderless World",
-    "authors":["Jack Goldsmith","Tim Wu"]
-    }, {
-    "title":"Delete: The Virtue of Forgetting in the Digital Age",
-    "authors":["Viktor Mayer-Schönberger"]
-    }, {
-    "title":"Close to the Machine: Technophilia and Its Discontents",
-    "authors":["Ellen Ullman"]
-    }, {
-    "title":"How to Write a Lot: A Practical Guide to Productive Academic Writing",
-    "authors":["Paul J. Silvia"]
-    }, {
-    "title":"Reading in the Brain: The New Science of How We Read",
-    "authors":["Stanislas Dehaene"]
-    }, {
-    "title":"Social Psychology",
-    "authors":["Richard Tracy LaPiere","Paul Randolph Farnsworth"]
-    }, {
-    "title":"Psychology",
-    "authors":["Henry Gleitman","James Gross","Daniel Reisberg"]
-    }, {
-    "title":"Down by the Bay: San Francisco's History between the Tides",
-    "authors":["Matthew Morse Booker"]
-    }, {
-    "title":"How Google Works",
-    "authors":["Eric Schmidt","Jonathan Rosenberg"]
-    }, {
-    "title":"The Monkey's Voyage: How Improbable Journeys Shaped the History of Life",
-    "authors":["Alan de Queiroz"]
-    }, {
-    "title":"Sons of the Profits: There's No Business Like Grow Business. The Seattle Story, 1851-1901",
-    "authors":["William C. Speidel"]
-    }, {
-    "title":"Fear on Trial",
-    "authors":["John Henry Faulk"]
-    }, {
-    "title":"Doc Maynard: The Man Who Invented Seattle",
-    "authors":["Speidel Bill"]
-    }, {
-    "title":"Cengage Advantage Books: Liberty, Equality, Power: A History of the American People, Volume 1: To 1877",
-    "authors":["John M. Murrin","Paul E. Johnson"]
-    }, {
-    "title":"Readings in Ancient Greek Philosophy: From Thales to Aristotle",
-    "authors":["S. Marc Cohen","Patricia Curd"]
-    }, {
-    "title":"Writers INC: A Student Handbook for Writing and Learning",
-    "authors":["Patrick Sebranek","Dave Kemper"]
-    }, {
-    "title":"Literature and the Writing Process",
-    "authors":["Elizabeth McMahan","Susan X. Day","Robert W. Funk"]
-    }, {
-    "title":"The Nothing that Is: A Natural History of Zero",
-    "authors":["Robert Kaplan","Ellen Kaplan"]
-    }, {
-    "title":"East of Eden",
-    "authors":["John Steinbeck"]
-  // }, {
-  //   "title":"",
-  //   "authors":[""]
-  // }, {
-  //   "title":"",
-  //   "authors":[""]
-  // }, {
-  //   "title":"",
-  //   "authors":[""]
-  // }, {
-  //   "title":"",
-  //   "authors":[""]
-  // }, {
-  //   "title":"",
-  //   "authors":[""]
-  // }, {
-  //   "title":"",
-  //   "authors":[""]
-  // }, {
-  //   "title":"",
-  //   "authors":[""]
+  "title":"The Internet Police: How Crime Went Online, and the Cops Followed",
+  "authors":["Nate Anderson"]
+  }, {
+  "title":"Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon",
+  "authors":["Kim Zetter"]
+  }, {
+  "title":"A PhD Is Not Enough!: A Guide to Survival in Science",
+  "authors":["Peter J Feibelman"]
+  }, {
+  "title":"The One World Schoolhouse: Education Reimagined",
+  "authors":["Salman Khan"]
+  }, {
+  "title":"Who Owns the Future?",
+  "authors":["Jaron Lanier"]
+  }, {
+  "title":"Digital Cosmopolitans: Why We Think the Internet Connects Us, Why It Doesn't, and How to Rewire It",
+  "authors":["Ethan Zuckerman"]
+  }, {
+  "title":"Numbersense: How to Use Big Data to Your Advantage",
+  "authors":["Kaiser Fung"]
+  }, {
+  "title":"Cities Are Good for You: The Genius of the Metropolis",
+  "authors":["Leo Hollis"]
+  }, {
+  "title":"Biological Anthropology",
+  "authors":["Michael Park"]
+  }, {
+  "title":"Physical Anthropology",
+  "authors":["Philip L. Stein","Bruce M. Rowe"]
+  }, {
+  "title":"Images of the Past",
+  "authors":["T. Douglas Price","Gary Feinman"]
+  }, {
+  "title":"Development and Underdevelopment: The Political Economy of Global Inequality",
+  "authors":["Mitchell A. Seligson","John T Passé-Smith"]
+  }, {
+  "title":"The Age of the Economist",
+  "authors":["Daniel R. Fusfeld"]
+  }, {
+  "title":"Global Political Economy",
+  "authors":["Theodore Cohn"]
+  }, {
+  "title":"Common Wealth: Economics for a Crowded Planet",
+  "authors":["Jeffrey D. Sachs"]
+  }, {
+  "title":"International Political Economy State-Market Relations in a Changing Global Order",
+  "authors":["Goddard C. Roe","Cronin Patrick"]
+  }, {
+  "title":"Macroeconomics",
+  "authors":["David Colander"]
+  }, {
+  "title":"Microeconomics",
+  "authors":["David Colander"]
+  }, {
+  "title":"Voyages to the Planets",
+  "authors":["Andrew Fraknoi","David Morrison"]
+  }, {
+  "title":"Voyages to the Stars and Galaxies",
+  "authors":["Andrew Fraknoi","David Morrison"]
+  }, {
+  "title":"Leadership at a Distance: Research in Technologically-Supported Work",
+  "authors":["Suzanne P. Weisband"]
+  }, {
+  "title":"Design for Hackers: Reverse Engineering Beauty",
+  "authors":["David Kadavy"]
+  }, {
+  "title":"Priests and Programmers: Technologies of Power in the Engineered Landscape of Bali",
+  "authors":["J. Stephen Lansing","William C. Clark"]
+  }, {
+  "title":"Thinking, Fast and Slow",
+  "authors":["Daniel Kahneman"]
+  }, {
+  "title":"Cold War, Cool Medium: Television, McCarthyism, and American Culture",
+  "authors":["Thomas Doherty"]
+  }, {
+  "title":"The World of the Ancient Maya",
+  "authors":["John S. Henderson"]
+  }, {
+  "title":"Gödel, Escher, Bach: An Eternal Golden Braid",
+  "authors":["Douglas R. Hofstadter"]
+  }, {
+  "title":"Castes of Mind: Colonialism and the Making of Modern India",
+  "authors":["Nicholas B. Dirks"]
+  }, {
+  "title":"Mexico: From the Olmecs to the Aztecs",
+  "authors":["Michael D. Coe","Rex Koontz"]
+  }, {
+  "title":"Big Structures, Large Processes, Huge Comparisons",
+  "authors":["Charles Tilly"]
+  }, {
+  "title":"The Ghosts of Europe: Central Europe's Past and Uncertain Future",
+  "authors":["Anna Porter"]
+  }, {
+  "title":"Everyday Life in Central Asia: Past and Present",
+  "authors":["Jeff Sahadeo","Russell Zanca"]
+  }, {
+  "title":"Magic Witchcraft and Religion: A Reader in the Anthropology of Religion",
+  "authors":["Pamela Moro","James Myers"]
+  }, {
+  "title":"Conformity and Conflict: Readings in Cultural Anthropology",
+  "authors":["James W. Spradley","David W. McCurdy"]
+  }, {
+  "title":"Social and Personal Ethics",
+  "authors":["William H. Shaw"]
+  }, {
+  "title":"Perspectives on Current Social Problems",
+  "authors":["Gregg Lee Carter"]
+  }, {
+  "title":"Ethnography and Virtual Worlds: A Handbook of Method",
+  "authors":["Tom Boellstorff","Bonnie Nardi"]
+  }, {
+  "title":"Understanding Digital Culture",
+  "authors":["Vincent Miller"]
+  }, {
+  "title":"Fixing Families: Parents, Power, and the Child Welfare System",
+  "authors":["Jennifer A. Reich"]
+  }, {
+  "title":"A World of Ideas: Essential Readings for College Writers",
+  "authors":["Lee A. Jacobus"]
+  }, {
+  "title":"The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures",
+  "authors":["Anne Fadiman"]
+  }, {
+  "title":"Warring Souls: Youth, Media, and Martyrdom in Post-Revolution Iran",
+  "authors":["Roxanne Varzi"]
+  }, {
+  "title":"Machines as the Measure of Men: Science, Technology, and Ideologies of Western Dominance",
+  "authors":["Michael Adas"]
+  }, {
+  "title":"Remix: Making Art and Commerce Thrive in the Hybrid Economy",
+  "authors":["Lawrence Lessig"]
+  }, {
+  "title":"Crowdsourcing",
+  "authors":["Daren C. Brabham"]
+  }, {
+  "title":"Big Data: A Revolution That Will Transform How We Live, Work, and Think",
+  "authors":["Viktor Mayer-Schönberger","Kenneth Cukier"]
+  }, {
+  "title":"What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+  "authors":["Randall Munroe"]
+  }, {
+  "title":"Seductions Of Crime: Moral And Sensual Attractions In Doing Evil",
+  "authors":["Jack Katz"]
+  }, {
+  "title":"St. Thomas Aquinas on Politics and Ethics",
+  "authors":["Thomas Aquinas","Paul E. Sigmund"]
+  }, {
+  "title":"The Antichrist",
+  "authors":["Friedrich Nietzsche"]
+  }, {
+  "title":"Psychopathic Disorders",
+  "authors":["Michael Craft"]
+  }, {
+  "title":"Sway: The Irresistible Pull of Irrational Behavior",
+  "authors":["Ori Brafman","Rom Brafman"]
+  }, {
+  "title":"The Marshmallow Test: Why Self-Control Is the Engine of Success",
+  "authors":["Walter Mischel"]
+  }, {
+  "title":"Seeing What Others Don't: The Remarkable Ways We Gain Insights",
+  "authors":["Gary Klein"]
+  }, {
+  "title":"The Drunkard's Walk: How Randomness Rules Our Lives",
+  "authors":["Leonard Mlodinow"]
+  }, {
+  "title":"Who Controls the Internet?: Illusions of a Borderless World",
+  "authors":["Jack Goldsmith","Tim Wu"]
+  }, {
+  "title":"Delete: The Virtue of Forgetting in the Digital Age",
+  "authors":["Viktor Mayer-Schönberger"]
+  }, {
+  "title":"Close to the Machine: Technophilia and Its Discontents",
+  "authors":["Ellen Ullman"]
+  }, {
+  "title":"How to Write a Lot: A Practical Guide to Productive Academic Writing",
+  "authors":["Paul J. Silvia"]
+  }, {
+  "title":"Reading in the Brain: The New Science of How We Read",
+  "authors":["Stanislas Dehaene"]
+  }, {
+  "title":"Social Psychology",
+  "authors":["Richard Tracy LaPiere","Paul Randolph Farnsworth"]
+  }, {
+  "title":"Psychology",
+  "authors":["Henry Gleitman","James Gross","Daniel Reisberg"]
+  }, {
+  "title":"Down by the Bay: San Francisco's History between the Tides",
+  "authors":["Matthew Morse Booker"]
+  }, {
+  "title":"How Google Works",
+  "authors":["Eric Schmidt","Jonathan Rosenberg"]
+  }, {
+  "title":"The Monkey's Voyage: How Improbable Journeys Shaped the History of Life",
+  "authors":["Alan de Queiroz"]
+  }, {
+  "title":"Sons of the Profits: There's No Business Like Grow Business. The Seattle Story, 1851-1901",
+  "authors":["William C. Speidel"]
+  }, {
+  "title":"Fear on Trial",
+  "authors":["John Henry Faulk"]
+  }, {
+  "title":"Doc Maynard: The Man Who Invented Seattle",
+  "authors":["Speidel Bill"]
+  }, {
+  "title":"Cengage Advantage Books: Liberty, Equality, Power: A History of the American People, Volume 1: To 1877",
+  "authors":["John M. Murrin","Paul E. Johnson"]
+  }, {
+  "title":"Readings in Ancient Greek Philosophy: From Thales to Aristotle",
+  "authors":["S. Marc Cohen","Patricia Curd"]
+  }, {
+  "title":"Writers INC: A Student Handbook for Writing and Learning",
+  "authors":["Patrick Sebranek","Dave Kemper"]
+  }, {
+  "title":"Literature and the Writing Process",
+  "authors":["Elizabeth McMahan","Susan X. Day","Robert W. Funk"]
+  }, {
+  "title":"The Nothing that Is: A Natural History of Zero",
+  "authors":["Robert Kaplan","Ellen Kaplan"]
+  }, {
+  "title":"East of Eden",
+  "authors":["John Steinbeck"]
   }
 ]
