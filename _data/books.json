@@ -173,52 +173,52 @@
     }, {
     "title":"Close to the Machine: Technophilia and Its Discontents",
     "authors":["Ellen Ullman"]
-  }, {
+    }, {
     "title":"How to Write a Lot: A Practical Guide to Productive Academic Writing",
     "authors":["Paul J. Silvia"]
-  }, {
+    }, {
     "title":"Reading in the Brain: The New Science of How We Read",
     "authors":["Stanislas Dehaene"]
-  }, {
+    }, {
     "title":"Social Psychology",
     "authors":["Richard Tracy LaPiere","Paul Randolph Farnsworth"]
-  }, {
+    }, {
     "title":"Psychology",
     "authors":["Henry Gleitman","James Gross","Daniel Reisberg"]
-  }, {
+    }, {
     "title":"Down by the Bay: San Francisco's History between the Tides",
     "authors":["Matthew Morse Booker"]
-  }, {
+    }, {
     "title":"How Google Works",
     "authors":["Eric Schmidt","Jonathan Rosenberg"]
-  }, {
+    }, {
     "title":"The Monkey's Voyage: How Improbable Journeys Shaped the History of Life",
     "authors":["Alan de Queiroz"]
-  }, {
+    }, {
     "title":"Sons of the Profits: There's No Business Like Grow Business. The Seattle Story, 1851-1901",
     "authors":["William C. Speidel"]
-  }, {
+    }, {
     "title":"Fear on Trial",
     "authors":["John Henry Faulk"]
-  }, {
+    }, {
     "title":"Doc Maynard: The Man Who Invented Seattle",
     "authors":["Speidel Bill"]
-  }, {
+    }, {
     "title":"Cengage Advantage Books: Liberty, Equality, Power: A History of the American People, Volume 1: To 1877",
     "authors":["John M. Murrin","Paul E. Johnson"]
-  }, {
+    }, {
     "title":"Readings in Ancient Greek Philosophy: From Thales to Aristotle",
     "authors":["S. Marc Cohen","Patricia Curd"]
-  }, {
+    }, {
     "title":"Writers INC: A Student Handbook for Writing and Learning",
     "authors":["Patrick Sebranek","Dave Kemper"]
-  }, {
+    }, {
     "title":"Literature and the Writing Process",
     "authors":["Elizabeth McMahan","Susan X. Day","Robert W. Funk"]
-  }, {
+    }, {
     "title":"The Nothing that Is: A Natural History of Zero",
     "authors":["Robert Kaplan","Ellen Kaplan"]
-  }, {
+    }, {
     "title":"East of Eden",
     "authors":["John Steinbeck"]
   // }, {
@@ -242,5 +242,5 @@
   // }, {
   //   "title":"",
   //   "authors":[""]
-  } 
+  }
 ]
