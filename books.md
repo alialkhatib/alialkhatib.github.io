@@ -10,7 +10,6 @@ I have some books! You can see them here:
     {% for key in book %}
       {{key}} {{book[key]}}
     {% endfor %}
-    }
   </li>
   {% endfor %}
 </ul>
