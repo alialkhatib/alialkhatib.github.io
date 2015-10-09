@@ -13,6 +13,7 @@ and I thought it might come in handy to start tracking the books I *do* own,
 so here it is:
 
 A few notes:
+
 1. This list isn't organized. It also might not be complete (but mostly it is).
 If you really want me to organize something differently, either have a really good reason or be one of the authors.
 2. I've thought about embedding images and whatnot,
