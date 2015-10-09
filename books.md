@@ -1,7 +1,7 @@
 ---
-layout: longy
 title: Books
-blurb:|
+layout: longy
+blurb: |
    It's come to my attention that I have a fair number of books.
 I realize most of the people I know have access to a library,
 but some people prefer to borrow books from friends for lots of good reasons.
@@ -10,8 +10,9 @@ Or alternatively, sometimes you want to know what books someone else has read
 
 Either way, I don't really care. I figure you have your reasons,
 and I thought it might come in handy to start tracking the books I *do* own,
-so here it is: 
+so here it is.
 ---
+
 
 A few notes:
 
