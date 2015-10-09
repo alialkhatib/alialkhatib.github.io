@@ -2,7 +2,7 @@
 layout: shorty
 title: Books
 ---
-It's come to my attention that I have a lot of books.
+It's come to my attention that I have a fair number of books.
 I realize most of the people I know have access to a library,
 but some people prefer to borrow books from friends for lots of good reasons.
 Or alternatively, sometimes you want to know what books someone else has read
