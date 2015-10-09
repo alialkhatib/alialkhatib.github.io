@@ -1,5 +1,5 @@
 ---
-layout: longy
+layout: shorty
 title: Books
 ---
 
