@@ -17,16 +17,16 @@ exclude:
     - package.json
     - bower.json
 
-permalink: /blog/:title.html
+permalink: /blog/:title
 
 navigation:
     - title: home
       link: /
     - title: research
-      link: /research.html
+      link: /research
     - title: blog
       link: /blog/
     - title: contact
-      link: /contact.html
+      link: /contact
     - title: CV
       link: /content/CV.pdf

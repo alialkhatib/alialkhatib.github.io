@@ -1,6 +1,246 @@
 [
   {
-    "title":"title1",
-    "author":"author1"
-  },
+    "title":"The Internet Police: How Crime Went Online, and the Cops Followed",
+    "author":["Nate Anderson"]
+    }, {
+    "title":"Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon",
+    "author":["Kim Zetter"]
+    }, {
+    "title":"A PhD Is Not Enough!: A Guide to Survival in Science",
+    "author":["Peter J Feibelman"]
+    }, {
+    "title":"The One World Schoolhouse: Education Reimagined",
+    "author":["Salman Khan"]
+    }, {
+    "title":"Who Owns the Future?",
+    "author":["Jaron Lanier"]
+    }, {
+    "title":"Digital Cosmopolitans: Why We Think the Internet Connects Us, Why It Doesn't, and How to Rewire It",
+    "author":["Ethan Zuckerman"]
+    }, {
+    "title":"Numbersense: How to Use Big Data to Your Advantage",
+    "author":["Kaiser Fung"]
+    }, {
+    "title":"Cities Are Good for You: The Genius of the Metropolis",
+    "author":["Leo Hollis"]
+    }, {
+    "title":"Biological Anthropology",
+    "author":["Michael Park"]
+    }, {
+    "title":"Physical Anthropology",
+    "author":["Philip L. Stein","Bruce M. Rowe"]
+    }, {
+    "title":"Images of the Past",
+    "author":["T. Douglas Price","Gary Feinman"]
+    }, {
+    "title":"Development and Underdevelopment: The Political Economy of Global Inequality",
+    "author":["Mitchell A. Seligson","John T Passé-Smith"]
+    }, {
+    "title":"The Age of the Economist",
+    "author":["Daniel R. Fusfeld"]
+    }, {
+    "title":"Global Political Economy",
+    "author":["Theodore Cohn"]
+    }, {
+    "title":"Common Wealth: Economics for a Crowded Planet",
+    "author":["Jeffrey D. Sachs"]
+    }, {
+    "title":"International Political Economy State-Market Relations in a Changing Global Order",
+    "author":["Goddard C. Roe","Cronin Patrick"]
+    }, {
+    "title":"Macroeconomics",
+    "author":["David Colander"]
+    }, {
+    "title":"Microeconomics",
+    "author":["David Colander"]
+    }, {
+    "title":"Voyages to the Planets",
+    "author":["Andrew Fraknoi","David Morrison"]
+    }, {
+    "title":"Voyages to the Stars and Galaxies",
+    "author":["Andrew Fraknoi","David Morrison"]
+    }, {
+    "title":"Leadership at a Distance: Research in Technologically-Supported Work",
+    "author":["Suzanne P. Weisband"]
+    }, {
+    "title":"Design for Hackers: Reverse Engineering Beauty",
+    "author":["David Kadavy"]
+    }, {
+    "title":"Priests and Programmers: Technologies of Power in the Engineered Landscape of Bali",
+    "author":["J. Stephen Lansing","William C. Clark"]
+    }, {
+    "title":"Thinking, Fast and Slow",
+    "author":["Daniel Kahneman"]
+    }, {
+    "title":"Cold War, Cool Medium: Television, McCarthyism, and American Culture",
+    "author":["Thomas Doherty"]
+    }, {
+    "title":"The World of the Ancient Maya",
+    "author":["John S. Henderson"]
+    }, {
+    "title":"Gödel, Escher, Bach: An Eternal Golden Braid",
+    "author":["Douglas R. Hofstadter"]
+    }, {
+    "title":"Castes of Mind: Colonialism and the Making of Modern India",
+    "author":["Nicholas B. Dirks"]
+    }, {
+    "title":"Mexico: From the Olmecs to the Aztecs",
+    "author":["Michael D. Coe","Rex Koontz"]
+    }, {
+    "title":"Big Structures, Large Processes, Huge Comparisons",
+    "author":["Charles Tilly"]
+    }, {
+    "title":"The Ghosts of Europe: Central Europe's Past and Uncertain Future",
+    "author":["Anna Porter"]
+    }, {
+    "title":"Everyday Life in Central Asia: Past and Present",
+    "author":["Jeff Sahadeo","Russell Zanca"]
+    }, {
+    "title":"Magic Witchcraft and Religion: A Reader in the Anthropology of Religion",
+    "author":["Pamela Moro","James Myers"]
+    }, {
+    "title":"Conformity and Conflict: Readings in Cultural Anthropology",
+    "author":["James W. Spradley","David W. McCurdy"]
+    }, {
+    "title":"Social and Personal Ethics",
+    "author":["William H. Shaw"]
+    }, {
+    "title":"Perspectives on Current Social Problems",
+    "author":["Gregg Lee Carter"]
+    }, {
+    "title":"Ethnography and Virtual Worlds: A Handbook of Method",
+    "author":["Tom Boellstorff","Bonnie Nardi"]
+    }, {
+    "title":"Understanding Digital Culture",
+    "author":["Vincent Miller"]
+    }, {
+    "title":"Fixing Families: Parents, Power, and the Child Welfare System",
+    "author":["Jennifer A. Reich"]
+    }, {
+    "title":"A World of Ideas: Essential Readings for College Writers",
+    "author":["Lee A. Jacobus"]
+    }, {
+    "title":"The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures",
+    "author":["Anne Fadiman"]
+    }, {
+    "title":"Warring Souls: Youth, Media, and Martyrdom in Post-Revolution Iran",
+    "author":["Roxanne Varzi"]
+    }, {
+    "title":"Machines as the Measure of Men: Science, Technology, and Ideologies of Western Dominance",
+    "author":["Michael Adas"]
+    }, {
+    "title":"Remix: Making Art and Commerce Thrive in the Hybrid Economy",
+    "author":["Lawrence Lessig"]
+    }, {
+    "title":"Crowdsourcing",
+    "author":["Daren C. Brabham"]
+    }, {
+    "title":"Big Data: A Revolution That Will Transform How We Live, Work, and Think",
+    "author":["Viktor Mayer-Schönberger","Kenneth Cukier"]
+    }, {
+    "title":"What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+    "author":["Randall Munroe"]
+    }, {
+    "title":"Seductions Of Crime: Moral And Sensual Attractions In Doing Evil",
+    "author":["Jack Katz"]
+    }, {
+    "title":"St. Thomas Aquinas on Politics and Ethics",
+    "author":["Thomas Aquinas","Paul E. Sigmund"]
+    }, {
+    "title":"The Antichrist",
+    "author":["Friedrich Nietzsche"]
+    }, {
+    "title":"Psychopathic Disorders",
+    "author":["Michael Craft"]
+    }, {
+    "title":"Sway: The Irresistible Pull of Irrational Behavior",
+    "author":["Ori Brafman","Rom Brafman"]
+    }, {
+    "title":"The Marshmallow Test: Why Self-Control Is the Engine of Success",
+    "author":["Walter Mischel"]
+    }, {
+    "title":"Seeing What Others Don't: The Remarkable Ways We Gain Insights",
+    "author":["Gary Klein"]
+    }, {
+    "title":"The Drunkard's Walk: How Randomness Rules Our Lives",
+    "author":["Leonard Mlodinow"]
+    }, {
+    "title":"Who Controls the Internet?: Illusions of a Borderless World",
+    "author":["Jack Goldsmith","Tim Wu"]
+    }, {
+    "title":"Delete: The Virtue of Forgetting in the Digital Age",
+    "author":["Viktor Mayer-Schönberger"]
+    }, {
+    "title":"Close to the Machine: Technophilia and Its Discontents",
+    "author":["Ellen Ullman"]
+  }, {
+    "title":"How to Write a Lot: A Practical Guide to Productive Academic Writing",
+    "author":["Paul J. Silvia"]
+  }, {
+    "title":"Reading in the Brain: The New Science of How We Read",
+    "author":["Stanislas Dehaene"]
+  }, {
+    "title":"Social Psychology",
+    "author":["Richard Tracy LaPiere","Paul Randolph Farnsworth"]
+  }, {
+    "title":"Psychology",
+    "author":["Henry Gleitman","James Gross","Daniel Reisberg"]
+  }, {
+    "title":"Down by the Bay: San Francisco's History between the Tides",
+    "author":["Matthew Morse Booker"]
+  }, {
+    "title":"How Google Works",
+    "author":["Eric Schmidt","Jonathan Rosenberg"]
+  }, {
+    "title":"The Monkey's Voyage: How Improbable Journeys Shaped the History of Life",
+    "author":["Alan de Queiroz"]
+  }, {
+    "title":"Sons of the Profits: There's No Business Like Grow Business. The Seattle Story, 1851-1901",
+    "author":["William C. Speidel"]
+  }, {
+    "title":"Fear on Trial",
+    "author":["John Henry Faulk"]
+  }, {
+    "title":"Doc Maynard: The Man Who Invented Seattle",
+    "author":["Speidel Bill"]
+  }, {
+    "title":"Cengage Advantage Books: Liberty, Equality, Power: A History of the American People, Volume 1: To 1877",
+    "author":["John M. Murrin","Paul E. Johnson"]
+  }, {
+    "title":"Readings in Ancient Greek Philosophy: From Thales to Aristotle",
+    "author":["S. Marc Cohen","Patricia Curd"]
+  }, {
+    "title":"Writers INC: A Student Handbook for Writing and Learning",
+    "author":["Patrick Sebranek","Dave Kemper"]
+  }, {
+    "title":"Literature and the Writing Process",
+    "author":["Elizabeth McMahan","Susan X. Day","Robert W. Funk"]
+  }, {
+    "title":"The Nothing that Is: A Natural History of Zero",
+    "author":["Robert Kaplan","Ellen Kaplan"]
+  }, {
+    "title":"East of Eden",
+    "author":["John Steinbeck"]
+  // }, {
+  //   "title":"",
+  //   "author":[""]
+  // }, {
+  //   "title":"",
+  //   "author":[""]
+  // }, {
+  //   "title":"",
+  //   "author":[""]
+  // }, {
+  //   "title":"",
+  //   "author":[""]
+  // }, {
+  //   "title":"",
+  //   "author":[""]
+  // }, {
+  //   "title":"",
+  //   "author":[""]
+  // }, {
+  //   "title":"",
+  //   "author":[""]
+  } 
 ]
