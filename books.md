@@ -20,7 +20,7 @@ feel free to [contact](/contact) me.
 
 A few notes:
 
-1. This list ~~isn't organized~~ is organized by publication date! Which is something! It also might not be complete (but mostly it is).
+1. This list ~~isn't organized~~ is organized by publication date (newest first)! Which is something! It also might not be complete (but mostly it is).
 If you really want me to organize something differently, either have a really good reason or be one of the authors.
 2. I've thought about embedding images and whatnot,
   but I'm not sure what the legal implications of hosting a bunch of book cover images is in terms of copyright
