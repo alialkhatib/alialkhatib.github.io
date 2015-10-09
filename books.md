@@ -21,7 +21,7 @@ If you really want me to organize something differently, either have a really go
   (copyright law is ridiculous)
   and I *really* don't want to force you to send a bunch of unencrypted queries to Amazon or whatever to grab cover images.
 
-For reference, there are {% book.size %} books. Okay here we go!
+For reference, there are {% site.data.books.size %} books. Okay here we go!
 
 {% for book in site.data.books %}
 - *{{book.title}}* by **{{book.authors| array_to_sentence_string }}**
