@@ -1,5 +1,5 @@
 ---
-layout: shorty
+layout: longy
 title: Books
 ---
 
@@ -13,7 +13,7 @@ Either way, I don't really care. I figure you have your reasons,
 and I thought it might come in handy to start tracking the books I *do* own,
 so here's a list of the books I have. If you want to borrow one (or several),
 or talk about something in one of these books,
-feel free to [contact][/contact] me.
+feel free to [contact](/contact) me.
 
 A few notes:
 
