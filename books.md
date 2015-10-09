@@ -13,5 +13,5 @@ and I thought it might come in handy to start tracking the books I *do* own,
 so here it is:
 
 {% for book in site.data.books %}
-  - <span class="booktitle">{{book.title}}</span> by {{book.author}}
+  - *{{book.title}}* by **{{book.author}}**
 {% endfor %}
