@@ -295,5 +295,33 @@
   "title":"East of Eden",
   "authors":["John Steinbeck"],
   "ISBN":""
+  }, {
+  "title":"The Savage Mind",
+  "authors":["Claude Lévi-Strauss"],
+  "ISBN":""
+  }, {
+  "title":"The Interpretation of Cultures",
+  "authors":["Clifford Geertz"],
+  "ISBN":""
+  }, {
+  "title":"Participant Observation",
+  "authors":["James P. Spradley"],
+  "ISBN":""
+  }, {
+  "title":"Writing Ethnographic Fieldnotes",
+  "authors":["Robert M. Emerson","Rachel I. Fretz"],
+  "ISBN":""
+  }, {
+  "title":"Local Knowledge: Further Essays In Interpretive Anthropology",
+  "authors":["Clifford Geertz"],
+  "ISBN":""
+  }, {
+  "title":"Made to Stick: Why Some Ideas Survive and Others Die",
+  "authors":["Chip Heath","Dan Heath"],
+  "ISBN":""
+  // }, {
+  // "title":"",
+  // "authors":[""],
+  // "ISBN":""
   }
 ]
