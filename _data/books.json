@@ -1,3 +1,6 @@
 [
-{"title":"test!"}
+  {
+    "title":"Book title",
+    "author":"book author"
+  }
 ]

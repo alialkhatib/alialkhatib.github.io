@@ -1,5 +1,8 @@
 @import url(//reset5.googlecode.com/hg/reset.min.css);
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
+.title {
+  font-style:italic;
+}
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
