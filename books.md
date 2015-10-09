@@ -29,6 +29,6 @@ If you really want me to organize something differently, either have a really go
 
 For reference, there are {{ site.data.books.size }} books. Okay here we go!
 
-{% for book in site.data.books %}
+{% for book in site.data.books | sort: 'title' %}
 - *{{book.title}}* by **{{book.authors| array_to_sentence_string }}**
 {% endfor %}
