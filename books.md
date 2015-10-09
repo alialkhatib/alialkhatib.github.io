@@ -15,6 +15,6 @@ so here it is:
 {% for book in site.data.books %}
   - *{{book.title}}* by
   {% for author in book.authors %}
-    **{{ author }}**{% if book.authors.length >1 %}, {% endif %}
+    {{ author }}
   {% endfor %}
 {% endfor %}
