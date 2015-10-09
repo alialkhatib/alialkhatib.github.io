@@ -29,7 +29,7 @@ If you really want me to organize something differently, either have a really go
 
 For reference, there are {{ site.data.books.size }} books. Okay here we go!
 
-{% assign books = site.data.books | sort: 'publicationDate' %}
+{% assign books = site.data.books | sort: 'publicationDate' | reverse %}
 {% for book in books %}
 - *{{book.title}}* by **{{book.authors| array_to_sentence_string }}**
 {% endfor %}
