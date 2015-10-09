@@ -13,5 +13,5 @@ and I thought it might come in handy to start tracking the books I *do* own,
 so here it is:
 
 {% for book in site.data.books %}
-  - *{{book.title}}* by **{{ book.authors | join:',' }}**
+  - *{{book.title}}* by **{{ book.authors }}**
 {% endfor %}
