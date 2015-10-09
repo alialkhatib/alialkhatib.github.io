@@ -20,7 +20,7 @@ feel free to [contact](/contact) me.
 
 A few notes:
 
-1. This list isn't organized. It also might not be complete (but mostly it is).
+1. This list ~~isn't organized~~ is organized alphabetically! Which is something! It also might not be complete (but mostly it is).
 If you really want me to organize something differently, either have a really good reason or be one of the authors.
 2. I've thought about embedding images and whatnot,
   but I'm not sure what the legal implications of hosting a bunch of book cover images is in terms of copyright
@@ -29,6 +29,7 @@ If you really want me to organize something differently, either have a really go
 
 For reference, there are {{ site.data.books.size }} books. Okay here we go!
 
-{% for book in site.data.books | sort: 'title' %}
+{% assign books = site.data.books | sort: 'title' %}
+{% for book in books %}
 - *{{book.title}}* by **{{book.authors| array_to_sentence_string }}**
 {% endfor %}
