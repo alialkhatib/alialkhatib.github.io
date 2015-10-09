@@ -1,8 +1,9 @@
 ---
+layout: shorty
 title: Books
-layout: longy
-blurb: |
-   It's come to my attention that I have a fair number of books.
+---
+
+Some people have brought up that I have a fair number of books.
 I realize most of the people I know have access to a library,
 but some people prefer to borrow books from friends for lots of good reasons.
 Or alternatively, sometimes you want to know what books someone else has read
@@ -10,9 +11,9 @@ Or alternatively, sometimes you want to know what books someone else has read
 
 Either way, I don't really care. I figure you have your reasons,
 and I thought it might come in handy to start tracking the books I *do* own,
-so here it is.
----
-
+so here's a list of the books I have. If you want to borrow one (or several),
+or talk about something in one of these books,
+feel free to [contact][/contact] me.
 
 A few notes:
 
