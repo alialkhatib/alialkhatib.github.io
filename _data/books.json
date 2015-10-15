@@ -886,5 +886,14 @@
     "authors":[
       "Robert Axelrod"
     ]
+  },
+  {
+    "ISBN":"0030444969",
+    "title":"The Ethnographic Interview",
+    "publicationDate":"1979-04-03",
+    "borrowed":false,
+    "authors":[
+      "James P. Spradley"
+    ]
   }
 ]
