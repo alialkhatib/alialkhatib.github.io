@@ -7,7 +7,7 @@ I'm a PhD student in the Computer Science department at Stanford University,
 specifically studying Human-Computer Interaction.
 My advisor is [Michael Bernstein][msb].
 
-I'll be at [Platform Cooperativism][PC] in mid-November; if you're interested in that general topic, I'd be happy to chat with you about it sometime (see [contact][] page)
+I'll be at [Platform Cooperativism][PC] in mid-November; if you're interested in that general topic, I'd be happy to chat with you about it sometime (see my [contact][] page).
 
 This past Summer I was in Seattle,
 interning with Microsoft Research's [FUSE labs][fuselabs].
