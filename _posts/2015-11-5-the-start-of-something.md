@@ -1,5 +1,5 @@
 ---
-title: The Start of *Something*
+title: The Start of ... Something
 author: Ali
 layout: post
 ---
