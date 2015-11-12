@@ -7,7 +7,11 @@ I'm a PhD student in the Computer Science department at Stanford University,
 specifically studying Human-Computer Interaction.
 My advisor is [Michael Bernstein][msb].
 
-I'll be at [Platform Cooperativism][PC] in mid-November; if you're interested in that general topic, I'd be happy to chat with you about it sometime (see my [contact][] page).
+I'll be at [Platform Cooperativism][PC] in mid-November;
+if you're interested in that general topic,
+I'd be happy to chat with you about it sometime (see my [contact][] page).
+
+My talk slides are available [here][PCTalkPDF][pdf] and [here][PCTalkLaTeX][LaTeX].
 
 This past Summer I was in Seattle,
 interning with Microsoft Research's [FUSE labs][fuselabs].
@@ -39,3 +43,5 @@ If this isn't enough info, click on some links floating around this text in vari
 [fuseblogpost]: http://blog.fuselabs.org/post/125185306896/worker-centric-labor-markets
 [PC]: http://platformcoop.net/
 [contact]: /contact
+[PCTalkPDF]: /media/presentations/PlatformCooperativism.pdf
+[PCTalkLaTeX]: /media/presentations/PlatformCooperativism.tex
