@@ -1,674 +1,1160 @@
 [
   {
-    "ISBN": "0393349454",
-    "title": "The Internet Police: How Crime Went Online, and the Cops Followed",
     "publicationDate": "2014-08-18",
-    "borrowed":false,
-    "authors": [ "Nate Anderson" ]
+    "title": "The Internet Police: How Crime Went Online, and the Cops Followed",
+    "ISBN": "0393349454",
+    "authors": [
+      "Nate Anderson"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "077043617X",
-    "title": "Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon",
     "publicationDate": "2014-11-11",
-    "borrowed":false,
-    "authors": [ "Kim Zetter" ]
+    "title": "Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon",
+    "ISBN": "077043617X",
+    "authors": [
+      "Kim Zetter"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "9780465022229",
-    "title": "A PhD Is Not Enough!: A Guide to Survival in Science",
     "publicationDate": "2011-01-11",
-    "borrowed":false,
-    "authors": [ "Peter J Feibelman" ]
+    "title": "A PhD Is Not Enough!: A Guide to Survival in Science",
+    "ISBN": "9780465022229",
+    "authors": [
+      "Peter J Feibelman"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1455508373",
-    "title": "The One World Schoolhouse: Education Reimagined",
     "publicationDate": "2013-07-30",
-    "borrowed":false,
-    "authors": [ "Salman Khan" ]
+    "title": "The One World Schoolhouse: Education Reimagined",
+    "ISBN": "1455508373",
+    "authors": [
+      "Salman Khan"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1451654979",
+    "publicationDate": "2014-03-04",
     "title": "Who Owns the Future?",
-    "publicationDate": "2014-03-04",
-    "borrowed":false,
-    "authors": [ "Jaron Lanier" ]
+    "ISBN": "1451654979",
+    "authors": [
+      "Jaron Lanier"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0393350320",
-    "title": "Digital Cosmopolitans: Why We Think the Internet Connects Us, Why It Doesn't, and How to Rewire It",
     "publicationDate": "2014-11-10",
-    "borrowed":false,
-    "authors": [ "Ethan Zuckerman" ]
+    "title": "Digital Cosmopolitans: Why We Think the Internet Connects Us, Why It Doesn't, and How to Rewire It",
+    "ISBN": "0393350320",
+    "authors": [
+      "Ethan Zuckerman"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0071799664",
-    "title": "Numbersense: How to Use Big Data to Your Advantage",
     "publicationDate": "2013-07-11",
-    "borrowed":false,
-    "authors": [ "Kaiser Fung" ]
+    "title": "Numbersense: How to Use Big Data to Your Advantage",
+    "ISBN": "0071799664",
+    "authors": [
+      "Kaiser Fung"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1620402068",
-    "title": "Cities Are Good for You: The Genius of the Metropolis",
     "publicationDate": "2013-07-16",
-    "borrowed":false,
-    "authors": [ "Leo Hollis" ]
+    "title": "Cities Are Good for You: The Genius of the Metropolis",
+    "ISBN": "1620402068",
+    "authors": [
+      "Leo Hollis"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0078034957",
-    "title": "Biological Anthropology",
     "publicationDate": "2012-05-04",
-    "borrowed":false,
-    "authors": [ "Michael Park" ]
+    "title": "Biological Anthropology",
+    "ISBN": "0078034957",
+    "authors": [
+      "Michael Park"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0072485949",
-    "title": "Physical Anthropology",
     "publicationDate": "2002-06-26",
-    "borrowed":false,
-    "authors": [ "Philip L. Stein", "Bruce M. Rowe" ]
+    "title": "Physical Anthropology",
+    "ISBN": "0072485949",
+    "authors": [
+      "Philip L. Stein",
+      "Bruce M. Rowe"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0073531057",
-    "title": "Images of the Past",
     "publicationDate": "2009-11-02",
-    "borrowed":false,
-    "authors": [ "T. Douglas Price", "Gary Feinman" ]
+    "title": "Images of the Past",
+    "ISBN": "0073531057",
+    "authors": [
+      "T. Douglas Price",
+      "Gary Feinman"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1626370311",
-    "title": "Development and Underdevelopment: The Political Economy of Global Inequality",
     "publicationDate": "2013-11-12",
-    "borrowed":false,
-    "authors": [ "Mitchell A. Seligson", "John T Passé-Smith" ]
+    "title": "Development and Underdevelopment: The Political Economy of Global Inequality",
+    "ISBN": "1626370311",
+    "authors": [
+      "Mitchell A. Seligson",
+      "John T Passé-Smith"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0321088123",
-    "title": "The Age of the Economist",
     "publicationDate": "2001-08-03",
-    "borrowed":false,
-    "authors": [ "Daniel R. Fusfeld" ]
+    "title": "The Age of the Economist",
+    "ISBN": "0321088123",
+    "authors": [
+      "Daniel R. Fusfeld"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0205075835",
-    "title": "Global Political Economy",
     "publicationDate": "2011-02-15",
-    "borrowed":false,
-    "authors": [ "Theodore Cohn" ]
+    "title": "Global Political Economy",
+    "ISBN": "0205075835",
+    "authors": [
+      "Theodore Cohn"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0143114875",
+    "publicationDate": "2009-02-24",
     "title": "Common Wealth: Economics for a Crowded Planet",
-    "publicationDate": "2009-02-24",
-    "borrowed":false,
-    "authors": [ "Jeffrey D. Sachs" ]
+    "ISBN": "0143114875",
+    "authors": [
+      "Jeffrey D. Sachs"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1588260976",
+    "publicationDate": "2003",
     "title": "International Political Economy State-Market Relations in a Changing Global Order",
-    "publicationDate": "2003",
-    "borrowed":false,
-    "authors": [ "Goddard C. Roe", "Cronin Patrick" ]
+    "ISBN": "1588260976",
+    "authors": [
+      "Goddard C. Roe",
+      "Cronin Patrick"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0077501861",
-    "title": "Macroeconomics",
     "publicationDate": "2012-12-21",
-    "borrowed":false,
-    "authors": [ "David Colander" ]
+    "title": "Macroeconomics",
+    "ISBN": "0077501861",
+    "authors": [
+      "David Colander"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0077501802",
-    "title": "Microeconomics",
     "publicationDate": "2012-12-10",
-    "borrowed":false,
-    "authors": [ "David Colander" ]
+    "title": "Microeconomics",
+    "ISBN": "0077501802",
+    "authors": [
+      "David Colander"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0495018104",
+    "publicationDate": "2005-03-30",
     "title": "Voyages to the Planets",
-    "publicationDate": "2005-03-30",
-    "borrowed":false,
-    "authors": [ "Andrew Fraknoi", "David Morrison" ]
+    "ISBN": "0495018104",
+    "authors": [
+      "Andrew Fraknoi",
+      "David Morrison"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0495017906",
+    "publicationDate": "2005-03-30",
     "title": "Voyages to the Stars and Galaxies",
-    "publicationDate": "2005-03-30",
-    "borrowed":false,
-    "authors": [ "Andrew Fraknoi", "David Morrison" ]
+    "ISBN": "0495017906",
+    "authors": [
+      "Andrew Fraknoi",
+      "David Morrison"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "080585097X",
-    "title": "Leadership at a Distance: Research in Technologically-Supported Work",
     "publicationDate": "2007-07-22",
-    "borrowed":false,
-    "authors": [ "Suzanne P. Weisband" ]
+    "title": "Leadership at a Distance: Research in Technologically-Supported Work",
+    "ISBN": "080585097X",
+    "authors": [
+      "Suzanne P. Weisband"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1119998956",
-    "title": "Design for Hackers: Reverse Engineering Beauty",
     "publicationDate": "2011-08-29",
-    "borrowed":false,
-    "authors": [ "David Kadavy" ]
+    "title": "Design for Hackers: Reverse Engineering Beauty",
+    "ISBN": "1119998956",
+    "authors": [
+      "David Kadavy"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0691130663",
-    "title": "Priests and Programmers: Technologies of Power in the Engineered Landscape of Bali",
     "publicationDate": "2007-04-29",
-    "borrowed":false,
-    "authors": [ "J. Stephen Lansing", "William C. Clark" ]
+    "title": "Priests and Programmers: Technologies of Power in the Engineered Landscape of Bali",
+    "ISBN": "0691130663",
+    "authors": [
+      "J. Stephen Lansing",
+      "William C. Clark"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0374533555",
-    "title": "Thinking, Fast and Slow",
     "publicationDate": "2013-04-02",
-    "borrowed":false,
-    "authors": [ "Daniel Kahneman" ]
+    "title": "Thinking, Fast and Slow",
+    "ISBN": "0374533555",
+    "authors": [
+      "Daniel Kahneman"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "023112953X",
-    "title": "Cold War, Cool Medium: Television, McCarthyism, and American Culture",
     "publicationDate": "2005-03-10",
-    "borrowed":false,
-    "authors": [ "Thomas Doherty" ]
+    "title": "Cold War, Cool Medium: Television, McCarthyism, and American Culture",
+    "ISBN": "023112953X",
+    "authors": [
+      "Thomas Doherty"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0801431832",
-    "title": "The World of the Ancient Maya",
     "publicationDate": "1997-12",
-    "borrowed":false,
-    "authors": [ "John S. Henderson" ]
+    "title": "The World of the Ancient Maya",
+    "ISBN": "0801431832",
+    "authors": [
+      "John S. Henderson"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0465026567",
-    "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
     "publicationDate": "1999-02-05",
-    "borrowed":false,
-    "authors": [ "Douglas R. Hofstadter" ]
+    "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+    "ISBN": "0465026567",
+    "authors": [
+      "Douglas R. Hofstadter"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0691088950",
-    "title": "Castes of Mind: Colonialism and the Making of Modern India",
     "publicationDate": "2001-11-01",
-    "borrowed":false,
-    "authors": [ "Nicholas B. Dirks" ]
+    "title": "Castes of Mind: Colonialism and the Making of Modern India",
+    "ISBN": "0691088950",
+    "authors": [
+      "Nicholas B. Dirks"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0500290768",
-    "title": "Mexico: From the Olmecs to the Aztecs",
     "publicationDate": "2013-06-14",
-    "borrowed":false,
-    "authors": [ "Michael D. Coe", "Rex Koontz" ]
+    "title": "Mexico: From the Olmecs to the Aztecs",
+    "ISBN": "0500290768",
+    "authors": [
+      "Michael D. Coe",
+      "Rex Koontz"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0871548801",
-    "title": "Big Structures, Large Processes, Huge Comparisons",
     "publicationDate": "1989-04-24",
-    "borrowed":false,
-    "authors": [ "Charles Tilly" ]
+    "title": "Big Structures, Large Processes, Huge Comparisons",
+    "ISBN": "0871548801",
+    "authors": [
+      "Charles Tilly"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0312681224",
-    "title": "The Ghosts of Europe: Central Europe's Past and Uncertain Future",
     "publicationDate": "2011-01-18",
-    "borrowed":false,
-    "authors": [ "Anna Porter" ]
+    "title": "The Ghosts of Europe: Central Europe's Past and Uncertain Future",
+    "ISBN": "0312681224",
+    "authors": [
+      "Anna Porter"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0195338197",
-    "title": "Everyday Life in Central Asia: Past and Present",
     "publicationDate": "2011-02-02",
-    "borrowed":false,
-    "authors": [ "Jeff Sahadeo", "Russell Zanca" ]
+    "title": "Everyday Life in Central Asia: Past and Present",
+    "ISBN": "0195338197",
+    "authors": [
+      "Jeff Sahadeo",
+      "Russell Zanca"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0078034949",
-    "title": "Magic Witchcraft and Religion: A Reader in the Anthropology of Religion",
     "publicationDate": "2012-09-27",
-    "borrowed":false,
-    "authors": [ "Pamela Moro", "James Myers" ]
+    "title": "Magic Witchcraft and Religion: A Reader in the Anthropology of Religion",
+    "ISBN": "0078034949",
+    "authors": [
+      "Pamela Moro",
+      "James Myers"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0205234100",
-    "title": "Conformity and Conflict: Readings in Cultural Anthropology",
     "publicationDate": "2011-07-11",
-    "borrowed":false,
-    "authors": [ "James W. Spradley", "David W. McCurdy" ]
+    "title": "Conformity and Conflict: Readings in Cultural Anthropology",
+    "ISBN": "0205234100",
+    "authors": [
+      "James W. Spradley",
+      "David W. McCurdy"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0538452560",
-    "title": "Social and Personal Ethics",
     "publicationDate": "2010-02-05",
-    "borrowed":false,
-    "authors": [ "William H. Shaw" ]
+    "title": "Social and Personal Ethics",
+    "ISBN": "0538452560",
+    "authors": [
+      "William H. Shaw"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0205198368",
-    "title": "Perspectives on Current Social Problems",
     "publicationDate": "1996-09-24",
-    "borrowed":false,
-    "authors": [ "Gregg Lee Carter" ]
+    "title": "Perspectives on Current Social Problems",
+    "ISBN": "0205198368",
+    "authors": [
+      "Gregg Lee Carter"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0691149518",
-    "title": "Ethnography and Virtual Worlds: A Handbook of Method",
     "publicationDate": "2012-09-16",
-    "borrowed":false,
-    "authors": [ "Tom Boellstorff", "Bonnie Nardi" ]
+    "title": "Ethnography and Virtual Worlds: A Handbook of Method",
+    "ISBN": "0691149518",
+    "authors": [
+      "Tom Boellstorff",
+      "Bonnie Nardi"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1847874975",
-    "title": "Understanding Digital Culture",
     "publicationDate": "2011-03-02",
-    "borrowed":false,
-    "authors": [ "Vincent Miller" ]
+    "title": "Understanding Digital Culture",
+    "ISBN": "1847874975",
+    "authors": [
+      "Vincent Miller"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0415947278",
-    "title": "Fixing Families: Parents, Power, and the Child Welfare System",
     "publicationDate": "2005-09-01",
-    "borrowed":false,
-    "authors": [ "Jennifer A. Reich" ]
+    "title": "Fixing Families: Parents, Power, and the Child Welfare System",
+    "ISBN": "0415947278",
+    "authors": [
+      "Jennifer A. Reich"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1457604361",
-    "title": "A World of Ideas: Essential Readings for College Writers",
     "publicationDate": "2013-01-04",
-    "borrowed":false,
-    "authors": [ "Lee A. Jacobus" ]
+    "title": "A World of Ideas: Essential Readings for College Writers",
+    "ISBN": "1457604361",
+    "authors": [
+      "Lee A. Jacobus"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0374533407",
-    "title": "The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures",
     "publicationDate": "2012-04-24",
-    "borrowed":false,
-    "authors": [ "Anne Fadiman" ]
+    "title": "The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures",
+    "ISBN": "0374533407",
+    "authors": [
+      "Anne Fadiman"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0822337215",
-    "title": "Warring Souls: Youth, Media, and Martyrdom in Post-Revolution Iran",
     "publicationDate": "2006-05-31",
-    "borrowed":false,
-    "authors": [ "Roxanne Varzi" ]
+    "title": "Warring Souls: Youth, Media, and Martyrdom in Post-Revolution Iran",
+    "ISBN": "0822337215",
+    "authors": [
+      "Roxanne Varzi"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0801497604",
-    "title": "Machines as the Measure of Men: Science, Technology, and Ideologies of Western Dominance",
     "publicationDate": "1990-08-21",
-    "borrowed":false,
-    "authors": [ "Michael Adas" ]
+    "title": "Machines as the Measure of Men: Science, Technology, and Ideologies of Western Dominance",
+    "ISBN": "0801497604",
+    "authors": [
+      "Michael Adas"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0143116134",
-    "title": "Remix: Making Art and Commerce Thrive in the Hybrid Economy",
     "publicationDate": "2009-09-29",
-    "borrowed":false,
-    "authors": [ "Lawrence Lessig" ]
+    "title": "Remix: Making Art and Commerce Thrive in the Hybrid Economy",
+    "ISBN": "0143116134",
+    "authors": [
+      "Lawrence Lessig"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0262518473",
-    "title": "Crowdsourcing",
     "publicationDate": "2013-05-10",
-    "borrowed":false,
-    "authors": [ "Daren C. Brabham" ]
+    "title": "Crowdsourcing",
+    "ISBN": "0262518473",
+    "authors": [
+      "Daren C. Brabham"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0544227751",
-    "title": "Big Data: A Revolution That Will Transform How We Live, Work, and Think",
     "publicationDate": "2014-03-04",
-    "borrowed":false,
-    "authors": [ "Viktor Mayer-Schönberger", "Kenneth Cukier" ]
+    "title": "Big Data: A Revolution That Will Transform How We Live, Work, and Think",
+    "ISBN": "0544227751",
+    "authors": [
+      "Viktor Mayer-Schönberger",
+      "Kenneth Cukier"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0544272994",
-    "title": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
     "publicationDate": "2014-09-02",
-    "borrowed":false,
-    "authors": [ "Randall Munroe" ]
+    "title": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+    "ISBN": "0544272994",
+    "authors": [
+      "Randall Munroe"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0465076165",
-    "title": "Seductions Of Crime: Moral And Sensual Attractions In Doing Evil",
     "publicationDate": "1988",
-    "borrowed":false,
-    "authors": [ "Jack Katz" ]
+    "title": "Seductions Of Crime: Moral And Sensual Attractions In Doing Evil",
+    "ISBN": "0465076165",
+    "authors": [
+      "Jack Katz"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0393952436",
-    "title": "St. Thomas Aquinas on Politics and Ethics",
     "publicationDate": "1987-11-17",
-    "borrowed":false,
-    "authors": [ "Thomas Aquinas", "Paul E. Sigmund" ]
+    "title": "St. Thomas Aquinas on Politics and Ethics",
+    "ISBN": "0393952436",
+    "authors": [
+      "Thomas Aquinas",
+      "Paul E. Sigmund"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1480066478",
-    "title": "The Antichrist",
     "publicationDate": "2012-10-07",
-    "borrowed":false,
-    "authors": [ "Friedrich Nietzsche" ]
+    "title": "The Antichrist",
+    "ISBN": "1480066478",
+    "authors": [
+      "Friedrich Nietzsche"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1483213579",
-    "title": "Psychopathic Disorders",
     "publicationDate": "1966-01-01",
-    "borrowed":false,
-    "authors": [ "Michael Craft" ]
+    "title": "Psychopathic Disorders",
+    "ISBN": "1483213579",
+    "authors": [
+      "Michael Craft"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0385530609",
-    "title": "Sway: The Irresistible Pull of Irrational Behavior",
     "publicationDate": "2009-06-02",
-    "borrowed":false,
-    "authors": [ "Ori Brafman", "Rom Brafman" ]
+    "title": "Sway: The Irresistible Pull of Irrational Behavior",
+    "ISBN": "0385530609",
+    "authors": [
+      "Ori Brafman",
+      "Rom Brafman"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0316230863",
-    "title": "The Marshmallow Test: Why Self-Control Is the Engine of Success",
     "publicationDate": "2015-09-22",
-    "borrowed":false,
-    "authors": [ "Walter Mischel" ]
+    "title": "The Marshmallow Test: Why Self-Control Is the Engine of Success",
+    "ISBN": "0316230863",
+    "authors": [
+      "Walter Mischel"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1610393821",
-    "title": "Seeing What Others Don't: The Remarkable Ways We Gain Insights",
     "publicationDate": "2015-03-24",
-    "borrowed":false,
-    "authors": [ "Gary Klein" ]
+    "title": "Seeing What Others Don't: The Remarkable Ways We Gain Insights",
+    "ISBN": "1610393821",
+    "authors": [
+      "Gary Klein"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0198390157",
-    "title": "The Drunkard's Walk: How Randomness Rules Our Lives",
     "publicationDate": "2012-12-02",
-    "borrowed":false,
-    "authors": [ "Leonard Mlodinow" ]
+    "title": "The Drunkard's Walk: How Randomness Rules Our Lives",
+    "ISBN": "0198390157",
+    "authors": [
+      "Leonard Mlodinow"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0195340647",
-    "title": "Who Controls the Internet?: Illusions of a Borderless World",
     "publicationDate": "2008-06-30",
-    "borrowed":false,
-    "authors": [ "Jack Goldsmith", "Tim Wu" ]
+    "title": "Who Controls the Internet?: Illusions of a Borderless World",
+    "ISBN": "0195340647",
+    "authors": [
+      "Jack Goldsmith",
+      "Tim Wu"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0691150362",
-    "title": "Delete: The Virtue of Forgetting in the Digital Age",
     "publicationDate": "2011-07-25",
-    "borrowed":false,
-    "authors": [ "Viktor Mayer-Schönberger" ]
+    "title": "Delete: The Virtue of Forgetting in the Digital Age",
+    "ISBN": "0691150362",
+    "authors": [
+      "Viktor Mayer-Schönberger"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0767915038",
-    "title": "Close to the Machine: Technophilia and Its Discontents",
     "publicationDate": "2006-05-09",
-    "borrowed":false,
-    "authors": [ "Ellen Ullman" ]
+    "title": "Close to the Machine: Technophilia and Its Discontents",
+    "ISBN": "0767915038",
+    "authors": [
+      "Ellen Ullman"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1591477433",
-    "title": "How to Write a Lot: A Practical Guide to Productive Academic Writing",
     "publicationDate": "2007-01-15",
-    "borrowed":false,
-    "authors": [ "Paul J. Silvia" ]
+    "title": "How to Write a Lot: A Practical Guide to Productive Academic Writing",
+    "ISBN": "1591477433",
+    "authors": [
+      "Paul J. Silvia"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0143118056",
-    "title": "Reading in the Brain: The New Science of How We Read",
     "publicationDate": "2010-10-26",
-    "borrowed":false,
-    "authors": [ "Stanislas Dehaene" ]
+    "title": "Reading in the Brain: The New Science of How We Read",
+    "ISBN": "0143118056",
+    "authors": [
+      "Stanislas Dehaene"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "B00PPGE8SO",
-    "title": "Social Psychology",
     "publicationDate": "1936",
-    "borrowed":false,
-    "authors": [ "Richard Tracy LaPiere", "Paul Randolph Farnsworth" ]
+    "title": "Social Psychology",
+    "ISBN": "B00PPGE8SO",
+    "authors": [
+      "Richard Tracy LaPiere",
+      "Paul Randolph Farnsworth"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0393932508",
-    "title": "Psychology",
     "publicationDate": "2010-03-01",
-    "borrowed":false,
-    "authors": [ "Henry Gleitman", "James Gross", "Daniel Reisberg" ]
+    "title": "Psychology",
+    "ISBN": "0393932508",
+    "authors": [
+      "Henry Gleitman",
+      "James Gross",
+      "Daniel Reisberg"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0520273206",
-    "title": "Down by the Bay: San Francisco's History between the Tides",
     "publicationDate": "2013-06-07",
-    "borrowed":false,
-    "authors": [ "Matthew Morse Booker" ]
+    "title": "Down by the Bay: San Francisco's History between the Tides",
+    "ISBN": "0520273206",
+    "authors": [
+      "Matthew Morse Booker"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1455582344",
-    "title": "How Google Works",
     "publicationDate": "2014-09-23",
-    "borrowed":false,
-    "authors": [ "Eric Schmidt", "Jonathan Rosenberg" ]
+    "title": "How Google Works",
+    "ISBN": "1455582344",
+    "authors": [
+      "Eric Schmidt",
+      "Jonathan Rosenberg"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0465020518",
-    "title": "The Monkey's Voyage: How Improbable Journeys Shaped the History of Life",
     "publicationDate": "2014-01-07",
-    "borrowed":false,
-    "authors": [ "Alan de Queiroz" ]
+    "title": "The Monkey's Voyage: How Improbable Journeys Shaped the History of Life",
+    "ISBN": "0465020518",
+    "authors": [
+      "Alan de Queiroz"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1613744269",
-    "title": "Sons of the Profits: There's No Business Like Grow Business. The Seattle Story, 1851-1901",
     "publicationDate": "2013-05-01",
-    "borrowed":false,
-    "authors": [ "William C. Speidel" ]
+    "title": "Sons of the Profits: There's No Business Like Grow Business. The Seattle Story, 1851-1901",
+    "ISBN": "1613744269",
+    "authors": [
+      "William C. Speidel"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0307592243",
-    "title": "Fear on Trial",
     "publicationDate": "2012-05-15",
-    "borrowed":false,
-    "authors": [ "John Henry Faulk" ]
+    "title": "Fear on Trial",
+    "ISBN": "0307592243",
+    "authors": [
+      "John Henry Faulk"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0914890077",
+    "publicationDate": "2003",
     "title": "Doc Maynard: The Man Who Invented Seattle",
-    "publicationDate": "2003",
-    "borrowed":false,
-    "authors": [ "Speidel Bill" ]
+    "ISBN": "0914890077",
+    "authors": [
+      "Speidel Bill"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0495915874",
-    "title": "Liberty, Equality, Power: A History of the American People, Volume 1: To 1877",
     "publicationDate": "2011-01-01",
-    "borrowed":false,
-    "authors": [ "John M. Murrin", "Paul E. Johnson" ]
+    "title": "Liberty, Equality, Power: A History of the American People, Volume 1: To 1877",
+    "ISBN": "0495915874",
+    "authors": [
+      "John M. Murrin",
+      "Paul E. Johnson"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1603844627",
-    "title": "Readings in Ancient Greek Philosophy: From Thales to Aristotle",
     "publicationDate": "2011-05-01",
-    "borrowed":false,
-    "authors": [ "S. Marc Cohen", "Patricia Curd" ]
+    "title": "Readings in Ancient Greek Philosophy: From Thales to Aristotle",
+    "ISBN": "1603844627",
+    "authors": [
+      "S. Marc Cohen",
+      "Patricia Curd"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0669529958",
-    "title": "Writers INC: A Student Handbook for Writing and Learning",
     "publicationDate": "2005-08-22",
-    "borrowed":false,
-    "authors": [ "Patrick Sebranek", "Dave Kemper" ]
+    "title": "Writers INC: A Student Handbook for Writing and Learning",
+    "ISBN": "0669529958",
+    "authors": [
+      "Patrick Sebranek",
+      "Dave Kemper"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0205902278",
-    "title": "Literature and the Writing Process",
     "publicationDate": "2013-01-12",
-    "borrowed":false,
-    "authors": [ "Elizabeth McMahan", "Susan X. Day", "Robert W. Funk" ]
+    "title": "Literature and the Writing Process",
+    "ISBN": "0205902278",
+    "authors": [
+      "Elizabeth McMahan",
+      "Susan X. Day",
+      "Robert W. Funk"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0195142373",
-    "title": "The Nothing that Is: A Natural History of Zero",
     "publicationDate": "2000-12-07",
-    "borrowed":false,
-    "authors": [ "Robert Kaplan", "Ellen Kaplan" ]
+    "title": "The Nothing that Is: A Natural History of Zero",
+    "ISBN": "0195142373",
+    "authors": [
+      "Robert Kaplan",
+      "Ellen Kaplan"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0140186395",
-    "title": "East of Eden",
     "publicationDate": "1992-10-01",
-    "borrowed":false,
-    "authors": [ "John Steinbeck" ]
+    "title": "East of Eden",
+    "ISBN": "0140186395",
+    "authors": [
+      "John Steinbeck"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "9780226474847",
-    "title": "The Savage Mind",
     "publicationDate": "1966",
-    "borrowed":false,
-    "authors": [ "Claude Lévi-Strauss" ]
+    "title": "The Savage Mind",
+    "ISBN": "9780226474847",
+    "authors": [
+      "Claude Lévi-Strauss"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0465087302",
-    "title": "The Interpretation of Cultures",
     "publicationDate": "1997-05-30",
-    "borrowed":false,
-    "authors": [ "Clifford Geertz" ]
+    "title": "The Interpretation of Cultures",
+    "ISBN": "0465087302",
+    "authors": [
+      "Clifford Geertz"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0030445019",
-    "title": "Participant Observation",
     "publicationDate": "1980-01-02",
-    "borrowed":false,
-    "authors": [ "James P. Spradley" ]
+    "title": "Participant Observation",
+    "ISBN": "0030445019",
+    "authors": [
+      "James P. Spradley"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0226206831",
-    "title": "Writing Ethnographic Fieldnotes",
     "publicationDate": "2011-12-05",
-    "borrowed":false,
-    "authors": [ "Robert M. Emerson", "Rachel I. Fretz" ]
+    "title": "Writing Ethnographic Fieldnotes",
+    "ISBN": "0226206831",
+    "authors": [
+      "Robert M. Emerson",
+      "Rachel I. Fretz"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0465041620",
-    "title": "Local Knowledge: Further Essays In Interpretive Anthropology",
     "publicationDate": "1985-03-11",
-    "borrowed":false,
-    "authors": [ "Clifford Geertz" ]
+    "title": "Local Knowledge: Further Essays In Interpretive Anthropology",
+    "ISBN": "0465041620",
+    "authors": [
+      "Clifford Geertz"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1400064287",
-    "title": "Made to Stick: Why Some Ideas Survive and Others Die",
     "publicationDate": "2007-01-02",
-    "borrowed":false,
-    "authors": [ "Chip Heath", "Dan Heath" ]
+    "title": "Made to Stick: Why Some Ideas Survive and Others Die",
+    "ISBN": "1400064287",
+    "authors": [
+      "Chip Heath",
+      "Dan Heath"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0881339873",
-    "title": "Asking and Listening: Ethnography as Personal Adaptation",
     "publicationDate": "1998-02-01",
-    "borrowed":false,
-    "authors": [ "Paul Bohannan", "Dirk van der Elst" ]
+    "title": "Asking and Listening: Ethnography as Personal Adaptation",
+    "ISBN": "0881339873",
+    "authors": [
+      "Paul Bohannan",
+      "Dirk van der Elst"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0521017114",
-    "title": "In Search of Respect: Selling Crack in El Barrio",
     "publicationDate": "2003",
-    "borrowed":false,
-    "authors": [ "Philippe Bourgois" ]
+    "title": "In Search of Respect: Selling Crack in El Barrio",
+    "ISBN": "0521017114",
+    "authors": [
+      "Philippe Bourgois"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0262028204",
-    "title": "Out of the Shadows, Into the Streets!: Transmedia Organizing and the Immigrant Rights Movement",
     "publicationDate": "2014-10-24",
-    "borrowed":false,
-    "authors": [ "Sasha Costanza-Chock", "Manuel Castells" ]
+    "title": "Out of the Shadows, Into the Streets!: Transmedia Organizing and the Immigrant Rights Movement",
+    "ISBN": "0262028204",
+    "authors": [
+      "Sasha Costanza-Chock",
+      "Manuel Castells"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0262525062",
-    "title": "Digitally Enabled Social Change: Activism in the Internet Age",
     "publicationDate": "2013-08-16",
-    "borrowed":false,
-    "authors": [ "Jennifer Earl", "Katrina Kimport" ]
+    "title": "Digitally Enabled Social Change: Activism in the Internet Age",
+    "ISBN": "0262525062",
+    "authors": [
+      "Jennifer Earl",
+      "Katrina Kimport"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "1250065666",
-    "title": "On the Run: Fugitive Life in an American City",
     "publicationDate": "2015-04-07",
-    "borrowed":false,
-    "authors": [ "Alice Goffman" ]
+    "title": "On the Run: Fugitive Life in an American City",
+    "ISBN": "1250065666",
+    "authors": [
+      "Alice Goffman"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0801828198",
-    "title": "Collective Action",
     "publicationDate": "1982-06-01",
-    "borrowed":false,
-    "authors": [ "Russell Hardin" ]
+    "title": "Collective Action",
+    "ISBN": "0801828198",
+    "authors": [
+      "Russell Hardin"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0393351629",
-    "title": "The Language of Food: A Linguist Reads the Menu",
     "publicationDate": "2015-10-13",
-    "borrowed":"Niloufar Salehi",
-    "authors": [ "Dan Jurafsky" ]
+    "title": "The Language of Food: A Linguist Reads the Menu",
+    "ISBN": "0393351629",
+    "authors": [
+      "Dan Jurafsky"
+    ],
+    "borrowed": "Niloufar Salehi"
   },
   {
-    "ISBN": "0262016575",
-    "title": "Building Successful Online Communities: Evidence-Based Social Design",
     "publicationDate": "2012-03-23",
-    "borrowed":false,
-    "authors": [ "Robert E. Kraut", "Paul Resnick" ]
+    "title": "Building Successful Online Communities: Evidence-Based Social Design",
+    "ISBN": "0262016575",
+    "authors": [
+      "Robert E. Kraut",
+      "Paul Resnick"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0534528619",
-    "title": "Analyzing Social Settings: A Guide to Qualitative Observation and Analysis",
     "publicationDate": "2005-08-18",
-    "borrowed":false,
-    "authors": [ "John Lofland", "Lyn H. Lofland" ]
+    "title": "Analyzing Social Settings: A Guide to Qualitative Observation and Analysis",
+    "ISBN": "0534528619",
+    "authors": [
+      "John Lofland",
+      "Lyn H. Lofland"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0674537513",
-    "title": "The Logic of Collective Action: Public Goods and the Theory of Groups",
     "publicationDate": "1971-01-01",
-    "borrowed":false,
-    "authors": [ "Mancur Olson" ]
+    "title": "The Logic of Collective Action: Public Goods and the Theory of Groups",
+    "ISBN": "0674537513",
+    "authors": [
+      "Mancur Olson"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "8125030662",
-    "title": "The Culture of the New Capitalism",
     "publicationDate": "2007-01-31",
-    "borrowed":false,
-    "authors": [ "Richard Sennett" ]
+    "title": "The Culture of the New Capitalism",
+    "ISBN": "8125030662",
+    "authors": [
+      "Richard Sennett"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "0143114948",
-    "title": "Here Comes Everybody: The Power of Organizing Without Organizations",
     "publicationDate": "2009-02-24",
-    "borrowed":false,
-    "authors": [ "Clay Shirky" ]
+    "title": "Here Comes Everybody: The Power of Organizing Without Organizations",
+    "ISBN": "0143114948",
+    "authors": [
+      "Clay Shirky"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN": "161039528X",
-    "title": "Geek Heresy: Rescuing Social Change from the Cult of Technology",
     "publicationDate": "2015-05-26",
-    "borrowed":"Courtney Noh",
-    "authors": [ "Kentaro Toyama" ]
+    "title": "Geek Heresy: Rescuing Social Change from the Cult of Technology",
+    "ISBN": "161039528X",
+    "authors": [
+      "Kentaro Toyama"
+    ],
+    "borrowed": "Courtney Noh"
   },
   {
-    "ISBN": "1632634325",
-    "title": "Worker Cooperatives and Revolution: History and Possibilities in the United States",
     "publicationDate": "2014-08-01",
-    "borrowed":false,
-    "authors": [ "Chris Wright" ]
+    "title": "Worker Cooperatives and Revolution: History and Possibilities in the United States",
+    "ISBN": "1632634325",
+    "authors": [
+      "Chris Wright"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN":"0465005640",
-    "title":"The Evolution of Cooperation: Revised Edition",
-    "publicationDate":"2006-12-05",
-    "borrowed":false,
-    "authors":[ "Robert Axelrod" ]
+    "publicationDate": "2006-12-05",
+    "title": "The Evolution of Cooperation: Revised Edition",
+    "ISBN": "0465005640",
+    "authors": [
+      "Robert Axelrod"
+    ],
+    "borrowed": false
   },
   {
-    "ISBN":"0030444969",
-    "title":"The Ethnographic Interview",
-    "publicationDate":"1979-04-03",
+    "publicationDate": "1979-04-03",
+    "title": "The Ethnographic Interview",
+    "ISBN": "0030444969",
+    "authors": [
+      "James P. Spradley"
+    ],
+    "borrowed": false
+  },
+  {
+    "publicationDate": "2015-09-18",
+    "title": "The Democratic Surround: Multimedia and American Liberalism from World War II to the Psychedelic Sixties",
+    "ISBN": "022632589X",
     "borrowed":false,
-    "authors":[ "James P. Spradley" ]
+    "authors": [
+      "Fred Turner"
+    ]
+  },
+  {
+    "publicationDate": "2008-05-15",
+    "title": "From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism",
+    "ISBN": "0226817423",
+    "borrowed":false,
+    "authors": [
+      "Fred Turner"
+    ]
+  },
+  {
+    "publicationDate": "2015-01-05",
+    "title": "Digital Labor: The Internet as Playground and Factory",
+    "ISBN": "0415896959",
+    "borrowed":false,
+    "authors": [
+      "Frank Pasquale"
+    ]
+  },
+  {
+    "publicationDate": "2002-03-04",
+    "title": "The Artist&#39;s Way",
+    "ISBN": "1585421464",
+    "borrowed":false,
+    "authors": [
+      "Julia Cameron"
+    ]
+  },
+  {
+    "publicationDate": "2008-04-14",
+    "title": "The Future of the Internet--And How to Stop It",
+    "ISBN": "0300124872",
+    "borrowed":false,
+    "authors": [
+      "Jonathan Zittrain"
+    ]
+  },
+  {
+    "publicationDate": "2005-10-31",
+    "title": "The Success of Open Source",
+    "ISBN": "0674018583",
+    "borrowed":false,
+    "authors": [
+      "Steven Weber"
+    ]
+  },
+  {
+    "publicationDate": "2009-09-17",
+    "title": "Total Recall: How the E-Memory Revolution Will Change Everything",
+    "ISBN": "0525951342",
+    "borrowed":false,
+    "authors": [
+      "Gordon Bell",
+      "Jim Gemmell"
+    ]
+  },
+  {
+    "publicationDate": "2012-04-06",
+    "title": "Venture Labor: Work and the Burden of Risk in Innovative Industries (Acting with Technology)",
+    "ISBN": "B007SN810I",
+    "borrowed":false,
+    "authors": [
+      "Gina Neff"
+    ]
+  },
+  {
+    "publicationDate": "2014-06-24",
+    "title": "Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life",
+    "ISBN": "0465085733",
+    "borrowed":false,
+    "authors": [
+      "Albert-laszlo Barabasi"
+    ]
+  },
+  {
+    "publicationDate": "2007-10-31",
+    "title": "The New Argonauts: Regional Advantage in a Global Economy",
+    "ISBN": "0674025660",
+    "borrowed":false,
+    "authors": [
+      "AnnaLee Saxenian"
+    ]
+  },
+  {
+    "publicationDate": "2008-06-09",
+    "title": "Two Bits: The Cultural Significance of Free Software",
+    "ISBN": "0822342642",
+    "borrowed":false,
+    "authors": [
+      "Christopher M. Kelty"
+    ]
+  },
+  {
+    "publicationDate": "2014-02-14",
+    "title": "Net Smart: How to Thrive Online",
+    "ISBN": "0262526131",
+    "borrowed":false,
+    "authors": [
+      "Howard Rheingold"
+    ]
+  },
+  {
+    "publicationDate": "2008-09-01",
+    "title": "Convergence Culture: Where Old and New Media Collide",
+    "ISBN": "0814742955",
+    "borrowed":false,
+    "authors": [
+      "Henry Jenkins"
+    ]
+  },
+  {
+    "publicationDate": "2002-10-22",
+    "title": "The Future of Ideas: The Fate of the Commons in a Connected World",
+    "ISBN": "0375726446",
+    "borrowed":false,
+    "authors": [
+      "Lawrence Lessig"
+    ]
+  },
+  {
+    "publicationDate": "2002-03-29",
+    "title": "Cultures@SiliconValley",
+    "ISBN": "0804744297",
+    "borrowed":false,
+    "authors": [
+      "J. English-Lueck"
+    ]
+  },
+  {
+    "publicationDate": "2012-02-28",
+    "title": "The Net Delusion: The Dark Side of Internet Freedom",
+    "ISBN": "1610391063",
+    "borrowed":false,
+    "authors": [
+      "Evgeny Morozov"
+    ]
+  },
+  {
+    "publicationDate": "2013-04-23",
+    "title": "Consent of the Networked: The Worldwide Struggle For Internet Freedom",
+    "ISBN": "0465063756",
+    "borrowed":false,
+    "authors": [
+      "Rebecca MacKinnon"
+    ]
+  },
+  {
+    "publicationDate": "2011-03-08",
+    "title": "The Googlization of Everything: (And Why We Should Worry)",
+    "ISBN": "0520258827",
+    "borrowed":false,
+    "authors": [
+      "Siva Vaidhyanathan"
+    ]
+  },
+  {
+    "publicationDate": "2006-10-17",
+    "title": "Micromotives and Macrobehavior",
+    "ISBN": "0393329461",
+    "borrowed":false,
+    "authors": [
+      "Thomas C. Schelling"
+    ]
+  },
+  {
+    "publicationDate": "2012-02-14",
+    "title": "Infinite Reality: The Hidden Blueprint of Our Virtual Lives",
+    "ISBN": "0061809519",
+    "borrowed":false,
+    "authors": [
+      "Jim Blascovich",
+      "Jeremy Bailenson"
+    ]
+  },
+  {
+    "publicationDate": "2012-10-02",
+    "title": "Alone Together: Why We Expect More from Technology and Less from Each Other",
+    "ISBN": "0465031463",
+    "borrowed":false,
+    "authors": [
+      "Sherry Turkle"
+    ]
+  },
+  {
+    "publicationDate": "2009-09-15",
+    "title": "Crowdsourcing: Why the Power of the Crowd Is Driving the Future of Business",
+    "ISBN": "0307396215",
+    "borrowed":false,
+    "authors": [
+      "Jeff Howe"
+    ]
+  },
+  {
+    "publicationDate": "2006-12-05",
+    "title": "Code: And Other Laws of Cyberspace, Version 2.0",
+    "ISBN": "0465039146",
+    "borrowed":false,
+    "authors": [
+      "Lawrence Lessig"
+    ]
+  },
+  {
+    "publicationDate": "2009-06-05",
+    "title": "Living and Learning with New Media: Summary of Findings from the Digital Youth Project (The John D. and Catherine T. MacArthur Foundation Series on Digital Media and Learning)",
+    "ISBN": "B0030EFQ7U",
+    "borrowed":false,
+    "authors": [
+      "Mizuko Ito",
+      "Heather A. Horst",
+      "Matteo Bittanti",
+      "Danah Boyd",
+      "Becky Herr-Stephenson",
+      "Patricia G. Lange",
+      "C. J. Pascoe",
+      "Laura Robinson"
+    ]
+  },
+  {
+    "publicationDate": "2004-05-01",
+    "title": "Freedom Is an Endless Meeting: Democracy in American Social Movements",
+    "ISBN": "0226674495",
+    "borrowed":false,
+    "authors": [
+      "Francesca Polletta"
+    ]
+  },
+  {
+    "publicationDate": "2015-05-26",
+    "title": "Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life",
+    "ISBN": "1476702721",
+    "borrowed":false,
+    "authors": [
+      "William Deresiewicz"
+    ]
+  },
+  {
+    "publicationDate": "2015-01-13",
+    "title": "Status Update: Celebrity, Publicity, and Branding in the Social Media Age",
+    "ISBN": "030020938X",
+    "borrowed":false,
+    "authors": [
+      "Alice E. Marwick"
+    ]
+  },
+  {
+    "publicationDate": "1996-03-01",
+    "title": "Regional Advantage: Culture and Competition in Silicon Valley and Route 128",
+    "ISBN": "0674753402",
+    "borrowed":false,
+    "authors": [
+      "AnnaLee Saxenian"
+    ]
   }
 ]
