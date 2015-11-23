@@ -27,4 +27,5 @@
 *.out
 *.synctex.gz
 *.run.xml
+*.fls
 

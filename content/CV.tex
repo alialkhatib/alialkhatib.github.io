@@ -14,8 +14,14 @@
 \usepackage[normalem]{ulem} %for \uline
 \usepackage{array, xcolor, lipsum, bibentry}
 \usepackage{natbib}
+\usepackage{hyperref}
+\hypersetup{colorlinks,urlcolor=blue}
 \usepackage[margin=3cm]{geometry}
+% \usepackage{needspace}
+% \needspace{6em}% Require at least 6em on the page
 
+% \clubpenalties 5 10000 10000 10000 10000 0
+% \raggedbottom
 \robustify\cftdotfill
 
 \definecolor{lightgray}{gray}{0.8}
@@ -23,6 +29,7 @@
 \newcolumntype{R}{p{0.94\textwidth}}
 \newcommand\VRule{\color{lightgray}\vrule width 0.5pt}
  
+ \newcommand{\CVcite}[1]{\begin{NoHyper}\bibentry{#1}\end{NoHyper}}
 
 %-----------------------------------------------------------
 %Edit these values as you see fit
@@ -71,8 +78,12 @@
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \begin{tabular*}{7in}{l@{\extracolsep{\fill}}r}
     \textbf{\huge Ali Alkhatib} & \textbf{Contact Information} \\
-    PhD Student, Stanford University & ali.alkhatib@cs.stanford.edu \\
-    \textit{last updated \today}& https://ali-alkhatib.com \\
+    PhD Student, Stanford University & \href{mailto:ali.alkhatib@cs.stanford.edu}
+                                            {ali.alkhatib@cs.stanford.edu} \\
+    \textit{last updated
+    \href{https://github.com/alialkhatib/alialkhatib.github.io/blob/master/content/CV.tex}
+    {\today}}
+    & \href{https://ali-alkhatib.com}{https://ali-alkhatib.com} \\
   \end{tabular*}
 
 
@@ -82,12 +93,12 @@
   \begin{itemize}
     \item
       \ressubheading{Stanford University}{Stanford, CA}
-      {Ph.D. Computer Science (in progress)}           {September 2014 -- present}
+      {Ph.D. Computer Science (in progress)}           {September 2014 --- present}
     \item
       \ressubheading{University of California, Irvine}{Irvine, CA}
       {B.A. Anthropology,
        B.S. Informatics,
-       \textit{Phi Beta Kappa}}                         {August 2012 -- June 2014}
+       \textit{Phi Beta Kappa}}                         {August 2012 --- June 2014}
       \begin{itemize}
         \resitem{Informatics specialization:
           Human--Computer Interaction}
@@ -103,15 +114,15 @@
   \begin{itemize}
     \item
       \ressubheading{Microsoft Research}{Redmond, WA}
-                    {FUSE Labs}{June 2015 -- September 2015}
+                    {FUSE Labs}{June 2015 --- September 2015}
       \begin{itemize}
-        \resitem{Conducted study of piecemeal (or gig) workers}
+        \resitem{Conducted study of piecework (or gig) workers}
         \resitem{Designed front-end for worker-centric labor market platform}
       \end{itemize}
     
     \item
       \ressubheading{Stanford University}{Stanford, CA}
-                    {Human--Computer Interaction Group}{June 2014 -- September 2014}
+                    {Human--Computer Interaction Group}{June 2014 --- September 2014}
       \begin{itemize}
         \resitem{Explored collective research of online communities}
         \resitem{Prototyped online collective action platform}
@@ -119,7 +130,7 @@
 
     \item
       \ressubheading{University of California, Irvine}{Irvine, CA}
-                    {Evoke Laboratory \& Studio}{April 2014 -- June 2014}
+                    {Evoke Laboratory \& Studio}{April 2014 --- June 2014}
       \begin{itemize}
         \resitem{Ethnographic research of values in design}
         \resitem{Assembled guide for data co-ownership}
@@ -127,7 +138,7 @@
     
     \item
       \ressubheading{University of California, Irvine}{Irvine, CA}
-                    {Honors Program in Anthropology}{September 2013 -- June 2014}
+                    {Honors Program in Anthropology}{September 2013 --- June 2014}
       \begin{itemize}
         \resitem{Senior research and thesis on Quantified Self}
         % \resitem{}
@@ -135,7 +146,7 @@
 
     \item
       \ressubheading{University of California, Irvine}{Irvine, CA}
-                    {Multidisciplinary Design Program}{January 2013 -- June 2013}
+                    {Multidisciplinary Design Program}{January 2013 --- June 2013}
       \begin{itemize}
         \resitem{Studied use of space on campus grounds}
         \resitem{Brainstormed changes to sociofugal spaces to promote sociopetality}
@@ -143,7 +154,7 @@
 
     \item
       \ressubheading{Foothill College \& Columbia University}{Cangahua, Ecuador}
-                    {Pambamarca Archaeological Project}{June 2012 -- July 2012}
+                    {Pambamarca Archaeological Project}{June 2012 --- August 2012}
       \begin{itemize}
         \resitem{Mentored 20 students in ethnographic methods}
         \resitem{Administered lab artifact database consisting of more than 8000 entries}
@@ -157,20 +168,49 @@
   \bibliographystyle{plain}
   \nobibliography{references}
   \begin{tabular}{L!{ \VRule\ } R}
-    2015 & \bibentry{weAreDynamo}\\[5pt]
-    2014 & \bibentry{QuantifiedSelf}\\[5pt]
-    2013 & \bibentry{ValuesInDesign}%\\[5pt]
+    2015 & \CVcite{weAreDynamo}\\[5pt]
+    2014 & \CVcite{QuantifiedSelf}\\[5pt]
+    2013 & \CVcite{ValuesInDesign}\\[5pt]
   \end{tabular}
 
+\vspace{2em}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \resheading{Presentations}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+  \begin{tabular}{L!{ \VRule\ } R}
+    2015 & ``Designing Worker--Centric Labor Markets''
+    --- \textit{Platform Cooperativism}.
+    New York, NY\\[5pt]
+    2014 & ``Quantified Self: Ethnography of a Digital Culture''
+    --- \textit{UC Irvine Undergraduate Research Symposium}.
+    Irvine, CA\\[5pt]
+    --- & \textit{I haven't been keeping track of these;
+          if you notice an omission,
+          feel free to remind me with an
+          \href{mailto:ali.alkhatib@cs.stanford.edu}{email}.}
+  \end{tabular}
+
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \resheading{Service}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+  \begin{tabular}{L!{ \VRule\ } R}
+    2015 & Student Volunteer --- CHI 2016 Program Committee Meeting.
+    San Jose, CA\\[5pt]
+  \end{tabular}
 
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \resheading{Skills}
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \begin{itemize}
-    \item {\bf Languages:}
+   \setlength\itemsep{0pt}
+    \item \textbf{Languages:}
       Python, JavaScript, PHP, \LaTeX, Java, Bash, Ruby, R, HTML, CSS, SQL
-    \item {\bf Frameworks:}
+    \item \textbf{Frameworks:}
       Ruby on Rails, Node.js, AngularJS
+    % \item \textbf{Methods:}
+    %   Ethnography, Participant--observation, Participatory design
   \end{itemize}
 
 \end{document}
