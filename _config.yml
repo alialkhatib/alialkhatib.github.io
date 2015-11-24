@@ -25,8 +25,10 @@ navigation:
     - title: research
       link: /research
     - title: blog
-      link: /blog/
+      link: /blog
     - title: contact
       link: /contact
     - title: CV
       link: /content/CV.pdf
+    - title: now
+      link: /now
