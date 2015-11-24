@@ -23,3 +23,4 @@ I've got a few ideas on my plate currently, some loosely connected:
 I *might* be blogging about this (see [blog][]), but if you're interested I really recommend [contact][]ing me.
 
 [blog]: /blog
+[contact]: /contact
