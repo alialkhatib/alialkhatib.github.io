@@ -30,7 +30,3 @@ navigation:
       link: /contact
     - title: CV
       link: /content/CV.pdf
-    - title: books
-      link: /books
-    - title: now
-      link: /now
