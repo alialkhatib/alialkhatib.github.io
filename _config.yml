@@ -3,6 +3,8 @@ author: Ali Alkhatib
 url: https://ali-alkhatib.com
 base: ''
 twitter: '_alialkhatib'
+email: 'ali.alkhatib@cs.stanford.edu'
+fb: 'Ali.Alkhatib'
 
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md

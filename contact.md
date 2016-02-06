@@ -24,5 +24,5 @@ I'm rarely logged in to Skype or (that particular) Google account,
 so it'll seem like I'm never online unless I know someone's waiting for me.
 
 [email]: mailto:ali.alkhatib@cs.stanford.edu
-[tw]: //twitter.com/_alialkhatib
-[fb]: //facebook.com/Ali.Alkhatib
+[tw]: //twitter.com/{{site.twitter}}
+[fb]: //facebook.com/{{site.fb}}
