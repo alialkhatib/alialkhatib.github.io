@@ -6,7 +6,7 @@ twitter: '@alialkhatib_'
 
 markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
-highlighter: pygments
+highlighter: rouge
 
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
