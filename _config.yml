@@ -2,14 +2,11 @@ name: Ali Alkhatib
 author: Ali Alkhatib
 url: https://ali-alkhatib.com
 base: ''
-twitter: '@alialkhatib_'
+twitter: '@_alialkhatib'
 
-markdown: redcarpet
+markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 highlighter: rouge
-
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
 
 exclude:
     - bower_components
