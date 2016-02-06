@@ -23,4 +23,4 @@ So yes, these things matter. Your perceptions and expectations of feedback on po
 
 [I didn't really take much offense or disdain for anything Arrington brought up, except for the obviousness of his observation; I just found this point interesting and wanted to raise it formally.]
 
-You can find me on Twitter at [@alialkhatib_](//twitter.com/alialkhatib_); Facebook at [/Ali.Alkhatib](//www.facebook.com/Ali.Alkhatib); and I'm somewhere between the two.
+You can find me on Twitter at [@_alialkhatib](//twitter.com/_alialkhatib); Facebook at [/Ali.Alkhatib](//www.facebook.com/Ali.Alkhatib); and I'm somewhere between the two.
