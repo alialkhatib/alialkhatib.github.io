@@ -7,15 +7,7 @@ I'm a PhD student in the Computer Science department at Stanford University,
 specifically studying Human-Computer Interaction.
 My advisor is [Michael Bernstein][msb].
 
-You may have seen me at [Platform Cooperativism][PC] in mid-November;
-if you're interested in that general topic,
-I'd be happy to chat with you about it sometime (see my [contact][] page).
-
-My talk slides are available [here][PCTalkPDF][pdf] and [here][PCTalkLaTeX][LaTeX].
-You can also find my talk [here][PCTalk].
-
-This past Summer I was in Seattle,
-interning with Microsoft Research's [FUSE labs][fuselabs].
+I'm working on cooperative labor markets.
 Check my [blog][blog] for more info
 (Also, [this post][fuseblogpost] on the FUSE labs blog is a good overview of what I was working on).
 
@@ -24,9 +16,6 @@ specializing in Human-Computer Interaction,
 both from UC Irvine in 2014.
 My honors thesis was on the culture of [Quantified Self][qsthesis],
 and my advisor was [Tom Boellstorff][boellstorff].
-
-I *try* to reply to all emails that are actually sent to me (but not mass mailers);
-that being said, if you want to be sure to get my attention I'm pretty sure a book off my [wishlist][wishlist] would do the trick.
 
 If this isn't enough info, click on some links floating around this text in various places
 (determined mostly by the size of your window).
