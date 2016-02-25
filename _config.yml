@@ -2,14 +2,13 @@ name: Ali Alkhatib
 author: Ali Alkhatib
 url: https://ali-alkhatib.com
 base: ''
-twitter: '@alialkhatib_'
+twitter: '_alialkhatib'
+email: 'ali.alkhatib@cs.stanford.edu'
+fb: 'Ali.Alkhatib'
 
-markdown: redcarpet
+markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
-highlighter: pygments
-
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+highlighter: rouge
 
 exclude:
     - bower_components
