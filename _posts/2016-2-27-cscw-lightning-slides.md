@@ -6,7 +6,7 @@ layout: post
 If you were at the CSCW Workshop on
 [The Future of Platforms as Sites of Work, Collaboration and Trust][link]
 and you're wondering if you can have my slides, take a look
-[here][slidesPDF][pdf].
+[here][slidesPDF] (pdf).
 
 If you want the LaTeX source code (for some reason...), look
 [here][tex] for the .tex file, or
