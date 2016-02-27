@@ -28,4 +28,5 @@
 *.synctex.gz
 *.run.xml
 *.fls
-
+*.nav
+*.snm
