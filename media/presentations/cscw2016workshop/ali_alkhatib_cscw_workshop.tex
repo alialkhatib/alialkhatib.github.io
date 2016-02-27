@@ -1,0 +1,117 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Beamer Presentation
+% LaTeX Template
+% Version 1.0 (10/11/12)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{beamer}
+\usepackage{tikz,lmodern,textpos,hyperref,graphicx,booktabs,appendixnumberbeamer}
+\usepackage[T1]{fontenc}
+\usepackage[export]{adjustbox}
+\usepackage[ddmmyyyy]{datetime}
+
+\beamertemplatenavigationsymbolsempty
+
+\mode<presentation>{
+  \usetheme{metropolis}
+  \setbeamercolor{institute in head/foot}{fg=stanfordRedText}
+  \setbeamercolor*{palette tertiary}{use=structure,fg=white,bg=stanfordRed}
+}
+
+\title{Cooperative Labor Markets}
+
+\author{Ali Alkhatib \\
+\texttt{ \href{mailto:ali.alkhatib@cs.stanford.edu}{ali.alkhatib@cs.stanford.edu} ||
+         \href{http://twitter.com/_alialkhatib}{@\_alialkhatib} }}
+
+\institute[Stanford]{Stanford University}
+
+\date{\usdate{\formatdate{27}{2}{2016}}}
+
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+% Notes
+% Hi everyone. My name's Ali, and I want to tell you about the work on ``Cooperative Labor Markets'' that I've been doing for the past several months with a number of collaborators.
+
+\begin{frame}{A Problem With Gig Work}
+  \begin{itemize}[<+- | alert@+>]
+    \item Gig workers struggle with systems on which they work
+      \cite{turkopticon,uberAlgorithm,dynamo}
+    \item (Seemingly) obvious solution: \textbf{labor unions}
+    \item (Not \textbf{so} obviously) labor unions might be problematic:
+      \\ --- logistics are complicated (solvable)
+      \\ --- cultural mismatch
+        \cite{dynamo}
+  \end{itemize}
+\end{frame}
+
+% Notes
+% As we're all well aware, workers are struggling and ultimately frustrated with these gig labor markets, owing in part to the frustrating experiences they face when interacting with managing organizations.
+% One intuitive solution to this problem is to form labor unions; it makes a lot of sense, since labor unions have vigorously defended the rights and needs of workers for more than a century.
+% But in this case, we've been finding that labor unions might not be the most apt solution. A few reasons immediately problematize the strategy of using conventional labor unions:
+% first: labor union incentives are geared toward careers in an industry, not gig work. That being said, I think we can work through this issue and it's arguably worth solving.
+% second, and more crucially: we've been finding that there's something of a cultural mismatch between gig work and what they perceive when they think about labor unions. As we found while working with Turkers on Dynamo, and more recently in fieldwork with drivers and house cleaners, the proposition of a tightly-knit labor union underpinning their flexible work just doesn't appeal to them.
+
+\section{Not a problem; an opportunity}
+
+% Notes
+% Now, one path to take is to attempt to reform labor unions so that they better reflect the needs of workers, and particularly the threats that they face. That's perfectly valid, but we've seen this as an opportunity to think more diversely about design solutions that mitigate the adversarial nature of these markets from the outset.
+% This thought has led us to worker cooperatives.
+
+\begin{frame}{Worker Cooperatives}
+  \begin{itemize}[<+- | alert@+>]
+    \item Worker cooperatives are reasonably well--explored
+      \cite{craig1992behavior,mellor1988worker}
+    \item \textbf{Collective governance} is a challenge
+      \cite{russell1982collective,ostrom1990governing,polletta2002freedom}
+  \end{itemize}
+\end{frame}
+
+% Notes
+% Worker cooperatives are actually fairly well explored and some of their advantages are clear, as are potential shortcomings and challenges to watch out for.
+% Namely, managing collectively governed systems like these is challenging, and the nature of the challenge seems to change as the organization grows, so the solutions that worked once no longer work down the road.
+
+\begin{frame}{What we've been working on}
+    With the National Domestic Workers Alliance and workers,
+    building a worker cooperative
+  \begin{figure}
+    \includegraphics[scale=0.12]{figures/figure.png}  
+  \end{figure}
+\end{frame}
+
+% Notes
+% Working together with the NDWA, we're building an online worker cooperative for house cleaners that provides workers with useful tools to manage their work, giving them a starting point to discuss how they want this system to run, making decisions collectively.
+
+\section{Lots of open questions remain}
+
+% Notes
+% There are still many questions that remain unanswered, and even questions that have yet to be asked, but I think this approach is the right one to begin the ``anthropological investigation'' of collective governance.
+
+\begin{frame}
+  \frametitle{Contact}
+    name: \href{https://ali-alkhatib.com}{Ali Alkhatib} \\
+    human: find me walking around this week \\
+    email: \href{mailto:ali.alkhatib@cs.stanford.edu}{ali.alkhatib@cs.stanford.edu} \\
+    twitter: \href{https://twitter.com/_alialkhatib}{@\_alialkhatib} \\
+\end{frame}
+
+% Notes
+% I'm over time [just guessing, but really], but if you have any questions, or criticism, or suggestions, I would really like to hear from you. My contact information is all there, so please approach me so we can talk in further depth about these topics - Thanks!
+
+\begin{frame}[allowframebreaks]{References}
+  \bibliography{../../../content/references}
+  \bibliographystyle{abbrv}
+\end{frame}
+
+\end{document} 
