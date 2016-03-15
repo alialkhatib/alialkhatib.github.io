@@ -3,7 +3,6 @@ layout: home
 ---
 Hi, that's me.
 
-**Fair warning: I'm at CSCW in San Francisco this week (February 27 through March 2).**
 
 I'm a PhD student in the Computer Science department at Stanford University,
 specifically studying Human-Computer Interaction.
