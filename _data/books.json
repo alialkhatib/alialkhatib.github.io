@@ -1156,5 +1156,50 @@
     "authors": [
       "AnnaLee Saxenian"
     ]
+  },
+  {
+    "publicationDate":"1990-11-01",
+    "title":"Governing the Commons: The Evolution of Institutions for Collective Action (Political Economy of Institutions and Decisions)",
+    "ISBN":"0521405998",
+    "borrowed":false,
+    "authors":[
+      "Elinor Ostrom"
+    ]
+  },
+  {
+    "publicationDate":"2014-01-30",
+    "title":"Social Physics: How Good Ideas Spread-The Lessons from a New Science",
+    "ISBN":"1594205655",
+    "borrowed":false,
+    "authors":[
+      "Alex Pentland"
+    ]
+  },
+  {
+    "publicationDate":"1999-04-01",
+    "title":"Guns, Germs, and Steel: The Fates of Human Societies",
+    "ISBN":"0393317552",
+    "borrowed":false,
+    "authors":[
+      "Jared M. Diamond"
+    ]
+  },
+  {
+    "publicationDate":"1990-03-05",
+    "title":"The Journalist And The Murderer",
+    "ISBN":"0394583124",
+    "borrowed":false,
+    "authors":[
+      "Janet Malcolm"
+    ]
+  },
+  {
+    "publicationDate":"2016-03-05",
+    "title":"The New ABCs of Research: Achieving Breakthrough Collaborations",
+    "ISBN":"0198758839",
+    "borrowed":false,
+    "authors":[
+      "Ben Shneiderman"
+    ]
   }
 ]
