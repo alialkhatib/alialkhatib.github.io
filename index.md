@@ -3,8 +3,6 @@ layout: home
 ---
 Hi, that's me.
 
-*I'm currently traveling; sorry for the inevitably delayed replies.*
-
 I'm a PhD student in the Computer Science department at Stanford University,
 specifically studying Human-Computer Interaction.
 My advisor is [Michael Bernstein][msb].
