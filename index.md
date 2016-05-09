@@ -7,6 +7,8 @@ I'm a PhD student in the Computer Science department at Stanford University,
 specifically studying Human-Computer Interaction.
 My advisor is [Michael Bernstein][msb].
 
+*I'm currently at [CHI][CHI2016]. Please accept my apologies if I'm not able to get back to your messages in a timely manner.*
+
 I'm working on cooperative labor markets.
 Check my [blog][blog] for more info
 (Also, [this post][fuseblogpost] on the FUSE labs blog is a good overview of what I was working on).
@@ -36,3 +38,4 @@ If this isn't enough info, click on some links floating around this text in vari
 [PCTalkPDF]: /media/presentations/PlatformCooperativism.pdf
 [PCTalkLaTeX]: /media/presentations/PlatformCooperativism.tex
 [PCTalk]: http://livestream.com/internetsociety/platformcoop/videos/104467678
+[CHI2016]: https://chi2016.acm.org/wp/
