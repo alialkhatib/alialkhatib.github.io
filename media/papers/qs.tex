@@ -5,11 +5,20 @@
 \usepackage[margin=1in]{geometry}
 % \usepackage{babel}
 % \usepackage{csquotes}
-\usepackage[citestyle=numeric,backend=bibtex,bibencoding=ascii]{biblatex}
+% \usepackage{biblatex-chicago}
+
+ % \usepackage[
+ %    backend=biber,
+ %    style=,
+ %  ]{biblatex}
+
+\usepackage[authordate,backend=biber,natbib]{biblatex-chicago}
+
+
 \usepackage[T1]{fontenc}
 \usepackage[super]{nth}
-\usepackage[pdftex,pdfpagelabels=false]{hyperref}
-\usepackage[all]{hypcap}  % Fixes bug in hyperref caption linking
+% \usepackage[pdftex,pdfpagelabels=false]{hyperref}
+% \usepackage[all]{hypcap}  % Fixes bug in hyperref caption linking
 \usepackage[utf8]{inputenc} % for a UTF8 editor only
 \def\plaintitle{Quantified Self: Ethnography of a Digital Culture}
 \def\plainauthor{Ali Alkhatib}
@@ -58,6 +67,7 @@
 
 % create a shortcut to typeset table headings
 % \newcommand\tabhead[1]{\small\textbf{#1}}
+% \bibliography{../../content/references}
 \bibliography{../../content/references}
 
 % End of preamble. Here it comes the document.
@@ -88,7 +98,8 @@ famous for the sheer number of discoveries he made virtually independent of his 
 claimed to have dreamt of equations and formulas communicated to him by the goddess Namagiri.
 Indeed,
 he ``\dots peopled his world with those anthropomorphic formulae and numbers\dots''
-(Nandy 1998:105).
+\citep{nandy1998return}.
+% (Nandy 1998:105). \todo{citation?}
 
 These people,
 outliers in their respective cultures for their eccentric behavior and fascination with numbers,
@@ -96,7 +107,7 @@ foreshadowed what is now a trend in self--tracking,
 measurement,
 and analysis:
 the ``Quantified Self'' movement
-(hereafter referred to as ``QS'').
+(hereafter referred to as ``QS''). % \todo{citation?}
 In comparison to famous idiosyncratic and even non--normative historical examples discussed above,
 this movement represents a more formalized,
 if equally passionate,
@@ -129,7 +140,8 @@ those who practice self--quantification distill many of the ideas broadly held i
 outlining patterns of behavior in much the same way that Coleman's study of hackers illuminated,
 through the narrow lens of a niche group,
 an aspect of larger culture more broadly
-(Coleman 2013).
+\citep{coleman2013coding}.
+% (Coleman 2013). \todo{citation?}
 In this context,
 study of the culture of the QS community might yield insight into mainstream culture through the lens of self--analysis,
 quantification,
@@ -154,7 +166,7 @@ These cultures typically disassociate themselves from any offline relationships.
 But digital culture can also refer to cultures that exist both online and offline.
 These communities may relate their online activity with the offline in the form of ``real life'' meet--ups,
 or by coordinating activities offline
-(ranging a spectrum of offline activities from dating to protest).
+(ranging a spectrum of offline activities from dating to protest). % \todo{citation?}
 Typically,
 members of these communities distinguish between the offline and online in a code--switching resembling streams of binary data
 --- a sequence of ones and zeros metaphorically representing offline versus online events and experiences.
@@ -221,7 +233,8 @@ the term ``Quantified Self'' is new,
 with records indicating its coinage only as far back as 2007 when a blog post
 --- attributed to Kevin Kelly and crediting Gary Wolf ---
 pondered the question ``what is the Quantified Self''
-(Kelly and Wolf 2007).
+\citep{whatisQS}.
+% (Kelly and Wolf 2007). \todo{citation?}
 In its nascent form,
 QS referenced a range of topics:
 ``Personal Genome Sequencing,
@@ -230,7 +243,8 @@ Self--Experimentation,
 \dots Location tracking,
 Non--invasive probes,
 Digitizing Body Info\dots'' and other aspects of digital tracking and measurement
-(Kelly and Wolf 2007).
+\citep{whatisQS}.
+% (Kelly and Wolf 2007). \todo{citation?}
 Since this evident reification,
 QS has been the subject of intense interest both in academia and popular culture.
 Professional scientists as well as laymen have sought out QS practitioners as informants regarding everyday factors that might influence myriad aspects of our lives,
@@ -242,25 +256,26 @@ and others.
 \subsection*{Public Science}
 One component of QS culture has been that of ``public science'',
 characterized by laymen engaging with scientific research and in experiments of their own
-(Cohen 2014).
+
+% (Cohen 2014). \todo{citation?}
 Cohen's writing explores this subject but comes short of the extreme outcomes of public science wherein the public engage in self--experimentation often with little or now knowledge of the dangers involved,
 perhaps because the subject of writing was in fact a credentialed scientist,
 illustrating how ``\dots with lifelogging and the growth of the quantified self movement,
 there are greater opportunities for comparison and aggregation,'' but at the cost of problematizing standardized methodologies,
 complicating and perhaps foregoing scientific results in the conventional senses of reproducibility and repeatabilit
-(Halavais 2013).
+(Halavais 2013). \todo{citation?}
 Nevertheless,
 Kido and Swan illustratively demonstrate the potential usefulness of ``citizen science'' concluding in part that  ``personal [genomics] can be applied in the future to prophylactic medical care'',
 suggesting in part that public science in this context must be centrally managed,
 in this case by medical care practitioners
-(Kido and Swan 2014:3).
+(Kido and Swan 2014:3). \todo{citation?}
 
 Researchers have expressed skepticism at the follow--through of this idyllic description of the application of QS culture.
 Fajans's critique,
 that self--quantifiers are more interested in the ``allure of becoming a personal scientist empowered \dots [by] personal technology,'' is based primarily on fieldwork in the form of offline ``meet ups'',
 where his findings that participants were not particularly invested in quantitative analysis might be explained by circumstantial affordances,
 or rather lack thereof
-(Fajans 2007:3).
+(Fajans 2007:3). \todo{citation?}
 Fajans neglects to account for the possibility that quantitative analysis was indeed a significant aspect of his participants' lives and world--views,
 but that their offline interactions did not afford intuitive or natural interaction with that experience of Quantified Self,
 and therefore their focus shifted away from it during offline interactions.
@@ -275,7 +290,7 @@ thus affecting their visibility and ultimately impact
 --- especially subgroups with interests in dieting,
 fitness,
 and performance--enhancing drug use
-(Halavais 2013).
+(Halavais 2013). \todo{citation?}
 In these cases both the potential to improve one's life through measured and even rigorous experimentation combined with the opportunity to become an authority,
 qualified by the now--ubiquitous acronym YMMV (``Your Mileage May Vary'',
 meaning that the advisor's experiences may be unique to him or her),
@@ -314,7 +329,7 @@ Diabetic patients,
 for instance,
 have been measuring and tracking glucose levels for over 40 years through the use of home glucose monitors.
 More recently,
-the emergence of electronic medical records (EMRs) as a viable mechanism for tracking and administrating patient care in hospitals and clinics promises improvements in medical care across the board.
+the emergence of electronic medical records (EMRs) as a viable mechanism for tracking and administrating patient care in  \todo{citation?}hospitals and clinics promises improvements in medical care across the board.
 
 Research on patient motivation to self--track and quantify has emerged from a variety of fields,
 each bringing a background of methodological biases and implications through which to parse.
@@ -334,12 +349,12 @@ especially the democratized access to genome sequencing and analysis,
 has also played a significant role in the development of Quantified Self.
 With the recent growth in the industry of personalized genome sequencing thanks to services such as 23andMe,
 numerous companies offer participants the ability not only to learn more about their genetic heritage,
-but also ostensibly (and in fact controversially) make revelations about their probabilistic likelihood of various genetic disorders and diseases.
+but also ostensibly (and in fact controversially) make revelations about their probabilistic likelihood of various genetic  \todo{citation?}disorders and diseases.
 In this space,
-biomedical ethics researchers Lee and Crawley (2009) discuss the ethical implications of 23andWe,
+biomedical ethics researchers Lee and Crawley (2009) discuss the ethical implications of 23andWe, \todo{citation?}
 a crowd--sourcing research arm of the corporate body's genome sequencing business,
 where participants complete surveys allowing 23andMe to associate phenotypic characteristics with genotype data already collected by the company
-(Lee and Crawley 2009:38).
+(Lee and Crawley 2009:38). \todo{citation?}
 Lee and Crawley point out that 23andMe have sought healthy interaction with the scientific community at large,
 but ultimately the wealth of genetic data 23andMe offers to share is managed by a private and for--profit corporation,
 operating with vested interest and therefore bias in the use of said data.
@@ -360,24 +375,24 @@ pointing out that,
 ``\dots we gamify without technology all the time.
 Many of these games are tied with measuring our own performance,'' but nevertheless focusing her research on technological,
 automated self--tracking and gamification
-(Whitson 2013:169).
+(Whitson 2013:169). \todo{citation?}
 Whitson's findings suggest an element of Taylorism in Quantified Self,
 which suggests that rigorously monitored and controlled processes might yield improvements upon the self
-(Whitson 2013:170).
+(Whitson 2013:170). \todo{citation?}
 Whitson's described ``stream of numbers'' provides concrete,
 tangible references to otherwise vaguely described experiences in our day--to--day lives;
 a daily run becomes more memorable with the association of quantitative measures and perhaps a shared and therefore competitive aspect to the activity itself
-(Whitson 2013:175).
+(Whitson 2013:175). \todo{citation?}
 
 With gaming and competition,
 addiction seems a natural subsequent area of exploration.
 To this end,
 Margaret Willis explores gamification and in particular addiction,
 finding based on Natasha Schull's research that ``\dots games [such as competitive running apps] are intentionally engineered to absorb the player''
-(Willis 2013:9).
+(Willis 2013:9). \todo{citation?}
 Schull further explores this subject in the study of digital gambling,
 discovering that game designers enhance player engrossment ``\dots by muting the very features that define the cutting edge of digital game design''
-(Schull 2005:77).
+(Schull 2005:77). \todo{citation?}
 The digitization of measures such as steps,
 sleep,
 and other metrics may allow designers of self--quantification tools and services to turn otherwise complicated and tedious activities into simple and addictive ones.
@@ -388,15 +403,15 @@ Whitson's description of gamification and QS culture shares many features with a
 sometimes described as ``living algorithmically''.
 Sheth,
 Ananantharam,
-and Henson (2013) describe in case study and further investigation participants in research who quantify their health and modify their behavior according to the data afforded
-(Sheth et al. 2013:78).
+and Henson (2013) describe in case study and further investigation participants in research who quantify their health and modify  \todo{citation?}their behavior according to the data afforded
+(Sheth et al. 2013:78). \todo{citation?}
 Sheth et al.
 describe a relationship between Data,
 Information,
 Knowledge,
-and Wisdom that implicitly permeates QS culture and Big Data more broadly (discussed later),
+and Wisdom that implicitly permeates QS culture and Big Data more broadly (discussed later), \todo{citation?}
 though this study focuses on management of medical conditions
-(Sheth et al. 2013:81).
+(Sheth et al. 2013:81). \todo{citation?}
 While medical conditions demanding constant management and scrutiny (e.g.
 Diabetes) are on the rise in developed nations,
 these cases are driven by necessity rather than by desire and present a skewed perspective on the motivations of Quantified Self.
@@ -435,12 +450,12 @@ To this end,
 BP and others have adopted programs offering employees devices such as Fitbit wristbands in the hopes that tracking their steps per day,
 minutes of sleep per night,
 and other ostensible indicators of wellness and fitness will give the users and the corporations more insight on their workforce's health
-(Olson 2014b).
+(Olson 2014b). \todo{citation?}
 
 Olson exposes that participants in this aspect of the Quantified Self are not particularly motivated by the typical motivations self--quantifiers,
 but that ``\dots most people [at BP] don't really care about how many steps they've taken each day,
 but they do care about their insurance and energy bills''
-(Olson 2014a).
+(Olson 2014a). \todo{citation?}
 This motivation,
 it seems,
 is mutually shared;
@@ -456,7 +471,7 @@ recently acquired by Google,
 has ``struck deals with close to 20 utility companies\dots to manage the energy usage of Nest customers who had opted into their utility's demand--response programs'' providing Nest,
 and by extension the utility companies,
 with better insight into energy and resource demands more rapidly and in greater detail
-(Olson 2014a).
+(Olson 2014a). \todo{citation?}
 
 It is worth contrasting this use of self--quantification from the dichotomous characterization established earlier,
 in the context of algorithmic living.
@@ -464,7 +479,7 @@ Indeed,
 an able--bodied employee at BP with no medical complications is arguably not self--quantifying by necessity,
 but neither is he or she self--quantifying entirely by choice.
 Instead,
-various pressures (both corporate--political and financial) exert themselves on employees to cooperate with this initiative.
+various pressures (both corporate--political and financial) exert themselves on employees to cooperate with this initiative. \todo{citation?}
 
 Incentives such as saving money on company--provided insurance policies obscure this relationship,
 but Foucault's insights on the exertion of governmental power list critiques applicable here,
@@ -478,7 +493,7 @@ In the state of justice he describes,
 authority is used simplistically to enforce reciprocal obligations,
 but in the fifteenth and sixteenth centuries,
 Foucault identifies a transition of powers to societies of ``regulation and discipline''
-(Foucault 1991:104).
+(Foucault 1991:104). \todo{citation?}
 To this end,
 BP might be described as enforcing regulation and discipline in an almost literal or parental way,
 encouraging and even coercing its ``subjects'' to behave in ways it deems normative.
@@ -502,14 +517,14 @@ If the spark of value in Quantified Self is in knowledge of the self through num
 then its fuel seems to come from the magnitude of data generated surrounding the individual.
 In this sense and borrowing a term from Hegel,
 the ``Geist'' of QS is intrinsically related to ``Big Data,'' an all--encompassing term to represent wells of information so large that its management and analysis itself becomes non--trivial
-(Hegel 1869).
+(Hegel 1869). \todo{citation?}
 Given that practitioners of the QS movement pride themselves on the sheer scale of data that can be collected,
 it follows that they would eventually lead to what some have described as the Quantified Other
 --- large--scale quantitative analysis at the city,
 state,
 nation,
 and global scale
-(Olson 2014b).
+(Olson 2014b). \todo{citation?}
 
 This aspect of the Quantified Self brings together many of the previously discussed facets of the study of the self.
 With comprehensive personal data of individuals at the longitudinal scale of even relatively small cross sections of individuals,
@@ -518,7 +533,7 @@ At these scales,
 the outbreak and spread of infectious diseases may even become predictable;
 Google has certainly made an effort of it,
 success notwithstanding
-(Lazer et al. 2014:1205).
+(Lazer et al. 2014:1205). \todo{citation?}
 
 In a study commissioned by the University of California Transportation Center,
 researchers pointed out that research through members of the QS movement provides social sciences researchers with the ability,
@@ -537,32 +552,32 @@ and the myriad sources and formats of data.
 
 Yang,
 Lee,
-and Gurrin (2013) considered the visualization of lifelogging data and found that affordances made by differing platforms (e.g.
+and Gurrin (2013) considered the visualization of lifelogging data and found that affordances made by differing platforms (e.g. \todo{citation?}
 smartphones,
 laptops,
 etc\dots) provide users with unique opportunities to interpret data in specialized and compelling ways.
 These findings are crucial to the adoption of Quantified Self technologies,
-as Yang and Gurrin (2013) describe the challenges involved:
+as Yang and Gurrin (2013) describe the challenges involved: \todo{citation?}
 ``[Quantified Self] might be overwhelming and impractical to manually scan the full contents\dots we write once but never read again''
-(Yang and Gurrin 2013:1).
+(Yang and Gurrin 2013:1). \todo{citation?}
 Further,
-as Bowker (2013) points out,
+as Bowker (2013) points out, \todo{citation?}
 ``raw data'' is far from objective,
 or in any sense ``raw'';
 instead,
 categorizations in how data is collected and stored bias the data,
 and inbuilt biases on the part of the observer or analyst further skew this data
-(Bowker 1999:170).
+(Bowker 1999:170). \todo{citation?}
 
 Rather than despair over the inherent biases and limited affordances provided by data structures,
 methodologies,
 and schema,
 data science has attempted to work within those limitations;
-Sharif and Symanzik (2013),
+Sharif and Symanzik (2013), \todo{citation?}
 for example,
 actively pursue data visualization tools for the R programming language,
 attempting to democratize visualization tools for users of actigraphy data such as step--tracking
-(Symanzik 2013).
+(Symanzik 2013). \todo{citation?}
 
 \subsection*{Methods}
 Studying the culture of Quantified Self proved challenging and necessitated measured approaches both to remain in line with ethical guidelines as well as to fully acclimate to the qualitative culture of a group which strongly prefers quantitative approaches.
@@ -589,7 +604,7 @@ From this information I learned more about devices,
 approaches,
 and guiding principles that would later inform my own journey into self--quantification,
 enabling an auto--ethnographic experience similar in nature to Linder's ethnology of body--building
-(Linder 2007).
+(Linder 2007). \todo{citation?}
 With a WiFi--connected scale,
 Bluetooth--enabled movement tracker,
 and a careful eye toward the stream of analytics from these and other sources,
@@ -683,7 +698,7 @@ such as running apps and weight--tracking apps
 
 Within a few days of beginning my fieldwork I was able to overlook the subtle catch of the wristband on my sleeves and the occasional light and vibration of its indicators.
 I began to spend more and more time checking on a mobile application adjoining the wristband for indicators of my daily progress:
-How many steps have I taken? How many hours (or minutes) have I slept? How do these relate to my self--defined goals? I explored various ways that my app could represent my data,
+How many steps have I taken? How many hours (or minutes) have I slept? How do these relate to my self--defined goals? I explored  \todo{citation?}various ways that my app could represent my data,
 at first in fine grain but eventually
 --- as the magnitude of my data supported it ---
 at daily,
@@ -792,9 +807,9 @@ As previously discussed,
 data has a fabled authority related to the arguably misplaced trust that data is perfect,
 objective,
 and abstract
-(Bowker).
+(Bowker). \todo{citation?}
 Nevertheless,
-this attendee's unwillingness (or inability) to discuss quantitatively backed insights earned him little respect among his peers.
+this attendee's unwillingness (or inability) to discuss quantitatively backed insights earned him little respect among his peers. \todo{citation?}
 Eventually he returned to his seat,
 clearly frustrated that he had not visibly won anyone's interest in the novel diet he had adopted and seemingly benefited from.
 
@@ -903,7 +918,7 @@ In one case,
 a site provided app makers with free access to user data provided that the user relinquished permission to access it.
 One clever self--quantifier wrote a generic application and provided instructions to register it with the service provider,
 thus enabling members of the QS community to export their data under the guise of a third party app.
-With no effective way to prevent this use of their Application Programming Interface (API),
+With no effective way to prevent this use of their Application Programming Interface (API), \todo{citation?}
 the site that had once attempted to lock its users into their curated ecosystem through data ownership instead alienated the very users who might have otherwise been the service's most emphatic advocates.
 
 \subsection*{Public Science}
@@ -1058,7 +1073,7 @@ is at least closely related.
 
 ``Data tells stories'',
 one participant told me when I inquired about the appeal of self--quantification and the data it yielded.
-He went on to explain that data can provide insight into his (and my) life that can't necessarily be acquired through other methods.
+He went on to explain that data can provide insight into his (and my) life that can't necessarily be acquired through other  \todo{citation?}methods.
 This sentiment held true when another new member asked what the ``big vision,
 or mission statement of QS'' is,
 to which one moderator replied,
@@ -1077,7 +1092,7 @@ One member joked that,
 after complaining to a fitness watchband company that his unit was only 65\% accurate,
 technical support replied with ``Yeah,
 great,
-right?'' indicating that his (and ostensibly others') demands for accuracy were higher than the company's.
+right?'' indicating that his (and ostensibly others') demands for accuracy were higher than the company's. \todo{citation?}
 His advice to others was to establish a baseline,
 ingraining that one's own activity tracker is inaccurate but will at least reliably underreport or over--report activity.
 
@@ -1174,7 +1189,7 @@ is this ultimately the practical motivation of that perspective on data ownershi
 Less gloomily,
 the culture of QS may follow the cabinets of wonder and curiosity previously discussed,
 which served as the forerunners to modern museums through systems of formalization and systematized collection across institutions and bodies
-(Wilson 1996:60).
+(Wilson 1996:60). \todo{citation?}
 Given the poor interoperability between various services
 --- even similar ones which track steps or sleep ---
 it might be that compatibility between these services,
