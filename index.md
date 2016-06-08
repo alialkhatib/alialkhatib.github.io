@@ -7,7 +7,6 @@ I'm a PhD student in the Computer Science department at Stanford University,
 specifically studying Human-Computer Interaction.
 My advisor is [Michael Bernstein][msb].
 
-*I'm currently at [CHI][CHI2016]. Please accept my apologies if I'm not able to get back to your messages in a timely manner.*
 
 I'm working on cooperative labor markets.
 Check my [blog][blog] for more info
