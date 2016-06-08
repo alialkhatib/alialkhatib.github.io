@@ -18,7 +18,7 @@ as always, contact me if you can't find something that should be there).
 
 
 [link]: //futureofplatforms.wordpress.com/
-[slidesPDF]: /media/presentations/cscw2016workshop/ali_alkhatib_cscw_workshop.pdf
-[tex]: /media/presentations/cscw2016workshop/ali_alkhatib_cscw_workshop.tex
+[slidesPDF]: /papers/cscw/workshops/2016/cooperatives_presentation/ali_alkhatib_cscw_workshop.pdf
+[tex]: /papers/cscw/workshops/2016/cooperatives_presentation/ali_alkhatib_cscw_workshop.tex
 [source]: //github.com/alialkhatib/alialkhatib.github.io/tree/master/media/presentations/cscw2016workshop
 [mtheme]: //github.com/matze/mtheme

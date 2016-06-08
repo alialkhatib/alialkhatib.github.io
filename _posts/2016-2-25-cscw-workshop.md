@@ -11,5 +11,5 @@ please take a look [here][CSCWExtendedAbstract].
 
 If you have any feedback, please [contact me][contact]
 
-[CSCWExtendedAbstract]: /media/papers/cscw_extended_abstract.pdf
+[CSCWExtendedAbstract]: /papers/cscw/workshops/2016/cooperatives_abstract/extended-abstract.pdf
 [contact]: /contact
