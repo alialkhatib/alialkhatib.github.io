@@ -1,7 +1,7 @@
 name: Ali Alkhatib
 author: Ali Alkhatib
 url: https://ali-alkhatib.com
-base: ''
+baseurl: ''
 twitter: '_alialkhatib'
 email: 'ali.alkhatib@cs.stanford.edu'
 fb: 'Ali.Alkhatib'
@@ -29,3 +29,4 @@ navigation:
       link: /contact
     - title: CV
       link: /content/CV.pdf
+
