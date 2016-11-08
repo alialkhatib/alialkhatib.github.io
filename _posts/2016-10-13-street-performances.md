@@ -13,7 +13,7 @@ explainable by the research we have, and just more **interesting**. I
 guess this is a long–winded way of justifying watching lots of YouTube
 videos lately.
 
-I've seen a few research papers about streaming (e.g. see [[5][], [3][], [8][]) but I'm thinking
+I've seen a few research papers about streaming (e.g. see [[5][], [3][], [8][]]) but I'm thinking
 about something that only kind of intersects with these works.
 
 Kaytoue et al. [[5][]]
