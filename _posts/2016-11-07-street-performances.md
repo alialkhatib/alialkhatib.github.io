@@ -66,16 +66,22 @@ the research idea I've laid out, more recent, etc…
 
 ---
 
-This is one post in my long journey to feel out research topics that I
+_This is one post in my long journey to feel out research topics that I
 think would be interesting. Maybe you could say that I'm posting them as
 an open offer to take this idea and run with it. I'm not really sure
 what I plan to do with it, but if this sparked your interest, let me
 know. If you have any suggestions of possibly interesting research
-topics, please be sure to [contact
-me](https://ali-alkhatib.com/contact).
+topics, please be sure to [contact me][]._
 
 [a recent video]: https://www.youtube.com/watch?v=_MIPQNa8uhg
 [Meta Points]: https://ali-alkhatib.com/blog/meta-points
+[dynamo]: http://dx.doi.org/10.1145/2702123.2702508
+[PewDiePie]: https://www.youtube.com/watch?v=OkcdKKVuLg4
+[HelloInternetPodcast70]: http://www.hellointernet.fm/podcast/70
+[watchMe]: http://dx.doi.org/10.1145/2187980.2188259
+[measurementStudy]: http://dx.doi.org/10.1145/2736084.2736091
+[participatoryCommunity]: http://dx.doi.org/10.1145/2556288.2557048
+[contact me]: /contact
 [1]: #fn:1
 [2]: #fn:2
 [3]: #fn:3
@@ -85,7 +91,7 @@ me](https://ali-alkhatib.com/contact).
 [7]: #fn:7
 [8]: #fn:8
 
-### References from up above
+#### \#references from up above
 
 1. <a name="fn:1"></a> Jan Cohen-Cruz. _Radical street performance: An international anthology_. Cambridge Univ Press, 1998.
 1. <a name="fn:2"></a> Gerald Groemer. _Street Performers and Society in Urban Japan, 1600-1900: The Beggar's Gift_. Routledge, 2016.
@@ -95,14 +101,3 @@ me](https://ali-alkhatib.com/contact).
 1. <a name="fn:6"></a> Bim Mason. _Street theatre and other outdoor performance_. Taylor & Francis, 1992.
 1. <a name="fn:7"></a> Carlos Araque Osorio. _El teatro está en la calle: disímiles estéticas del teatro callejero_. 2009.
 1. <a name="fn:8"></a> Cong Zhang and Jiangchuan Liu. "On Crowdsourced Interactive Live Streaming: A Twitch.Tv--based Measurement Study". In: _Proceedings of the 25th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video_. NOSSDAV '15. Portland, Oregon: ACM, 2015, pp. 55–60. isbn: 978-1-4503-3352-8. doi: 10.1145/2736084.2736091. url: [http://doi.acm.org/10.1145/2736084.2736091]().
-
-
-<!-- [dynamo]: http://dx.doi.org/10.1145/2702123.2702508
-[PewDiePie]: https://www.youtube.com/watch?v=OkcdKKVuLg4
-[HelloInternetPodcast70]: http://www.hellointernet.fm/podcast/70
-[watchMe]: http://dx.doi.org/10.1145/2187980.2188259
-[measurementStudy]: http://dx.doi.org/10.1145/2736084.2736091
-[participatoryCommunity]: http://dx.doi.org/10.1145/2556288.2557048
-[Meta Points]: /blog/meta-points
-[contact me]: /contact
-[a recent video]: https://www.youtube.com/watch?v=_MIPQNa8uhg -->
