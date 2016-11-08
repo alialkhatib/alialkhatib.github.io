@@ -85,14 +85,16 @@ me](https://ali-alkhatib.com/contact).
 [7]: #fn:7
 [8]: #fn:8
 
+### References from up above
+
 1. <a name="fn:1"></a> Jan Cohen-Cruz. _Radical street performance: An international anthology_. Cambridge Univ Press, 1998.
 1. <a name="fn:2"></a> Gerald Groemer. _Street Performers and Society in Urban Japan, 1600-1900: The Beggar's Gift_. Routledge, 2016.
-1. <a name="fn:3"></a> William A. Hamilton, Oliver Garretson, and Andruid Kerne. "Streaming on Twitch: Fostering Participatory Communities of Play Within Live Mixed Media". In: _Proceedings of the 32Nd Annual ACM Conference on Human Factors in Computing Systems_. CHI '14. Toronto, Ontario, Canada: ACM, 2014, pp. 1315–1324. isbn: 978-1-4503-2473-1. doi: 10.1145/2556288.2557048. url: http://doi.acm.org/10.1145/2556288.2557048.
+1. <a name="fn:3"></a> William A. Hamilton, Oliver Garretson, and Andruid Kerne. "Streaming on Twitch: Fostering Participatory Communities of Play Within Live Mixed Media". In: _Proceedings of the 32Nd Annual ACM Conference on Human Factors in Computing Systems_. CHI '14. Toronto, Ontario, Canada: ACM, 2014, pp. 1315–1324. isbn: 978-1-4503-2473-1. doi: 10.1145/2556288.2557048. url: [http://doi.acm.org/10.1145/2556288.2557048][].
 1. <a name="fn:4"></a> Sally Harrison-Pepper. _Drawing a circle in the square: street performing in New York's Washington Square Park_. Univ Pr of Mississippi, 1990.
-1. <a name="fn:5"></a> Mehdi Kaytoue et al. "Watch Me Playing, I Am a Professional: A First Study on Video Game Live Streaming". In: _Proceedings of the 21st International Conference on World Wide Web_. WWW '12 Companion. Lyon, France: ACM, 2012, pp. 1181–1188. isbn: 978-1-4503-1230-1. doi: 10.1145/ 2187980.2188259. url: http://doi.acm.org/10.1145/2187980.2188259.
+1. <a name="fn:5"></a> Mehdi Kaytoue et al. "Watch Me Playing, I Am a Professional: A First Study on Video Game Live Streaming". In: _Proceedings of the 21st International Conference on World Wide Web_. WWW '12 Companion. Lyon, France: ACM, 2012, pp. 1181–1188. isbn: 978-1-4503-1230-1. doi: 10.1145/ 2187980.2188259. url: [http://doi.acm.org/10.1145/2187980.2188259][].
 1. <a name="fn:6"></a> Bim Mason. _Street theatre and other outdoor performance_. Taylor & Francis, 1992.
 1. <a name="fn:7"></a> Carlos Araque Osorio. _El teatro está en la calle: disímiles estéticas del teatro callejero_. 2009.
-1. <a name="fn:8"></a> Cong Zhang and Jiangchuan Liu. "On Crowdsourced Interactive Live Streaming: A Twitch.Tv--based Measurement Study". In: _Proceedings of the 25th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video_. NOSSDAV '15. Portland, Oregon: ACM, 2015, pp. 55–60. isbn: 978-1-4503-3352-8. doi: 10.1145/2736084.2736091. url: http://doi.acm.org/10.1145/2736084.2736091.
+1. <a name="fn:8"></a> Cong Zhang and Jiangchuan Liu. "On Crowdsourced Interactive Live Streaming: A Twitch.Tv--based Measurement Study". In: _Proceedings of the 25th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video_. NOSSDAV '15. Portland, Oregon: ACM, 2015, pp. 55–60. isbn: 978-1-4503-3352-8. doi: 10.1145/2736084.2736091. url: [http://doi.acm.org/10.1145/2736084.2736091][].
 
 
 <!-- [dynamo]: http://dx.doi.org/10.1145/2702123.2702508
