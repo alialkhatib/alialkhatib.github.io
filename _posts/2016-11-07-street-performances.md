@@ -91,7 +91,7 @@ topics, please be sure to [contact me][]._
 [7]: #fn:7
 [8]: #fn:8
 
-#### \#references from up above
+### \#references from up above
 
 1. <a name="fn:1"></a> Jan Cohen-Cruz. _Radical street performance: An international anthology_. Cambridge Univ Press, 1998.
 1. <a name="fn:2"></a> Gerald Groemer. _Street Performers and Society in Urban Japan, 1600-1900: The Beggar's Gift_. Routledge, 2016.
