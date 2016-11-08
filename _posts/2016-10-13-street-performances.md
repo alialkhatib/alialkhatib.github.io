@@ -13,10 +13,10 @@ explainable by the research we have, and just more **interesting**. I
 guess this is a long–winded way of justifying watching lots of YouTube
 videos lately.
 
-I've seen a few research papers about streaming () but I'm thinking
+I've seen a few research papers about streaming (e.g. see [[5][], [3][], [8][]) but I'm thinking
 about something that only kind of intersects with these works.
 
-Kaytoue et al. [[^5][]]
+Kaytoue et al. [[5][]]
 look at streaming particularly through the lens of professional
 **gamers**, which I parse out as separate from professional streamers
 and YouTubers because the latter group (which I'll call "performers") is
@@ -26,7 +26,7 @@ whatnot, if people stopped watching gamers stream, they would still make
 money from winning, being part of a professional, (relatively
 conventionally) compensated team, etc...
 
-Hamilton, Garretson, and Kerne [[^3][]]
+Hamilton, Garretson, and Kerne [[3][]]
 get a little closer to what I'm talking about — it talks about the
 social aspects of streaming on Twitch, accumulating followers, engaging
 with the community, etc... but I'd like to get more into the
@@ -54,11 +54,11 @@ that exact analogy in [a recent
 video][]!). So I've been
 looking through a few pieces that look informative, leading to…
 
-- _Drawing a circle in the square: street performing in New York's Washington Square Park_ by Harrison- Pepper [[^4][]]
-- _Radical street performance: An international anthology_ by Cohen-Cruz [[^1][]]
-- _Street Performers and Society in Urban Japan, 1600-1900: The Beggar's Gift_ by Groemer [[^2][]]
-- _El teatro está en la calle: disímiles estéticas del teatro callejero_ by Osorio [[^7][]]
-- _Street theatre and other outdoor performance_ by Mason [[^6][]]
+- _Drawing a circle in the square: street performing in New York's Washington Square Park_ by Harrison- Pepper [[4][]]
+- _Radical street performance: An international anthology_ by Cohen-Cruz [[1][]]
+- _Street Performers and Society in Urban Japan, 1600-1900: The Beggar's Gift_ by Groemer [[2][]]
+- _El teatro está en la calle: disímiles estéticas del teatro callejero_ by Osorio [[7][]]
+- _Street theatre and other outdoor performance_ by Mason [[6][]]
 
 That being said, I'm noticing that these are a little obscure, and I'm
 open to any perspectives that might be more mainstream, more relevant to
@@ -76,6 +76,15 @@ me](https://ali-alkhatib.com/contact).
 
 [a recent video]: https://www.youtube.com/watch?v=_MIPQNa8uhg
 [Meta Points]: https://ali-alkhatib.com/blog/meta-points
+[1]: #fn:1
+[2]: #fn:2
+[3]: #fn:3
+[4]: #fn:4
+[5]: #fn:5
+[6]: #fn:6
+[7]: #fn:7
+[8]: #fn:8
+
 [^1]: Jan Cohen-Cruz. _Radical street performance: An international anthology_. Cambridge Univ Press, 1998.
 [^2]: Gerald Groemer. _Street Performers and Society in Urban Japan, 1600-1900: The Beggar's Gift_. Routledge, 2016.
 [^3]: William A. Hamilton, Oliver Garretson, and Andruid Kerne. "Streaming on Twitch: Fostering Participatory Communities of Play Within Live Mixed Media". In: _Proceedings of the 32Nd Annual ACM Conference on Human Factors in Computing Systems_. CHI '14. Toronto, Ontario, Canada: ACM, 2014, pp. 1315–1324. isbn: 978-1-4503-2473-1. doi: 10.1145/2556288.2557048. url: http://doi.acm.org/10.1145/2556288.2557048.
@@ -86,7 +95,7 @@ me](https://ali-alkhatib.com/contact).
 [^8]: Cong Zhang and Jiangchuan Liu. "On Crowdsourced Interactive Live Streaming: A Twitch.Tv--based Measurement Study". In: _Proceedings of the 25th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video_. NOSSDAV '15. Portland, Oregon: ACM, 2015, pp. 55–60. isbn: 978-1-4503-3352-8. doi: 10.1145/2736084.2736091. url: http://doi.acm.org/10.1145/2736084.2736091.
 
 
-[dynamo]: http://dx.doi.org/10.1145/2702123.2702508
+<!-- [dynamo]: http://dx.doi.org/10.1145/2702123.2702508
 [PewDiePie]: https://www.youtube.com/watch?v=OkcdKKVuLg4
 [HelloInternetPodcast70]: http://www.hellointernet.fm/podcast/70
 [watchMe]: http://dx.doi.org/10.1145/2187980.2188259
@@ -94,4 +103,4 @@ me](https://ali-alkhatib.com/contact).
 [participatoryCommunity]: http://dx.doi.org/10.1145/2556288.2557048
 [Meta Points]: /blog/meta-points
 [contact me]: /contact
-[a recent video]: https://www.youtube.com/watch?v=_MIPQNa8uhg
+[a recent video]: https://www.youtube.com/watch?v=_MIPQNa8uhg -->
