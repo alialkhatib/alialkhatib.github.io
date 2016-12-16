@@ -35,4 +35,4 @@ So on I went to Twilio, setting everything up and playing around with the API, a
 
 And here it is:
 
-{% github_sample_ref /alialkhatib/lifehacks/blob/6b8fa3ca3d860c43dbe2b712d141ae3ba05200d7/wake_me_up_before_you_go_go.py %}
+{% gist 114ee62c75d826254181de9d8fafb29c %}

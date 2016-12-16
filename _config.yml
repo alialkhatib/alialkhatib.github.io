@@ -9,7 +9,6 @@ fb: 'Ali.Alkhatib'
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 highlighter: rouge
-gems: [jekyll_github_sample]
 
 exclude:
     - bower_components
