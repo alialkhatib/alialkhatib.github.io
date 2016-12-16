@@ -31,8 +31,38 @@ for me to pick up the phone and buzz them in.
 That's some pretty intense social pressure.
 
 So on I went to Twilio, setting everything up and playing around with the API, and
-20 minutes later I had a working python script that places a call to my apartment phone every morning at 7:30am.
+10 or 20 minutes later I had a working python script that places a call to my apartment phone every morning at 7:30am.
 
 And here it is:
 
 {% gist 114ee62c75d826254181de9d8fafb29c %}
+
+That's just a gist. If you're interested in seeing if there are any significant changes,
+check out [the actual repository's code page].
+You'll want to make sure you set a few environment variables
+(as of this writing, `TWILIO_ACCOUNT_SID`, `TWILIO_AUTH_TOKEN`, `APARTMENT_NUMBER`, and `TWILIO_CELL_NUMBER`),
+but hopefully that's not **too** much work. You should be able to get them all from Twilio in various places.
+Just a quick note on the phone numbers:
+
+- The `APARTMENT_NUMBER` variable is the number that's going to get the call.
+- The `TWILIO_CELL_NUMBER` variable is really the phone number Twilio will use to call you.
+- I have no idea why I used the snippet I chose in the `url` field.
+  I only cared about the phone ringing.
+  It might as well be empty.
+
+A lot of that is (hopefully) obvious;
+the Twilio Python tools are really pleasantly straightforward, and
+it was actually kind of fun to play around with it!
+
+On the thread of quirky hacky things I've done lately,
+I've been meaning to write up a summary of the time I crowdsourced my apartment's interior design.
+Specifically, I got Turkers to vote on which travel photo I should get printed and hung in my studio.
+Spoiler alert: they **nailed** it and I'm in love with the print.
+
+But more urgently, I'm working on revising my CHI submission for the "camera ready" deadline (Jan 6).
+I've been circling drafts to a few people to get their feedback on it, so
+if you see this and it's before January 6th,
+there's a chance I'll ask you for your thoughts after skimming or reading the paper
+(whatever you have time to do).
+
+[the actual repository's code page]: https://github.com/alialkhatib/lifehacks/blob/master/wake_me_up_before_you_go_go.py
