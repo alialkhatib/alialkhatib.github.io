@@ -11,7 +11,7 @@ This isn't a comprehensive list of what I've been up to; it's more of a list of 
 ### Examining Crowd Work and Gig Work Through The Historical Lens of Piecework
 The internet is empowering the rise of crowd work, gig work, and other forms of on–demand labor. A large and growing body of scholarship has attempted to predict the socio– technical outcomes of this shift, especially addressing three questions: 1) What are the complexity limits of on–demand work?, 2) How far can work be decomposed into smaller microtasks?, and 3) What will work and the place of work look like for workers? In this paper, we look to the historical scholarship on piecework — a similar trend of work decomposition, distribution, and payment that was popular at the turn of the 20th century — to understand how these questions might play out with modern on–demand work. We identify the mechanisms that enabled and limited piecework historically, and identify whether on–demand work faces the same pitfalls or might differentiate itself. This approach introduces theoretical grounding that can help address some of the most persistent questions in crowd work, and suggests design interventions that learn from history rather than repeat it.
 
-Links: paper ([pdf][pieceworkPaper]) & presentation ([*coming ~soon~*][pieceworkPresentation])
+Links: paper ([pdf][pieceworkPaper]) & presentation ([*coming ~~soon~~ eventually*][pieceworkPresentation])
 
 
 ### We Are Dynamo: Overcoming Stalling and Friction in Collective Action for Crowd Workers
