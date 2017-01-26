@@ -13,7 +13,10 @@ I have a strong aversion to adding people on Facebook until I've met them in per
 I'm only saying that to make it less awkward if I don't accept your friend request.
 
 I'm sure I'm on LinkedIn, Google+, Quora, and half a dozen other sites. 
-Don't try to send messages to any of those places; I'll never see them.
+Don't try to send messages to any of those places; I'll never see them. 
+Case in point: I recently found out I had some messages in my meetup inbox. 
+They were 765 and 803 days old, respectively. 
+**Don't send me messages on random social networking sites.**
 
 If you'd like to contact me by Google Hangouts or Skype, my accounts for both are
 
