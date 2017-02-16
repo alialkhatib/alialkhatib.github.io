@@ -4,19 +4,21 @@ layout: home
 Hi, that's me.
 
 I'm a PhD student in the Computer Science department at Stanford University,
-specifically studying Human-Computer Interaction.
-My advisor is [Michael Bernstein][msb].
+specifically studying Human-Computer Interaction,
+working with [Michael Bernstein][msb].
 
 
-I'm working on cooperative labor markets.
-Check my [blog][blog] for more info
-(Also, [this post][fuseblogpost] on the FUSE labs blog is a good overview of what I was working on).
+I study digitally mediated communities of workers.
+That can mean workers on Amazon's Mechanical Turk;
+people that drive for Uber & Lyft;
+or even YouTube & Twitch streamers who have made a living of it.
+Check my [blog][blog] for more up–to–date info.
 
 I earned my B.A. in Anthropology & B.S. in Informatics,
-specializing in Human-Computer Interaction,
+specializing in Human–Computer Interaction,
 both from UC Irvine in 2014.
-My honors thesis was on the culture of [Quantified Self][qsthesis],
-and my advisor was [Tom Boellstorff][boellstorff].
+I wrote an honors thesis on the culture of [Quantified Self][qsthesis]
+while I worked under [Tom Boellstorff][boellstorff].
 
 If this isn't enough info, click on some links floating around this text in various places
 (determined mostly by the size of your window).
