@@ -1,8 +1,6 @@
 ---
 title: Research
 layout: longy
-blurb: |
-    *"Anthro Hacker"*
 ---
 
 
