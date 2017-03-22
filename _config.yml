@@ -30,3 +30,5 @@ navigation:
     - title: CV
       link: /content/CV.pdf
 
+gems:
+  - jekyll-redirect-from
