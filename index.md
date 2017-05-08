@@ -3,6 +3,9 @@ layout: home
 ---
 Hi, that's me.
 
+*I'm currently at [CHI](CHI).*
+
+
 I'm a PhD student in the Computer Science department at Stanford University,
 specifically studying Human-Computer Interaction,
 working with [Michael Bernstein][msb].
@@ -39,4 +42,4 @@ If this isn't enough info, click on some links floating around this text in vari
 [PCTalkPDF]: /media/presentations/PlatformCooperativism.pdf
 [PCTalkLaTeX]: /media/presentations/PlatformCooperativism.tex
 [PCTalk]: http://livestream.com/internetsociety/platformcoop/videos/104467678
-[CHI2016]: https://chi2016.acm.org/wp/
+[CHI]: https://chi2017.acm.org
