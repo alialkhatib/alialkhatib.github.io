@@ -3,9 +3,6 @@ layout: home
 ---
 Hi, that's me.
 
-*I'm currently at [CHI][]. Sorry if I don't reply to messages promptly.*
-
-
 I'm a PhD student in the Computer Science department at Stanford University,
 specifically studying Human-Computer Interaction,
 working with [Michael Bernstein][msb].
