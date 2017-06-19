@@ -1,0 +1,27 @@
+<html ng-app="angularjs-starter">
+  <head>
+    <title>data vis thing</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+    <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="books.js"></script>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+    <body ng-controller="MainCtrl">
+      <div class='container-fluid'>
+        <div class='col-md-10 col-lg-10 col-sm-10 col-xs-12'>
+          <h1>Time to Read redux</h1>
+          <p>You should check out <a target="_blank" href="https://thenounproject.com/">The Noun Project</a>;
+          in particular, the book SVG came from
+          <a target="_blank" href="https://thenounproject.com/coquet_adrien/collection/book/?oq=book&cidx=0&i=990036">Adrien Coquet's Book Collection</a>.</p>
+            <p ng-repeat="(k,v) in books">
+              {{v.title}}
+                <span ng-if="v.author!=''"><i>by {{v.author}}</i></span>
+                <br>
+                    <span ng-bind-html="makeBooks(v)"></span>
+                    (about {{v.hours}} hours) or <span ng-bind="localized(v)"></span> words
+            </p>
+      </div>
+    </div>
+  </body>
+</html>
