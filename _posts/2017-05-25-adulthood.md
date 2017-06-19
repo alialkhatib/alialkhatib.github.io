@@ -169,26 +169,3 @@ coming out the other end feeling very confident that you know what your options 
 
 
 [winning the lottery]: #
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

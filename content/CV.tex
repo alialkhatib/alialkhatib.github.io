@@ -10,35 +10,80 @@
 \raggedbottom
 \raggedright
 \usepackage[svgnames]{xcolor}
-\usepackage{framed,tocloft,etoolbox,enumitem}
+\usepackage{framed,tocloft,etoolbox,enumitem,longtable}
+\usepackage{titlesec}
 \usepackage[normalem]{ulem} %for \uline
-\usepackage{array, xcolor, lipsum, bibentry}
-\usepackage{natbib}
+\usepackage{array, xcolor, lipsum, bibentry,needspace,changepage,fontspec}
+\defaultfontfeatures{Ligatures=TeX}
+\setmainfont{SourceSansPro}
+\setmonofont{SourceCodePro}
+\usepackage[style=verbose,backend=bibtex]{biblatex}
+\bibliography{references}
+% \needspace{2em}
 \usepackage{hyperref}
 \hypersetup{colorlinks,urlcolor=blue}
 \usepackage[margin=3cm]{geometry}
-% \usepackage{needspace}
-% \needspace{6em}% Require at least 6em on the page
 
-% \clubpenalties 5 10000 10000 10000 10000 0
-% \raggedbottom
-\robustify\cftdotfill
+\titleformat{\section}{\Large\bfseries}{{\thesection}}{0pt}{\Large\bfseries}[\titlerule]
+\titleformat{\subsection}{\large}{{\thesubsection}}{0pt}{\large}
+\titleformat{\subsubsection}{\itshape}{{\thesubsubsection}}{0pt}{\itshape}
 
-\definecolor{lightgray}{gray}{0.8}
-\newcolumntype{L}{>{\raggedleft}p{0.05\textwidth}}
-\newcolumntype{R}{p{0.94\textwidth}}
-\newcommand\VRule{\color{lightgray}\vrule width 0.5pt}
+\titlespacing*{\section}{0em}{.5em}{1em}
+\titlespacing*{\subsection}{0em}{.5em}{0em}
+\titlespacing*{\subsubsection}{0em}{.5em}{0em}
+
+\newcommand{\talkCite}[1]{
+  \citeyear{#1} & \citetitle{#1} --- \textit{\citefield{#1}{series}}. \citefield{#1}{venue}
+}
+\ExecuteBibliographyOptions{
+    maxnames = 100
+}
+
+
+\newcommand{\workLocation}[2]{
+  \subsection*{\textbf{#1}\hfill{\normalsize#2}}
+}
+\newcommand{\organizationTime}[2]{
+  \subsubsection*{\textit{#1}\hfill#2}
+}
+\newcommand{\duration}[2]{
+  #1 --- #2
+}
+
+\newcommand{\makeauthorbold}[1]{%
+  \DeclareNameFormat{author}{%
+    \ifthenelse{\value{listcount}=1}
+    {%
+      {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\namepartfamily\addcomma\addspace \namepartgiveni}}{\namepartfamily\addcomma\addspace \namepartgiveni}}
+      %
+    }{\ifnumless{\value{listcount}}{\value{liststop}}
+        {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni}}{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni}}
+        {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni\addcomma\isdot}}{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni\addcomma\isdot}}%
+      }
+    \ifthenelse{\value{listcount}<\value{liststop}}
+    {\addcomma\space}
+  }
+}
+\makeauthorbold{Alkhatib}
+
+
+
+\setlist[itemize]{topsep=0pt,itemsep=0pt,partopsep=0pt,parsep=0pt}
+
+
+
+
+% \definecolor{lightgray}{gray}{0.8}
+\newcolumntype{L}{>{ \raggedleft}p{0.18\textwidth}}
+\newcolumntype{R}{p{0.78\textwidth}}
+\newcommand\VRule{~\color{lightgray}\vrule width 0.5pt~}
  
  \newcommand{\CVcite}[1]{\begin{NoHyper}\bibentry{#1}\end{NoHyper}}
+ \newcommand{\HM}{\textbf{\small Honorable Mention}}
+ \newcommand{\BP}{\textbf{\small Best Paper}}
 
-%-----------------------------------------------------------
-%Edit these values as you see fit
-\renewcommand{\labelitemi}{}
-\setlist[itemize,1]{leftmargin=*,itemsep=5pt}
-\setlist[enumerate,1]{leftmargin=*,itemsep=5pt}
 
-%-----------------------------------------------------------
-%Margin setup
+% \renewcommand{\labelitemi}{--}
 
 \setlength{\evensidemargin}{-0.25in}
 \setlength{\headheight}{0in}
@@ -54,164 +99,114 @@
 \setlength{\voffset}{0.1in}
 
 
-%-----------------------------------------------------------
-%Custom commands
-\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
-
-\newcommand{\resheading}[1]{\vspace{8pt}
-\underline{\parbox{\textwidth}
-{\textbf{\sffamily{\large #1}}}
-  }
-}
-\newcommand{\ressubheading}[4]{
-\begin{tabular*}{6.9in}{l@{\cftdotfill{\cftsecdotsep}\extracolsep{\fill}}r}
-    \textbf{#1} & #2 \\
-    \textit{#3} & \textit{#4} \\
-\end{tabular*}\vspace{-6pt}}
-%-----------------------------------------------------------
-
 \begin{document}
 
 
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  %%%%%% Header/Contact Information %%%%%%
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \begin{tabular*}{7in}{l@{\extracolsep{\fill}}r}
-    \textbf{\huge Ali Alkhatib} & \textbf{Contact Information} \\
-    PhD Student, Stanford University & \href{mailto:ali.alkhatib@cs.stanford.edu}
-                                            {ali.alkhatib@cs.stanford.edu} \\
-    \textit{last updated
-    \href{https://github.com/alialkhatib/alialkhatib.github.io/blob/master/content/CV.tex}
-    {\today}}
-    & \href{https://ali-alkhatib.com}{https://ali-alkhatib.com} \\
-  \end{tabular*}
+\textbf{{\Huge Ali Alkhatib} \hfill Contact Information}
 
+PhD Student, Stanford University
+\hfill
+\href{mailto:ali.alkhatib@cs.stanford.edu}{\texttt{ali.alkhatib@cs.stanford.edu}}
+
+\textit{Last updated
+  \href{https://github.com/alialkhatib/alialkhatib.github.io/blob/master/content/CV.tex}{\today}}
+\hfill
+% \href{https://ali-alkhatib.com}{https://ali-alkhatib.com}
+\url{https://ali-alkhatib.com}
 
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \resheading{Education}
+  \section*{Education}
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \begin{itemize}
-    \item
-      \ressubheading{Stanford University}{Stanford, CA}
-      {Ph.D. Computer Science (in progress)}           {September 2014 --- present}
-    \item
-      \ressubheading{University of California, Irvine}{Irvine, CA}
-      {B.A. Anthropology,
-       B.S. Informatics,
-       \textit{Phi Beta Kappa}}                         {August 2012 --- June 2014}
-      \begin{itemize}
-        \resitem{Informatics specialization:
-          Human--Computer Interaction}
-        \resitem{Anthropology honors thesis:
-          \textit{\href{https://al2.in/media/papers/quantified_self.pdf}
-          {Quantified Self: Ethnography of a Digital Culture}}
-          (Advisor: Tom Boellstorff)}
-      \end{itemize}
-  \end{itemize}
+
+    \begin{longtable}{L!{ \VRule\ } R}
+                      & \textbf{\large Stanford University} \hfill \textit{Stanford, CA}\\[5pt]
+Sep 2014 --- present  & \textit{Ph.D. Computer Science} (in progress)\\[10pt]
+
+                      & \textbf{\large University of California, Irvine} \hfill \textit{Irvine, CA}\\[5pt]
+Aug 2012 --- Jun 2014 & \textit{B.A. Anthropology}\\
+                      & Honors thesis: \citetitle{QuantifiedSelf}\\
+                      & (Advisor: Tom Boellstorff)\\[5pt]
+                      & \textit{B.S. Informatics}\\
+                      & Specialization: Human--Computer Interaction\\[5pt]
+                      & \textit{Phi Beta Kappa}
+\end{longtable}
 
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \resheading{Research Experience}
+  \section*{Research Experience}
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \begin{itemize}
-    \item
-      \ressubheading{Microsoft Research}{Redmond, WA}
-                    {FUSE Labs}{June 2015 --- September 2015}
-      \begin{itemize}
-        \resitem{Conducted study of piecework (or gig) workers}
-        \resitem{Designed front-end for worker-centric labor market platform}
-      \end{itemize}
-    
-    % \item
-    %   \ressubheading{Stanford University}{Stanford, CA}
-    %                 {Human--Computer Interaction Group}{June 2014 --- September 2014}
-    %   \begin{itemize}
-    %     \resitem{Explored collective research of online communities}
-    %     \resitem{Prototyped online collective action platform}
-    %   \end{itemize}
+  % \begin{adjustwidth}{1.5em}{0pt}
+    \begin{longtable}{L!{ \VRule\ } R}
 
-    \item
-      \ressubheading{University of California, Irvine}{Irvine, CA}
-                    {Evoke Laboratory \& Studio}{April 2014 --- June 2014}
-      \begin{itemize}
-        \resitem{Ethnographic research of values in design}
-        \resitem{Assembled guide for data co-ownership}
-      \end{itemize}
-    
-    % \item
-    %   \ressubheading{University of California, Irvine}{Irvine, CA}
-    %                 {Honors Program in Anthropology}{September 2013 --- June 2014}
-    %   \begin{itemize}
-    %     \resitem{Senior research and thesis on Quantified Self}
-    %     % \resitem{}
-    %   \end{itemize}
-
-    \item
-      \ressubheading{University of California, Irvine}{Irvine, CA}
-                    {Multidisciplinary Design Program}{January 2013 --- June 2013}
-      \begin{itemize}
-        \resitem{Studied use of space on campus grounds}
-        \resitem{Brainstormed changes to sociofugal spaces to promote sociopetality}
-      \end{itemize}
-
-    \item
-      \ressubheading{Foothill College \& Columbia University}{Cangahua, Ecuador}
-                    {Pambamarca Archaeological Project}{June 2012 --- August 2012}
-      \begin{itemize}
-        \resitem{Mentored 20 students in ethnographic methods}
-        \resitem{Administered lab artifact database consisting of more than 8000 entries}
-      \end{itemize}
-  \end{itemize}
+                                     & {\textbf{\large Microsoft Research}}
+                                       \hfill
+                                       \textit{Redmond, WA}\\[5pt]
+ \mbox{Jun 2015} --- \mbox{Sep 2015} & \textit{\large FUSE Labs}\\
+                                     & Conducted study of piecework (or gig) workers\\
+                                     & Designed front--end for worker--centric labor market platform \\[10pt]
 
 
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \resheading{Publications}
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \bibliographystyle{plain}
-  % \nobibliography{references.bib}
-  \nobibliography{references}
-  \begin{tabular}{L!{ \VRule\ } R}
-    \textit{2017} & \CVcite{pieceworkCrowdworkGigwork} --- \textbf{Honorable Mention Award}\\[5pt]
-    2015 & \CVcite{dynamo} --- \textbf{Honorable Mention Award}\\[5pt]
-    2014 & \CVcite{QuantifiedSelf}\\[5pt]
-    2013 & \CVcite{ValuesInDesign}\\[5pt]
-  \end{tabular}
+                                     & {\textbf{\large University of California, Irvine}}
+                                       \hfill
+                                       \textit{Irvine, CA}\\[5pt]
+ \mbox{Apr 2014} --- \mbox{Jun 2014} & \textit{\large Evoke Laboratory \& Studio}\\
+                                     & Ethnographic research of values in design\\
+                                     & Assembled guide for data co--ownership\\[10pt]
+
+ \mbox{Jan 2013} --- \mbox{Jun 2013} & \textit{\large Multidisciplinary Design Program} \\
+                                     & Studied use of space on campus grounds\\
+                                     & Brainstormed changes to sociofugal spaces to promote sociopetality\\[10pt]
+
+
+                                     & {\textbf{\large Foothill College \& Columbia University}}
+                                       \hfill
+                                       \textit{Cangahua, Ecuador}\\[5pt]
+ \mbox{Jun 2012} --- \mbox{Aug 2012} & \textit{\large Pambamarca Archaeological Project} \\
+                                     & Mentored 20 students in ethnographic methods\\
+                                     & Administered lab artifact database consisting of more than 8000 entries
+\end{longtable}
+
+
+\section*{Publications}
+\begin{longtable}{L!{ \VRule\ } R}
+    \citeyear{pieceworkCrowdworkGigwork}\\ \HM & \fullcite{pieceworkCrowdworkGigwork}\\[5pt]
+    \citeyear{dynamo} \\ \HM                   & \fullcite{dynamo}\\[5pt]
+    \citeyear{QuantifiedSelf}                  & \fullcite{QuantifiedSelf}\\[5pt]
+    \citeyear{ValuesInDesign}                  & \fullcite{ValuesInDesign}
+\end{longtable}
+
 
 \vspace{2em}
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \resheading{Presentations}
+  \section*{Presentations}
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-  \begin{tabular}{L!{ \VRule\ } R}
+  \begin{longtable}{L!{ \VRule\ } R}
+    \talkCite{pieceworkCrowdworkGigwork}\\[5pt]
     2015 & ``Designing Worker--Centric Labor Markets''
     --- \textit{Platform Cooperativism}.
     New York, NY\\[5pt]
-    2014 & ``Quantified Self: Ethnography of a Digital Culture''
-    --- \textit{UC Irvine Undergraduate Research Symposium}.
-    Irvine, CA\\[5pt]
-  \end{tabular}
+    \talkCite{QuantifiedSelf}
+  \end{longtable}
 
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \resheading{Service}
+  \section*{Service}
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-  \begin{tabular}{L!{ \VRule\ } R}
+  \begin{longtable}{L!{ \VRule\ } R}
     2016 & Lunch@CHI co--chair --- CHI 2016.
     San Jose, CA\\[5pt]
     2015 & Student Volunteer --- CHI 2016 Program Committee Meeting.
-    San Jose, CA\\[5pt]
-  \end{tabular}
+    San Jose, CA
+  \end{longtable}
 
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \resheading{Skills}
+  \section*{Skills}
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \begin{itemize}
-   \setlength\itemsep{0pt}
     \item \textbf{Languages:}
       Python, JavaScript, PHP, \LaTeX, Java, Bash, Ruby, R, HTML, CSS, SQL
     \item \textbf{Frameworks:}
-      Ruby on Rails, Node.js, AngularJS
-    % \item \textbf{Methods:}
-    %   Ethnography, Participant--observation, Participatory design
+      Ruby on Rails, Node.js, AngularJS, Express
   \end{itemize}
 
 \end{document}
