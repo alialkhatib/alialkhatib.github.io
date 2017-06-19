@@ -1,3 +1,6 @@
 [submodule "papers"]
 	path = papers
 	url = https://github.com/alialkhatib/papers
+[submodule "bookVis"]
+	path = bookVis
+	url = git@github.com:alialkhatib/bookVis.git
