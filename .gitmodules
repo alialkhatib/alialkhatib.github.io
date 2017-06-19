@@ -3,4 +3,4 @@
 	url = https://github.com/alialkhatib/papers
 [submodule "bookVis"]
 	path = bookVis
-	url = git@github.com:alialkhatib/bookVis.git
+	url = https://github.com/alialkhatib/bookVis
