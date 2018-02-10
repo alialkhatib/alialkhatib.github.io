@@ -3,148 +3,27 @@ title: dealing
 layout: post
 ---
 
-I tend, or try, not to talk much about depression. I feel even more strongly about bipolar disorder.
-Part of it is about the vulnerability of being open and public about it, but
-part of it is about the attention it brings to myself.
-Part of it is that it's too personal, and yet it's also not entirely my story to tell;
-to say nothing of the many other people out there who deal with depression
-(especially in academia, where it's [more common than usual][academia and depression] (see the formal study [here][academia depression paper])).
+Let's start over. I don't particularly enjoy talking about bipolar disorder, or depression, or mania.
+I could rattle off reasons that would satisfy people:
+It brings up intensely uncomfortable memories;
+it feels presumptuous to write even about *my own* experiences, because it would imply that my experience is somehow authoritative and speaks for others' experiences;
+I don't want to become *the guy with bipolar disorder* in my social circle, answering questions and being called upon to represent people with mental disorders;
+it reveals some weakness about myself, and years of my particular upbringing has taught me not to do that.
 
+None of these reasons feel very convincing as I write them.
+For some reason, they just don't resonate perfectly with me the way other things resonate as truth for me.
+I know that somewhere, some series of words out there perfectly captures my reticence to write about it, but I can't find it.
 
+All of this is a *very* roundabout way of saying that I'm fighting my instincts to write this, so...
+if this is awful, cut me some slack or whatever.
+I'm trying to put these words down on paper because I'm having trouble putting *any other words* on paper.
+For a PhD student, whose job is to put words on paper, that's a problem.
+The only thing that your brain seems willing to help you write about is something you profoundly wish not to talk about.
+But maybe, like an itch, I just need to scratch this so I can square it away and get back to other things.
 
+Depression can be profoundly frustrating.
+In high school I was missing classes and exams and homework assignments;
+I couldn't bring myself out of this fog, and it showed.
+Ultimately, I didn't walk at graduation, short a few credits because I had failed so many classes that there wasn't even enough time to make them all up by the end of senior year.
 
-
-But lately I've been struggling to put pen to paper. Actually, that's not accurate;
-I've been struggling to cobble together words and phrases to describe ideas.
-If you're reading that and thinking to yourself
-"hey that sounds like a real problem for someone whose only job is literally to think up stuff and write about it",
-then you'd be right.
-
-
-
-
-
-
-[academia and depression]: http://www.sciencemag.org/careers/2017/04/phd-students-face-significant-mental-health-challenges
-[academia depression paper]: http://www.sciencedirect.com/science/article/pii/S0048733317300422
-
-
-
-
-I don't usually talk about depression or bipolar disorder, either in writing or informally,
-for a few reasons.
-
-For one thing, I worry that it's obnoxious to listen to me talk about things that have helped me,
-what hasn't, how I deal with it, etc... because
-someone might take this to mean that I think I have all the answers.
-I know I don't.
-And even if I did,
-I wouldn't want to make someone feel like I was rubbing my well-adjusted life in their face.
-
-But let's say that we all understand that I'm not offering some panacea to depression for all people everywhere.
-Let's say we're all on the same page inasmuch as all I can offer is (a small part of) my story.
-This makes me nervous for other reasons;
-sometimes when I share my story with others, people latch on a bit and seem to look to me like I have answers for them.
-Please don't look for advice from me on this stuff.
-Don't think of me as a potential guide in this stuff.
-That'd be a little like calling me captain of the ship because I'm holding on to a slightly bigger piece of driftwood.
-We're both floating in the middle of the sea.
-
-All of this is carefully avoiding the real reason I haven't written much about depression,
-especially in the context of graduate school.
-I don't know what to say.
-Who cares that I've been dealing with depression for the better part of a decade?
-What can I say that adds to the conversation?
-What do people who are not depressed _not_ know about depression, that I could teach?
-What could I say that might potentially offer a tiny nugget of something useful to someone dealing with it right now?
-
-**What do I know about anything?**
-
-Obviously this isn't helpful self-talk, but that's kind of the point.
-Depression isn't some magical thing that inspires a flood of useful thoughts and helpful ideas.
-Depression is a sludgy monster in the back of my mind that asks energy-sapping questions that make you doubt myself.
-It weighs me down until I'm uncertain about everything that's good about me.
-Then the questions that keep me up become statements.
-
-_You're stupid._
-
-_People only tolerate you because they have to._
-
-_You're worthless._
-
-_People's lives would be better without you in them._
-
-Depression has a way of slowly eating away at me until I feel like I'm nothing.
-I can't get out of bed, or I manage to get out of bed but only to eat and go back to sleep.
-I find myself staying up all night trying to find something to distract me,
-then I oversleep, feel miserable about waking up at 2 in the afternoon,
-having missed a meeting with my advisor,
-or a lecture for a class I need to ace to pass my breadth requirements,
-or some other obligation.
-Then I'll decide to stay home for the rest of the day, because
-_nobody wants to see me anyway_.
-
----
-
-Research itself doesn't make things much easier.
-It's nebulous and frustrating.
-We spend most of our time submitting things
-(proposals, papers, etc...)
-hoping that people will say "yes" ---
-accepting a paper to a prestigious conference,
-or accepting a proposal for a grant.
-
-In HCI, paper submissions are reviewed in a double blind method, by which I mean that
-the author doesn't get to know who the reviewer is, and the reviewer doesn't know who the author is.
-In some sense this is helpful because
-it prevents someone with an axe to grind from singling you out just because they don't like you.
-But at CHI this last year, something like [75% of submissions got rejected][CHI acceptance rates].
-CSCW has a similar acceptance rate.
-In general, papers researchers write are rejected.
-And with those rejections usually come various lists of things that the researcher has done wrong,
-sometimes feeling like personal critiques,
-often sent by an anonymous reviewer through a faceless system.
-
-
-Grad school is also funny because the type of feedback we _do_ get seems to be curated to mess us up.
-Your advisor and others will write letters of recommendation lauding your virtues, but
-(in Computer Science and in most other fields where I've asked)
-*you're never supposed to see those letters*.
-<!-- The rationale I've heard makes enough sense, -->
-<!-- but the only other time people formally comment on your quality as a researcher -->
-<!-- is when you're submitting papers to conferences or proposals for grants. -->
-
-<!-- In both cases, reviewers tend to be anonymous, and
-in both cases, the odds of acceptance are overwhelmingly stacked against you.
-At CHI this last year, something like [75% of submissions got rejected][CHI acceptance rates]. -->
-
-So for me it's pretty salient that
-all the formally defined places where people would write or say anything good about me
-are withheld from me or at least very carefully rationed out.
-Meanwhile,
-all of the negative things get piped directly into my email inbox with the critics' names redacted.
-
-_So that's cool._
-
-<!-- So you don't get to see the _good_ things people write about you, and
-you read _negative_ feedback from anonymous sources about your work disproportionately more often than positive feedback. -->
-
-<!-- If you're a grad student and you're anything like me,
-you've probably spent a lot of time 
- -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[CHI acceptance rates]: http://dl.acm.org/citation.cfm?id=3027063&picked=prox&cfid=797910925&cftoken=10647445
+Community college wasn't much better.
