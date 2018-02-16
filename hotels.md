@@ -3,6 +3,43 @@
 I tried to select a sample of photos that gives a good impression of what the place offers, as well as provide some basic information about the place like how many people could stay there, how long it would take to get to the conference on foot, and anything else that came up in the reviews that might be relevant. If you want information along a certain dimension, or if you want me to look at more places (e.g. places with fewer than four bedrooms, or further away than the ones I have), message me on slack.
 
 
+
+## [FULL FLOOR 4BR CENTRAL OLD MONTREAL AC][fullfloor]
+![](https://a0.muscache.com/im/pictures/dcf85e02-ae86-4f77-ad5e-1c21064f4186.jpg?aki_policy=x_large)
+![](https://a0.muscache.com/im/pictures/fdcfade6-c121-429b-b71b-696373e69d37.jpg?aki_policy=x_large)
+![](https://a0.muscache.com/im/pictures/2c06bede-1380-4dac-b626-a7822776c5be.jpg?aki_policy=x_large)
+![](https://a0.muscache.com/im/pictures/03de90e2-962b-4476-80da-044c5e860acc.jpg?aki_policy=x_large)
+
+
+### basic details
+- 4 bedrooms (they push to say it can take 5 but no)
+- 3 bathrooms
+- reviews make it clear that this place is _very_ close to the conference venue
+- one of the bedrooms has a kitchenette and its own bathroom so that'll probably be for someone who doesn't want to interact much?
+
+## [Penthouse in old montreal with private Terrace][penthouse]
+![](https://a0.muscache.com/im/pictures/1e08c45e-3e32-4c8d-b2fb-b820cb211b4f.jpg?aki_policy=xx_large)
+![](https://a0.muscache.com/im/pictures/46556147-4c67-4302-8d68-34b3b7b9fd41.jpg?aki_policy=x_large)
+![](https://a0.muscache.com/im/pictures/a101d064-7fd4-4b9d-856a-405b19ae60b4.jpg?aki_policy=x_large)
+
+### basic details
+- very close to the conference center
+- NO REVIEWS COULD BE A HUGE RISKY AF PROPOSITION
+- i don't see what the room with 2 beds looks like. could be kinda bullshit
+
+## [Downtown Penthouse w/ private terrace (4 BD/3 BA)][eglise]
+![](https://a0.muscache.com/im/pictures/e572f4b6-d5b4-4b34-acb2-0155ca52fe38.jpg?aki_policy=x_large)
+![](https://a0.muscache.com/im/pictures/43f14127-0dca-4a97-8e0a-c2ba3a9f4420.jpg?aki_policy=x_large)
+![](https://a0.muscache.com/im/pictures/abb5d44b-0221-43d4-94b2-b45c08ab8557.jpg?aki_policy=x_large)
+
+### basic details
+- i think it's 3445 Hutchison St, Montreal, QC H2X 2G2, Canada
+- if i'm right, then it's a 15 minute walk to the conference center
+- 4 bedrooms (6 beds; it seems there are 2 bedrooms with 1 bed each, and 2 bedrooms with 2 beds each)
+- 3 bathrooms
+- pretty nice private rooftop terrace
+
+
 ## [Best Boutique Hotel in Montreal][bbhm]
 ![example](https://a0.muscache.com/im/pictures/c4169154-435c-4e80-a030-57a3dadf1488.jpg?aki_policy=x_large)
 ![example](https://a0.muscache.com/im/pictures/c732fcb6-cfa7-4777-8f87-01793761cdbd.jpg?aki_policy=x_large)
@@ -81,3 +118,6 @@ I tried to select a sample of photos that gives a good impression of what the pl
 [5bdrm2ba]: https://www.airbnb.com/rooms/14887773?location=palais%20montreal&guests=5&adults=5&check_in=2018-04-22&check_out=2018-04-30
 [8brdmheartdown]: https://www.airbnb.com/rooms/21147487?location=palais%20montreal&guests=5&adults=5&check_in=2018-04-22&check_out=2018-04-30
 [grand6br]: https://www.airbnb.com/rooms/17314302?location=palais%20montreal&guests=5&adults=5&check_in=2018-04-22&check_out=2018-04-28
+[eglise]: https://www.airbnb.com/rooms/16336444?location=Montreal%2C%20QC%2C%20Canada&guests=5&adults=5&check_in=2018-04-21&check_out=2018-04-28
+[fullfloor]: https://www.airbnb.com/rooms/3751930?location=Montreal%2C%20QC%2C%20Canada&guests=5&adults=5&check_in=2018-04-21&check_out=2018-04-28
+[penthouse]: https://www.airbnb.com/rooms/23185712?location=Montreal%2C%20QC%2C%20Canada&guests=5&adults=5&check_in=2018-04-21&check_out=2018-04-28
