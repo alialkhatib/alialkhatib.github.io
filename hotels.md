@@ -2,6 +2,21 @@
 
 I tried to select a sample of photos that gives a good impression of what the place offers, as well as provide some basic information about the place like how many people could stay there, how long it would take to get to the conference on foot, and anything else that came up in the reviews that might be relevant. If you want information along a certain dimension, or if you want me to look at more places (e.g. places with fewer than four bedrooms, or further away than the ones I have), message me on slack.
 
+[place][bbhm]
+
+[place][omg]
+
+[place][5bdrm2ba]
+
+[place][8brdmheartdown]
+
+[place][grand6br]
+
+[place][eglise]
+
+[place][fullfloor]
+
+[place][penthouse]
 
 
 ## [FULL FLOOR 4BR CENTRAL OLD MONTREAL AC][fullfloor]
