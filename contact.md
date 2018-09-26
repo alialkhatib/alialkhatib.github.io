@@ -14,13 +14,10 @@ I'm only saying that to make it less awkward if I don't accept your friend reque
 
 I'm sure I'm on LinkedIn, Google+, Quora, and half a dozen other sites. 
 Don't try to send messages to any of those places; I'll never see them. 
-Case in point: I recently found out I had some messages in my meetup inbox. 
-They were 765 and 803 days old, respectively. 
-**Don't send me messages on random social networking sites.**
 
 If you'd like to contact me by Google Hangouts or Skype, my accounts for both are
 
-ali.alkhatib`[at]`cs.stanford.com
+al2`[at]`cs.stanford.com
 
 Email, tweet, or somehow contact me to let me know if you plan on contacting me this way.
 I'm rarely logged in to Skype or (that particular) Google account,
