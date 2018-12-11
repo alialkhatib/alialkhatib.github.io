@@ -3,7 +3,7 @@ title: Research
 layout: longy
 ---
 
-This isn't a comprehensive list of what I've been up to; it's more of a list of highlights of some of the research I've been involved with.
+*This list might not be comprehensive*
 
 ### Street–Level Algorithms: A Theory At The Gaps Between Policy and Decisions
 Algorithms' errors and biases are earning them increasingly malignant reputations in society. But algorithms must bridge the gaps between defined policy and on–the–ground decisions, filling the gaps between explicit policies and new circumstances without clear guidance. In this paper, we draw on the theory of street–level bureaucracies: how people such as police and judges perform this task. We present by analogy a theory of the algorithms that bridge the gaps between platform policy and individual human experiences: street–level algorithms. We argue that unlike street–level bureaucrats, who refine their decision criteria as they reason through a novel situation, street–level algorithms at best refine their criteria only after the decision is made. This loop–and–a–half delay results in illogical decisions when handling new or extenuating circumstances. This suggests design implications for how street–level algorithms might better bridge the gap between policy and execution.
