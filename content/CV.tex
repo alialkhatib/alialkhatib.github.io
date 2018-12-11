@@ -10,7 +10,7 @@
 \raggedbottom
 \raggedright
 \usepackage[svgnames]{xcolor}
-\usepackage{framed,tocloft,etoolbox,enumitem,longtable}
+\usepackage{framed,tocloft,etoolbox,enumitem,longtable,makecell}
 \usepackage{titlesec}
 \usepackage[normalem]{ulem} %for \uline
 \usepackage{array, xcolor, lipsum, bibentry,needspace,changepage,fontspec}
@@ -74,12 +74,12 @@
 
 
 % \definecolor{lightgray}{gray}{0.8}
-\newcolumntype{L}{>{ \raggedleft}p{0.18\textwidth}}
-\newcolumntype{R}{p{0.78\textwidth}}
+\newcolumntype{L}{>{ \raggedleft}p{0.1\textwidth}}
+\newcolumntype{R}{p{0.9\textwidth}}
 \newcommand\VRule{~\color{lightgray}\vrule width 0.5pt~}
  
  \newcommand{\CVcite}[1]{\begin{NoHyper}\bibentry{#1}\end{NoHyper}}
- \newcommand{\HM}{\textbf{\small Honorable Mention}}
+ \newcommand{\HM}{\textbf{\small Honorable\\Mention}}
  \newcommand{\BP}{\textbf{\small Best Paper}}
 
 
@@ -120,14 +120,15 @@ PhD Student, Stanford University
 
     \begin{longtable}{L!{ \VRule\ } R}
                       & \textbf{\large Stanford University} \hfill \textit{Stanford, CA}\\[5pt]
-Sep 2014 --- present  & \textit{Ph.D. Computer Science} (in progress)\\[10pt]
+Sep 2014 to present  & \makecell[tl]{\textit{Ph.D. Computer Science} (in progress)\\
+                        (Advisor: Michael Bernstein)}\\[20pt]
 
                       & \textbf{\large University of California, Irvine} \hfill \textit{Irvine, CA}\\[5pt]
-Aug 2012 --- Jun 2014 & \textit{B.A. Anthropology}\\
-                      & Honors thesis: \citetitle{QuantifiedSelf}\\
-                      & (Advisor: Tom Boellstorff)\\[5pt]
-                      & \textit{B.S. Informatics}\\
-                      & Specialization: Human--Computer Interaction\\[5pt]
+Aug 2012 to Jun 2014 & \makecell[tl]{\textit{B.A. Anthropology}\\
+                       Honors thesis: \citetitle{QuantifiedSelf}\\
+                       (Advisor: Tom Boellstorff)}\\[30pt]
+                      & \makecell[tl]{\textit{B.S. Informatics}\\
+                      Specialization: Human--Computer Interaction}\\[20pt]
                       & \textit{Phi Beta Kappa}
 \end{longtable}
 
@@ -140,37 +141,40 @@ Aug 2012 --- Jun 2014 & \textit{B.A. Anthropology}\\
                                      & {\textbf{\large Microsoft Research}}
                                        \hfill
                                        \textit{Redmond, WA}\\[5pt]
- \mbox{Jun 2015} --- \mbox{Sep 2015} & \textit{\large FUSE Labs}\\
-                                     & Conducted study of piecework (or gig) workers\\
-                                     & Designed front--end for worker--centric labor market platform \\[10pt]
+
+\mbox{Jun 2015} to \mbox{Sep 2015} & \makecell[tl]{\textit{\large FUSE Labs}\\
+                                     Conducted study of piecework (or gig) workers\\
+                                     Designed front--end for worker--centric labor market platform}\\[30pt]
 
 
                                      & {\textbf{\large University of California, Irvine}}
                                        \hfill
                                        \textit{Irvine, CA}\\[5pt]
- \mbox{Apr 2014} --- \mbox{Jun 2014} & \textit{\large Evoke Laboratory \& Studio}\\
-                                     & Ethnographic research of values in design\\
-                                     & Assembled guide for data co--ownership\\[10pt]
 
- \mbox{Jan 2013} --- \mbox{Jun 2013} & \textit{\large Multidisciplinary Design Program} \\
-                                     & Studied use of space on campus grounds\\
-                                     & Brainstormed changes to sociofugal spaces to promote sociopetality\\[10pt]
+ \mbox{Apr 2014} to \mbox{Jun 2014} & \makecell[tl]{\textit{\large Evoke Laboratory \& Studio}\\
+                                     Ethnographic research of values in design\\
+                                     Assembled guide for data co--ownership}\\[30pt]
+
+ \mbox{Jan 2013} to \mbox{Jun 2013} & \makecell[tl]{\textit{\large Multidisciplinary Design Program} \\
+                                     Studied use of space on campus grounds\\
+                                     Brainstormed changes to sociofugal spaces to promote sociopetality}\\[30pt]
 
 
                                      & {\textbf{\large Foothill College \& Columbia University}}
                                        \hfill
                                        \textit{Cangahua, Ecuador}\\[5pt]
- \mbox{Jun 2012} --- \mbox{Aug 2012} & \textit{\large Pambamarca Archaeological Project} \\
-                                     & Mentored 20 students in ethnographic methods\\
-                                     & Administered lab artifact database consisting of more than 8000 entries
+ \mbox{Jun 2012} to \mbox{Aug 2012} & \makecell[tl]{\textit{\large Pambamarca Archaeological Project} \\
+                                     Mentored 20 students in ethnographic methods\\
+                                     Administered lab artifact database consisting of more than 8000 entries}
 \end{longtable}
 
 
 \section*{Publications}
 \begin{longtable}{L!{ \VRule\ } R}
-    \citeyear{pieceworkCrowdworkGigwork}\\ \HM & \fullcite{pieceworkCrowdworkGigwork}\\[5pt]
-    \citeyear{dynamo} \\ \HM                   & \fullcite{dynamo}\\[5pt]
-    \citeyear{QuantifiedSelf}                  & \fullcite{QuantifiedSelf}\\[5pt]
+    \textit{\footnotesize \citeyear{streetLevelAlgorithms}}           & \fullcite{streetLevelAlgorithms}\\[45pt]
+    \citeyear{pieceworkCrowdworkGigwork}\\ \HM & \fullcite{pieceworkCrowdworkGigwork}\\[45pt]
+    \makecell[tr]{\citeyear{dynamo} \\ Honorable\\Mention}    & \fullcite{dynamo}\\[45pt]
+    \citeyear{QuantifiedSelf}                  & \fullcite{QuantifiedSelf}\\[30pt]
     \citeyear{ValuesInDesign}                  & \fullcite{ValuesInDesign}
 \end{longtable}
 
@@ -193,8 +197,14 @@ Aug 2012 --- Jun 2014 & \textit{B.A. Anthropology}\\
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
   \begin{longtable}{L!{ \VRule\ } R}
+    2018 & Reviewed for CHI.
+    Glasgow, Scotland\\[5pt]
+    2017 & Reviewed for CHI.
+    Montreal, Canada\\[5pt]
     2016 & Lunch@CHI co--chair --- CHI 2016.
     San Jose, CA\\[5pt]
+    2016 & Reviewed for DIS.
+    WHERE IS DIS?\\[5pt]
     2015 & Student Volunteer --- CHI 2016 Program Committee Meeting.
     San Jose, CA
   \end{longtable}

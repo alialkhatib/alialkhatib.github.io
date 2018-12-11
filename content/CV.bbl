@@ -1,0 +1,272 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{streetLevelAlgorithms}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alkhatib},
+         familyi={A\bibinitperiod},
+         given={Ali},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BMS}{%
+         family={Bernstein},
+         familyi={B\bibinitperiod},
+         given={Michael\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \strng{namehash}{AABMS1}
+    \strng{fullhash}{AABMS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{booktitle}{Proceedings of the 2019 CHI Conference on Human Factors
+  in Computing Systems}
+    \field{series}{CHI '19}
+    \field{title}{Street–Level Algorithms: A Theory At The Gaps Between
+  Policy and Decisions}
+    \list{location}{1}{%
+      {Glasgow, Scotland}%
+    }
+    \field{year}{Forthcoming}
+    \warn{\item Can't use 'location' + 'address'}
+  \endentry
+
+  \entry{pieceworkCrowdworkGigwork}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=AA}{%
+         family={Alkhatib},
+         familyi={A\bibinitperiod},
+         given={Ali},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BMS}{%
+         family={Bernstein},
+         familyi={B\bibinitperiod},
+         given={Michael\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Levi},
+         familyi={L\bibinitperiod},
+         given={Margaret},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \strng{namehash}{AABMSLM1}
+    \strng{fullhash}{AABMSLM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{booktitle}{Proceedings of the 2017 CHI Conference on Human Factors
+  in Computing Systems}
+    \verb{doi}
+    \verb 10.1145/3025453.3025974
+    \endverb
+    \field{isbn}{978-1-4503-4655-9}
+    \field{pages}{4599\bibrangedash 4616}
+    \field{series}{CHI '17}
+    \field{title}{Examining Crowd Work and Gig Work Through The Historical Lens
+  of Piecework}
+    \verb{url}
+    \verb http://doi.acm.org/10.1145/3025453.3025974
+    \endverb
+    \field{venue}{Denver, Colorado, USA}
+    \list{location}{1}{%
+      {Denver, Colorado, USA}%
+    }
+    \field{year}{2017}
+    \warn{\item Can't use 'location' + 'address'}
+  \endentry
+
+  \entry{QuantifiedSelf}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alkhatib},
+         familyi={A\bibinitperiod},
+         given={Ali},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Boellstorff},
+         familyi={B\bibinitperiod},
+         given={Tom},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AABT1}
+    \strng{fullhash}{AABT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{booktitle}{UC Irvine Undergraduate Research Symposium}
+    \field{series}{UC Irvine Undergraduate Research Symposium}
+    \field{title}{Quantified Self: Ethnography of a Digital Culture}
+    \verb{url}
+    \verb https://ali-alkhatib.com/media/papers/quantified_self.pdf
+    \endverb
+    \field{venue}{University of California, Irvine, USA}
+    \field{year}{2014}
+  \endentry
+
+  \entry{ValuesInDesign}{inproceedings}{}
+    \name{author}{8}{}{%
+      {{hash=CE}{%
+         family={Costino},
+         familyi={C\bibinitperiod},
+         given={Erin},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Alkhatib},
+         familyi={A\bibinitperiod},
+         given={Ali},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Barsoum},
+         familyi={B\bibinitperiod},
+         given={Fady},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BI}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Ian},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=YW}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Wendy},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Bowker},
+         familyi={B\bibinitperiod},
+         given={Geoffrey},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Gregory},
+         familyi={G\bibinitperiod},
+         given={Judith},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Mazumdar},
+         familyi={M\bibinitperiod},
+         given={Sanjay},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CEAABFBIYWBGGJMS1}
+    \strng{fullhash}{CEAABFBIYWBGGJMS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{UC Irvine Undergraduate Research Symposium}
+    \field{series}{UC Irvine Undergraduate Research Symposium}
+    \field{title}{Values in Design: Designing for Hesitation and Presence}
+    \field{venue}{University of California, Irvine, USA}
+    \field{year}{2013}
+  \endentry
+
+  \entry{dynamo}{inproceedings}{}
+    \name{author}{7}{}{%
+      {{hash=SN}{%
+         family={Salehi},
+         familyi={S\bibinitperiod},
+         given={Niloufar},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=ILC}{%
+         family={Irani},
+         familyi={I\bibinitperiod},
+         given={Lilly\bibnamedelima C.},
+         giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=BMS}{%
+         family={Bernstein},
+         familyi={B\bibinitperiod},
+         given={Michael\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Alkhatib},
+         familyi={A\bibinitperiod},
+         given={Ali},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=OE}{%
+         family={Ogbe},
+         familyi={O\bibinitperiod},
+         given={Eva},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Milland},
+         familyi={M\bibinitperiod},
+         given={Kristy},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=C}{%
+         family={Clickhappier},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \keyw{activism, amazon mechanical turk, collective action, design, human
+  computation, infrastructure}
+    \strng{namehash}{SNILCBMSAAOEMKC1}
+    \strng{fullhash}{SNILCBMSAAOEMKC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Proceedings of the 33rd Annual ACM Conference on Human
+  Factors in Computing Systems}
+    \verb{doi}
+    \verb 10.1145/2702123.2702508
+    \endverb
+    \field{isbn}{978--1-4503--3145--6}
+    \field{pages}{1621\bibrangedash 1630}
+    \field{series}{CHI '15}
+    \field{title}{We Are Dynamo: Overcoming Stalling and Friction in Collective
+  Action for Crowd Workers}
+    \verb{url}
+    \verb http://doi.acm.org/10.1145/2702123.2702508
+    \endverb
+    \field{year}{2015}
+  \endentry
+\enddatalist
+\endinput
