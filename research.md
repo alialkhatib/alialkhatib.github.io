@@ -6,11 +6,15 @@ layout: longy
 *This list might not be comprehensive*
 
 ### Street–Level Algorithms: A Theory At The Gaps Between Policy and Decisions
+{: #street-level-algorithms }
+
 Algorithms' errors and biases are earning them increasingly malignant reputations in society. But algorithms must bridge the gaps between defined policy and on–the–ground decisions, filling the gaps between explicit policies and new circumstances without clear guidance. In this paper, we draw on the theory of street–level bureaucracies: how people such as police and judges perform this task. We present by analogy a theory of the algorithms that bridge the gaps between platform policy and individual human experiences: street–level algorithms. We argue that unlike street–level bureaucrats, who refine their decision criteria as they reason through a novel situation, street–level algorithms at best refine their criteria only after the decision is made. This loop–and–a–half delay results in illogical decisions when handling new or extenuating circumstances. This suggests design implications for how street–level algorithms might better bridge the gap between policy and execution.
 
 Links: Forthcoming (check back January 2019)
 
 ### Examining Crowd Work and Gig Work Through The Historical Lens of Piecework
+{: #piecework }
+
 The internet is empowering the rise of crowd work, gig work, and other forms of on–demand labor. A large and growing body of scholarship has attempted to predict the socio– technical outcomes of this shift, especially addressing three questions: 1) What are the complexity limits of on–demand work?, 2) How far can work be decomposed into smaller microtasks?, and 3) What will work and the place of work look like for workers? In this paper, we look to the historical scholarship on piecework — a similar trend of work decomposition, distribution, and payment that was popular at the turn of the 20th century — to understand how these questions might play out with modern on–demand work. We identify the mechanisms that enabled and limited piecework historically, and identify whether on–demand work faces the same pitfalls or might differentiate itself. This approach introduces theoretical grounding that can help address some of the most persistent questions in crowd work, and suggests design interventions that learn from history rather than repeat it.
 
 
@@ -46,6 +50,8 @@ Links: paper ([pdf][pieceworkPaper], *210KB*; [html][pieceworkHTML], *654KB*) & 
 
 
 ### We Are Dynamo: Overcoming Stalling and Friction in Collective Action for Crowd Workers
+{: #dynamo }
+
 By lowering the costs of communication, the web promises to enable distributed collectives to act around shared issues. However, many collective action efforts never succeed: while the web's affordances make it easy to gather, these same decentralizing characteristics impede any focus towards action. In this paper, we study challenges to collective action efforts through the lens of online labor by engaging with Amazon Mechanical Turk workers. Through a year of ethnographic fieldwork, we sought to understand online workers' unique barriers to collective action. We then created Dynamo, a platform to support the Mechanical Turk community in forming publics around issues and then mobilizing. We found that collective action publics tread a precariously narrow path between the twin perils of stalling and friction, balancing with each step between losing momentum and flaring into acrimony. However, specially structured labor to maintain efforts' forward motion can
 help such publics take action.
 
@@ -81,6 +87,8 @@ help such publics take action.
 Links: paper ([pdf][DynamoPaper]) & live ([website][DynamoSite])
 
 ### Quantified Self: Ethnography of a Digital Culture
+{: #quantified-self }
+
 The term "Quantified Self" refers to people who track, measure, and analyze qualitative experiences using quantitative means. While various endeavors to monitor and track the self have existed throughout history, "Quantified Self" in modern contexts refers to a form of automated self-tracking that has emerged in the last decade as a recognizable subculture defined by shared practices and worldviews. Many of these metrics are defined by affordances made and indeed popularized by technologies in wearable self-tracking in recent years, rather than the areas of interest held by the community itself. This ethnographic study surveys the Quantified Self culture to investigate the motivation of "Quantified Selfers" to track and measure their lives. From a literature review spanning historical and contemporary sources as well as participant observation, this research makes three findings: first, that lifelogging and self-tracking, deeply interconnected with one another, owe more to historical cultures than previously imagined; second, that self quantification provides introspective reflection and insight on the self; third, that incongruence between the Quantified Self culture and mainstream culture on numerous issues problematize the adoption of self-quantification technologies by those in the mainstream.
 
 <div class="row">
