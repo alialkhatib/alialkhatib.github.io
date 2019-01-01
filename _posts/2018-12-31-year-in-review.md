@@ -89,4 +89,4 @@ So that's my year in review. Maybe I'll do this again next year (probably not). 
 
 
 [i kept receipts]: https://open.spotify.com/track/2e4gRr0U1QOeFXb9a45Ool?si=K2lG9kGbRp-3BbG6DLNp8w
-[yearly theme]: https://www.youtube.com/watch?v=jUshrn81wCw&feature=youtu.be
+[yearly themes]: https://www.youtube.com/watch?v=jUshrn81wCw&feature=youtu.be
