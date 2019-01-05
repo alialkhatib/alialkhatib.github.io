@@ -1,5 +1,5 @@
 ---
-title: Books
+title: Coffee shops in SF with windows overlooking the sidewalk
 layout: longy
 ---
 
