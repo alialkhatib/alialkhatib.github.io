@@ -35,3 +35,9 @@ navigation:
 
 gems:
   - jekyll-redirect-from
+
+
+collections:
+  books:
+    output: true
+    permalink: /books/:name
