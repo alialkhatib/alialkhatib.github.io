@@ -8,9 +8,35 @@ layout: longy
 ### Street–Level Algorithms: A Theory At The Gaps Between Policy and Decisions
 {: #street-level-algorithms }
 
-Algorithms' errors and biases are earning them increasingly malignant reputations in society. But algorithms must bridge the gaps between defined policy and on–the–ground decisions, filling the gaps between explicit policies and new circumstances without clear guidance. In this paper, we draw on the theory of street–level bureaucracies: how people such as police and judges perform this task. We present by analogy a theory of the algorithms that bridge the gaps between platform policy and individual human experiences: street–level algorithms. We argue that unlike street–level bureaucrats, who refine their decision criteria as they reason through a novel situation, street–level algorithms at best refine their criteria only after the decision is made. This loop–and–a–half delay results in illogical decisions when handling new or extenuating circumstances. This suggests design implications for how street–level algorithms might better bridge the gap between policy and execution.
+Errors and biases are earning algorithms increasingly malignant reputations in society. A central challenge is that algorithms must bridge the gap between high–level policy and on–the–ground decisions, making inferences in novel situations where the policy or training data do not readily apply. In this paper, we draw on the theory of _street–level bureaucracies_, how human bureaucrats such as police and judges interpret policy to make on–the–ground decisions. We present by analogy a theory of _street–level algorithms_, the algorithms that bridge the gaps between policy and decisions about people in a socio-technical system. We argue that unlike street–level bureaucrats, who reflexively refine their decision criteria as they reason through a novel situation, street–level algorithms at best refine their criteria only after the decision is made. This loop–and–a–half delay results in illogical decisions when handling new or extenuating circumstances. This theory suggests designs for street–level algorithms that draw on historical design patterns for street– level bureaucracies, including mechanisms for self–policing and recourse in the case of error.
 
-Links: Forthcoming (check back January 2019)
+Links: paper ([pdf][streetlevelalgosPaper], *size*;); check back for presentation slides in May 2019
+
+<div class="row">
+  <div class="col-lg-8 col-sm-12">
+<textarea readonly class="form-control" rows="5" id="streetlevelalgos"  style="font-family:monospace;font-size:9px;resize:none;">
+@inproceedings{streetLevelAlgorithms,
+    author = {Alkhatib, Ali and Bernstein, Michael S.},
+    title = {Street–Level Algorithms: A Theory At The Gaps Between Policy and Decisions},
+    booktitle = {Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems},
+    series = {CHI '19},
+    year = {2019},
+    isbn = {978-1-4503-4655-9},
+    location = {Glasgow, Scotland},
+    numpages = {13},
+    url = {https://doi.org/10.1145/3290605.3300760},
+    doi = {10.1145/3290605.3300760},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+}</textarea>
+</div>
+<div class="col-lg-4 col-sm-12">
+<button class="btn btn-lg btn-primary citations btn-block" data-clipboard-target="#streetlevelalgos">
+  <!-- <img src="//cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/clippy.svg" alt="Copy to clipboard"> -->
+  copy bibtex citation
+</button>
+</div>
+</div>
 
 ### Examining Crowd Work and Gig Work Through The Historical Lens of Piecework
 {: #piecework }
@@ -18,7 +44,7 @@ Links: Forthcoming (check back January 2019)
 The internet is empowering the rise of crowd work, gig work, and other forms of on–demand labor. A large and growing body of scholarship has attempted to predict the socio– technical outcomes of this shift, especially addressing three questions: 1) What are the complexity limits of on–demand work?, 2) How far can work be decomposed into smaller microtasks?, and 3) What will work and the place of work look like for workers? In this paper, we look to the historical scholarship on piecework — a similar trend of work decomposition, distribution, and payment that was popular at the turn of the 20th century — to understand how these questions might play out with modern on–demand work. We identify the mechanisms that enabled and limited piecework historically, and identify whether on–demand work faces the same pitfalls or might differentiate itself. This approach introduces theoretical grounding that can help address some of the most persistent questions in crowd work, and suggests design interventions that learn from history rather than repeat it.
 
 
-Links: paper ([pdf][pieceworkPaper], *210KB*; [html][pieceworkHTML], *654KB*) & presentation ([pdf][pieceworkPresentation], *17.9MB*)
+Links: paper ([pdf][pieceworkPaper], *210KB*) & presentation ([pdf][pieceworkPresentation], *17.9MB*)
 
 <div class="row">
   <div class="col-lg-8 col-sm-12">
@@ -120,6 +146,7 @@ window.onload=function(){
 </script>
 
 
+[streetlevelalgosPaper]: /papers/chi/street-level_algorithms/street-level_algorithms.pdf
 [pieceworkPaper]: /papers/chi/piecework/pn4226.pdf
 [pieceworkHTML]: /papers/chi/piecework/pn4226.html
 [pieceworkPresentation]: /papers/chi/piecework/presentation/presentation.pdf
