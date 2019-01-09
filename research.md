@@ -10,7 +10,7 @@ layout: longy
 
 Errors and biases are earning algorithms increasingly malignant reputations in society. A central challenge is that algorithms must bridge the gap between high–level policy and on–the–ground decisions, making inferences in novel situations where the policy or training data do not readily apply. In this paper, we draw on the theory of _street–level bureaucracies_, how human bureaucrats such as police and judges interpret policy to make on–the–ground decisions. We present by analogy a theory of _street–level algorithms_, the algorithms that bridge the gaps between policy and decisions about people in a socio-technical system. We argue that unlike street–level bureaucrats, who reflexively refine their decision criteria as they reason through a novel situation, street–level algorithms at best refine their criteria only after the decision is made. This loop–and–a–half delay results in illogical decisions when handling new or extenuating circumstances. This theory suggests designs for street–level algorithms that draw on historical design patterns for street– level bureaucracies, including mechanisms for self–policing and recourse in the case of error.
 
-Links: paper ([pdf][streetlevelalgosPaper], *size*;); check back for presentation slides in May 2019
+Links: paper ([pdf][streetlevelalgosPaper]); check back for presentation slides in May 2019
 
 <div class="row">
   <div class="col-lg-8 col-sm-12">
@@ -44,7 +44,7 @@ Links: paper ([pdf][streetlevelalgosPaper], *size*;); check back for presentatio
 The internet is empowering the rise of crowd work, gig work, and other forms of on–demand labor. A large and growing body of scholarship has attempted to predict the socio– technical outcomes of this shift, especially addressing three questions: 1) What are the complexity limits of on–demand work?, 2) How far can work be decomposed into smaller microtasks?, and 3) What will work and the place of work look like for workers? In this paper, we look to the historical scholarship on piecework — a similar trend of work decomposition, distribution, and payment that was popular at the turn of the 20th century — to understand how these questions might play out with modern on–demand work. We identify the mechanisms that enabled and limited piecework historically, and identify whether on–demand work faces the same pitfalls or might differentiate itself. This approach introduces theoretical grounding that can help address some of the most persistent questions in crowd work, and suggests design interventions that learn from history rather than repeat it.
 
 
-Links: paper ([pdf][pieceworkPaper], *210KB*) & presentation ([pdf][pieceworkPresentation], *17.9MB*)
+Links: paper ([pdf][pieceworkPaper]) & presentation ([pdf][pieceworkPresentation])
 
 <div class="row">
   <div class="col-lg-8 col-sm-12">
