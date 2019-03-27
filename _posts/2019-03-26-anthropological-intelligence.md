@@ -25,6 +25,8 @@ What's the point of digging into this one anecdote, if  it was meant as little m
 
 
 > ... researchers are encouraged to take their privileges for granted, even to the point where these become invisible [...] ignor[ing] how much labor is done for them, labor that allows them to be flexible, self-­determining, and independent.
+> 
+> _- [Helmreich 1999][]_
 
 James goes on to write about Engelbart's "[mother of all demos][]" in 1968, the introduction of something like half a dozen features of modern computing that we use every day: text editing (including the ability to copy/paste), a computer mouse, a graphical user interface, dynamic reorganizations of data, hyperlinks, real-time group editing (think Google Docs), video conferencing, the forerunner to the internet, the list goes on. What he doesn't write about - what few of us talk about - is the funding the Stanford Research Institute got from the Department of Defense, the role the DoD played in the development of the internet and of Silicon Valley itself, and the uncomfortable readiness with which we collaborate with power. We're shaping our work toward the interests of organizations - interests that are at best neutral and at worst in opposition toward the interests of the public.
 
@@ -32,6 +34,8 @@ John Gledhill wrote about the work of political anthropologists in the 1940s and
 
 
 > the cruelty and everyday violence of our world is the result of dominant people and institutions abusing the kind of people [we] habitually study.
+> 
+> _- [Gledhill 2000][]_
 
 One of the most frustrating aspects of human-computer interaction isn't the common refrain that we haven't yet settled on a definitive core body of work that every practitioner should know. That would at least be a tractable problem. It's that we're not all on the same page about important facts about the origin of our field. For some people, Engelbart's demonstration was a singular vision of the future of computing; for others, it was the product of more than a decade of very carefully managed and guided work leading up to that point.
 
@@ -79,6 +83,9 @@ Second, the question remains of what you can do. I have some thoughts on that:
 
 
 
+---
+
+Several people gave incredibly thoughtful, detailed feedback on this back when it was just an angry note in a google doc. I'm not going to name you, but you know how much worse this would've been if 
 
 
 [institute for human-centered artificial intelligence]: https://hai.stanford.edu/
@@ -104,3 +111,4 @@ Second, the question remains of what you can do. I have some thoughts on that:
 [the negligent handling of private data]: http://fortune.com/2018/09/07/equifax-data-breach-one-year-anniversary/
 [Association of Computing Machinery's code of ethics]: https://www.acm.org/code-of-ethics
 [Black in AI]: https://blackinai.github.io/
+[Helmreich 1999]: https://www.ucpress.edu/book/9780520208001/silicon-second-nature
