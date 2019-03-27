@@ -18,47 +18,47 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: CV-blx.bib
 Database file #2: references.bib
-Biblatex version: 3.8
+Biblatex version: 3.11
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 6 entries,
-            6268 wiz_defined-function locations,
-            1224 strings with 10213 characters,
-and the built_in function-call counts, 42566 in all, are:
-= -- 2918
-> -- 1033
+            6304 wiz_defined-function locations,
+            1231 strings with 10377 characters,
+and the built_in function-call counts, 47193 in all, are:
+= -- 3396
+> -- 1039
 < -- 255
-+ -- 1277
-- -- 488
-* -- 3547
-:= -- 4718
++ -- 1367
+- -- 490
+* -- 3850
+:= -- 5571
 add.period$ -- 0
 call.type$ -- 6
 change.case$ -- 94
-chr.to.int$ -- 34
+chr.to.int$ -- 38
 cite$ -- 10
-duplicate$ -- 4347
-empty$ -- 3472
+duplicate$ -- 4691
+empty$ -- 3837
 format.name$ -- 579
-if$ -- 8609
+if$ -- 9455
 int.to.chr$ -- 0
 int.to.str$ -- 15
 missing$ -- 0
 newline$ -- 265
 num.names$ -- 264
-pop$ -- 1834
+pop$ -- 1918
 preamble$ -- 1
 purify$ -- 155
 quote$ -- 0
-skip$ -- 1272
+skip$ -- 1254
 stack$ -- 0
-substring$ -- 5033
+substring$ -- 6122
 swap$ -- 1070
-text.length$ -- 241
+text.length$ -- 243
 text.prefix$ -- 5
 top$ -- 1
 type$ -- 192
 warning$ -- 0
-while$ -- 571
+while$ -- 750
 width$ -- 0
 write$ -- 260

@@ -180,9 +180,6 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
-    jekyll_github_sample (0.3.1)
-      activesupport (~> 4.0)
-      jekyll (~> 3.0)
     jemoji (0.8.1)
       activesupport (~> 4.0, >= 4.2.9)
       gemoji (~> 3.0)
@@ -237,7 +234,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll_github_sample
 
 BUNDLED WITH
    1.16.6

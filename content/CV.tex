@@ -10,10 +10,11 @@
 \raggedbottom
 \raggedright
 \usepackage[svgnames]{xcolor}
-\usepackage{framed,tocloft,etoolbox,enumitem,longtable,makecell}
+% \usepackage{showframe}
+\usepackage{framed,tocloft,etoolbox,enumitem,longtable,makecell,bibentry}
 \usepackage{titlesec}
 \usepackage[normalem]{ulem} %for \uline
-\usepackage{array, xcolor, lipsum, bibentry,needspace,changepage,fontspec}
+\usepackage{array, lipsum,needspace,changepage,fontspec}
 \defaultfontfeatures{Ligatures=TeX}
 \setmainfont{SourceSansPro}
 \setmonofont{SourceCodePro}
@@ -24,7 +25,7 @@
 \hypersetup{colorlinks,urlcolor=blue}
 \usepackage[margin=3cm]{geometry}
 
-\titleformat{\section}{\Large\bfseries}{{\thesection}}{0pt}{\Large\bfseries}[\titlerule]
+\titleformat{\section}{\Large\bfseries}{{\thesection}}{0pt}{\Large\bfseries}[]
 \titleformat{\subsection}{\large}{{\thesubsection}}{0pt}{\large}
 \titleformat{\subsubsection}{\itshape}{{\thesubsubsection}}{0pt}{\itshape}
 
@@ -40,6 +41,8 @@
 }
 
 
+
+
 \newcommand{\workLocation}[2]{
   \subsection*{\textbf{#1}\hfill{\normalsize#2}}
 }
@@ -50,21 +53,37 @@
   #1 --- #2
 }
 
-\newcommand{\makeauthorbold}[1]{%
-  \DeclareNameFormat{author}{%
-    \ifthenelse{\value{listcount}=1}
-    {%
-      {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\namepartfamily\addcomma\addspace \namepartgiveni}}{\namepartfamily\addcomma\addspace \namepartgiveni}}
-      %
-    }{\ifnumless{\value{listcount}}{\value{liststop}}
-        {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni}}{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni}}
-        {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni\addcomma\isdot}}{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni\addcomma\isdot}}%
-      }
-    \ifthenelse{\value{listcount}<\value{liststop}}
-    {\addcomma\space}
-  }
+\def\makenamesetup{%
+  \def\bibnamedelima{~}%
+  \def\bibnamedelimb{ }%
+  \def\bibnamedelimc{ }%
+  \def\bibnamedelimd{ }%
+  \def\bibnamedelimi{ }%
+  \def\bibinitperiod{.}%
+  \def\bibinitdelim{~}%
+  \def\bibinithyphendelim{.-}}    
+\newcommand*{\makename}[2]{\begingroup\makenamesetup\xdef#1{#2}\endgroup}
+
+\newcommand*{\boldname}[3]{%
+  \def\lastname{#1}%
+  \def\firstname{#2}%
+  \def\firstinit{#3}}
+\boldname{}{}{}
+% Patch new definitions
+\renewcommand{\mkbibnamegiven}[1]{%
+  \makename{\currname}{#1}%
+  \makename{\findname}{\firstname}%
+  \makename{\findinit}{\firstinit}%
+  \ifboolexpr{ test {\ifdefequal{\currname}{\findname}}%
+    or test {\ifdefequal{\currname}{\findinit}} }%
+  {\mkbibbold{#1}}{#1}%
 }
-\makeauthorbold{Alkhatib}
+\renewcommand{\mkbibnamefamily}[1]{%
+  \makename{\currname}{#1}%
+  \makename{\findname}{\lastname}%
+  \ifboolexpr{ test {\ifdefequal{\currname}{\findname}} }%
+  {\mkbibbold{#1}}{#1}%
+}
 
 
 
@@ -101,6 +120,7 @@
 
 \begin{document}
 
+\boldname{Alkhatib}{Ali}{}
 
 \textbf{{\Huge Ali Alkhatib} \hfill Contact Information}
 
@@ -113,6 +133,8 @@ PhD Student, Stanford University
 \hfill
 % \href{https://ali-alkhatib.com}{https://ali-alkhatib.com}
 \url{https://ali-alkhatib.com}
+
+
 
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \section*{Education}
@@ -170,11 +192,12 @@ Aug 2012 to Jun 2014 & \makecell[tl]{\textit{B.A. Anthropology}\\
 
 
 \section*{Publications}
+
 \begin{longtable}{L!{ \VRule\ } R}
-    \textit{\footnotesize \citeyear{streetLevelAlgorithms}}           & \fullcite{streetLevelAlgorithms}\\[45pt]
-    \citeyear{pieceworkCrowdworkGigwork}\\ \HM & \fullcite{pieceworkCrowdworkGigwork}\\[45pt]
-    \makecell[tr]{\citeyear{dynamo} \\ Honorable\\Mention}    & \fullcite{dynamo}\\[45pt]
-    \citeyear{QuantifiedSelf}                  & \fullcite{QuantifiedSelf}\\[30pt]
+    \citeyear{streetLevelAlgorithms}\\     \BP & \fullcite{streetLevelAlgorithms}\\
+    \citeyear{pieceworkCrowdworkGigwork}\\ \HM & \fullcite{pieceworkCrowdworkGigwork}\\
+    \citeyear{dynamo}\\                    \HM & \fullcite{dynamo}\\
+    \citeyear{QuantifiedSelf}                  & \fullcite{QuantifiedSelf}\\
     \citeyear{ValuesInDesign}                  & \fullcite{ValuesInDesign}
 \end{longtable}
 
@@ -196,17 +219,14 @@ Aug 2012 to Jun 2014 & \makecell[tl]{\textit{B.A. Anthropology}\\
   \section*{Service}
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-  \begin{longtable}{L!{ \VRule\ } R}
-    2018 & Reviewed for CHI.
-    Glasgow, Scotland\\[5pt]
-    2017 & Reviewed for CHI.
-    Montreal, Canada\\[5pt]
-    2016 & Lunch@CHI co--chair --- CHI 2016.
-    San Jose, CA\\[5pt]
-    2016 & Reviewed for DIS.
-    WHERE IS DIS?\\[5pt]
-    2015 & Student Volunteer --- CHI 2016 Program Committee Meeting.
-    San Jose, CA
+  \begin{longtable}[l]{L!{ \VRule\ } R}
+  % \begin{longtable}[l]{lp{2cm}lp{10cm}lp{2cm}}
+    2018 & Reviewed for CHI. \hfill \footnotesize{\itshape Glasgow, Scotland}\\[5pt]
+    2017 & Reviewed for CSCW. \hfill \footnotesize{\itshape New York, New York}\\[5pt]
+    2017 & Reviewed for CHI. \hfill \footnotesize{\itshape Montreal, Canada}\\[5pt]
+    2017 & Reviewed for DIS.\\[5pt]
+    2016 & Lunch@CHI co--chair --- CHI 2016. \hfill \footnotesize{\itshape San Jose, CA}\\[5pt]
+    2015 & Student Volunteer --- CHI 2016 Program Committee Meeting. \hfill \footnotesize{\itshape San Jose, CA}
   \end{longtable}
 
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
