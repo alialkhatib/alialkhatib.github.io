@@ -83,10 +83,6 @@ Second, the question remains of what you can do. I have some thoughts on that:
 
 
 
----
-
-Several people gave incredibly thoughtful, detailed feedback on this back when it was just an angry note in a google doc. I'm not going to name you, but you know how much worse this would've been if 
-
 
 [institute for human-centered artificial intelligence]: https://hai.stanford.edu/
 [James Landay posted about the roles AI could play in society, and the importance of exploring smart interfaces]: https://hai.stanford.edu/news/smart-interfaces-human-centered-ai
