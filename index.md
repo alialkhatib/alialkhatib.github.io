@@ -1,6 +1,14 @@
 ---
 layout: home
 ---
+
+### TRAVEL NEWS
+{: style="color:red"}
+
+**I'll be less responsive than usual until after CHI 2019 (specifically May 9).**
+
+---
+
 Hi, that's me.
 
 I'm a PhD student in the Computer Science department at Stanford University,
@@ -32,6 +40,7 @@ If this isn't enough info, click on some links floating around this text in vari
 [fuseblogpost]: http://blog.fuselabs.org/post/125185306896/worker-centric-labor-markets
 [PC]: http://platformcoop.net/
 [contact]: /contact
+[twitter]: https://twitter.com/_alialkhatib
 [PCTalkPDF]: /media/presentations/PlatformCooperativism.pdf
 [PCTalkLaTeX]: /media/presentations/PlatformCooperativism.tex
 [PCTalk]: http://livestream.com/internetsociety/platformcoop/videos/104467678
