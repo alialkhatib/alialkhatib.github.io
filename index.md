@@ -7,7 +7,12 @@ layout: home
 
 **I'll be less responsive than usual until after CHI 2019 (specifically May 9).**
 
+Also, if you're looking for my talk slides from CHI 2019 (street-level algorithms), you can find them [here][sla_presentation]
+
+
 ---
+
+
 
 Hi, that's me.
 
@@ -45,3 +50,4 @@ If this isn't enough info, click on some links floating around this text in vari
 [PCTalkLaTeX]: /media/presentations/PlatformCooperativism.tex
 [PCTalk]: http://livestream.com/internetsociety/platformcoop/videos/104467678
 [CHI]: https://chi2017.acm.org
+[sla_presentation]: //al2.in/street
