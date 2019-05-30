@@ -2,17 +2,9 @@
 layout: home
 ---
 
-### TRAVEL NEWS
-{: style="color:red"}
-
-**I'll be less responsive than usual until after CHI 2019 (specifically May 9).**
-
-Also, if you're looking for my talk slides from CHI 2019 (street-level algorithms), you can find them [here][sla_presentation]
-
+##### _If you're looking for my talk slides from CHI 2019 (street-level algorithms), you can find them [here][sla_presentation]_
 
 ---
-
-
 
 Hi, that's me.
 
