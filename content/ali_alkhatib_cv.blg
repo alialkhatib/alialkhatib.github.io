@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: CV.aux
+The top-level auxiliary file: ali_alkhatib_cv.aux
 The style file: biblatex.bst
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
@@ -16,49 +16,49 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Database file #1: CV-blx.bib
+Database file #1: ali_alkhatib_cv-blx.bib
 Database file #2: references.bib
 Biblatex version: 3.11
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 6 entries,
             6304 wiz_defined-function locations,
-            1231 strings with 10377 characters,
-and the built_in function-call counts, 47193 in all, are:
-= -- 3396
-> -- 1039
-< -- 255
-+ -- 1367
-- -- 490
-* -- 3850
-:= -- 5571
+            1236 strings with 10587 characters,
+and the built_in function-call counts, 46777 in all, are:
+= -- 3336
+> -- 1042
+< -- 258
++ -- 1368
+- -- 494
+* -- 3808
+:= -- 5506
 add.period$ -- 0
 call.type$ -- 6
-change.case$ -- 94
+change.case$ -- 97
 chr.to.int$ -- 38
 cite$ -- 10
-duplicate$ -- 4691
-empty$ -- 3837
+duplicate$ -- 4717
+empty$ -- 3791
 format.name$ -- 579
-if$ -- 9455
+if$ -- 9356
 int.to.chr$ -- 0
 int.to.str$ -- 15
 missing$ -- 0
-newline$ -- 265
-num.names$ -- 264
-pop$ -- 1918
+newline$ -- 274
+num.names$ -- 267
+pop$ -- 1910
 preamble$ -- 1
-purify$ -- 155
+purify$ -- 158
 quote$ -- 0
-skip$ -- 1254
+skip$ -- 1262
 stack$ -- 0
-substring$ -- 6122
-swap$ -- 1070
+substring$ -- 5923
+swap$ -- 1097
 text.length$ -- 243
 text.prefix$ -- 5
 top$ -- 1
 type$ -- 192
 warning$ -- 0
-while$ -- 750
+while$ -- 754
 width$ -- 0
-write$ -- 260
+write$ -- 269

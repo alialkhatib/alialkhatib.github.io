@@ -25,29 +25,39 @@
          given={Ali},
          giveni={A\bibinitperiod},
       }}%
-      {{hash=BMS}{%
+      {{hash=BM}{%
          family={Bernstein},
          familyi={B\bibinitperiod},
-         given={Michael\bibnamedelima S.},
-         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
       }}%
     }
     \list{publisher}{1}{%
       {ACM}%
     }
-    \strng{namehash}{AABMS1}
-    \strng{fullhash}{AABMS1}
+    \keyw{artificial intelligence, street-level algorithms, street-level
+  bureaucracies}
+    \strng{namehash}{AABM1}
+    \strng{fullhash}{AABM1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{A}
     \field{sortinithash}{A}
     \field{booktitle}{Proceedings of the 2019 CHI Conference on Human Factors
   in Computing Systems}
+    \verb{doi}
+    \verb 10.1145/3290605.3300760
+    \endverb
+    \field{isbn}{978-1-4503-5970-2}
+    \field{pages}{530:1\bibrangedash 530:13}
     \field{series}{CHI '19}
-    \field{title}{Street-Level Algorithms: A Theory At The Gaps Between Policy
+    \field{title}{Street-Level Algorithms: A Theory at the Gaps Between Policy
   and Decisions}
+    \verb{url}
+    \verb http://doi.acm.org/10.1145/3290605.3300760
+    \endverb
     \list{location}{1}{%
-      {Glasgow, Scotland}%
+      {Glasgow, Scotland UK}%
     }
     \field{year}{2019}
     \warn{\item Can't use 'location' + 'address'}

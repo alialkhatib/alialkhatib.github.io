@@ -31,7 +31,7 @@ navigation:
     - title: contact
       link: /contact
     - title: CV
-      link: /content/CV.pdf
+      link: /content/ali_alkhatib_cv.pdf
 
 gems:
   - jekyll-redirect-from

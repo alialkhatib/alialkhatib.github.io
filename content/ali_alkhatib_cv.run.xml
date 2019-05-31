@@ -44,11 +44,11 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>CV.aux</file>
-      <file>CV-blx.bib</file>
+      <file>ali_alkhatib_cv.aux</file>
+      <file>ali_alkhatib_cv-blx.bib</file>
     </provides>
     <requires type="dynamic">
-      <file>CV.bbl</file>
+      <file>ali_alkhatib_cv.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -69,20 +69,20 @@
     <cmdline>
       <binary>bibtex</binary>
       <option>-min-crossrefs 2</option>
-      <infile>CV</infile>
+      <infile>ali_alkhatib_cv</infile>
     </cmdline>
     <input>
-      <file>CV.aux</file>
+      <file>ali_alkhatib_cv.aux</file>
     </input>
     <output>
-      <file>CV.bbl</file>
+      <file>ali_alkhatib_cv.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>CV.bbl</file>
+      <file>ali_alkhatib_cv.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>CV.aux</file>
-      <file>CV-blx.bib</file>
+      <file>ali_alkhatib_cv.aux</file>
+      <file>ali_alkhatib_cv-blx.bib</file>
     </requires>
     <requires type="editable">
       <file>references.bib</file>
