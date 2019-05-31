@@ -10,25 +10,29 @@ layout: longy
 
 Errors and biases are earning algorithms increasingly malignant reputations in society. A central challenge is that algorithms must bridge the gap between high–level policy and on–the–ground decisions, making inferences in novel situations where the policy or training data do not readily apply. In this paper, we draw on the theory of _street–level bureaucracies_, how human bureaucrats such as police and judges interpret policy to make on–the–ground decisions. We present by analogy a theory of _street–level algorithms_, the algorithms that bridge the gaps between policy and decisions about people in a socio-technical system. We argue that unlike street–level bureaucrats, who reflexively refine their decision criteria as they reason through a novel situation, street–level algorithms at best refine their criteria only after the decision is made. This loop–and–a–half delay results in illogical decisions when handling new or extenuating circumstances. This theory suggests designs for street–level algorithms that draw on historical design patterns for street– level bureaucracies, including mechanisms for self–policing and recourse in the case of error.
 
-Links: paper ([pdf][streetlevelalgosPaper]); check back for presentation slides in May 2019
+Links: paper ([pdf][streetlevelalgosPaper]) & presentation ([pdf][streetlevelalgosPresentation])
 
 <div class="row">
   <div class="col-lg-8 col-sm-12">
 <textarea readonly class="form-control" rows="5" id="streetlevelalgos"  style="font-family:monospace;font-size:9px;resize:none;">
-@inproceedings{streetLevelAlgorithms,
-    author = {Alkhatib, Ali and Bernstein, Michael S.},
-    title = {Street–Level Algorithms: A Theory At The Gaps Between Policy and Decisions},
+@inproceedings{Alkhatib:2019:SAT:3290605.3300760,
+    author = {Alkhatib, Ali and Bernstein, Michael},
+    title = {Street-Level Algorithms: A Theory at the Gaps Between Policy and Decisions},
     booktitle = {Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems},
     series = {CHI '19},
     year = {2019},
-    isbn = {978-1-4503-4655-9},
-    location = {Glasgow, Scotland},
+    isbn = {978-1-4503-5970-2},
+    location = {Glasgow, Scotland Uk},
+    pages = {530:1--530:13},
+    articleno = {530},
     numpages = {13},
-    url = {https://doi.org/10.1145/3290605.3300760},
+    url = {http://doi.acm.org/10.1145/3290605.3300760},
     doi = {10.1145/3290605.3300760},
+    acmid = {3300760},
     publisher = {ACM},
     address = {New York, NY, USA},
-}</textarea>
+    keywords = {artificial intelligence, street-level algorithms, street-level bureaucracies},
+} </textarea>
 </div>
 <div class="col-lg-4 col-sm-12">
 <button class="btn btn-lg btn-primary citations btn-block" data-clipboard-target="#streetlevelalgos">
@@ -146,6 +150,7 @@ window.onload=function(){
 </script>
 
 
+[streetlevelalgosPresentation]: /papers/chi/street-level_algorithms/presentation/presentation.pdf
 [streetlevelalgosPaper]: /papers/chi/street-level_algorithms/street-level_algorithms.pdf
 [pieceworkPaper]: /papers/chi/piecework/pn4226.pdf
 [pieceworkHTML]: /papers/chi/piecework/pn4226.html
