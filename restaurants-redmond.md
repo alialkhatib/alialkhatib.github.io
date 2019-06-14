@@ -3,7 +3,7 @@ title: Some Restaurants in Redmond
 layout: longy
 ---
 
-# Some Restaurants in Redmond
+### Some Restaurants in Redmond
 
 - [tian tian noodles][tian] - **chinese noodles** 1km
 ![](https://s3-media4.fl.yelpcdn.com/bphoto/rcO6C0MSseM-k1ALSMvhgg/o.jpg)
