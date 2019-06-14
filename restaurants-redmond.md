@@ -3,45 +3,58 @@ title: Some Restaurants in Redmond
 layout: longy
 ---
 
-### Some Restaurants in Redmond
+## Some Restaurants in Redmond
 
-- [tian tian noodles][tian] - **chinese noodles** 1km
+### [tian tian noodles][tian] - **chinese noodles** 1km
+
 ![](https://s3-media4.fl.yelpcdn.com/bphoto/rcO6C0MSseM-k1ALSMvhgg/o.jpg)
 
-- [noodle land][noodle] - **thai noodles** 1km
+### [noodle land][noodle] - **thai noodles** 1km
+
 ![](https://s3-media4.fl.yelpcdn.com/bphoto/q8ni3oOqsG3JsB5o0MgilQ/o.jpg)
 
-- [stone korean][stone] - **korean** 1.5km
+### [stone korean][stone] - **korean** 1.5km
+
 ![](https://s3-media2.fl.yelpcdn.com/bphoto/p_f2EmqN0i3XNizv8DJIUw/o.jpg)
 
-- [just poke][just] - **poke** 1km
+### [just poke][just] - **poke** 1km
+
 ![](https://s3-media2.fl.yelpcdn.com/bphoto/Tg_Yfig5jQQOtkGY8qePkA/o.jpg)
 
-- [kanishka cuisine][kanishka] - **indian** 1km
+### [kanishka cuisine][kanishka] - **indian** 1km
+
 ![](https://s3-media1.fl.yelpcdn.com/bphoto/jOqv2uvpg2HDLspazoEpng/o.jpg)
 
-- [haiku sushi & seafood][haiku] - **sushi** 1km
+### [haiku sushi & seafood][haiku] - **sushi** 1km
+
 ![](https://s3-media3.fl.yelpcdn.com/bphoto/x4as-DWwpCHuJOH6GKZUgQ/o.jpg)
 
-- [thai 65 cafe][thai] - **thai** 1.5km
+### [thai 65 cafe][thai] - **thai** 1.5km
+
 ![](https://s3-media3.fl.yelpcdn.com/bphoto/J3ofi7ELPJbWIhiiu_M_9A/o.jpg)
 
-- [joys asian][joys] - **chinese** 0.5km
+### [joys asian][joys] - **chinese** 0.5km
+
 ![](https://s3-media2.fl.yelpcdn.com/bphoto/F-RLXWAig-QsFGiirsu5uA/o.jpg)
 
-- [spark pizza][spark] - **pizza** 0.5km
+### [spark pizza][spark] - **pizza** 0.5km
+
 ![](https://s3-media2.fl.yelpcdn.com/bphoto/j0HEn-dHUluGnNXiRoqpgA/o.jpg)
 
-- [Dough Zone Dumpling House][Dough] - **dim sum** 1.5km
+### [Dough Zone Dumpling House][Dough] - **dim sum** 1.5km
+
 ![](https://s3-media2.fl.yelpcdn.com/bphoto/HGKLT-b-k0nUDLxKM61mYA/o.jpg)
 
-- [Ironsteak][Ironsteak] - **steakhouse/teppanyaki** 1km
+### [Ironsteak][Ironsteak] - **steakhouse/teppanyaki** 1km
+
 ![](https://s3-media4.fl.yelpcdn.com/bphoto/mMgxOzUembkfhKIF6IW5lw/o.jpg)
 
-- [Bangkok Basil][Bangkok] - **thai** 1km
+### [Bangkok Basil][Bangkok] - **thai** 1km
+
 ![](https://s3-media4.fl.yelpcdn.com/bphoto/Z7-2DQ4Pm9EPXGdS_pReMw/o.jpg)
 
-- [Sunny Teriyaki][Sunny] - **japanese/chinese** 1.5km
+### [Sunny Teriyaki][Sunny] - **japanese/chinese** 1.5km
+
 ![](https://s3-media1.fl.yelpcdn.com/bphoto/v5rGC9uC0z4m_1B9PBLe5w/o.jpg)
 
 
