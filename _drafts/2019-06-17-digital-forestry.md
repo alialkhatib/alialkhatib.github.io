@@ -33,3 +33,8 @@ So I've read a lot about trees and now so have you. Why did you follow me on thi
 Scott's book is about governments and the mistakes they make along these lines, but are we sure Facebook, Twitter, YouTube, Google, and all of these other companies aren't, in their own ways, cultivating digital **monoculture** forests that are barreling toward disaster?
 
 If this sparks any thoughts, I'd love to hear about it. Maybe I'm barking up the wrong tree (okay _really_ sorry, and I'm done).
+
+
+addendum: I was listening to podcasts this morning (one of these mornings) and might have been scooped; on [the latest episode of Recode Decode][rd], Kara Swisher interviewed Joi Ito and he apparently wrote a book about the reductive functions that digitally mediated systems impose on us. It sounded, especially near the end, like he's come to some of the same ideas that I was just noodling around with. So... maybe this thought has been more fully explored by that book. We'll see (after I read this one I'm currently on)!
+
+[rd]: https://overcast.fm/+QLdueBi1w
