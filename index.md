@@ -42,4 +42,4 @@ If this isn't enough info, click on some links floating around this text in vari
 [PCTalkLaTeX]: /media/presentations/PlatformCooperativism.tex
 [PCTalk]: http://livestream.com/internetsociety/platformcoop/videos/104467678
 [CHI]: https://chi2017.acm.org
-[sla_presentation]: //al2.in/street
+[sla_presentation]: /street

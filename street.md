@@ -1,5 +1,5 @@
 ---
 title: CHI 2019 presentation redirect
 redirect_to:
-  - /research
+  - /research#street-level-algorithms
 ---
