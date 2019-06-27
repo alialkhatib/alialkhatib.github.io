@@ -3,7 +3,7 @@ title: Digital Forests
 layout: post
 ---
 
-I've been reading about trees and forestry lately, and something about this story James Scott tells in his book _Seeing Like a State_ has me thinking a lot about online advertising (and, more generally, the design of sociotechnical systems). It's a story about the exploitation of a complex resource and the delayed, but ultimately devastating, toll that this exploitation took.
+I've been reading about trees and forestry lately, and something about this story James Scott tells in his book _Seeing Like a State_ has me thinking a lot about online advertising (and, more generally, the design of sociotechnical systems). It's a story about the exploitation of a complex resource and the delayed, but ultimately devastating, toll that this exploitation took. But more substantively it's about the reductive functions we use to make sense of the world, and how those functions become dangerous when we let them run our lives.
 
 At the turn of the 18th century, people in Europe were desperate for timber. They were harvesting vast tracts of forests to meet a demand that seemingly couldn't be satisfied, and after some time people began to realize that there was no way this could keep going. So people became experts at estimating how much timber a forest could yield without irreparably harming the forest, starting by doing things like figuring out a tree's productivity from its size, or sampling a plot of a forest to infer the whole forest's capacity.
 
@@ -26,9 +26,9 @@ When you reshape the world to reflect the square you drew, you invade and disrup
 
 So I've read a lot about trees _and now so have you_, and you might (rightfully) be asking yourself why I took you on this ramble.
 
-I wonder if there's a useful parallel to draw between this history and the phenomena we're seeing today with advertising, data mining, quantification, etc... that data scientists and engineers rely upon to make sense of the digital worlds they create and manage.
+### I think there's a useful parallel to draw between this history and the phenomena we're seeing today with the metrics and operationalizations that data scientists and engineers rely upon to make sense of the digital worlds they create and manage.
 
-We're not clickthrough machines, but that's how analytical systems often seem to read us. And it's not necessarily calamitous when we build systems that help us interpret the world in simplified ways, but it _might_ become a problem when those systems begin to reshape the world according to the simple, digestible, but hollowed out metrics that we developed initially to _interpret_ the world.
+We're not clickthrough machines, but that's how analytical systems often seem to read us - not because anyone wanted to use that as an indicator of engagement, but because it was one of _vanishingly_ few other options, all of which were probably worse. And it's not necessarily calamitous when we build systems that help us interpret the world in simplified ways, but it becomes a problem when those systems begin to reshape the world according to the simple, digestible, but hollowed out metrics that we developed initially to _interpret_ the world.
 
 Scott is careful to carve out (sorry again) that he's _not_ saying that a simplifying function for interpreting the world is bad. I want to be very careful - almost as careful as Scott was in the book - to stress that reductive functions are okay. We experience a world that's way, way too rich for us to make sense of it all at once. We think about narrower slices of life to help make sense of life more broadly. "Do you have a healthy lifestyle?" becomes "are you getting enough exercise?" becomes "are you hitting 10,000 steps?" because it's hard for me to answer whether my lifestyle is healthy just on those terms, and it's hard for an algorithm to quantify how much exercise is "enough", but it can count steps and tell me that I've taken 6,555 steps today.
 
