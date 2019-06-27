@@ -7,6 +7,7 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/luatex/lualibs/lualibs-basic-merged
 INPUT /usr/local/texlive/2018/texmf-dist/tex/luatex/lualibs/lualibs-compat.lua
 INPUT /usr/local/texlive/2018/texmf-dist/tex/luatex/lualibs/lualibs-extended.lua
 INPUT /usr/local/texlive/2018/texmf-dist/tex/luatex/lualibs/lualibs-extended-merged.lua
+INPUT /usr/local/texlive/2018/texmf-dist/tex/luatex/luaotfload/luaotfload-characters.lua
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
@@ -67,8 +68,6 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/needspace/needspace.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/needspace/needspace.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/changepage/changepage.sty
