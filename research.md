@@ -5,10 +5,10 @@ layout: longy
 
 *This list might not be comprehensive*
 
-### Street–Level Algorithms: A Theory At The Gaps Between Policy and Decisions
+### Street-Level Algorithms: A Theory At The Gaps Between Policy and Decisions
 {: #street-level-algorithms }
 
-Errors and biases are earning algorithms increasingly malignant reputations in society. A central challenge is that algorithms must bridge the gap between high–level policy and on–the–ground decisions, making inferences in novel situations where the policy or training data do not readily apply. In this paper, we draw on the theory of _street–level bureaucracies_, how human bureaucrats such as police and judges interpret policy to make on–the–ground decisions. We present by analogy a theory of _street–level algorithms_, the algorithms that bridge the gaps between policy and decisions about people in a socio-technical system. We argue that unlike street–level bureaucrats, who reflexively refine their decision criteria as they reason through a novel situation, street–level algorithms at best refine their criteria only after the decision is made. This loop–and–a–half delay results in illogical decisions when handling new or extenuating circumstances. This theory suggests designs for street–level algorithms that draw on historical design patterns for street– level bureaucracies, including mechanisms for self–policing and recourse in the case of error.
+Errors and biases are earning algorithms increasingly malignant reputations in society. A central challenge is that algorithms must bridge the gap between high-level policy and on-the-ground decisions, making inferences in novel situations where the policy or training data do not readily apply. In this paper, we draw on the theory of _street-level bureaucracies_, how human bureaucrats such as police and judges interpret policy to make on-the-ground decisions. We present by analogy a theory of _street-level algorithms_, the algorithms that bridge the gaps between policy and decisions about people in a socio-technical system. We argue that unlike street-level bureaucrats, who reflexively refine their decision criteria as they reason through a novel situation, street-level algorithms at best refine their criteria only after the decision is made. This loop-and-a-half delay results in illogical decisions when handling new or extenuating circumstances. This theory suggests designs for street-level algorithms that draw on historical design patterns for street- level bureaucracies, including mechanisms for self-policing and recourse in the case of error.
 
 Links: paper ([pdf][streetlevelalgosPaper]) & presentation ([pdf][streetlevelalgosPresentation])
 
@@ -43,9 +43,9 @@ Links: paper ([pdf][streetlevelalgosPaper]) & presentation ([pdf][streetlevelalg
 </div>
 
 ### Examining Crowd Work and Gig Work Through The Historical Lens of Piecework
-{: #piecework }
+{: #crowdwork-piecework }
 
-The internet is empowering the rise of crowd work, gig work, and other forms of on–demand labor. A large and growing body of scholarship has attempted to predict the socio– technical outcomes of this shift, especially addressing three questions: 1) What are the complexity limits of on–demand work?, 2) How far can work be decomposed into smaller microtasks?, and 3) What will work and the place of work look like for workers? In this paper, we look to the historical scholarship on piecework — a similar trend of work decomposition, distribution, and payment that was popular at the turn of the 20th century — to understand how these questions might play out with modern on–demand work. We identify the mechanisms that enabled and limited piecework historically, and identify whether on–demand work faces the same pitfalls or might differentiate itself. This approach introduces theoretical grounding that can help address some of the most persistent questions in crowd work, and suggests design interventions that learn from history rather than repeat it.
+The internet is empowering the rise of crowd work, gig work, and other forms of on-demand labor. A large and growing body of scholarship has attempted to predict the socio- technical outcomes of this shift, especially addressing three questions: 1) What are the complexity limits of on-demand work?, 2) How far can work be decomposed into smaller microtasks?, and 3) What will work and the place of work look like for workers? In this paper, we look to the historical scholarship on piecework — a similar trend of work decomposition, distribution, and payment that was popular at the turn of the 20th century — to understand how these questions might play out with modern on-demand work. We identify the mechanisms that enabled and limited piecework historically, and identify whether on-demand work faces the same pitfalls or might differentiate itself. This approach introduces theoretical grounding that can help address some of the most persistent questions in crowd work, and suggests design interventions that learn from history rather than repeat it.
 
 
 Links: paper ([pdf][pieceworkPaper]) & presentation ([pdf][pieceworkPresentation])
@@ -80,7 +80,7 @@ Links: paper ([pdf][pieceworkPaper]) & presentation ([pdf][pieceworkPresentation
 
 
 ### We Are Dynamo: Overcoming Stalling and Friction in Collective Action for Crowd Workers
-{: #dynamo }
+{: #we-are-dynamo }
 
 By lowering the costs of communication, the web promises to enable distributed collectives to act around shared issues. However, many collective action efforts never succeed: while the web's affordances make it easy to gather, these same decentralizing characteristics impede any focus towards action. In this paper, we study challenges to collective action efforts through the lens of online labor by engaging with Amazon Mechanical Turk workers. Through a year of ethnographic fieldwork, we sought to understand online workers' unique barriers to collective action. We then created Dynamo, a platform to support the Mechanical Turk community in forming publics around issues and then mobilizing. We found that collective action publics tread a precariously narrow path between the twin perils of stalling and friction, balancing with each step between losing momentum and flaring into acrimony. However, specially structured labor to maintain efforts' forward motion can
 help such publics take action.
