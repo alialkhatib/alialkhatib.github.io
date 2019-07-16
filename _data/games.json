@@ -1,0 +1,67 @@
+[{
+  "name": "Jenga",
+  "game_info": "https://boardgamegeek.com/boardgame/2452/jenga",
+  "accounted_for": true,
+  "players": "1-8"
+  },
+ {
+  "name": "Dixit",
+  "game_info": "https://boardgamegeek.com/boardgame/39856/dixit",
+  "accounted_for": true,
+  "players": "4-6+"
+  },
+ {
+  "name": "Pandemic",
+  "game_info": "https://boardgamegeek.com/boardgame/30549/pandemic",
+  "accounted_for": true,
+  "players": "1-4"
+  },
+ {
+  "name": "Codenames",
+  "game_info": "https://boardgamegeek.com/boardgame/178900/codenames",
+  "accounted_for": true,
+  "players": "4-8+"
+  },
+ {
+  "name": "Avalon",
+  "game_info": "https://boardgamegeek.com/boardgame/128882/resistance-avalon",
+  "accounted_for": true,
+  "players": "5-10"
+  },
+ {
+  "name": "Coup (x2)",
+  "game_info": "https://boardgamegeek.com/boardgame/131357/coup",
+  "accounted_for": true,
+  "players": "3-6"
+  },
+ {
+  "name": "Exploding Kittens",
+  "game_info": "https://boardgamegeek.com/boardgame/172225/exploding-kittens",
+  "accounted_for": true,
+  "players": "3-5"
+  },
+ {
+  "name": "Exploding Kittens (NSFW edition)",
+  "game_info": "https://boardgamegeek.com/boardgame/172242/exploding-kittens-nsfw-deck",
+  "accounted_for": true,
+  "players": "3-5"
+  },
+ {
+  "name": "One Night Ultimate Werewolf",
+  "game_info": "https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf",
+  "accounted_for": true,
+  "players": "4-10"
+  },
+ {
+  "name": "Love Letter",
+  "game_info": "https://boardgamegeek.com/boardgame/129622/love-letter",
+  "accounted_for": true,
+  "players": "3-4"
+  },
+ {
+  "name": "Secret Hitler",
+  "game_info": "https://boardgamegeek.com/boardgame/188834/secret-hitler",
+  "accounted_for": false,
+  "players": "3"
+  }
+]
