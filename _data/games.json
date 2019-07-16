@@ -2,66 +2,77 @@
   "name": "Jenga",
   "game_info": "https://boardgamegeek.com/boardgame/2452/jenga",
   "accounted_for": true,
-  "players": "1-8"
+  "players": "1-8",
+  "notes": ""
   },
  {
   "name": "Dixit",
   "game_info": "https://boardgamegeek.com/boardgame/39856/dixit",
   "accounted_for": true,
-  "players": "4-6+"
+  "players": "4-6+",
+  "notes": ""
   },
  {
   "name": "Pandemic",
   "game_info": "https://boardgamegeek.com/boardgame/30549/pandemic",
   "accounted_for": true,
-  "players": "1-4"
+  "players": "1-4",
+  "notes": ""
   },
  {
   "name": "Codenames",
   "game_info": "https://boardgamegeek.com/boardgame/178900/codenames",
   "accounted_for": true,
-  "players": "4-8+"
+  "players": "4-8+",
+  "notes": "scales well because teams; was the subject of a paper Sharon published"
   },
  {
   "name": "Avalon",
   "game_info": "https://boardgamegeek.com/boardgame/128882/resistance-avalon",
   "accounted_for": true,
-  "players": "5-10"
+  "players": "5-10",
+  "notes": ""
   },
  {
   "name": "Coup (x2)",
   "game_info": "https://boardgamegeek.com/boardgame/131357/coup",
   "accounted_for": true,
-  "players": "3-6"
+  "players": "3-6",
+  "notes": ""
   },
  {
   "name": "Exploding Kittens",
   "game_info": "https://boardgamegeek.com/boardgame/172225/exploding-kittens",
   "accounted_for": true,
-  "players": "3-5"
+  "players": "3-5",
+  "notes": ""
   },
  {
   "name": "Exploding Kittens (NSFW edition)",
   "game_info": "https://boardgamegeek.com/boardgame/172242/exploding-kittens-nsfw-deck",
   "accounted_for": true,
-  "players": "3-5"
+  "players": "3-5",
+  "notes": ""
   },
  {
   "name": "One Night Ultimate Werewolf",
   "game_info": "https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf",
   "accounted_for": true,
-  "players": "4-10"
+  "players": "4-10",
+  "notes": ""
   },
  {
   "name": "Love Letter",
   "game_info": "https://boardgamegeek.com/boardgame/129622/love-letter",
   "accounted_for": true,
-  "players": "3-4"
+  "players": "3-4",
+  "notes": ""
   },
  {
   "name": "Secret Hitler",
   "game_info": "https://boardgamegeek.com/boardgame/188834/secret-hitler",
   "accounted_for": false,
-  "players": "6-10"
+  "players": "6-10",
+  "notes": ""
   }
 ]
