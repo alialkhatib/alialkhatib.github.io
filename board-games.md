@@ -14,9 +14,12 @@ table {
 </style>
 
 
-## Board games we have in 3B
+## board games we have in 3B
 
+If you think the HCI group should buy a board game, please head to #game-night (or DM me - @al2) and suggest it. The "criteria" I try to use is:
 
+- can groups play it? (ideally, 4 or more people)
+- is it easy to explain the rules and get someone "onboarded" quickly?
 
 
 {% assign games = site.data.games | where: 'accounted_for',true | sort: 'name' %}
