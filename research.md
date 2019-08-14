@@ -42,10 +42,46 @@ Links: paper ([pdf][streetlevelalgosPaper]) & presentation ([pdf][streetlevelalg
 </div>
 </div>
 
+### Laying Groundwork For a Worker--Centric Peer Economy
+{: #laying-groundwork}
+
+The "gig economy" has transformed the ways in which people work, but in many ways these markets stifle the growth of workers and the autonomy and protections that workers have grown to expect. We explored the viability of a "worker-centric peer economy" — a system wherein workers benefit as well as consumers — and conducted ethnographic field work across fields ranging from domestic labor to home health care.
+We discovered seven facets that system designers ought to consider when designing a labor market for "gig workers," consisting principally of the following: constructive feedback, assigning work fairly, managing customer expectations, protecting vulnerable workers, reconciling worker identities, assessing worker qualifications, & communicating worker quality. We discuss these considerations and provide guidance toward the design of a mutually beneficial market for gig workers.
+
+<div class="row">
+  <div class="col-lg-8 col-sm-12">
+<textarea readonly class="form-control" rows="5" id="groundwork"  style="font-family:monospace;font-size:9px;resize:none;">
+@article{layingGroundwork,
+  author    = {Ali Alkhatib and
+               Justin Cranshaw and
+               Andr{\'{e}}s Monroy{-}Hern{\'{a}}ndez},
+  title     = {Laying the Groundwork for a Worker-Centric Peer Economy},
+  journal   = {CoRR},
+  volume    = {abs/1807.08189},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1807.08189},
+  archivePrefix = {arXiv},
+  eprint    = {1807.08189},
+  timestamp = {Mon, 13 Aug 2018 16:48:39 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1807-08189},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}</textarea>
+</div>
+<div class="col-lg-4 col-sm-12">
+<button class="btn btn-lg btn-primary citations btn-block" data-clipboard-target="#groundwork">
+  <!-- <img src="//cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/svg/clippy.svg" alt="Copy to clipboard"> -->
+  copy bibtex citation
+</button>
+</div>
+</div>
+
+Links: paper ([pdf][groundworkPaper])
+
+
 ### Examining Crowd Work and Gig Work Through The Historical Lens of Piecework
 {: #crowdwork-piecework }
 
-The internet is empowering the rise of crowd work, gig work, and other forms of on-demand labor. A large and growing body of scholarship has attempted to predict the socio- technical outcomes of this shift, especially addressing three questions: 1) What are the complexity limits of on-demand work?, 2) How far can work be decomposed into smaller microtasks?, and 3) What will work and the place of work look like for workers? In this paper, we look to the historical scholarship on piecework — a similar trend of work decomposition, distribution, and payment that was popular at the turn of the 20th century — to understand how these questions might play out with modern on-demand work. We identify the mechanisms that enabled and limited piecework historically, and identify whether on-demand work faces the same pitfalls or might differentiate itself. This approach introduces theoretical grounding that can help address some of the most persistent questions in crowd work, and suggests design interventions that learn from history rather than repeat it.
+The internet is empowering the rise of crowd work, gig work, and other forms of on-demand labor. A large and growing body of scholarship has attempted to predict the socio-technical outcomes of this shift, especially addressing three questions: 1) What are the complexity limits of on-demand work?, 2) How far can work be decomposed into smaller microtasks?, and 3) What will work and the place of work look like for workers? In this paper, we look to the historical scholarship on piecework — a similar trend of work decomposition, distribution, and payment that was popular at the turn of the 20th century — to understand how these questions might play out with modern on-demand work. We identify the mechanisms that enabled and limited piecework historically, and identify whether on-demand work faces the same pitfalls or might differentiate itself. This approach introduces theoretical grounding that can help address some of the most persistent questions in crowd work, and suggests design interventions that learn from history rather than repeat it.
 
 
 Links: paper ([pdf][pieceworkPaper]) & presentation ([pdf][pieceworkPresentation])
@@ -160,3 +196,4 @@ window.onload=function(){
 [QSThesis]: /media/papers/quantified_self.pdf
 [QSppt]: /media/presentations/QS.ppt
 [QSpdf]: /media/presentations/QS.pdf
+[groundworkPaper]: //arxiv.org/pdf/1807.08189
