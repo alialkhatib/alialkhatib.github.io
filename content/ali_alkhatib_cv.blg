@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2018)
+This is BibTeX, Version 0.99d (TeX Live 2019)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: ali_alkhatib_cv.aux
 The style file: biblatex.bst
@@ -21,44 +21,44 @@ Database file #2: references.bib
 Biblatex version: 3.11
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 6 entries,
+You've used 7 entries,
             6304 wiz_defined-function locations,
-            1236 strings with 10587 characters,
-and the built_in function-call counts, 46799 in all, are:
-= -- 3336
-> -- 1042
-< -- 258
-+ -- 1368
-- -- 494
-* -- 3815
-:= -- 5506
+            1246 strings with 10850 characters,
+and the built_in function-call counts, 53758 in all, are:
+= -- 3818
+> -- 1182
+< -- 289
++ -- 1543
+- -- 560
+* -- 4385
+:= -- 6279
 add.period$ -- 0
-call.type$ -- 6
-change.case$ -- 97
+call.type$ -- 7
+change.case$ -- 107
 chr.to.int$ -- 38
-cite$ -- 10
-duplicate$ -- 4720
-empty$ -- 3794
-format.name$ -- 579
-if$ -- 9359
+cite$ -- 12
+duplicate$ -- 5431
+empty$ -- 4411
+format.name$ -- 666
+if$ -- 10768
 int.to.chr$ -- 0
-int.to.str$ -- 15
+int.to.str$ -- 17
 missing$ -- 0
-newline$ -- 275
-num.names$ -- 267
-pop$ -- 1908
+newline$ -- 314
+num.names$ -- 308
+pop$ -- 2263
 preamble$ -- 1
-purify$ -- 158
+purify$ -- 176
 quote$ -- 0
-skip$ -- 1262
+skip$ -- 1446
 stack$ -- 0
-substring$ -- 5923
-swap$ -- 1103
-text.length$ -- 243
-text.prefix$ -- 5
+substring$ -- 6798
+swap$ -- 1266
+text.length$ -- 276
+text.prefix$ -- 6
 top$ -- 1
-type$ -- 192
+type$ -- 226
 warning$ -- 0
-while$ -- 754
+while$ -- 856
 width$ -- 0
-write$ -- 270
+write$ -- 308

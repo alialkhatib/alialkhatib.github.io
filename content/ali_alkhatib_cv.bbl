@@ -56,7 +56,6 @@
     \verb{url}
     \verb http://doi.acm.org/10.1145/3290605.3300760
     \endverb
-    \field{venue}{Glasgow, Scotland UK}
     \list{location}{1}{%
       {Glasgow, Scotland UK}%
     }
@@ -144,6 +143,46 @@
     \endverb
     \field{venue}{University of California, Irvine, USA}
     \field{year}{2014}
+  \endentry
+
+  \entry{DBLP:journals/corr/abs-1807-08189}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AA}{%
+         family={Alkhatib},
+         familyi={A\bibinitperiod},
+         given={Ali},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Cranshaw},
+         familyi={C\bibinitperiod},
+         given={Justin},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Monroy{-}Hern{\'{a}}ndez},
+         familyi={M\bibinitperiod},
+         given={Andr{\'{e}}s},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AACJMA1}
+    \strng{fullhash}{AACJMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{eprint}
+    \verb 1807.08189
+    \endverb
+    \field{title}{Laying the Groundwork for a Worker-Centric Peer Economy}
+    \verb{url}
+    \verb http://arxiv.org/abs/1807.08189
+    \endverb
+    \field{volume}{abs/1807.08189}
+    \field{journaltitle}{CoRR}
+    \field{eprinttype}{arXiv}
+    \field{year}{2018}
   \endentry
 
   \entry{ValuesInDesign}{inproceedings}{}
