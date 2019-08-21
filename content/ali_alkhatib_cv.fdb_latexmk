@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex ali_alkhatib_cv"] 1565729997 "ali_alkhatib_cv.aux" "ali_alkhatib_cv.bbl" "ali_alkhatib_cv" 1565730003
-  "/Users/alialkhatib/Library/texmf/bibtex/bib/references.bib" 1565729944 297407 bf9ac45111bf2f4abc5fef09a00e2356 ""
+["bibtex ali_alkhatib_cv"] 1566315634 "ali_alkhatib_cv.aux" "ali_alkhatib_cv.bbl" "ali_alkhatib_cv" 1566315661
+  "/Users/alialkhatib/Library/texmf/bibtex/bib/references.bib" 1566315607 297681 1bcb38b6e5b550a2ec499e4e9188e893 ""
   "/usr/local/texlive/2019/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1541279461 64114 9f5431e5c511cac88d0dcd7e87bd2d0e ""
-  "ali_alkhatib_cv-blx.bib" 1565730002 334 30d5661899a7917d46e12b6810e5b33a "lualatex"
-  "ali_alkhatib_cv.aux" 1565730002 3684 e96a9599cafd6e89afa34906beb29175 "lualatex"
+  "ali_alkhatib_cv-blx.bib" 1566315661 334 30d5661899a7917d46e12b6810e5b33a "lualatex"
+  "ali_alkhatib_cv.aux" 1566315661 3684 e96a9599cafd6e89afa34906beb29175 "lualatex"
   (generated)
-  "ali_alkhatib_cv.bbl"
   "ali_alkhatib_cv.blg"
-["lualatex"] 1565730000 "ali_alkhatib_cv.tex" "ali_alkhatib_cv.pdf" "ali_alkhatib_cv" 1565730003
+  "ali_alkhatib_cv.bbl"
+["lualatex"] 1566315659 "ali_alkhatib_cv.tex" "ali_alkhatib_cv.pdf" "ali_alkhatib_cv" 1566315661
   "/Users/alialkhatib/Library/Fonts/SourceCodePro-Regular.otf" 1468882951 145556 20964ddec742937a7f153247edf5c09e ""
   "/Users/alialkhatib/Library/Fonts/SourceSansPro-Bold.otf" 1442362054 235128 1a2a157bfd94b250884c09f1bd57a0bb ""
   "/Users/alialkhatib/Library/Fonts/SourceSansPro-It.otf" 1442362054 79724 221e2885deff8820941c3fa286ad25f5 ""
@@ -19,7 +19,7 @@
   "/Users/alialkhatib/Library/texlive/2019/texmf-var/luatex-cache/generic/fonts/otl/sourcecodepro-boldit.luc" 1565640882 140774 5218e799e91fcd130c66753732de9156 ""
   "/Users/alialkhatib/Library/texlive/2019/texmf-var/luatex-cache/generic/fonts/otl/sourcecodepro-it.luc" 1565640882 140557 cadcd0939d836d20eda4e5f70495df61 ""
   "/Users/alialkhatib/Library/texlive/2019/texmf-var/luatex-cache/generic/fonts/otl/sourcecodepro-regular.luc" 1565640882 166832 bbaf756c6f59ebb1fdd63a59b7540641 ""
-  "/Users/alialkhatib/Library/texlive/2019/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-bold.luc" 1565729874 538200 a7d2acff14c2d52dbd38fe0fe1ebee94 ""
+  "/Users/alialkhatib/Library/texlive/2019/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-bold.luc" 1566315582 538200 a7d2acff14c2d52dbd38fe0fe1ebee94 ""
   "/Users/alialkhatib/Library/texlive/2019/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-boldit.luc" 1565640879 179677 f9c93d0763380b0c30d8194b29a40dd9 ""
   "/Users/alialkhatib/Library/texlive/2019/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-it.luc" 1565640880 175635 551abaafd5b8e5c31a95c11a16b61028 ""
   "/Users/alialkhatib/Library/texlive/2019/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-regular.luc" 1565640877 546745 280bdc6f273c6cf2cf92f569848ab632 ""
@@ -112,15 +112,15 @@
   "/usr/local/texlive/2019/texmf-dist/tex/luatex/lualibs/lualibs-extended.lua" 1551133342 4863 71ebb63cd7b26b0bd5592f889e94f08d ""
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/luatex/lualatex.fmt" 1557342091 1381805 ec0a220958007dfa519e904da00016e2 ""
-  "ali_alkhatib_cv.aux" 1565730002 3684 e96a9599cafd6e89afa34906beb29175 "lualatex"
-  "ali_alkhatib_cv.bbl" 1565729997 9080 1729d40b9b0ba7ccc95355275a307a4c "bibtex ali_alkhatib_cv"
-  "ali_alkhatib_cv.out" 1565730002 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "ali_alkhatib_cv.run.xml" 1565730002 2691 1c59cb50c8bb845c3da135ae2b2905d9 "lualatex"
-  "ali_alkhatib_cv.tex" 1565729989 9591 2d0bb5059d61ac6f078b0ed4a41e0b24 ""
+  "ali_alkhatib_cv.aux" 1566315661 3684 e96a9599cafd6e89afa34906beb29175 "lualatex"
+  "ali_alkhatib_cv.bbl" 1566315634 9082 132f6b89eae2e8116132f5aec6890143 "bibtex ali_alkhatib_cv"
+  "ali_alkhatib_cv.out" 1566315661 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "ali_alkhatib_cv.run.xml" 1566315661 2691 1c59cb50c8bb845c3da135ae2b2905d9 "lualatex"
+  "ali_alkhatib_cv.tex" 1566315657 9603 f8cc006a64cc33fe4662ffff619dd502 ""
   (generated)
+  "ali_alkhatib_cv-blx.bib"
+  "ali_alkhatib_cv.log"
+  "ali_alkhatib_cv.aux"
+  "ali_alkhatib_cv.pdf"
   "ali_alkhatib_cv.out"
   "ali_alkhatib_cv.run.xml"
-  "ali_alkhatib_cv-blx.bib"
-  "ali_alkhatib_cv.pdf"
-  "ali_alkhatib_cv.aux"
-  "ali_alkhatib_cv.log"
