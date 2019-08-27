@@ -4,80 +4,73 @@ author: "Ali"
 layout: "post"
 ---
 
-CW: This post discusses sexual assault and suicide.
+CW: This post mentions sexual assault and suicide.
 
-Recently it came to light that the MIT Media Lab took hundreds of thousands of dollars from Jeffrey Epstein, who was then and is now known to have raped an unknown number of children for decades before he was arrested, whereupon he committed suicide.
+Before you start, you might want to read [this op-ed by Kate Darling][oped] instead.
+Her op-ed makes a more general point that I think is probably *more* worth reading.
+I started this post wanting to make a more specific point, and
+when I saw her post I realized I should just finish it and put it out into the world.
 
-It's difficult to write that sentence, let alone absorb every part of its meaning.
-It also doesn't address that Marvin Minsky,
-who founded the MIT Media Lab, is now alleged to have participated in
-the rape of children whom Epstein trafficked to
-a private island as far back as 2001.
-And with both of these men now dead, there may never be closure for the survivors.
+---
 
-In the aftermath, Ethan Zuckerman and Nate Matias announced that
-they were leaving the Media Lab
-(to the extents that they were affiliated with them:
-in Ethan's case, he was leaving his professorship at the end of the 2019-2020 year;
-in Nate's case, he would be migrating the projects running on Media Lab resources).
+I'm assuming many of the people reading this post are all too familiar with the news of Epstein, of Minsky,
+and maybe to a lesser extent of the MIT Media Lab.
+In short,
+the Media Lab took hundreds of thousands of dollars from Epstein over the past decade.
+Many people have written about 
 
-I've heard critiques and praise, and the fact is
-I don't have a conclusive thought on these things.
-The fact that it's convenient for them to leave now is true;
-but it's also true that
-at some point you wake up and can't get out of bed, and
-you urgently need to remove yourself from an environment you now realize is toxic.
 
-Nate and I are friends, and I think (or imagine) that
-to some extent I appreciate what he's feeling:
-as a child of immigrants,
-as someone determined to try to make the world a better place,
-as someone who has benefited from
-people in power helping me into
-the very institutions that I would later critique and undermine.
-I can imagine how lonely, and betrayed, and alienated he might feel
-if he were to discover that all of his values were not only not shared,
+I don't really want to dwell too much on the people that left the Media Lab
+(or the ones that stayed) in the aftermath, except to say that
+my feelings on this are tangled up.
+I appreciate the critiques people have made;
+but I can also imagine how lonely, and betrayed, and alienated I might feel
+if I were to discover that some of my values were not only not shared,
 but actively undermined by
-the institution with which he maybe had cautiously aligned all those years ago.
+the institution with which I maybe had cautiously aligned all those years ago.
+I can imagine how I would feel like I just need to get away, and how
+it would be more about self-care than about making a statement for others to read into.
 
-But these aren't the things I'm particularly ready to work through right now.
-Maybe in some time, with more thought.
-What I want to point to is that there were structural issues that led to this.
 
-We urgently need to have more conversations about where our
-power, and money, and influence come from.
-We need to respect the people we work with, and 
-bring everyone into these conversations.
-Power potentially brings with it a poison that marks us all.
-It may take decades to fully appreciate
-the harm we perpetuated or even caused.
-But that distance doesn't absolve us of responsibility.
+What I want to talk about is what made all of this possible.
 
-Something that continues to worry me is that
-the MIT Media Lab appeared, from this vantage point anyway,
-to be in a position of immense privilege *already*.
-They have
-the status, wealth, and backing of MIT.
-To turn away this money couldn't have spelled
-the end of the Media Lab the way it might have meant the end
-of other, smaller groups.
+### How did we all get to a point where an institution as powerful, as financially secure, as prestigious as the MIT Media Lab wasn't a psychologically safe environment for people to interrogate the sources of the funding that they were benefiting from?
 
-If these conversations couldn't be had at the MIT Media Lab,
-what hope would there be for someone to raise this issue
-in a group where funding is so much more precarious?
-What hope does a junior researcher have to question these things,
-if the underlying threat always appears to be that
-their presence depends on
-accepting this status quo, and perhaps on
-never questioning it?
 
-It's hard for me to escape the thought that
-the segmentation of
-discussions of finances from
-those of ethics from
-those of research led to all of this.
-We need to shake loose that mindset.
-We owe it to everyone
-to use the MIT Media Lab as a cautionary tale and to insist that
-we reflect on who supports us and how, and
-to figure out how to navigate the inevitable conflicts.
+But would we have been caught quite so much by surprise
+if we fostered a culture where someone could
+question and critique the funding sources and the collaborations
+we develop without threatening their careers?
+
+
+I guess I'm asking that question rhetorically;
+on some level I know the answer, and I think many of us do too.
+We relegate discussions about funding to the side, often happily, because
+there are so many fields and departments adjacent to us that
+don't even have the luxury to look a gift horse in the mouth.
+But it's a Trojan horse; it brings with it all sorts of perils, and
+if we don't address those now, we doom ourselves to deal with them later.
+
+## It's precisely because we're offered all this power and money that we need to interrogate it.
+
+I'm worried about our field being so closely aligned with industry.
+But more than that, I'm worried about
+how dangerous it apparently is that we can't even raise the issue meaningfully and in real terms,
+except through anonymous twitter accounts or in this case as we leave,
+perhaps burning bridges on the way out.
+
+
+We need to talk about how the hell this happened.
+
+We need to make it possible for people without the privilege to leave an institution like MIT
+to have these conversations without endangering their careers or lives.
+
+We need to do it urgently.
+I think we need to do this before we do the other things.
+And it needs to be all of us, because it implicates all of us, and
+none of us is free of responsibility from this conversation.
+
+We're all deep in it.
+
+[oped]: https://www.theguardian.com/commentisfree/2019/aug/27/jeffrey-epstein-science-mit-brockman?CMP=share_btn_tw
+[image]: https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/60309991_10157550687874767_6834486015361548288_n.jpg?_nc_cat=100&_nc_oc=AQkUP8Wyc52Rf2506PLOeW9SJ6pKfDJcw2ifnWa75LSqsxwKzmkE958JjFGftR38Fx8&_nc_ht=scontent-lax3-2.xx&oh=6d0563a78e3848b96c3852a904d45be3&oe=5DC9526B
