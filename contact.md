@@ -23,6 +23,6 @@ Email, tweet, or somehow contact me to let me know if you plan on contacting me 
 I'm rarely logged in to Skype or (that particular) Google account,
 so it'll seem like I'm never online unless I know someone's waiting for me.
 
-[email]: mailto:ali.alkhatib@cs.stanford.edu
+[email]: mailto:{{site.email}}
 [tw]: //twitter.com/{{site.twitter}}
 [fb]: //facebook.com/{{site.fb}}
