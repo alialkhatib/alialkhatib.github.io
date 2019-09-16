@@ -2,10 +2,6 @@
 layout: home
 ---
 
-##### _If you're looking for my talk slides from CHI 2019 (street-level algorithms), you can find them [here][sla_presentation]_
-
----
-
 Hi, that's me.
 
 I'm a PhD student in the Computer Science department at Stanford University,
