@@ -3,25 +3,13 @@ layout: shorty
 title: Contact
 ---
 
-You can [email][email] me if you'd like. 
+You can [email me][email] if you'd like. 
 I'm always swamped, so short emails get replies sooner.
 
-I'm also on [twitter][tw] & [facebook][fb].
+I'm also on [twitter][tw].
 
-I have a strong aversion to adding people on Facebook until I've met them in person.
-
-I'm only saying that to make it less awkward if I don't accept your friend request.
-
-I'm sure I'm on LinkedIn, Google+, Quora, and half a dozen other sites. 
-Don't try to send messages to any of those places; I'll never see them. 
-
-If you'd like to contact me by Google Hangouts or Skype, my accounts for both are
-
-al2`[at]`cs.stanford.com
-
-Email, tweet, or somehow contact me to let me know if you plan on contacting me this way.
-I'm rarely logged in to Skype or (that particular) Google account,
-so it'll seem like I'm never online unless I know someone's waiting for me.
+I'm sure I'm on LinkedIn, Google+, Quora, and lots of other sites. 
+Don't try to send messages to any of those places; I'll never see them.
 
 [email]: mailto:{{site.email}}
 [tw]: //twitter.com/{{site.twitter}}
