@@ -4,11 +4,6 @@ layout: home
 
 Hi, that's me.
 
-I'm a PhD student in the Computer Science department at Stanford University,
-specifically studying Human-Computer Interaction,
-working with [Michael Bernstein][msb].
-
-
 A lot of the work I do involves thinking about problems caused or exacerbated by technology, trying to figure out some way of framing or thinking about that problem (usually using theories from other fields, which have been interrogated, critiqued, and strengthened through decades of conversations). With that framing, we then think about what "new" ideas or approaches we could try to design better (read: more socially responsible) systems.
 
 I earned my B.A. in Anthropology & B.S. in Informatics,
