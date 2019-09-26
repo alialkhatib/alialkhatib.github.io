@@ -202,13 +202,24 @@ window.onload=function(){
 
 
 [streetlevelalgosPresentation]: /papers/chi/street-level_algorithms/presentation/presentation.pdf
+  "Street-Level Algorithms presentation in PDF format"
 [streetlevelalgosPaper]: /papers/chi/street-level_algorithms/street-level_algorithms.pdf
+  "Street-Level Algorithms paper in PDF format"
 [pieceworkPaper]: /papers/chi/piecework/pn4226.pdf
+  "Piecework paper in PDF format"
 [pieceworkHTML]: /papers/chi/piecework/pn4226.html
+  "Piecework paper in HTML format"
 [pieceworkPresentation]: /papers/chi/piecework/presentation/presentation.pdf
+  "Piecework presentation in PDF format"
 [DynamoPaper]: /media/papers/p1621.pdf
+  "We Are Dynamo paper in PDF format"
 [DynamoSite]: http://www.wearedynamo.org
+  "We Are Dynamo website"
 [QSThesis]: /media/papers/quantified_self.pdf
+  "Quantified Self paper in PDF format"
 [QSppt]: /media/presentations/QS.ppt
+  "Quantified Self presentation in powerpoint format"
 [QSpdf]: /media/presentations/QS.pdf
+  "Quantified Self presentation in PDF format"
 [groundworkPaper]: //arxiv.org/pdf/1807.08189
+  "Microsoft Research project white paper in PDF format"

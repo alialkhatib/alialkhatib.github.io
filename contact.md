@@ -9,5 +9,8 @@ I'm sure I'm on LinkedIn, Google+, Quora, and other sites.
 Don't try to send messages to any of those places; I'll never find them.
 
 [email]: mailto:{{site.email}}
+  "email address"
 [tw]: //twitter.com/{{site.twitter}}
+  "twitter profile"
 [fb]: //facebook.com/{{site.fb}}
+  "facebook profile"
