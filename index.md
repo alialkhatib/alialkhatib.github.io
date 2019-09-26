@@ -35,7 +35,7 @@ If this isn't enough info, click on some links floating around this text in vari
 (determined mostly by the size of your browser).
 
 [qsthesis]: /media/papers/quantified_self.pdf
-  "Quantified Self thesis"
+  "Quantified Self thesis (PDF)"
 [blog]: /blog/
   "blog"
 [boellstorff]: http://faculty.sites.uci.edu/boellstorff/
@@ -63,9 +63,9 @@ If this isn't enough info, click on some links floating around this text in vari
 [twitter]: https://twitter.com/_alialkhatib
   "Twitter profile page"
 [PCTalkPDF]: /media/presentations/PlatformCooperativism.pdf
-  "Platform cooperativism talk slides in PDF"
+  "Platform cooperativism talk slides (PDF)"
 [PCTalkLaTeX]: /media/presentations/PlatformCooperativism.tex
-  "Platform cooperativism talk slides in LaTeX"
+  "Platform cooperativism talk slides (LaTeX document)"
 [PCTalk]: http://livestream.com/internetsociety/platformcoop/videos/104467678
   "Platform cooperativism talk video"
 [CHI]: https://chi2017.acm.org

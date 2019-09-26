@@ -24,19 +24,19 @@ permalink: /blog/:title
 navigation:
     - title: home
       link: /
-      name: home
+      name: homepage
     - title: research
       link: /research
-      name: research
+      name: page summarizing some of my published research
     - title: blog
       link: /blog
-      name: blog
+      name: blog posts
     - title: contact
       link: /contact
-      name: contact
+      name: contact page
     - title: CV
       link: /content/ali_alkhatib_cv.pdf
-      name: CV
+      name: Curriculum Vitae (PDF)
 
 gems:
   - jekyll-redirect-from
