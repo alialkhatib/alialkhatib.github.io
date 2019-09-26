@@ -10,6 +10,7 @@
         <link rel="stylesheet" href="{{ site.url }}/media/main.css">
         <link rel="icon" type="image/png" href="{{ site.url }}/favicon.png">
         <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+        <meta name="twitter:image:src" content="/content/ali_profile_3k_sq_compressed.jpg">
         {% if page.date %}
         {% assign shorturl = page.url | replace:'index.html','' %}
         <meta name="twitter:card" content="summary">
@@ -18,7 +19,6 @@
         <meta name="twitter:title" content="{{ page.title }}">
         <meta name="twitter:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines }}">
         <meta name="og:type" content="article">
-        <meta name="twitter:image:src" content="/media/profile.jpg">
         <meta name="og:title" content="{{ page.title }}">
         <meta name="og:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines }}">
         {% endif %}
