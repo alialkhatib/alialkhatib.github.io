@@ -13,7 +13,7 @@ I wrote an honors thesis on the culture of [Quantified Self][qsthesis]
 while I worked under [Tom Boellstorff][boellstorff].
 
 If this isn't enough info, click on some links floating around this text in various places
-(determined mostly by the size of your window).
+(determined mostly by the size of your browser).
 
 [qsthesis]: /media/papers/quantified_self.pdf
 [blog]: /blog/
