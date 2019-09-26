@@ -2,7 +2,7 @@
 layout: home
 ---
 
-### Hi, that's me.
+Hi, that's me.
 
 I study human-computer interaction - more precisely, I study how people relate to individual algorithmic systems and with algorithmically mediated social ecologies by adapting theoretical lenses and frameworks originating in the social sciences to understand these phenomena.
 
@@ -33,6 +33,17 @@ while I worked under [Tom Boellstorff][boellstorff].
 
 If this isn't enough info, click on some links floating around this text in various places
 (determined mostly by the size of your browser).
+
+
+
+
+
+
+
+
+
+
+
 
 [qsthesis]: /media/papers/quantified_self.pdf
   "Quantified Self thesis (PDF)"
