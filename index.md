@@ -35,23 +35,44 @@ If this isn't enough info, click on some links floating around this text in vari
 (determined mostly by the size of your browser).
 
 [qsthesis]: /media/papers/quantified_self.pdf
+  "Quantified Self thesis"
 [blog]: /blog/
+  "blog"
 [boellstorff]: http://faculty.sites.uci.edu/boellstorff/
+  "Tom Boellstorff homepage"
 [wishlist]: //amzn.com/w/26BOYXJ3IHQKJ
+  "book wishlist"
 [jure]: http://cs.stanford.edu/people/jure/
+  "Jure Leskovec homepage"
 [infolab]: http://infolab.stanford.edu/
+  "Stanford infolab homepage"
 [DJ]: http://web.stanford.edu/~jurafsky/
+  "Dan Jurafsky homepage"
 [stanfordnlp]: http://nlp.stanford.edu/
+  "Stanford NLP group homepage"
 [fuselabs]: http://fuse.microsoft.com/
+  "FUSE Labs homepage"
 [msb]: http://hci.stanford.edu/msb/
+  "Michael Bernstein homepage"
 [fuseblogpost]: http://blog.fuselabs.org/post/125185306896/worker-centric-labor-markets
+  "FUSE Labs blog post about my research"
 [PC]: http://platformcoop.net/
+  "Platform cooperativism page"
 [contact]: /contact
+  "Contact page"
 [twitter]: https://twitter.com/_alialkhatib
+  "Twitter profile page"
 [PCTalkPDF]: /media/presentations/PlatformCooperativism.pdf
+  "Platform cooperativism talk slides in PDF"
 [PCTalkLaTeX]: /media/presentations/PlatformCooperativism.tex
+  "Platform cooperativism talk slides in LaTeX"
 [PCTalk]: http://livestream.com/internetsociety/platformcoop/videos/104467678
+  "Platform cooperativism talk video"
 [CHI]: https://chi2017.acm.org
+  "CHI 2017 page"
 [sla_presentation]: /street
+  "Street Level Algorithms presentation page"
 [gig work]: /research#crowdwork-piecework
+  "Piecework page"
 [AI]: /research#street-level-algorithms
+  "Street Level Algorithms page"

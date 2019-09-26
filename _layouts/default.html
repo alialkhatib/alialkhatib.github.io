@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <title> {{ site.name }}{% if page.title %}: {{ page.title }}{% endif %} </title>
         <meta charset="utf-8">
@@ -41,7 +41,10 @@
         {% for item in site.navigation %}
         <a class="nav nav-tabs"
             {% if item.link == shorturl or (item.link == '/blog/' and page.date) %} class="active"
-            {% endif %} href="{{ site.base }}{{ item.link }}">
+            {% endif %}
+            {% if item.name %} title="{{item.name}}"
+            {% endif %}
+            href="{{ site.base }}{{ item.link }}">
             {{ item.title }}
         </a>
         {% endfor %}
