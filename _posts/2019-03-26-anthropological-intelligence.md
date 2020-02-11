@@ -1,6 +1,6 @@
 ---
 title: Anthropological/Artificial Intelligence & the HAI
-author: Ali
+author: Ali Alkhatib
 layout: post
 ---
 
