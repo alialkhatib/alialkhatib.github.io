@@ -24,8 +24,8 @@ I ultimately hope to advance a narrative that represents these technologies as a
 
 I'm a Research Fellow at the [University of San Francisco][USF]'s [Center for Applied Data Ethics][CADE].
 
-<!-- I'm a PhD student in Computer Science at Stanford, currently on leave. -->
-<!-- [Michael Bernstein][msb] is my advisor. -->
+I studied Computer Science at Stanford for a few years while pursuing a PhD;
+[Michael Bernstein][msb] was my advisor.
 
 I earned my B.A. in Anthropology & B.S. in Informatics,
 specializing in human-computer interaction,
