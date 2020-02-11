@@ -47,9 +47,7 @@ If this isn't enough info, click on some links floating around this text in vari
 
 
 [USF]: https://www.usfca.edu/data-institute
-  ""
 [CADE]: https://www.usfca.edu/data-institute/initiatives/center-applied-data-ethics
-  ""
 [qsthesis]: /media/papers/quantified_self.pdf
   "Quantified Self thesis (PDF)"
 [blog]: /blog/
