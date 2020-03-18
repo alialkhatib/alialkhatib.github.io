@@ -6275,10 +6275,6 @@ h6 {
 #leader h1 {
   display: inline!important;
 }
-ul,
-ol {
-  /*margin-left: 2.5em!important;*/
-}
 #leader ul {
   margin-left: 0;
 }
