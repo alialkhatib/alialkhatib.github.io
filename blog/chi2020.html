@@ -1,0 +1,24 @@
+---
+layout: default
+title: CHI 2020 posts
+---
+
+{% assign posts = site.posts | where:"tags","CHI 2020" %}
+
+
+
+{% for post in posts %}
+
+ <article class="preview">
+<p class="tagline">
+    {{ post.date || date_to_long_string }}
+</p>
+<h3>
+    <a href="{{ site.base }}{{ post.url }}">{{ post.title }}</a>
+</h3>
+<div class="excerpt">
+    {{ post.excerpt | replace: 'SITE_BASE', site.url | markdownify }}
+</div>
+</article>
+
+{% endfor %}
