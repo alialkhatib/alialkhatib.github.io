@@ -29,31 +29,35 @@
         {% endif %}
     </head>
 <body>
+  
 
 
 
 
 
-<div class="container">
-    
+  <div class="container{% if page.class %} {{ page.class }}{% endif %}">
     <div class="row">
-      <div class="col">
+      <div class="col-12">
         <header>
         <div id="leader">
           <ol class="breadcrumb">
           <li><h1><a href="{{ site.base }}/">{{ site.name }}</a></h1></li>
-        </ol>
+          {% if page.title!="" %}
+          {% assign crumbs = page.url | split: '/' %}
+          <li><a href="/{{crumbs[1]}}">{{crumbs[1] | replace:'.html',''}}</a></li>
+          {% endif %}
         </div>
       </header>
       </div>
     </div>
 
 <div class="row">
-  <div class="col">
-    {{content}}
+  <div class="col-8 col-sm-12" role="main">
+      {{ content }}
   </div>
-  <div class="col-lg-3 col-sm-12">
-    <nav class="tabbable tabs-right">
+    {% if page.plain != true %}
+    <div class="col-md-4">
+      <nav class="tabbable tabs-right">
         {% for item in site.navigation %}
         <a class="nav nav-tabs"
             {% if item.link == shorturl or (item.link == '/blog/' and page.date) %} class="active"
@@ -65,17 +69,10 @@
         </a>
         {% endfor %}
       </nav>
+    </div>
+    {% endif %}
   </div>
 </div>
-
-</div>
-
-
-
-
-
-
-
 
 
   

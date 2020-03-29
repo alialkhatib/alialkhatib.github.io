@@ -19,94 +19,19 @@ If you're interested in following along, you can keep an eye on future posts [he
 
 ### my (tentative) reading list
 
-- **A Human-Centered Evaluation of a Deep Learning System Deployed in Clinics for the Detection of Diabetic Retinopathy** by Emma Beede, Elizabeth Baylor, Fred Hersch, Anna Iurchenko, Lauren Wilcox, Paisan Ruamviboonsuk, Laura M. Vardoulakis
-- **A Human-Centered Review of Algorithms used within the U.S. Child Welfare System** by Devansh Saxena, Karla Badillo-Urquiola, Pamela J. Wisniewski, Shion Guha
-- **A Longitudinal Video Study on Communicating Status and Intent for Self-Driving Vehicle  Pedestrian Interaction** by Stefanie M. Faas, Andrea C. Kao, Martin Baumann
-- **A Participatory Simulation of the Accountable Capitalism Act** by Bill Tomlinson, M. Six Silberman, Andrew W. Torrance, Kurt Squire, Paramdeep S. Atwal, Ameya N. Mandalik, Sahil Railkar, Rebecca W. Black
-- **Addressing Anonymous Abuses: Measuring the Effects of Technical Mechanisms on Reported User Behaviors** by Wajeeha Ahmad, Ilaria Liccardi
-- **Ambiguity-aware AI Assistants for Medical Data Analysis** by Mike Schaekermann, Graeme Beaton, Elaheh Sanoubari, Andrew Lim, Kate Larson, Edith Law
-- **An Experimental Study of Bias in Platform Worker Ratings: The Role of Performance Quality and Gender** by Farnaz Jahanbakhsh, Justin Cranshaw, Scott Counts, Walter S. Lasecki, Kori Inkpen
-- **Attenuated Access: Accounting for Startup, Maintenance, and Affective Costs in Resource-Constrained Communities** by Lucy Pei, Roderic Crooks
-- **Autonomous Vehicle-Cyclist Interaction: Peril and Promise** by Ming Hou, Karthik Mahadevan, Sowmya Somanath, Ehud Sharlin, Lora Oehlberg
-- **Bot or not? User Perceptions of Player Substitution with Deep Player Behavior Models** by Johannes Pfau, Jan David Smeddinck, Ioannis Bikas, Rainer Malaka
-- **Bottom-Up Organizing with Tools from On High: Understanding the Data Practices of Labor Organizers** by Vera Khovanskaya, Phoebe Sengers, Lynn Dombrowski
-- **Bug or Feature? Covert Impairments to Human Computer Interaction** by John V Monaco
-- **Bureaucracy as a Lens for Analyzing and Designing Algorithmic Systems** by Juho Pääkkönen, Matti Nelimarkka, Jesse Haapoja, Airi Lampinen
-- **Celebrating Everyday Success: Improving Engagement and Motivation using a System for Recording Daily Highlights** by Daniel Avrahami, Kristin Williams, Matthew L. Lee, Nami Tokunaga, Yulius Tjahjadi, Jennifer Marlow
-- **Characterizing Twitter Users Who Engage in Adversarial Interactions against Political Candidates** by Yiqing Hua, Mor Naaman, Thomas Ristenpart
-- **Civic Empowerment through Digitalisation: the Case of Greenlandic Women** by Nicola Wendt, Rikke Bjerg Jensen, Lizzie Coles-Kemp
-- **Clinical Documentation as End-User Programming** by Adam Rule, Isaac H. Goldstein, Michael F. Chiang, Michelle R. Hribar
-- **Community Collectives: Low-tech Social Support for Digitally-Engaged Entrepreneurship** by Julie Hui, Nefer Ra Barber, Wendy Casey, Suzanne Cleage, Danny C. Dolley, Frances Worthy, Kentaro Toyama, Tawanna R. Dillahunt
-- **Computing Students' Learning Difficulties in HCI Education** by Alannah Oleson, Meron Solomon, Amy J. Ko
-- **Crafting Critical Heritage Discourses into Interactive Exhibition Design** by Caroline Claisse, Daniela Petrelli, Luigina Ciolfi, Nick Dulake, Mark T. Marshall, Abigail C. Durrant
-- **Creativity on Paid Crowdsourcing Platforms** by Jonas Oppenlaender, Kristy Milland, Aku Visuri, Panos Ipeirotis, Simo Hosio
-- **Critical Race Theory for HCI** by Ihudiya Finda Ogbonnaya-Ogburu, Angela D.R. Smith, Alexandra To, Kentaro Toyama
-- **Crowdsourced Detection of Emotionally Manipulative Language** by Jordan S. Huffaker, Jonathan K. Kummerfeld, Walter S. Lasecki, Mark S. Ackerman
-- **Culture in Action: Unpacking Capacities to Inform Assets-Based Design** by Marisol Wong-Villacres, Carl DiSalvo, Neha Kumar, Betsy DiSalvo
-- **Dark Patterns after the GDPR: Scraping Consent Pop-ups and Demonstrating their Influence** by Midas Nouwens, Ilaria Liccardi, Michael Veale, David Karger, Lalana Kagal
-- **Designing for Social Interaction in the Age of Excessive Smartphone Use** by Hüseyin Uğur Genç, Aykut Coşkun
-- **Designing Trans Technology: Defining Challenges and Envisioning Community-Centered Solutions** by Oliver L. Haimson, Dykee Gorrell, Denny L. Starks, Zu Weinger
-- **Detecting Gender Stereotypes: Lexicon vs. Supervised Learning Methods** by Jenna Cryan, Shiliang Tang, Xinyi Zhang, Miriam Metzger, Haitao Zheng, Ben Y. Zhao
-- **Digital Juries: A Civics-Oriented Approach to Platform Governance** by Jenny Fan, Amy X. Zhang
-- **Disseminating Research News in HCI: Perceived Hazards, How-To's, and Opportunities for Innovation** by C. Estelle Smith, Eduardo Nevarez, Haiyi Zhu
-- **Do I Look Like a Criminal? Examining how Race Presentation Impacts Human Judgement of Recidivism** by Keri Mallari, Kori Inkpen, Paul Johns, Sarah Tan, Divya Ramesh, Ece Kamar
-- **Du Bois Wrapped Bar Chart: Visualizing Categorical Data with Disproportionate Values** by Alireza Karduni, Ryan Wesslen, Isaac Cho, Wenwen Dou
-- **Emergent Self-Regulation Practices in Technology and Social Media Use of Individuals Living with Depression** by Jordan Eschler, Eleanor R. Burgess, Madhu Reddy, David C. Mohr
-- **"Energy is a Finite Resource": Designing Technology to Support Individuals across Fluctuating Symptoms of Depression** by Rachel Kornfield, Renwen Zhang, Jennifer Nicholas, Stephen M. Schueller, Scott A. Cambo, David C. Mohr, Madhu Reddy
-- **Engaging the Commons in Participatory Sensing: Practice, Problems, and Promise in the Context of Dockless Bikesharing** by Ge Gao, Yuling Sun, Yongle Zhang
-- **Expert Discussions Improve Comprehension of Difficult Cases in Medical Image Assessment** by Mike Schaekermann, Carrie J. Cai, Abigail E. Huang, Rory Sayres
-- **Explore, Create, Annotate: Designing Digital Drawing Tools with Visually Impaired People** by Maulishree Pandey, Hariharan Subramonyam, Brooke Sasia, Steve Oney, Sile O'Modhrain
-- **Exploring the Effects of Technological Writing Assistance for Support Providers in Online Mental Health Community** by Zhenhui Peng, Qingyu Guo, Ka Wing Tsang, Xiaojuan Ma
-- **Exploring The Future of Data-Driven Product Design** by Katerina Gorkovenko, Daniel J. Burnett, James K. Thorp, Daniel Richards, Dave Murray-Rust
-- **Factors Influencing Perceived Fairness in Algorithmic Decision-Making: Algorithm Outcomes, Development Procedures, and dividual Differences** by Ruotong Wang, F. Maxwell Harper, Haiyi Zhu
-- **Fairness and Decision-making in Collaborative Shift Scheduling Systems** by Alarith Uhde, Nadine Schlicker, Dieter P. Wallach, Marc Hassenzahl
-- **Fragile Masculinity: Men, Gender, and Online Harassment** by Jennifer D. Rubin, Lindsay Blackwell, Terri D. Conley
-- **How Mandatory Second Factor Affects the Authentication User Experience** by Jacob Abbott, Sameer Patil
-- **How to Trick AI: Users' Strategies for Protecting Themselves from Automatic Personality Assessment** by Sarah Theres Völkel, Renate Haeuslschmid, Anna Werner, Heinrich Hussmann, Andreas Butz
-- **How Well Do People Report Time Spent on Facebook? An Evaluation of Established Survey Questions with Recommendations** by Sindhu Kiranmai Ernala, Moira Burke, Alex Leavitt, Nicole B. Ellison
-- **"I Just Want to Hack Myself to Not Get Distracted": Evaluating Design Interventions for Self-Control on Facebook** by Ulrik Lyngs, Kai Lukoff, Petr Slovák, William Seymour, Helena Webb, Marina Jirotka, Jun Zhao, Max Van Kleek, Nigel Shadbolt
-- **Infrastructural Speculations: Tactics for Designing and Interrogating Lifeworlds** by Richmond Y. Wong, Vera Khovanskaya, Sarah E. Fox, Nick Merrill, Phoebe Sengers
-- **Interpreting Interpretability: Understanding Data Scientists' Use of Interpretability Tools for Machine Learning** by Sensitivity and Automation Levels in Vehicle Collision 
-- **Is Too Much System Caution Counterproductive? Effects of Varying Sensitivity and Automation Levels in Vehicle Collision Avoidance Systems** by Ernestine Fu, Mishel Johns, David A. B. Hyde, Srinath Sibi, Martin Fischer, David Sirkin
-- **Is Your Time Well Spent? Reflecting on Knowledge Work More Holistically** by Hayley Guillou, Kevin Chow, Thomas Fritz, Joanna McGrenere
-- **Let's Talk about Sext: How Adolescents Seek Support and Advice about Their Online Sexual Experiences** by Afsaneh Razi, Karla Badillo-Urquiola, Pamela J. Wisniewski
-- **Mental Models of AI Agents in a Cooperative Game Setting** by Zhang
-- **Monsters, Metaphors, and Machine Learning** by Graham Dove, Anne-Laure Fayard
-- **Move Your Body: Engaging Museum Visitors with Human-Data Interaction** by Milka Trajkova, A'aeshah Alhakamy, Francesco Cafaro, Rashmi Mallappa, Sreekanth R. Kankara
-- **No Explainability without Accountability: An Empirical Study of Explanations and Feedback in Interactive ML** by Alison Smith-Renner, Ron Fan, Melissa Birchfield, Tongshuang Wu, Jordan Boyd-Graber, Daniel S. Weld, Leah Findlater
-- **"Nobody Speaks that Fast!" An Empirical Study of Speech Rate in Conversational Agents for People with Vision Impairments** by Dasom Choi, Daehyun Kwak, Minji Cho, Sangsu Lee
-- **Of Dolls and Men: Anticipating Sexual Intimacy with Robots** by Norman Makoto Su, Amanda Lazar, Jeffrey Bardzell, Shaowen Bardzell
-- **On Being Iterated: The Affective Demands of Design Participation** by Paul Dourish, Christopher Lawrence, Tuck Wah Leong, Greg Wadley
-- **"On Finsta, I can say 'Hail Satan'": Being Authentic but Disagreeable on Instagram** by Lee Taber, Steve Whittaker
-- **Optimizing for Happiness and Productivity: Modeling Opportune Moments for Transitions and Breaks at Work** by Harmanpreet Kaur, Alex C. Williams, Daniel McDuff, Mary Czerwinski, Jaime Teevan, Shamsi Iqbal
-- **Political Hashtags & the Lost Art of Democratic Discourse** by Eugenia Ha Rim Rho, Melissa Mazmanian
-- **Private Responses for Public Sharing: Understanding Self-Presentation and Relational Maintenance via Stories in SociaMedia** by Penny Tri?u, Nancy K. Baym
-- **Questioning the AI: Informing Design Practices for Explainable AI User Experiences** by Q. Vera Liao, Daniel Gruen, Sarah Miller
-- **Race, Gender and Beauty: The Effect of Information Provision on Online Hiring Biases** by Weiwen Leung, Zheng Zhang, Daviti Jibuti, Jinhao Zhao, Maximilian Klein, Casey Pierce, Lionel Robert, Haiyi Zhu
-- **Random, Messy, Funny, Raw: Finstas as Intimate Reconfigurations of Social Media** by Sijia Xiao, Danaë Metaxa, Joon Sung Park, Karrie Karahalios, Niloufar Salehi
-- **Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design** by Qian Yang, Aaron Steinfeld, Carolyn Rosé, John Zimmerman
-- **Researching AI Legibility through Design** by Joseph Lindley, Haider Akmal, Franziska Pillling, Paul Coulton
-- **Self-Interruptions of Non-Driving Related Tasks in Automated Vehicles: Mobile vs Head-Up Display** by Michael A. Gerber, Ronald Schroeter, Li Xiaomeng, Mohammed Mamdouh Zakaria Elhenawy
-- **Silva: Interactively Assessing Machine Learning Fairness Using Causality** by Jing Nathan Yan, Ziwei Gu, Hubert Lin, Jeffrey M. Rzeszotarski
-- **SleepBandits: Guided Flexible Self-Experiments for Sleep** by Nediyana Daskalova, Jina Yoon, Yibing Wang, Cintia Araujo, Guillermo Beltran, Nicole Nugent, John McGeary, Joseph Jay Williams, Jeff Huang
-- **Social Comparison and Facebook: Feedback, Positivity, and Opportunities for Comparison** by Moira Burke, Justin Cheng, Bethany de Gant
-- **Studying the Effects of Cognitive Biases in Evaluation of Conversational Agents** by Sashank Santhanam, Alireza Karduni, Samira Shaikh
-- **The Burden of Ending Online Account Sharing** by Borke Obada-Obieh, Yue Huang, Konstantin Beznosov
-- **The Care Work of Access** by Cynthia L. Bennett, Daniela K. Rosner, Alex S. Taylor
-- **The Politics of Privacy Theories: Moving from Norms to Vulnerabilities** by Nora McDonald, Andrea Forte
-- **The Role of Eye Gaze in Security and Privacy Applications: Survey and Future HCI Research Directions** by Christina Katsini, Yasmeen Abdrabou, George E. Raptis, Mohamed Khamis, Florian Alt
-- **Towards an AI-powered Future that Works for Vocational Workers** by Divy Thakkar, Neha Kumar, Nithya Sambasivan
-- **Twitter A11y: Making Images on Social Media Accessible** by Cole Gleason, Amy Pavel, Emma McCamey, Christina Low, Patrick Carrington, Kris Kitani, Jeffrey P. Bigham
-- **User Experiences with Online Status Indicators** by Camille Cobb, Lucy Simko, Tadayoshi Kohno, Alexis Hiniker
-- **User's Role in Platform Infrastructuralization: WeChat as an Exemplar** by Rui Zhou, Betsy DiSalvo
-- **We are the Greatest Showmen: Configuring a Framework for Project-Based Mobile Learning** by Dan Richardson, Ahmed Kharrufa
-- **"We can learn. Why not?": Designing Technologies to Engender Equity for Home Health Aides** by Emily Tseng, Fabian Okeke, Madeline Sterling, Nicola Dell
-- **What a Driver Wants: User Preferences in Semi-Autonomous Vehicle Decision-Making** by So Yeon Park, Dylan James Moore, David Sirkin
-- **What is AI Literacy? Competencies and Design Considerations** by Duri Long, Brian Magerko
-- **When the Civic Turn turns Digital: Designing Safe and Secure Refugee Resettlement** by Rikke Bjerg Jensen, Lizzie Coles-Kemp, Reem Talhouk
-- **"Why is 'Chicago' deceptive?" Towards Building Model-Driven Tutorials for Humans** by Vivian Lai, Han Liu, Chenhao Tan
-- **Why Johnny Can't Unsubscribe: Barriers to Stopping Unwanted Email** by Jayati Dev*, Emilee Rader, Sameer Patil, *Will the Crowd Game the Algorithm? Using Layperson Judgments to Combat Misinformation on Social Media by Downranking 
-- **Will the Crowd Game the Algorithm? Using Layperson Judgments to Combat Misinformation on Social Media by Downranking Distrusted Sources** by Ziv Epstein, Gordon Pennycook, David Rand
+
+{% assign proceedings = site.data.chi_2020 | sort: 'authors' %}
+<ul class="list-group-flush" style="padding-inline-start:0px">
+{% for paper in proceedings %}
+    <li class="list-group-item {% if paper.url == null or paper.url == false %} list-group-item-secondary {% endif %}">
+    {% if paper.url == null or paper.url == false %}
+    <span class="text-black"><span class="font-weight-bold">{{paper.title}}</span> by {{paper.authors| array_to_sentence_string }}</span>
+    {% else %}
+    <a class="stretched-link" target="_blank" href="{{paper.url}}"><span class="font-weight-bold title">{{paper.title}}</span> <span class="text-decoration-underline">by {{paper.authors| array_to_sentence_string }}</span></a>
+    {% endif %}
+    </li>
+{% endfor %}
+</ul>
 
 --- 
 

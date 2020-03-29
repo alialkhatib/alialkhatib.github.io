@@ -8,8 +8,6 @@ I study human-computer interaction - more precisely, I study how people relate t
 
 That's a little dense. Let me try again...
 
----
-
 I mostly think about problems situated in technology - how [gig work disempowers workers][gig work], or [why AI makes so many frustrating errors][AI].
 I try to figure out ways that we can think about those problems essentially as *social* relationships between people and systems that do things people used to do. Most of the time I do this by adapting and extending theories from other fields - fields that mostly study relationships between people - to help frame how we make sense of these problems.
 
