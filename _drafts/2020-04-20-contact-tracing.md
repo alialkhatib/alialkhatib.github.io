@@ -17,10 +17,11 @@ Digital contact tracing promises to answer the question of whether we might be s
 Apple and Google are working on a cross-platform system to track who may be sick and how it may be spreading.
 First, let's say something good: it is **not** a central repository of everyone's personal identifiers and GPS coordinates. This isn't like Snapchat's friends map scaled up to the whole world, or a database of where everyone's been like on Google Maps or Strava or whatever.
 
-The way Google and Apple are doing this is kind of novel, and they're doing this un-obvious thing for intentional reasons to protect people's privacy, so I want to make sure we're on the same page about what it does and doesn't do.
-Instead of recording **where** you are and **when**, your phone records **who** you're near throughout the day.
+The way they're doing this is actually kind of indirect, and they're doing it in this indirect, un-obvious way for intentional reasons to protect people's privacy, so I want to make sure we have a reasonable intuition about what this thing does (and what it can't) do.
 
-For the sake of this example, let's say your phone sent out a signal every 5 minutes with a unique word. So from 12pm to 1pm, your phone would send out these messages:
+The one-sentence explanation is that *instead of recording **where** you are and **when**, your phone records **who** you're near*. To illustrate what this means, let's make up and walk through an example.
+
+Under this program, your phone would send out a signal every 5 minutes with a unique word. So from 12pm to 1pm, your phone would send out messages like this:
 
 > 12:00: `Apple`
 >
@@ -48,24 +49,46 @@ For the sake of this example, let's say your phone sent out a signal every 5 min
 >
 > 13:00: `Kumquat`
 
-Now, if you were alone on an island, that'd be it. But if you're around another phone playing the same game, that other phone will hear the messages and save them for some amount of time. Let's say I was in line behind you at the supermarket for 10 minutes from 12:12 to 12:22. Since I'd be close to you (let's say close enough to pair bluetooth headphones), I would get the messages `Kiwi` (at 12:15) and `Potato` (at 12:20), and my phone would hold on to that. I don't get your name, number, or any other information about you. Just the two words.
+In this system, no other phone is sending out these exact words; if anyone ever hears `Kumquat`, it's because their phone was near your phone at 1pm.
+Let's say I was in line behind you at the supermarket for 10 minutes from 12:12 to 12:22. Since I'd be close to you (let's say close enough to pair bluetooth headphones), I would get the messages `Kiwi` (at 12:15) and `Potato` (at 12:20), and my phone would hold on to that. I don't get your name, number, or any other information about you. Just the two words. We're each just sending out unique words every 5 minutes and keeping track of what we happen to hear. This app isn't keeping track of who we are or where we are - just what words it's hearing.
 
-Now let's say that you feel sick at 1pm, so you go to the doctor and a PCR test comes back positive for COVID-19. You'll go into your phone and say "I just tested positive for COVID-19", and your phone will send the last several days' worth of words to some database. Something like `{Apple, Banana, Orange, Kiwi, Potato, Cherry, Tomato, Pear, Coconut, Orange, Peach, Eggplant, Kumquat}`, but thousands of words because you might've had it for a few days, so all of the words you've been broadcasting for the last few days are relevant. Now when my phone checks in with the database and downloads all the new words, it'll check and find that I had heard `Kiwi` and `Potato`, which means I must have been near enough for our phones to chat for something like 10 minutes.
+Now let's say that you feel sick at 1pm, so you go to the doctor and a PCR test comes back positive for COVID-19. You'll go into your phone and say "I just tested positive for COVID-19", and your phone will send the last several days' worth of words to some database. Something like `{Apple, Banana, Orange, Kiwi, Potato, Cherry, Tomato, Pear, Coconut, Orange, Peach, Eggplant, Kumquat}`, but thousands of words (since you might have had it for a few days before showing symptoms, all the words you had sent out for the last several days are relevant).
 
-Is 10 minutes a big deal? Not that big a deal, no. But what if I had heard **all** of the words *except* for `Apple` and `Banana`? That would mean that from 12:10pm to 1pm I was close enough to you that our phones were exchanging words. The 10-minute example is something like standing behind someone in line at the grocery store. This 50-minute example is more like having lunch at the table next to you at a restaurant.
+When my phone checks in with the database and downloads all the new words it has, it'll check and find that I had heard `{Apple, Banana}`, which means I must have been near enough for our phones to chat for something like **10 minutes**. Is 10 minutes a big deal? No, not really. But what if I had heard **all** of the words above **except** for `{Apple, Banana}`? That would mean that from 12:10pm to 1pm I was close enough to you that our phones were exchanging words. The 10-minute example is something like standing behind someone in line at the grocery store. This 50-minute example is more like having lunch at the table next to you at a restaurant.
 
-Let's change the scenario from grocery stores and restaurants to something more sensitive: Let's say both of us were at an *STD clinic* at the same time for 45 minutes; what's relevant is that we were *someplace together* at the same time, not where that place was. This approach claims to give us the *someplace together* answer without revealing the *STD clinic* detail. All anyone knows is that you sent out a bunch of words, and I heard like 45 minutes' worth of that stuff. Where exactly were you when you sent `Tomato`? Doesn't matter. What were we doing when I received `Eggplant`? Not relevant.
+Let's change the scenario from grocery stores and restaurants to something more sensitive: Let's say both of us were at an *STD clinic* at the same time for 45 minutes; what's relevant is that we were *someplace together* at the same time, not where that place was. This approach claims to give us the *someplace together* answer without revealing the *STD clinic* detail. All anyone knows is that you sent out a bunch of words, and I heard like 45 minutes' worth of that stuff. Where exactly were you when you sent `Tomato`? Doesn't matter. What was I doing when I received `Eggplant`? Not relevant.
 
 
-A system sensitive to this kind of nuance was absolutely necessary, but designing it in this way wasn't, and it's praiseworthy that they're doing something complicated and a little confusing for the *right* reasons. If you look at Strava or Snapchat or some other location-tracking app, we always think in terms of dots or lines on a map; this fundamentally rethinks that kind of cartography. In the context of COVID-19, all anyone really needs to know is that we were *near* each other. This strives to give us that and nothing else.
+A system sensitive to this kind of nuance was absolutely necessary, but designing it in this way wasn't, and it's at least a little praiseworthy that this system is being developed in a slightly complicated and confusing way with the right *goal* in mind. If you look at Strava or Snapchat or some other location-tracking app, we always think in terms of dots or lines on a Cartesian grid-like system; this throws out that cartography. In the context of COVID-19, all anyone really needs to know is that we were *near* each other. This approach strives to give us that *and nothing else*.
 
-Okay, let's talk about why this is a bad idea.
+Okay, let's talk about *a few of the* reasons this approach is limited, flawed, or straight-up missing the mark it claims to aim for. The major themes are the following:
+
+- Many people don't have the technical means for the digital contact tracing system Apple and Google are developing; the people excluded by this scheme are specifically the people who are at the most risk.
+- Digital contact tracing gives us an incomplete picture of our situation, and not merely a stochastically or arbitrarily spotty picture, but a picture that systematically leaves out the people most at risk.
+- I don't give a shit about the GPS coordinates (you damned idiots)
+- People in the US in particular (but also in places where colonialism has left a deep imprint on the culture of marginalized people - ie everywhere?) have very little reason to trust corporate parties like Google and Apple; in the US we have similarly little reason to trust that a Trump administration will even bother to try to regulate or manage their behavior.
+
+
+
+#### Many people don't have the technical means to participate in this scheme
+This has shown up most recently on Ars Technica/Forbes. There's not much more to say to this, except that billions of people won't be able to benefit from either side of this scheme; they won't be able to participate in adding to the contact-tracing network, nor will they be notified or warned in any meaningful way when someone close to them tests positive for COVID-19.
+
+#### Digital contact tracing that operates on personal technical devices will give us a dangerously incomplete picture
+We're seeing reports from hospitals and the CDC about the demographics of the people who tend to die from COVID-19. People of color, people working in the service industry, 
+
+
+
+Contact tracing has proven to be an important tool for countries that seem to have gotten a handle on the pandemic. We should seriously consider widespread contact tracing. But if we start this program with systemic gaps from the start, we're never going to come out the other side with anything but garbage data. The people doctors have expressed worry about are precisely the group of people who don't have the tools necessary to participate even if they wanted to be the subjects of constant surveillance.
+
+#### The GPS coordinates were never the problem; the relationships with people were.
+
+#### Silicon Valley has virtually no earned trust
+
+
 
 ---
 
 
-
-Now let's say tomorrow you feel sick, so you go to the doctor and you test positive for COVID-19. You report through your phone that you've tested positive, and it automatically sends the last several days' worth of fruits that you've been broadcasting. I get a notification that someone who had been broadcasting `Apple` and `Banana` and `Orange` and `Kiwi` has tested positive, and my phone checks to see if it's ever heard those. Maybe I was standing behind you in line at the grocery store. If I was near you by chance at 12pm, maybe I only heard `Apple`; maybe low risk. On the other hand, maybe I heard `Apple`, `Banana`, `Orange`, and `Kiwi`. If my phone has heard all those words, that means I must've been near you for a long time, and I should be more concerned. Maybe I should take action, like getting tested or self-quarantining. The more fruits I heard, the longer I must've been around you, and the more likely I was to have caught something from you.
 
 
 #### Digital contact tracing gives us an incomplete picture of our situation, and a false sense of certainty
