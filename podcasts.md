@@ -25,14 +25,14 @@ If there's a comedian you like and you haven't seen what they're up to lately, c
 - [Griefcast][gfc] isn't a comedy podcast *per se*, which is never a strong start, but Cariad Lloyd is a really funny British comedian (I know, more British stuff? Don't need your judgment right now). She interviews other comedians about grief and death and it's painful and funny and leaves me feeling a little more resilient at the end of each episode.
 - [Inside Conan: An Important Hollywood Podcast][icaihp] might not be active anymore. I think the last episode was from December last year. Now that I think about it, they might not know how (or whether) to run a podcast of the "behind the scenes" of a show that's not currently in production, what with the pandemic. The back catalog is fun though.
 
-#### [dreamgun film reads][dfr]
+#### [Dreamgun Film Reads][dfr]
 
 These British comedians do a funny reading of a famous movie like _The Matrix_ or _Shawshank Redemption_ or _Toy Story_. It's **extremely** re-listenable.
 
 ##### some more like this
 - [Improvised Star Trek][ist] maybe? I'm not sure I know of a lot of examples of this to be honest.
 
-#### [even more news][emn]
+#### [Even More News][emn]
 
 Normally won't recommend news stuff but I really like the hosts. There are a lot of news podcasts out on the internet (probably ~100 or so of the things I've subscribed to, at least 2/3 of the stuff I'm actively subscribed to), and I'm sure you'll find a groove of commentary and news updates and whatnot that satisfies you. But _Even More News_ feels more like you're listening to a conversation about current events than being told what's going on. Give it a listen.
 
@@ -58,7 +58,7 @@ _No Such Thing as a Fish_ is a british podcast where 3 or 4 people talk about th
 ##### some more like this
 - ??? I don't know? I'll take recommendations on this if you have any.
 
-#### [somehow I manage][sim]
+#### [Somehow I Manage][sim]
 
 There are LOTS of good podcasts recapping tv shows episode by episode, and even several about _The Office_ (and even a podcast hosted by two of the major characters), but I like this more. What I'm about to say is going to be sensitive, because this whole "episodic recap of the show" genre is fairly big, and I'm sure I'm going to say something untactful:
 
@@ -72,7 +72,7 @@ Anyway, that's my treatise.
 - [The Greatest Generation][tgg]: Like _Star Trek_? You'll love this. Two guys who are a little bit embarrassed to have a podcast about _Star Trek_ have several podcasts about _Star Trek_. Way to go, guys.
 - [Office Ladies][ol] is the official _The Office_ podcast. It's good, but see the above on my caveats.
 
-#### [trailblazers][tb]
+#### [Trailblazers][tb]
 
 Ryan Broderick and a few other guys satirically typify the "N guys talking" playlist that I have in Overcast. Ryan writes a lot about internet culture, so this podcast seems like an outlet for him and some of his friends to talk about what's new in memes and stuff. If you don't have time for a podcast and want to read something instead, I recommend [Garbage Day][gd] newsletter.
 
