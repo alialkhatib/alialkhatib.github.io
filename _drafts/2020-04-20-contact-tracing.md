@@ -24,29 +24,29 @@ The one-sentence explanation is that *instead of recording **where** you are and
 Under this program, your phone would send out a signal every 5 minutes with a unique word. So from 12pm to 1pm, your phone would send out messages like this:
 
 > 12:00: `Apple`
->
+> 
 > 12:05: `Banana`
->
+> 
 > 12:10: `Orange`
->
+> 
 > 12:15: `Kiwi`
->
+> 
 > 12:20: `Potato`
->
+> 
 > 12:25: `Cherry`
->
+> 
 > 12:30: `Tomato`
->
+> 
 > 12:35: `Pear`
->
+> 
 > 12:40: `Coconut`
->
+> 
 > 12:45: `Orange`
->
+> 
 > 12:50: `Peach`
->
+> 
 > 12:55: `Eggplant`
->
+> 
 > 13:00: `Kumquat`
 
 In this system, no other phone is sending out these exact words; if anyone ever hears `Kumquat`, it's because their phone was near your phone at 1pm.
