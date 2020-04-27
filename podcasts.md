@@ -94,6 +94,7 @@ Then again, I've already started getting DMs asking me to listen and recommend t
 [bbctf]: https://www.bbc.co.uk/programmes/p004kln9
 [nstaaf]: https://audioboom.com/channel/nosuchthingasafish
 [sim]: https://www.theincomparable.com/sim/
+[tgg]: https://maximumfun.org/podcasts/greatest-generation/
 [tb]: https://garbageday.substack.com/podcast
 [be]: http://bit.ly/bunnyearspodcast
 [gd]: https://garbageday.substack.com/
