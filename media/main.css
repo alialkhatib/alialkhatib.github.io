@@ -6248,7 +6248,7 @@ img {
   width: 100%;
 }
 article.preview {
-  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 article.preview h3 {
   margin: 0;
@@ -6258,12 +6258,12 @@ article.preview h3 a {
   text-decoration: none;
 }
 article.preview .excerpt p {
-  margin: 0;
+  margin-top: 0.5em;
 }
 article.preview.alone h3 {
 }
 article.full {
-  margin-top: 1em;
+  margin-top: 0.5em;
 }
 article.full h1 {
 }

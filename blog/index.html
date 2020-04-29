@@ -3,22 +3,16 @@ layout: default
 title: Blog
 ---
 
-<!-- <p class="tagline">
-<a href="{{ site.base }}/blog.xml" class="feed">
-    Subscribe
-</a>
-</p> -->
-
 {% for post in site.posts %}
 <article class="preview">
-    <p class="tagline">
-        {{ post.date || date_to_long_string }}
-    </p>
-    <h3>
+    <p class="tagline">{{ post.date || date_to_long_string }}</p>
+    <h1 class="with-tagline">
         <a href="{{ site.base }}{{ post.url }}">{{ post.title }}</a>
-    </h3>
+    </h1>
+
     <div class="excerpt">
         {{ post.excerpt | replace: 'SITE_BASE', site.url | markdownify }}
     </div>
 </article>
+<hr>
 {% endfor %}
