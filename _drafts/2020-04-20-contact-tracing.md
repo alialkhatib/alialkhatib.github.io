@@ -4,11 +4,7 @@ Last year I wrote about "[digital forests][]" and the harmful downstream effects
 
 The schemes we're reading about - some from joint partnerships such as Apple & Google, others unilaterally presented by surveillance startups such as [Palantir][palantir proposal] and [Clearview AI][clearview proposal] - all offer their own flavors of dehumanizing omnipresent surveillance. For this post, I'm going to focus on the only credible proposal - the one Apple & Google have floated - because I hardly even know where to start with the other proposals. Let's just let it suffice to say that we shouldn't take Palantir's offer [to surveil us even more than they already do][palantir surveillance], and taking up Clearview's proposal after [they scraped all of our images without our consent][clearview data] and after [numerous embarrassing data breaches][clearview data breaches] would put us in the stupidest of all the timelines. (ali: okay this is getting mean-spirited)
 
-<!-- It also doesn't feel fair to attack a "straw-man" of all of the weakest aspects of all of the surveillance schemes that are coming out of the woodwork right now, and picking a fight with the weakest possible amalgamation of these proposals only undermines the real, and valid, issues. So let's talk about exactly what the proposal from Apple & Google would entail - as nebulous as it is, since the app doesn't exist yet. If you know exactly what their digital contact tracing proposal entails, then feel free to skip ahead to "[welcome back][]", but chances are that in the time since I started writing this post something has changed, so if for no other reason than to date things, you should probably at least skim the description to know what the situation was at when I wrote this. -->
-
 Let's talk about what digital contact tracing generally entails by using the system generally being described by Apple & Google as a model case. If you know what their proposal entails, feel free to skip ahead to "[welcome back][]", but chances are that in the time since I started writing this post something has changed, so if for no other reason than to date things, you should probably at least skim the description to know what the situation was at when I wrote this.
-
-<!-- (For instance, when I started writing this post, we had never had a president who had ever suggested that people drink bleach; in the week or so that I took writing this, that has changed. So, lots of things moving around right now.) -->
 
 ## What this scheme will do (more or less, at the time of writing)
 
@@ -56,7 +52,6 @@ When my phone checks in with the database and downloads all the new words it has
 
 Let's change the scenario from coffee shops and restaurants to something more sensitive: Let's say both of us were at an *STD clinic* at the same time for 45 minutes; what's relevant is that we were *someplace together* at the same time, not where that place was. This approach promises to give us the *someplace together* answer without revealing the *STD clinic* detail. All anyone knows is that you sent out a bunch of words, and I heard the words that put us in the same place for about 45 minutes. Where exactly were you when you sent `Tomato`? Doesn't matter. What was I doing when I received `Eggplant`? Don't worry about it.
 
-
 Designing a system that goes out of its way like this to avoid knowing the literal location that you're at wasn't the simplest approach, and it's at least a little praiseworthy that this system is being developed in a slightly complicated and confusing way with the right *goal* in mind. If you look at Strava or Snapchat or some other location-tracking app, you can always see yourself as a dot on a map, moving around perhaps with other dots on the same map; this throws out that entire approach. In the context of COVID-19, all anyone really needs to know is that we were *near* each other. This approach strives to give us that *and nothing else*.
 
 Okay, so long as we're clear on what this system does, let's talk about why this isn't going to work.
@@ -66,7 +61,6 @@ Okay, so long as we're clear on what this system does, let's talk about why this
 To quote Arundhati Roy, "If we were sleepwalking into a surveillance state, now we are running toward it because of the fear that is being cultivated". In some cases this is happening with little collective input; in others, virtually or literally none whatsoever. We ought to have a right to determine whether our freedom, our privacy, or indeed our dignity - should be traded away in exchange for a promise of safety, especially if that promise is as dubious as this.
 
 And this is one hell of a dubious solution. Let's talk about why.
-
 
 #### This system will exclude the poor. On this most basic requirement, it fails
 
@@ -79,7 +73,6 @@ Any solution that disproportionately favors the wealthy to the point of excludin
 
 *This program so staggeringly misses the point of care that we should be most concerned with that it boggles the mind how it came to this.*
 
-
 #### The exclusions that emerge from this system will decisively undermine its accuracy
 
 Even if we don't care about the classist nature of this digital contact tracing scheme, and if all we care about is ourselves, we should at least be troubled by the implications of excluding the poor: if the people who serve many of us can't receive notifications or insight about their exposure to COVID-19 cases, then even the people with fancy smartphones and the contact tracing app will unwittingly leave a massive - and, crucially, non-random - gaps in their model.
@@ -88,16 +81,12 @@ If you talk to any statistician (including epidemiologists), they'll tell you th
 
 *Even if we don't care about the people who are most at risk, we should care that the gaps in our knowledge will be decisive and non-random, sabotaging any hope of knowing the vectors and other risks we've been exposed to.*
 
-<!-- The only reason you would accept such a skewed sample would be if the population you were concerned for was represented by that affluent group - if you only really cared about people wealthy enough to own homes in the Bay Area, for instance. And therein lies the grim truth: contact tracing systems that demand people have modern consumer electronic devices subscribe to an ethical school of thought that favors the wealthy. But as we just discussed, even that crass sacrifice won't work here - viruses don't care that you have a mortgage. -->
-
 
 #### Proximity is turning out to be a dangerously simplistic way to model transmission
 
 There are issues inherent to proximity-based contact tracing that have nothing to do with access, as well. Recent studies have shown that people don't need to be in proximity to someone with COVID-19 to catch it - [they can just be *downwind* of that person][restaurant study]. The reality is that the world is messy and confusing and doesn't model well according to the bubble of what's within range of a Bluetooth module on your smartphone. These don't represent one-off errors; they're sweeping categories representing gaps in our knowledge about potential exposures.
 
-
 *Digital contact tracing systems that render the world as normally distributed space with spheres of influence characterized by radio waves will consistently leave us with dangerously wrong pictures of our exposure.*
-
 
 #### Proximal tracing doesn't preserve privacy the way advocates seem to think it does
 
@@ -107,14 +96,13 @@ Neither of these approaches is particularly helpful to me when I'm trying to mai
 
 This isn't to say that proximal tracking is a bad idea, but it misses the point of the concern. [Proximal location tracking has already recently been used to out dozens, perhaps hundreds, of gay men in Morocco][morocco]. It didn't help that their exact locations were obscured; they were "nearby". They were outed by their *associations*, not by their *coordinates*.
 
-
 *The things we want to keep private are the associations we maintain with one another, which digital contact tracing exclusively tracks.*
 
 #### These are just the beginning of the issues
 
 I haven't talked about any of the other deeper issues here: these kind of personal surveillance schemes are demeaning, and [marginalized communities that have had to endure them for decades could tell you that][combsthepoet via Rachel]. That we should get to decide whether we're okay with this, rather than waiting and watching as countries like Germany and France - panicked and overwhelmed by the virus to one side and technocrats on the other - give in to whatever someone tells them with enough confidence. But this is the problem; we're overwhelmed and terrified, and we want answers. Answers to anything. Any kind of certainty.
 
-
+The decisions we make now are going to follow us around for generations. It's important that we move quickly, but it's as important that we don't 
 
 #### What can we say with certainty?
 
@@ -125,23 +113,59 @@ There's a great deal that I can offer with certainty, but none of it calls for c
 - We need people to be trained as contact tracers. I'm not talking about drones or AIs or any of this nonsense; I'm talking people with brains and feet and pencils and little notepads to take notes and shit. We need an army the likes of which we've never seen before to be able to individually navigate all the weird quirks when someone says they went to a coffee shop and sat in the corner, and we show up and find out they were sitting just underneath the HVAC system blowing on them. We need humans to use their brains and their discretion and their judgment as they track down all these vectors. Now's not the time for pet projects in mass surveillance.
 - We need a radical change in how we look at labor. When the cashier at the coffee shop feels sick, they need to take time off immediately. If 90% of sick leave becomes exploitative of generous policies, the other 10% represents another global pandemic averted because a cashier at a coffee shop took time off rather than spreading a disease to a thousand or more people in just a day. The only way this can happen is if sick leave policies became sensible, if we guarantee living wages so people don't end up coerced to work, and housing guarantees so that people don't end up on the street where they're at even more risk of getting sick. We've tried this stupid game of capitalism where we coerce people into doing things they don't want to do. That has now become toxic and dangerous for everyone around the person being coerced, including us. If we want to live, we have to stop this nonsense.
 
+
+---
+
+*note from ali: this is a pretty mediocre conclusion but i hate to end on bullet points*
+
 The problems we're struggling with right now are social and medical in nature. I realize it's tempting to try to offer solutions to the problems we're dealing with, but engineers have a terrible track record of offering fixes to things that only complicate the problem we originally set out to address. And the common thread to all of it is a tendency to promise that the technical solution will resolve the social problem; it never does, and I'm not sure that it ever can.
 States across the country aren't experiencing catastrophic failures with welfare programs written in COBOL because of anything to do with COBOL - the problem came from tech advocates promising that these algorithmic systems would "once and for all" resolve all the problems of administrating the welfare programs that once called for clerks. The people in that system - constantly reconvening and discussing and reevaluating the implementation and rationale of the logic that motivated these bureaucracies - were capable of constant iterative changes given new and developing circumstances. COBOL programs are not.
 
-
 What we need is to reevaluate our values and implement them. In some limited contexts, algorithmic systems can be beneficial tools to get some sense of what's happening; but as central or decisive agents that motivate and execute services that we mean for all people to enjoy, they will almost certainly cause unimaginable harms.
 
-<!-- No matter what dynamic programming or deep learning system we implement, programs don't adapt to circumstances the way humans do. This was the most basic thesis of my paper on [street-level algorithms][] last year, and I think it applies here. -->
 
 
-<!-- We might be able to survive with a few of these changes. But novel pandemics will become a recurring new normal if we don't substantively change our society so that people can afford to make the decisions for their own health that also support the public's health. As long as the wealthy get preferential treatment and testing and tracking, and as long as the poor feel pressure to work through the cough that they can't even afford to get checked by a doctor, we will continually return to this feeling of uncertainty and fear that we've been experiencing this past month. -->
+---
+some notes:
 
+- there's a lot more to point to that can help illustrate the disproportionate death toll that's happening along class, race, and gendered lines. my head's spinning to bring it all together, but some notes that i'm aware of off the top of my head:
+  + [African American patients are dying at a much higher rate than white patients][AA death rates]. [infection rates][AA infection rates] tell a similar story
+  + [Lois Beckett has written about the first US inmate to die of coronavirus - a woman who had just given birth while on a ventilator][prison coronavirus death]
+  + [coronavirus contraction rates are substantially higher in prisons (appx 18% in one prison) vs outside prison][prison rates]. in other prisons, where testing is happening at a much lower rate, [the death rate suggests an unimaginably rampant pandemic inside][new jersey prisons]
+  + [the Marshall Project][] is tracking this
+  + there are also immigrants being [detained by ICE testing positive for COVID-19][detainment by ICE]
+  + [Native American tribes are being left out of pandemic response][native american data]
+- Tawana Petty has written about her observations of [how the US handled the AIDS epidemic][watched and still dying], specifically pointing out "Those who test positive for HIV and AIDS, remain among some of the most tracked people in the United States. Their surveillance has not led to a feeling of safety for survivors I have spoken with, nor has it led to a cure".
 
+  i want to bring this point up, but it seems like i need to pick a point to make - are historically marginalized groups going to get ignored by this technocentric scheme, or are they going to be scrutinized and watched while they die? the nuanced claim would be that the wealthy and powerful will get to benefit from the knowledge of the system, but the poor will be subjected to it as data inputs, but not necessarily privy to the results that come out of it. e.g. maybe they need to check in before they start their shifts using a device maintained by the company for which they work, but that device won't communicate back to them the way it would if it was their personal device. threading the needle this way would be a risky prediction because it seems awfully precise in predicting the dynamics that'll take shape, and i'm not sure i have evidence to go here.
 
-<!--Will COVID-19 endanger everyone? Probably not. We thought for some time that children were relatively safe, until a 5-year-old Black girl died from COVID-19 and made clear that, as with many diseases, COVID-19 is more deadly for the poor and people who are marginalized.-->
+  i could narrate it as speculative fiction, and in that context i think it wouldn't be that far-fetched, but this post is awfully long as it is, without a section describing a potential future world.
+- the COBOL point ~~feels like~~ is a stretch now. once i get over it, i'll delete it. but for now i want to see if i can bring some of these phenomena together so that i feel like things wrap up neatly. otherwise it just feels like everything is on fire all at the same time for totally independent reasons.
+
+  if anyone's thinking of workshopping it, the basic feeling i want to get to is that we've bought into a narrative about automating things in our life to make things simpler, and they *can* make things simpler, but the kernel of work - the stuff that went into coding the COBOL systems in the first place - needed to be revisited and debated and reaffirmed. code can potentially help with some aspects of that, but we can't set it on autopilot and then take a nap.
+
+- i ran the explanation of digital contact tracing by some people who don't work in tech and they seemed to understand the basic idea. at the other end of the spectrum are a few questions:
+  1. is this a good-faith, reasonably accurate technical description?
+  2. is this description totally unnecessary for the audience?
+ 
+  i think a case could be made that i shouldn't waste 5 minutes of people's time building up the thing i'm about to knock down, except that 1. i feel it helps prove that i know what i'm talking about (and not just brandishing a pitchfork); and 2. i do have some sort of moral feeling about defeating this proposal in its most potent form, to prevent people from trying to shore up the issues with patchy fixes to try and squeak by.
+
+- the big issue that i'm still afraid to ask is whether the meta thesis is clear. i've raised a few points that i think are valid (the people that will be left out, the blind spot that'll leave us with, etc...), but the underlying argument that (tentatively, that solutions that center and elevate technology are doomed to fool us into ignoring people who don't manage to read as "legible" to the systems we designed for wealthy people with fancy smartphones) might need to be hammered home repeatedly, or stated in big bold letters at the top, or something. i think when i look at this with fresh eyes i'll feel more comfortable about being less subtle, but writing it i think i felt uncertain making such a bold claim.
+- i don't know why, but the cartoon show _The Jetsons_ kept coming to mind, and i found myself wondering "what if there were people living below the houses above the clouds, so far below the protagonists that nobody on our level even knew they existed". something about that visual metaphor feels salient and unsettling, but a reference to a cartoon that originally aired in the 60s and then again in the 80s seems like asking for trouble.
+- i know we said perfect is the enemy of good, so if it comes down to it i'll drop all these notes (except the ones that will take a minute to incorporate into the post), fix up the links, and then post it; but these are all reasonably low-hanging fruit. i don't think i need to do a ton of internal reflection or seeking out new information here.
+
 
 [welcome back]: #welcome-back
 
+[detainment by ICE]: https://www.theguardian.com/world/2020/apr/28/iran-scientist-us-detention-coronavirus-sirous-asgari
+[watched and still dying]: https://www.odbproject.org/2020/04/26/watched-and-still-dying/
+[AA infection rates]: https://www.nytimes.com/2020/04/07/us/coronavirus-race.html
+[AA death rates]: https://www.theguardian.com/world/2020/apr/08/its-a-racial-justice-issue-black-americans-are-dying-in-greater-numbers-from-covid-19
+[native american data]: https://www.theguardian.com/us-news/2020/apr/24/us-native-americans-left-out-coronavirus-data
+[the Marshall Project]: https://www.themarshallproject.org/2020/04/24/tracking-the-spread-of-coronavirus-in-prisons
+[prison rates]: https://www.inquirer.com/news/coronavirus-testing-montgomery-county-jail-asymptomatic-philadelphia-prisons-20200428.html
+[prison coronavirus death]: https://www.theguardian.com/world/2020/apr/29/coronavirus-andrea-circle-bear-federal-prison-death
+[new jersey prisons]: https://theintercept.com/2020/04/28/coronavirus-new-jersey-prisons/
 [digital forests]: #
 [palantir surveillance]: #
 [clearview data breaches]: #
