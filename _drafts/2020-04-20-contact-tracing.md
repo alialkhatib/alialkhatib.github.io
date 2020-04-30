@@ -232,3 +232,4 @@ some notes:
 [sentinel surveillance]: https://www.cdc.gov/vaccines/pubs/surv-manual/chpt19-enhancing-surv.html
 [education tech access]: https://blogs.microsoft.com/on-the-issues/2019/04/08/its-time-for-a-new-approach-for-mapping-broadband-data-to-better-serve-americans/
 [street-level algorithms]: /papers/chi/street-level_algorithms/street-level_algorithms.pdf
+[nyt stats]: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html#clusters
