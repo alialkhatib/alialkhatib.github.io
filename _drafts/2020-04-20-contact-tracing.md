@@ -4,13 +4,13 @@ Last year I wrote about "[digital forests][]" and the harmful downstream effects
 
 The schemes we're reading about - some from joint partnerships such as Apple & Google, others unilaterally presented by surveillance startups such as [Palantir][palantir proposal] and [Clearview AI][clearview proposal] - all offer their own flavors of dehumanizing omnipresent surveillance. For this post, I'm going to focus on the only credible proposal - the one Apple & Google have floated - because I hardly even know where to start with the other proposals. Let's just let it suffice to say that we shouldn't take Palantir's offer [to surveil us even more than they already do][palantir surveillance], and taking up Clearview's proposal after [they scraped all of our images without our consent][clearview data] and after [numerous embarrassing data breaches][clearview data breaches] would put us in the stupidest of all the timelines. (ali: okay this is getting mean-spirited)
 
-It also doesn't feel fair to attack a "straw-man" of all of the weakest aspects of all of the surveillance schemes that are coming out of the woodwork right now, and picking a fight with the weakest possible amalgamation of these proposals only undermines the real, and valid, issues. So let's talk about exactly what the proposal from Apple & Google would entail - as nebulous as it is, since the app doesn't exist yet. If you know exactly what their digital contact tracing proposal entails, then feel free to skip ahead to "[welcome back][]", but chances are that in the time since I started writing this post something has changed, so if for no other reason than to date things, you should probably at least skim the description to know what the situation was at when I wrote this.
+<!-- It also doesn't feel fair to attack a "straw-man" of all of the weakest aspects of all of the surveillance schemes that are coming out of the woodwork right now, and picking a fight with the weakest possible amalgamation of these proposals only undermines the real, and valid, issues. So let's talk about exactly what the proposal from Apple & Google would entail - as nebulous as it is, since the app doesn't exist yet. If you know exactly what their digital contact tracing proposal entails, then feel free to skip ahead to "[welcome back][]", but chances are that in the time since I started writing this post something has changed, so if for no other reason than to date things, you should probably at least skim the description to know what the situation was at when I wrote this. -->
 
-(For instance, when I started writing this post, we had never had a president who had ever suggested that people drink bleach; in the week or so that I took writing this, that has changed. So, lots of things moving around right now.)
+Let's talk about what digital contact tracing generally entails by using the system generally being described by Apple & Google as a model case. If you know what their proposal entails, feel free to skip ahead to "[welcome back][]", but chances are that in the time since I started writing this post something has changed, so if for no other reason than to date things, you should probably at least skim the description to know what the situation was at when I wrote this.
+
+<!-- (For instance, when I started writing this post, we had never had a president who had ever suggested that people drink bleach; in the week or so that I took writing this, that has changed. So, lots of things moving around right now.) -->
 
 ## What this scheme will do (more or less, at the time of writing)
-
-Apple & Google have announced they're working together on a cross-platform system to track who may be sick and how it may be spreading.
 
 First, let's say something good: it is **not** a central repository of immediately personally identifying information and GPS coordinates. This isn't like Snapchat's friends map scaled up to the whole world, or a database of where everyone's been like on Google Maps or Strava or whatever.
 
@@ -68,24 +68,38 @@ To quote Arundhati Roy, "If we were sleepwalking into a surveillance state, now 
 And this is one hell of a dubious solution. Let's talk about why.
 
 
+#### This system will exclude the poor. On this most basic requirement, it fails
+
 In the description I made earlier, I pointed out that Apple & Google's plan calls for some sort of proximity detection, probably involving bluetooth and some of the fancier, newer technology that your smartphone may have if it was introduced in the last 1-2 years. This means that people without new smartphones won't be able to benefit from alerts to this system unless they upgrade to newer phones - something they almost certainly can't afford to do, nor should they be obligated to in order to receive necessary information about risk exposure. Ars Technica recently published a report that [several billion smartphones don't have the technology necessary to participate in the proximal location sensing scheme Apple & Google are talking about][2b phones].
 
 I hate to underline the point, but we're specifically talking about people who are already enduring steep and crushing poverty. We're talking specifically about people who are disproportionately Black, Indigenous, or other people of color; we're talking specifically about people who are already under immense pressure to take whatever work they can find, including high-risk essential work like logistics for Amazon in their [obscenely dangerous warehouses][amazon warehouses], or delivering food and groceries to us despite receiving [basically or literally no functional personal protective equipment][instacart PPE], putting them in direct contact with potentially hundreds of people every day.
 
-Any solution that disproportionately favors the wealthy to the point of excluding the poor will not work. This isn't like housing, where some of you can safely squirrel away two homes and complain about the struggle while others endure homelessness. Any hole in this ship will sink the whole ship, and leaving a huge gaping hole among the poor will sink is before we make it out of port.
+Every day we seem to get more data that shows that communities that have historically been excluded or maligned by our health care infrastructure are particularly vulnerable both in [contracting][covid19spread] COVID-19 and in [mortality][covid19mortality].
+Any solution that disproportionately favors the wealthy to the point of excluding the poor will not work.
 
-<!--Why are we developing a system that leaves this group in particular out? Is it because Apple and Google have no experience developing systems for *people* - only developing systems for *customers*? It's not clear. I wouldn't want to be responsible for unpacking what goes wrong in those companies, but I do know that whatever dysfunctional baggage there is in Cupertino and Mountain View shouldn't become our baggage.-->
+*This program so staggeringly misses the point of care that we should be most concerned with that it boggles the mind how it came to this.*
 
-Even if we don't care about the disastrously classist nature of this digital contact tracing scheme, and if all we care about is ourselves, we should at least be troubled by the implications of the previous point: if the people who serve many of us can't receive notifications or insight about their exposure to COVID-19 cases, then even the people with fancy smartphones and the contact tracing app will unwittingly leave a massive - and, crucially, non-random - blond spot in their sample.
+
+#### The exclusions that emerge from this system will decisively undermine its accuracy
+
+Even if we don't care about the classist nature of this digital contact tracing scheme, and if all we care about is ourselves, we should at least be troubled by the implications of excluding the poor: if the people who serve many of us can't receive notifications or insight about their exposure to COVID-19 cases, then even the people with fancy smartphones and the contact tracing app will unwittingly leave a massive - and, crucially, non-random - gaps in their model.
 
 If you talk to any statistician (including epidemiologists), they'll tell you that you can't possibly know the circumstances of every person in a population. We take random samples - smaller subsets chosen randomly in the hope that its approximately representative of the whole group - to try to paint an approximate picture. It's not ideal, but neither is waiting for every single person to report back with their PCR test results. So we make it work. But it doesn't work if we know we're sampling only the wealthy; we don't only ask Palo Alto residents or homeowners in San Francisco how much housing costs them, because that's a non-representative sample of the state (to say nothing of the country).
 
-The only reason you would accept such a skewed sample would be if the population you were concerned for was represented by that affluent group - if you only really cared about people wealthy enough to own homes in the Bay Area, for instance. And therein lies the grim truth: contact tracing systems that demand people have modern consumer electronic devices subscribe to an ethical school of thought that favors the wealthy. But as we just discussed, even that crass sacrifice won't work here - viruses don't care that you have a mortgage.
+*Even if we don't care about the people who are most at risk, we should care that the gaps in our knowledge will be decisive and non-random, sabotaging any hope of knowing the vectors and other risks we've been exposed to.*
 
-<!--The key to random sampling is that it needs to be random, or you at least need to know which groups you're oversampling so that you can begin to account for it. We can't meaningfully do that if our dataset of contact exposure leaves out whole classes of people. What's worse, those of us subscribed to this program will engage with the world on the wrong assumption that everyone else around us (or at least some random distribution) are participating in this program. If I make contact with the cashier at the coffee shop and they're not participating in this contact tracing infrastructure, how will I find that out? How - if ever - will I find out if they later test positive? Not through this app.-->
+<!-- The only reason you would accept such a skewed sample would be if the population you were concerned for was represented by that affluent group - if you only really cared about people wealthy enough to own homes in the Bay Area, for instance. And therein lies the grim truth: contact tracing systems that demand people have modern consumer electronic devices subscribe to an ethical school of thought that favors the wealthy. But as we just discussed, even that crass sacrifice won't work here - viruses don't care that you have a mortgage. -->
 
-There are other issues with proximity-based contact tracing. Recent studies have shown that people don't need to be in proximity to someone with COVID-19 to catch it - [they just need to be *downwind* of that person][restaurant study]. The reality is that the world is messy and confusing and doesn't model well according to the bubble of what's within range of a Bluetooth module on your phone. These aren't instances - they're whole categories of failure. And intensive omnipresent contact-tracing is neither going to help us substantively nor warrant the confidence we will develop when we go out with these apps loaded on our phones.
 
+#### Proximity is turning out to be a dangerously simplistic way to model transmission
+
+There are issues inherent to proximity-based contact tracing that have nothing to do with access, as well. Recent studies have shown that people don't need to be in proximity to someone with COVID-19 to catch it - [they can just be *downwind* of that person][restaurant study]. The reality is that the world is messy and confusing and doesn't model well according to the bubble of what's within range of a Bluetooth module on your smartphone. These don't represent one-off errors; they're sweeping categories representing gaps in our knowledge about potential exposures.
+
+
+*Digital contact tracing systems that render the world as normally distributed space with spheres of influence characterized by radio waves will consistently leave us with dangerously wrong pictures of our exposure.*
+
+
+#### Proximal tracing doesn't preserve privacy the way advocates seem to think it does
 
 We also need to talk about what proximal contact tracing offers and what it doesn't, especially in contrast to "absolute" locations. I illustrated earlier how absolute location tracking might say that we were both at <GPS coordinates>. Or it might offer a street address, like &lt;mailing address&gt;. In either case, it would reveal that we were both at &lt;semantic place&gt; from 8pm to 10pm, which could potentially be embarrassing or even damaging. Proximal tracking promises instead to reveal *only* that we were together between 8pm and 10pm.
 
@@ -93,16 +107,34 @@ Neither of these approaches is particularly helpful to me when I'm trying to mai
 
 This isn't to say that proximal tracking is a bad idea, but it misses the point of the concern. [Proximal location tracking has already recently been used to out dozens, perhaps hundreds, of gay men in Morocco][morocco]. It didn't help that their exact locations were obscured; they were "nearby". They were outed by their *associations*, not by their *coordinates*.
 
+
+*The things we want to keep private are the associations we maintain with one another, which digital contact tracing exclusively tracks.*
+
+#### These are just the beginning of the issues
+
 I haven't talked about any of the other deeper issues here: these kind of personal surveillance schemes are demeaning, and [marginalized communities that have had to endure them for decades could tell you that][combsthepoet via Rachel]. That we should get to decide whether we're okay with this, rather than waiting and watching as countries like Germany and France - panicked and overwhelmed by the virus to one side and technocrats on the other - give in to whatever someone tells them with enough confidence. But this is the problem; we're overwhelmed and terrified, and we want answers. Answers to anything. Any kind of certainty.
 
-Here's some certainty:
+
+
+#### What can we say with certainty?
+
+There's a great deal that I can offer with certainty, but none of it calls for computer scientists to center their work in this problem:
 
 - We need so much more personal protective equipment that it becomes worthless. We need to be making more of it. No matter what number or factor you're thinking, think *more*.
 - We need tests. We need so many more tests that literally every business and every public place can test every person that wanders through. Every homeless person without any documents or identification should be able to get tested anywhere with no drama. This needs to be such a given, so easy and so inconsequential that nobody feels obliged to avoid or seek out certain places based on the availability of tests.
 - We need people to be trained as contact tracers. I'm not talking about drones or AIs or any of this nonsense; I'm talking people with brains and feet and pencils and little notepads to take notes and shit. We need an army the likes of which we've never seen before to be able to individually navigate all the weird quirks when someone says they went to a coffee shop and sat in the corner, and we show up and find out they were sitting just underneath the HVAC system blowing on them. We need humans to use their brains and their discretion and their judgment as they track down all these vectors. Now's not the time for pet projects in mass surveillance.
 - We need a radical change in how we look at labor. When the cashier at the coffee shop feels sick, they need to take time off immediately. If 90% of sick leave becomes exploitative of generous policies, the other 10% represents another global pandemic averted because a cashier at a coffee shop took time off rather than spreading a disease to a thousand or more people in just a day. The only way this can happen is if sick leave policies became sensible, if we guarantee living wages so people don't end up coerced to work, and housing guarantees so that people don't end up on the street where they're at even more risk of getting sick. We've tried this stupid game of capitalism where we coerce people into doing things they don't want to do. That has now become toxic and dangerous for everyone around the person being coerced, including us. If we want to live, we have to stop this nonsense.
 
-We might be able to survive with a few of these changes. But novel pandemics will become a recurring new normal if we don't substantively change our society so that people can afford to make the decisions for their own health that also support the public's health. As long as the wealthy get preferential treatment and testing and tracking, and as long as the poor feel pressure to work through the cough that they can't even afford to get checked by a doctor, we will continually return to this feeling of uncertainty and fear that we've been experiencing this past month.
+The problems we're struggling with right now are social and medical in nature. I realize it's tempting to try to offer solutions to the problems we're dealing with, but engineers have a terrible track record of offering fixes to things that only complicate the problem we originally set out to address. And the common thread to all of it is a tendency to promise that the technical solution will resolve the social problem; it never does, and I'm not sure that it ever can.
+States across the country aren't experiencing catastrophic failures with welfare programs written in COBOL because of anything to do with COBOL - the problem came from tech advocates promising that these algorithmic systems would "once and for all" resolve all the problems of administrating the welfare programs that once called for clerks. The people in that system - constantly reconvening and discussing and reevaluating the implementation and rationale of the logic that motivated these bureaucracies - were capable of constant iterative changes given new and developing circumstances. COBOL programs are not.
+
+
+What we need is to reevaluate our values and implement them. In some limited contexts, algorithmic systems can be beneficial tools to get some sense of what's happening; but as central or decisive agents that motivate and execute services that we mean for all people to enjoy, they will almost certainly cause unimaginable harms.
+
+<!-- No matter what dynamic programming or deep learning system we implement, programs don't adapt to circumstances the way humans do. This was the most basic thesis of my paper on [street-level algorithms][] last year, and I think it applies here. -->
+
+
+<!-- We might be able to survive with a few of these changes. But novel pandemics will become a recurring new normal if we don't substantively change our society so that people can afford to make the decisions for their own health that also support the public's health. As long as the wealthy get preferential treatment and testing and tracking, and as long as the poor feel pressure to work through the cough that they can't even afford to get checked by a doctor, we will continually return to this feeling of uncertainty and fear that we've been experiencing this past month. -->
 
 
 
