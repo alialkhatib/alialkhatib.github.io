@@ -121,7 +121,7 @@ There technical problems that need to be solved in this pandemic, but this isn't
 
 
 
----
+<!-- ---
 
 *ali: let's drop everything from here forward?*
 
@@ -174,7 +174,7 @@ some notes:
 - the big issue that i'm still afraid to ask is whether the meta thesis is clear. i've raised a few points that i think are valid (the people that will be left out, the blind spot that'll leave us with, etc...), but the underlying argument that (tentatively, that solutions that center and elevate technology are doomed to fool us into ignoring people who don't manage to read as "legible" to the systems we designed for wealthy people with fancy smartphones) might need to be hammered home repeatedly, or stated in big bold letters at the top, or something. i think when i look at this with fresh eyes i'll feel more comfortable about being less subtle, but writing it i think i felt uncertain making such a bold claim.
 - i don't know why, but the cartoon show _The Jetsons_ kept coming to mind, and i found myself wondering "what if there were people living below the houses above the clouds, so far below the protagonists that nobody on our level even knew they existed". something about that visual metaphor feels salient and unsettling, but a reference to a cartoon that originally aired in the 60s and then again in the 80s seems like asking for trouble.
 - i know we said perfect is the enemy of good, so if it comes down to it i'll drop all these notes (except the ones that will take a minute to incorporate into the post), fix up the links, and then post it; but these are all reasonably low-hanging fruit. i don't think i need to do a ton of internal reflection or seeking out new information here.
-
+ -->
 
 [welcome back]: #welcome-back
 
