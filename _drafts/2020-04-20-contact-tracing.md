@@ -1,18 +1,16 @@
-Over the past few weeks, Apple & Google have floated the idea of developing and distributing a digital contact-tracing app that will inform people when they've been exposed to someone who's contracted COVID-19, and communicate to people that they've been exposed to *you* if you later test positive yourself (edit: since writing this, Apple has released a beta of iOS 13 that includes the SDK necessary to begin using this system). Writing this in late April, it feels like we're desperate for information and weary from not knowing who's caught COVID-19, who's still vulnerable, who gets it worse or why, or even how to treat it. We're desperate for any information we can get our hands on. This proposal by Apple and Google promises to give us some information that we can finally start to work off of. We need to stop this dumbass idea. I'll explain why in this post.
+Over the past few weeks, Apple & Google have floated the idea of developing and distributing a digital contact-tracing app that will inform people when they've been exposed to someone who's contracted COVID-19, and communicate to people that they've been exposed to *you* if you later test positive yourself (edit: since writing this, Apple has released a beta of iOS 13 that includes the SDK necessary to begin using this system). Writing this in late April, it feels like we're desperate for information and weary from not knowing who's caught COVID-19, who's still vulnerable, who gets it worse or why, or even how to treat it. We're desperate for any information we can get our hands on. This proposal by Apple and Google promises to give us some information that we can finally start to work off of. We need to drop this nonsense. I'll explain why in this post.
 
-Last year I wrote about "[digital forests][]" and the harmful downstream effects of simplifying and reducing how we track and measure our messy world. I wrote about how we develop models to describe the world - and our lives within it - that are necessarily but also dangerously reductive. In James Scott's book _Seeing Like a State_, he writes about foresting in Europe, the Great Leap Forward, and other case studies of centralizing ideologies that ignore or trample on the delicate balances of our social and natural ecologies. During the Industrial Revolution it was difficult to reason about air pollution and so we wrote it off as a factor; decades later, that came to haunt us in the form of acid rain and widespread deteriorating public health.
+Last year I wrote about "[digital forests][]" and the harmful downstream effects of simplifying and reducing how we track and measure our messy world (and [earlier this year gave a working talk about it][digital forests talk]). I wrote about how we develop models to describe the world - and our lives within it - that are necessarily but also dangerously reductive. In James Scott's book _Seeing Like a State_, he writes about foresting in Europe, the Great Leap Forward, and other case studies of centralizing ideologies that ignore or trample on the delicate balances of our social and natural ecologies. During the Industrial Revolution it was difficult to reason about air pollution and so we wrote it off entirely; decades later, that came to haunt us in the form of acid rain and widespread deteriorating public health.
 
 Digital contact tracing has all the hallmark characteristics of these case studies. If we're not careful, we're going to adopt these systems, and the facile, naive models of the world that these systems create will give us a dangerously incomplete picture of the world. Worse, if these systems become the principle drivers of our policies, we'll go from looking at an incomplete map of the world to navigating with one.
 
 The schemes we're reading about - some from joint partnerships such as Apple & Google, others unilaterally presented by surveillance startups such as [Palantir][palantir proposal] and [Clearview AI][clearview proposal] - all offer their own flavors of omnipresent surveillance and differ in bits and pieces. I'm going to focus on the only credible proposal - the one Apple & Google have floated - because I hardly even know where to start with the other proposals. Let's just let it suffice to say that we shouldn't take Palantir's offer [to surveil us even more than they already do][palantir surveillance]; as for Clearview, [they scraped all of our images without our consent][clearview data] and subsequently endured [numerous embarrassing data breaches][clearview data breaches].
 
-Let's talk about what digital contact tracing generally entails by using Apple & Google's system as a sort of model case. If you know what their proposal entails, feel free to skip ahead to "[welcome back][]", but chances are that in the time since I started writing this post something has changed, so if for no other reason than to date things, you should probably at least skim the description to know what the situation was at when I wrote this.
+Let's talk about what digital contact tracing generally entails by using Apple & Google's system as a sort of model case. If you know what their proposal entails, feel free to skip ahead to [welcome back][], but chances are that in the time since I started writing this post something has changed, so if for no other reason than to date things, you should probably at least skim the description to know what the situation was at when I wrote this.
 
 ## What this scheme will do (more or less, at the time of writing)
 
 The simplest, most direct way to implement digital contact tracing would be to track where you are at any given moment. If you spend 20 minutes at a coffee shop, somewhere there'll be a record that **you** were at **Starbucks** from **12:00pm-12:20pm**. Somewhere, theoretically, there would be records for everyone participating in this scheme, such that if someone wanted to ask the system "who was at Starbucks at 12:10pm?", a list would come back with your name on it. To be honest, Google probably already has the means to produce a list like this from Google Maps. You can even request a record of all the places Google Maps knows you've been over a certain timeline.
-
-<!-- That's what's *not* happening in this proposal. What they're doing is kind of un-obvious and roundabout, and they're doing it for very intentional reasons to try and protect our privacy. So it's worth understanding what the system will do so we can appreciate what it accomplishes and what it doesn't. -->
 
 Instead of recording **where** you are the way Google Maps does or other location-tracking apps you're familiar with, under this scheme your phone records **who** you're near. To illustrate what this means, let's make up and walk through an example.
 
@@ -56,7 +54,7 @@ Let's change the scenario from coffee shops and restaurants to something more se
 
 Designing a system that goes out of its way like this to avoid knowing the literal location that you're at wasn't the simplest approach, and it's at least a little praiseworthy that this system is being developed in a slightly complicated and confusing way with the right *goal* in mind. If you look at Strava or Snapchat or some other location-tracking app, you can always see yourself as a dot on a map, moving around perhaps with other dots on the same map; this throws out that entire approach. In the context of COVID-19, all anyone really needs to know is that we were *near* each other. This approach strives to give us that *and nothing else*.
 
-Okay, so long as we're clear on what this system does, let's talk about why this isn't going to work.
+I think it's important that we understand what this system does so we can talk meaningfully about what it doesn't achieve, and what it doesn't even bother to try and do. And there's a lot.
 
 ### welcome back
 
@@ -66,29 +64,28 @@ Let's start with why this system won't work.
 
 #### Digital contact tracing will exclude the poor, children, and myriad other uncounted groups
 
-In the description I made earlier, I pointed out that Apple & Google's plan calls for some sort of proximity detection, probably involving Bluetooth and some of the fancier, newer technology that your smartphone may have if it was introduced in the last 1-2 years. Some of the technical requirements of this system preclude older devices from working, meaning the people with older smartphones won't be able to benefit from alerts to this system unless they upgrade to newer phones - something they almost certainly can't afford to do, nor should they be obligated to in order to receive necessary information about risk exposure. Ars Technica recently published a report that [several billion smartphones don't have the technology necessary to participate in the proximal location sensing scheme Apple & Google are talking about][2b phones].
+In the description I made earlier, I pointed out that Apple & Google's plan calls for some sort of proximity detection, probably involving Bluetooth and some of the fancier, newer technology that your smartphone may have if it was introduced in the last few years. Some of the technical requirements of this system preclude older devices from working, meaning the people with older smartphones won't be able to benefit from alerts to this system unless they upgrade to newer phones - something they almost certainly can't afford to do, nor should they be obligated to in order to receive necessary information about risk exposure. Ars Technica recently published a report that [several billion smartphones don't have the technology necessary to participate in the proximal location sensing scheme Apple & Google are talking about][millions of phones - ars]. To quote the article:
 
-<!-- We're specifically talking about people who are already enduring steep and crushing poverty. We're talking about people who are disproportionately Black, Indigenous, or other people of color; we're talking about  -->
+> The particular kind of Bluetooth "low energy" chips that are used to detect proximity between devices without running down the phone’s battery are absent from a quarter of smartphones in active use globally today, according to analysts at Counterpoint Research. A further 1.5 billion people still use basic or "feature" phones that do not run iOS or Android at all.
+> 
+> ...
+> 
+> "most of these users with the incompatible devices hail from the lower-income segment or from the senior segment which actually are more vulnerable to the virus" [according to Neil Shah, analyst at Counterpoint]
 
-And, infuriatingly, these are the people already on the front lines of this pandemic. Every day we get more data that shows that communities that have historically been excluded or maligned by our health care infrastructure are particularly vulnerable both in [contracting][covid19spread] COVID-19 and in [mortality][covid19mortality]. Overwhelmingly, [the locations linked to new COVID-19 cases are prisons, food processing facilities (specifically meatpacking), and nursing homes][nyt stats]. These are settings in which people are under immense pressure to take whatever work they can find, including high-risk essential work like logistics for Amazon in their [obscenely dangerous warehouses][amazon warehouses], or delivering food and groceries to us despite receiving [basically or literally no functional personal protective equipment][instacart PPE], putting them in direct contact with potentially hundreds of people every day.
+
+Every day we get more data that shows that communities that have historically been excluded or deliberately untreated by our health care infrastructure are particularly vulnerable both in contracting COVID-19 and in mortality. As [Gina Neff has written][gina tweets], [the locations linked to new COVID-19 cases are prisons, food processing facilities (specifically meatpacking), and nursing homes][nyt stats]. These are settings in which people are under immense pressure to take whatever work they can find, including high-risk essential work like logistics for Amazon in their [obscenely dangerous warehouses][amazon warehouses], or delivering food and groceries to us despite receiving [basically or literally no functional personal protective equipment][instacart PPE], putting them in direct contact with potentially hundreds of people every day.
 
 The lines don't divide just along class; digital contact tracing omits children, substantially problematizing the picture we get as soon as families are involved. These aren't minor issues; they're major gaps that will lead to systematically and unaccountably poor data.
-
 The spaces and the people we should be most concerned for, and paying the most attention to, won't show up in a digital contact tracing system like any of the ones proposed so far.
 
-<!-- Digital contact tracing precisely omits these groups for many of the reasons that endanger them now in the first place - because they don't have the money or the power or the status to demand accountability to them. -->
 
-*Digital contact tracing so staggeringly misses the point of care that we should be most concerned with that it boggles the mind how it came to this.*
+*Digital contact tracing staggeringly misses the point of care that we should be most concerned with. It boggles the mind how it even came to this, but it should go no further.*
 
 #### This system's exclusions will decisively undermine its accuracy and endanger everyone
 
-Even if we don't care about the classist nature of this digital contact tracing scheme, and if all we care about is ourselves, we should at least be troubled by the implications of excluding the poor: if the people who serve many of us can't receive notifications or insight about their exposure to COVID-19 cases, then even the people with fancy smartphones and the contact tracing app will unwittingly leave a massive - and, crucially, non-random - gaps in their model.
+The risks of acting on bad data - the result of excluding the poor, excluding children, and excluding other high-risk groups - are unspeakably high. This is different from working with a small sample size or even from working with no data. Building a dataset that excludes entire categories of people - as [we're beginning to do with Native American COVID-19 patients][native american data] - skews our vision of the world in ways we won't be able to account for, and with confidence that's unearned, ultimately steamrolling the groups that we leave out. This is why the CDC employs "[sentinel surveillance][]" to track the flu - because acting only on the data we get from people who are wealthy enough to go to a doctor for the flu would give them a *dangerously* misleading picture of its spread every year. Everyone needs access to the same level of care, with no omissions, or we're risk lulling ourselves into oblivious complacence while this virus and others like it sweep through our communities.
 
-The risks of acting on bad data are unspeakably high. This is different from working with a sparse sample or even from working with no data. Building a dataset that excludes entire categories of people - as [we're beginning to do with Native American COVID-19 patients][native american data] - skews our vision of the world in ways we won't be able to account for, and with confidence that's unearned, ultimately steamrolling the groups that we leave out. This is why the CDC employs "[sentinel surveillance][]" to track the flu - because acting only on the data we get from people who are wealthy enough to go to a doctor for the flu would give them a *dangerously* misleading picture of its spread every year. Everyone needs access to the same level of care, with no omissions, or we're risk lulling ourselves into oblivious complacence while this virus and others like it sweep through our communities.
-
-<!-- If you talk to any statistician (including epidemiologists), they'll tell you that you can't possibly know the circumstances of every person in a population. We take random samples - smaller subsets chosen randomly in the hope that its approximately representative of the whole group - to try to paint an approximate picture. It's not ideal, but neither is waiting for every single person to report back with their PCR test results. So we make it work. But it doesn't work if we know we're sampling only the wealthy; we don't only ask Palo Alto residents or homeowners in San Francisco how much housing costs them, because that's a non-representative sample of the state (to say nothing of the country). -->
-
-*Even if we don't care about the people who are most at risk, we should care that the gaps in our knowledge will be consequential and non-random, sabotaging our efforts to understand what's actually going on in the world and undermining our response.*
+*We should care that the gaps in our knowledge will be consequential and non-random, sabotaging our efforts to understand what's actually going on in the world and undermining our response.*
 
 
 #### Proximity is a dangerously simplistic way to model COVID transmission
@@ -110,24 +107,33 @@ The details of whether this data is held in centralized or decentralized locatio
 This isn't to say that absolute location tracking is the right approach, or that proximal tracking is a misstep, but that this distinction misses the point and fails to address the concern - we need laws that guarantee against the use of any data we collect for anything other than the confidential care of COVID-19. And we need to earn the trust of people giving us that data - something Clearview, Palantir, and arguably tech companies in general are inherently incapable of doing, given their business models of advertising and data mining that motivate their very existence.
 
 
-#### These are just the beginning of the issues
-
-<!-- I haven't talked about any of the other deeper issues here: these kind of personal surveillance schemes are demeaning, and [marginalized communities that have had to endure them for decades could tell you that][combsthepoet via Rachel]. That we should get to decide whether we're okay with this, rather than waiting and watching as countries like Germany and France - panicked and overwhelmed by the virus to one side and technocrats on the other - give in to whatever someone tells them with enough confidence. But this is the problem; we're overwhelmed and terrified, and we want answers. Answers to anything. Any kind of certainty. -->
+### These are just the beginning of the issues
 
 The decisions we make now are going to follow us around for generations. It's important that we move quickly, but it's as important that we don't run headfirst into a surveillance state that offers nothing but oppression and more uncertainty.
 
-I spend 5 years at Stanford studying Computer Science and noticed an insight among tech folks that I hadn't observed as much elsewhere. It was that if you have a complex mathematical problem that you can restate as another problem, or as a collection of other problems, then you might find down the road you can solve one of those problems and dramatically simplify the original task. Suddenly something that takes hundreds or thousands of hours to compute can be done virtually instantly.
+I spent 5 years at Stanford studying Computer Science and noticed an insight among tech folks that I hadn't observed as much elsewhere. It was that if you have a complex mathematical problem that you can restate as another problem, or as a collection of other problems, then you might find down the road you can solve one of those problems and dramatically simplify the original task. Suddenly something that takes hundreds or thousands of hours to compute can be done virtually instantly.
 
 I saw this kind of thinking applied to social problems all the time. Social problems are sticky and entangled and don't seem to reduce very well. But if you can perform a kind of problem space arbitrage and convert the social problem into a technical one, you might find an insight in mathematics or computation later on that collapses the problem into something more manageable, or even trivial. It's enticing.
 
 It's also wrongheaded. It's unproductive because it doesn't solve either the old social problems or the new technical ones, and it's dangerous because it obscures the real problems that we need to address - the ones we all recognize and otherwise feel entitled to engage with as fellow humans.
 
-There technical problems that need to be solved in this pandemic, but this isn't one of them. There are so many issues of uncertainty that digital contact tracing introduces, and so many gaps in whom it protects, that we need to reject it now before it gets off the ground, before we get lured into a false sense of certainty that everyone is covered and protected when in reality all we're accomplishing is deepening an existing divide between the empowered, the wealthy, the influential; and the people holding all of them up.
+There are technical problems that need to be solved in this pandemic, but this isn't one of them. There are so many issues of uncertainty that digital contact tracing introduces, and so many gaps in whom it protects, that we need to reject it now before it gets off the ground, before we get lured into a false sense of certainty that everyone is covered and protected when in reality all we're accomplishing is deepening an existing divide between the empowered, the wealthy, the influential; and the people holding all of them up.
+
+We need certainties in our life. Systematizing contact tracing into a digital system won't give us what it offers, and won't give us this. If we need some certainties, here are a few:
+
+- We need more personal protective equipment for everyone. If we want people working in warehouses, nursing homes, and meat processing facilities, we need to give them the means to avoid getting infected.
+- We need more tests. We need so many tests for so many people that the cost becomes zero and the hurdle disappears. [Los Angeles recently announced that every resident will get free tests][LA tests] whether they get referred for a test or not. We need more of this.
+- We need to train human contact tracers. Algorithms will never be able to adequately model the world we live in and construct, and will never be able to keep up with all the weird quirky qualities of the spaces we build and occupy. This job calls for human intelligence.
+- This is such a given that it's almost not worth saying, but we need to change our relationship with labor. A year ago, if someone at a coffee shop felt sick, they might not have bothered to see a doctor. They almost certainly would have tried to work through it (at least at first). I think we all appreciate now how dangerous that is, but the threat of crushing medical debt and homelessness coerce people into work.
+
+  That culture of coercive labor needs to end, or the rest of our lives will be punctuated by pandemics fueled and ultimately spread by workers who were compelled to continue working.
+
+There's already so much we need to do, and so much that needs to change, for us to have anything resembling lives we appreciated before this pandemic. We don't also need to build and subject ourselves to omnipresent digital surveillance via personal devices. We need to reject digital contact tracing. We need to care for one another.
 
 
 
 
-<!-- ---
+<!--
 
 *ali: let's drop everything from here forward?*
 
@@ -183,7 +189,6 @@ some notes:
  -->
 
 [welcome back]: #welcome-back
-
 [detainment by ICE]: https://www.theguardian.com/world/2020/apr/28/iran-scientist-us-detention-coronavirus-sirous-asgari
 [watched and still dying]: https://www.odbproject.org/2020/04/26/watched-and-still-dying/
 [AA infection rates]: https://www.nytimes.com/2020/04/07/us/coronavirus-race.html
@@ -193,43 +198,21 @@ some notes:
 [prison rates]: https://www.inquirer.com/news/coronavirus-testing-montgomery-county-jail-asymptomatic-philadelphia-prisons-20200428.html
 [prison coronavirus death]: https://www.theguardian.com/world/2020/apr/29/coronavirus-andrea-circle-bear-federal-prison-death
 [new jersey prisons]: https://theintercept.com/2020/04/28/coronavirus-new-jersey-prisons/
-[digital forests]: #
-[palantir surveillance]: #
-[clearview data breaches]: #
-[2b phones]: #
-[amazon warehouses]: #
-[instacart PPE]: #
-[restaurant study]: #
-[morocco]: #
-[combsthepoet via Rachel]: #
-[palantir proposal]: #
-[clearview proposal]: #
-[clearview data]: #
-
-[digital forests]: #
-[palantir proposal]: #
-[clearview proposal]: #
-[palantir surveillance]: #
-[clearview data]: #
-[clearview data breaches]: #
-[2b phones]: #
-[amazon warehouses]: #
-[instacart PPE]: #
-[covid19spread]: #
-[covid19mortality]: #
-[restaurant study]: #
-[morocco]: #
-[combsthepoet via Rachel]: #
-[AA death rates]: #
-[AA infection rates]: #
-[prison coronavirus death]: #
-[prison rates]: #
-[new jersey prisons]: #
-[the Marshall Project]: #
-[detainment by ICE]: #
-[native american data]: #
-[watched and still dying]: #
+[millions of phones - ars]: https://arstechnica.com/tech-policy/2020/04/2-billion-phones-cannot-use-google-and-apple-contract-tracing-tech/
 [sentinel surveillance]: https://www.cdc.gov/vaccines/pubs/surv-manual/chpt19-enhancing-surv.html
 [education tech access]: https://blogs.microsoft.com/on-the-issues/2019/04/08/its-time-for-a-new-approach-for-mapping-broadband-data-to-better-serve-americans/
 [street-level algorithms]: /papers/chi/street-level_algorithms/street-level_algorithms.pdf
 [nyt stats]: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html#clusters
+[digital forests]: https://ali-alkhatib.com/blog/digital-forests
+[amazon warehouses]: https://jewishcurrents.org/amazon-workers-say-warehouse-health-precautions-are-insufficient/
+[instacart PPE]: https://www.wired.com/story/instacart-delivery-workers-still-waiting-safety-kits/
+[restaurant study]: https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article
+[morocco]: https://www.nytimes.com/2020/04/26/world/middleeast/gay-morocco-outing.html
+[palantir proposal]: https://www.bloomberg.com/news/articles/2020-04-02/coronavirus-news-palantir-gives-away-data-mining-tools
+[clearview proposal]: https://www.buzzfeednews.com/article/carolinehaskins1/senator-markey-clearview-ai-covid-contact-tracing
+[clearview data]: https://www.wired.com/story/clearview-ai-scraping-web/
+[palantir surveillance]: https://www.vox.com/recode/2020/2/26/21154606/clearview-ai-data-breach
+[clearview data breaches]: https://www.vox.com/recode/2020/2/26/21154606/clearview-ai-data-breach
+[LA tests]: https://www.npr.org/sections/coronavirus-live-updates/2020/04/30/848144570/los-angeles-city-and-county-offer-free-coronavirus-testing-to-all-residents
+[digital forests talk]: https://www.youtube.com/watch?v=upU-_ECq80Y
+[gina tweets]: https://twitter.com/ginasue/status/1255847973797462016
