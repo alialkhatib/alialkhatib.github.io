@@ -144,68 +144,12 @@ I've gotten questions while drafting this and I could probably weave these point
 
 - **What about Taiwan and South Korea? They adopted digital contact tracing and it seems to have worked.**
   
-  Taiwan and South Korea have very different technology adoption rates from the US. We could talk about the availability of broadband and smartphone adoption rates and all this, but even the rates themselves aren't quite as important as the fact that the way the US has cleaved a boundary between wealthy and poor - informed by slavery and white supremacy and urbanization and housing policies - *really* complicates any effort to translate tech-centric policies and programs.
+  There are a few issues to this: first is there *were* substantial issues with Taiwan's and [South Korea][SK contact tracing privacy]'s deployments of digital contact tracing, stemming from [uncomfortable revelations about peoples' private lives][Guardian SK]. The second is that the way the US has cleaved a boundary between wealthy and poor - informed by slavery and white supremacy and urbanization and housing policies - *really* complicates any effort to translate tech-centric policies and programs from other cultures.
 
   It's also worth saying that in Taiwan and South Korea, people can go see a doctor without worrying about crushing medical debt. Paid sick leave is a guarantee. People use masks and when the government tells them what to do, they generally trust their political leadership not to be corrupt or incompetent. America enjoys almost none of these advantages. Digital contact tracing wasn't a silver bullet (even in the context that more people in Taiwan and South Korea have smartphones); it was one of *many* more decisive characteristics of their economies, politics, and cultures that made it possible for people to get tested when they needed to get tested; to stay home when they needed to stay home; and to listen to the local and national leaders who were themselves advised by credible medical and epidemiological experts.
 
-  <!-- We can't hack and model our way out of a bunch of people protesting quarantine orders by showing up at their state capitols with assault rifles, or a president who withholds aid from people who happen to be governed by oblique political rivals, gives misleading and self-conflicting medical advice, and undermines general senses of confidence whenever he speaks. -->
-
-
-<!--
-
-*ali: let's drop everything from here forward?*
-
-#### What can we say with certainty?
-
-There's a great deal that I can offer with certainty, but none of it calls for computer scientists to center their work in this problem:
-
-- We need so much more personal protective equipment that it becomes worthless. We need to be making more of it. No matter what number or factor you're thinking, think *more*.
-- We need tests. We need so many more tests that literally every business and every public place can test every person that wanders through. Every homeless person without any documents or identification should be able to get tested anywhere with no drama. This needs to be such a given, so easy and so inconsequential that nobody feels obliged to avoid or seek out certain places based on the availability of tests.
-- We need people to be trained as contact tracers. I'm not talking about drones or AIs or any of this nonsense; I'm talking people with brains and feet and pencils and little notepads to take notes and shit. We need an army the likes of which we've never seen before to be able to individually navigate all the weird quirks when someone says they went to a coffee shop and sat in the corner, and we show up and find out they were sitting just underneath the HVAC system blowing on them. We need humans to use their brains and their discretion and their judgment as they track down all these vectors. Now's not the time for pet projects in mass surveillance.
-- We need a radical change in how we look at labor. When the cashier at the coffee shop feels sick, they need to take time off immediately. If 90% of sick leave becomes exploitative of generous policies, the other 10% represents another global pandemic averted because a cashier at a coffee shop took time off rather than spreading a disease to a thousand or more people in just a day. The only way this can happen is if sick leave policies became sensible, if we guarantee living wages so people don't end up coerced to work, and housing guarantees so that people don't end up on the street where they're at even more risk of getting sick. We've tried this stupid game of capitalism where we coerce people into doing things they don't want to do. That has now become toxic and dangerous for everyone around the person being coerced, including us. If we want to live, we have to stop this nonsense.
-
-
----
-
-*note from ali: this is a pretty mediocre conclusion but i hate to end on bullet points*
-
-The problems we're struggling with right now are social and medical in nature. I realize it's tempting to try to offer solutions to the problems we're dealing with, but engineers have a terrible track record of offering fixes to things that only complicate the problem we originally set out to address. And the common thread to all of it is a tendency to promise that the technical solution will resolve the social problem; it never does, and I'm not sure that it ever can.
-States across the country aren't experiencing catastrophic failures with welfare programs written in COBOL because of anything to do with COBOL - the problem came from tech advocates promising that these algorithmic systems would "once and for all" resolve all the problems of administrating the welfare programs that once called for clerks. The people in that system - constantly reconvening and discussing and reevaluating the implementation and rationale of the logic that motivated these bureaucracies - were capable of constant iterative changes given new and developing circumstances. COBOL programs are not.
-
-What we need is to reevaluate our values and implement them. In some limited contexts, algorithmic systems can be beneficial tools to get some sense of what's happening; but as central or decisive agents that motivate and execute services that we mean for all people to enjoy, they will almost certainly cause unimaginable harms.
-
-
-
----
-some notes:
-
-- there's a lot more to point to that can help illustrate the disproportionate death toll that's happening along class, race, and gendered lines. my head's spinning to bring it all together, but some notes that i'm aware of off the top of my head:
-  + [African American patients are dying at a much higher rate than white patients][AA death rates]. [infection rates][AA infection rates] tell a similar story
-  + [Lois Beckett has written about the first US inmate to die of coronavirus - a woman who had just given birth while on a ventilator][prison coronavirus death]
-  + [coronavirus contraction rates are substantially higher in prisons (appx 18% in one prison) vs outside prison][prison rates]. in other prisons, where testing is happening at a much lower rate, [the death rate suggests an unimaginably rampant pandemic inside][new jersey prisons]
-  + [the Marshall Project][] is tracking this
-  + there are also immigrants being [detained by ICE testing positive for COVID-19][detainment by ICE]
-  + [Native American tribes are being left out of pandemic response][native american data]
-- Tawana Petty has written about her observations of [how the US handled the AIDS epidemic][watched and still dying], specifically pointing out "Those who test positive for HIV and AIDS, remain among some of the most tracked people in the United States. Their surveillance has not led to a feeling of safety for survivors I have spoken with, nor has it led to a cure".
-
-  i want to bring this point up, but it seems like i need to pick a point to make - are historically marginalized groups going to get ignored by this technocentric scheme, or are they going to be scrutinized and watched while they die? the nuanced claim would be that the wealthy and powerful will get to benefit from the knowledge of the system, but the poor will be subjected to it as data inputs, but not necessarily privy to the results that come out of it. e.g. maybe they need to check in before they start their shifts using a device maintained by the company for which they work, but that device won't communicate back to them the way it would if it was their personal device. threading the needle this way would be a risky prediction because it seems awfully precise in predicting the dynamics that'll take shape, and i'm not sure i have evidence to go here.
-
-  i could narrate it as speculative fiction, and in that context i think it wouldn't be that far-fetched, but this post is awfully long as it is, without a section describing a potential future world.
-- the COBOL point ~~feels like~~ is a stretch now. once i get over it, i'll delete it. but for now i want to see if i can bring some of these phenomena together so that i feel like things wrap up neatly. otherwise it just feels like everything is on fire all at the same time for totally independent reasons.
-
-  if anyone's thinking of workshopping it, the basic feeling i want to get to is that we've bought into a narrative about automating things in our life to make things simpler, and they *can* make things simpler, but the kernel of work - the stuff that went into coding the COBOL systems in the first place - needed to be revisited and debated and reaffirmed. code can potentially help with some aspects of that, but we can't set it on autopilot and then take a nap.
-
-- i ran the explanation of digital contact tracing by some people who don't work in tech and they seemed to understand the basic idea. at the other end of the spectrum are a few questions:
-  1. is this a good-faith, reasonably accurate technical description?
-  2. is this description totally unnecessary for the audience?
- 
-  i think a case could be made that i shouldn't waste 5 minutes of people's time building up the thing i'm about to knock down, except that 1. i feel it helps prove that i know what i'm talking about (and not just brandishing a pitchfork); and 2. i do have some sort of moral feeling about defeating this proposal in its most potent form, to prevent people from trying to shore up the issues with patchy fixes to try and squeak by.
-
-- the big issue that i'm still afraid to ask is whether the meta thesis is clear. i've raised a few points that i think are valid (the people that will be left out, the blind spot that'll leave us with, etc...), but the underlying argument that (tentatively, that solutions that center and elevate technology are doomed to fool us into ignoring people who don't manage to read as "legible" to the systems we designed for wealthy people with fancy smartphones) might need to be hammered home repeatedly, or stated in big bold letters at the top, or something. i think when i look at this with fresh eyes i'll feel more comfortable about being less subtle, but writing it i think i felt uncertain making such a bold claim.
-- i don't know why, but the cartoon show _The Jetsons_ kept coming to mind, and i found myself wondering "what if there were people living below the houses above the clouds, so far below the protagonists that nobody on our level even knew they existed". something about that visual metaphor feels salient and unsettling, but a reference to a cartoon that originally aired in the 60s and then again in the 80s seems like asking for trouble.
-- i know we said perfect is the enemy of good, so if it comes down to it i'll drop all these notes (except the ones that will take a minute to incorporate into the post), fix up the links, and then post it; but these are all reasonably low-hanging fruit. i don't think i need to do a ton of internal reflection or seeking out new information here.
- -->
-
+[Guardian SK]: https://www.theguardian.com/world/2020/mar/06/more-scary-than-coronavirus-south-koreas-health-alerts-expose-private-lives
+[SK contact tracing privacy]: https://www.nytimes.com/2020/03/23/technology/coronavirus-surveillance-tracking-privacy.html
 [welcome back]: #welcome-back
 [detainment by ICE]: https://www.theguardian.com/world/2020/apr/28/iran-scientist-us-detention-coronavirus-sirous-asgari
 [watched and still dying]: https://www.odbproject.org/2020/04/26/watched-and-still-dying/
