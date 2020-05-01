@@ -83,7 +83,7 @@ The lines don't divide just along class; digital contact tracing omits children,
 The spaces and the people we should be most concerned for, and paying the most attention to, won't show up in a digital contact tracing system like any of the ones proposed so far.
 
 
-*Digital contact tracing staggeringly misses the point of care that we should be most concerned with. It boggles the mind how it even came to this, but it should go no further.*
+*Digital contact tracing staggeringly misses the point of care that we should be most concerned with.*
 
 #### This system's exclusions will decisively undermine its accuracy and endanger everyone
 
@@ -102,7 +102,7 @@ I wrote about this in my paper about [street-level algorithms][]; people are con
 
 #### Proximal tracing doesn't maintain privacy the way advocates seem to think it does
 
-We also need to talk about what proximal contact tracing offers and what it doesn't, especially since we're adopting this contrived system to avoid "absolute" locations. I said earlier how absolute location tracking might say that we were both at &lt;GPS coordinates&gt;. Or it might offer a street address, like &lt;mailing address&gt;. In either case, it would reveal that we were both at &lt;semantic place&gt; from 8pm to 10pm, which could potentially be embarrassing or even damaging. Proximal tracking promises instead to reveal only that we were *together* between 8pm and 10pm.
+We also need to talk about what proximal contact tracing offers and what it doesn't, especially since we're adopting this contrived system to avoid "absolute" locations. I said earlier how absolute location tracking might say that we were both at some GPS coordinates. Or it might offer a street address. In either case, it would reveal that we were both at some semantically meaningful place from 8pm to 10pm, which could potentially be embarrassing or even damaging. Proximal tracking promises instead to reveal only that we were *together* between 8pm and 10pm.
 
 The problem is that neither of these approaches is particularly helpful to me when I'm trying to maintain privacy about where I *meaningfully* am. While there are unique risks associated with my absolute location being revealed (for instance, revealing where I live by showing where I tend to be every night), a revelation that I was *among* many people who are under investigation or otherwise suspected of some socially improper behavior is potentially just as damning as if there's a record that puts us all at the same mailing address for that time - like if all of us have `Kumquat` on our phones.
 
@@ -110,6 +110,7 @@ The details of whether this data is held in centralized or decentralized locatio
 
 This isn't to say that absolute location tracking is the right approach, or that proximal tracking is a misstep, but that this distinction misses the point and fails to address the concern - we need laws that guarantee against the use of any data we collect for anything other than the confidential care of COVID-19. And we need to earn the trust of people giving us that data - something Clearview, Palantir, and arguably tech companies in general are inherently incapable of doing, given their business models of advertising and data mining that motivate their very existence.
 
+*We need real guarantees of protection against the use of this data for any purpose beyond the containment of COVID-19; we don't need clever technologies to make the only hurdle preventing others from abusing our data a puzzle.*
 
 ### These are just the beginning of the issues
 
