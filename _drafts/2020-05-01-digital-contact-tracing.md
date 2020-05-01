@@ -142,7 +142,7 @@ I've gotten questions while drafting this and I could probably weave these point
 
 - **What about DP3T?**
   
-  DP3T (Decentralized Privacy-Preserving Proximity Tracing) suffers a lot of the issues raised above. It still essentially requires tech and will leave out the sites of super-spreading (prisons, nursing homes, meat processing facilities); it still mostly avoids the public health policy changes that need to happen; it still goes for proximity versus absolute location tracking, which I outlined earlier isn't addressing the problem. In their introductory outline, they describe the project as seeking to "provide a technological foundation to help slow the spread of the SARS-CoV-2 virus". Like I said before, we don't need to center technology in coming up with solutions, and in fact this will only deepen divides in care that are already staggering.
+  DP3T (Decentralized Privacy-Preserving Proximity Tracing) suffers a lot of the issues raised above. It still essentially requires tech and will leave out the sites of super-spreading (prisons, nursing homes, meat processing facilities); it still mostly avoids the public health policy changes that need to happen; it still goes for proximity versus absolute location tracking, which I outlined earlier isn't addressing the problem. In the intro paragraph of [their readme file][dp3t readme], they describe the project as seeking to "provide a technological foundation to help slow the spread of the SARS-CoV-2 virus". Like I said before, we don't need to center technology in coming up with solutions, and in fact this will only deepen divides in care that are already staggering.
 
   There's also a point to be made that "technological foundation" usually means something more like "the political decisions were baked into the code and you can't do anything about them unless you have a Github account and file an issue or make a pull request". But I'll leave that to people who aren't yet completely exhausted making this point.
 
@@ -152,6 +152,8 @@ I've gotten questions while drafting this and I could probably weave these point
 
   It's also worth saying that in Taiwan and South Korea, people can go see a doctor without worrying about crushing medical debt. Paid sick leave is a guarantee. People use masks and when the government tells them what to do, they generally trust their political leadership not to be corrupt or incompetent. America enjoys almost none of these advantages. Digital contact tracing wasn't a silver bullet (even in the context that more people in Taiwan and South Korea have smartphones); it was one of *many* more decisive characteristics of their economies, politics, and cultures that made it possible for people to get tested when they needed to get tested; to stay home when they needed to stay home; and to listen to the local and national leaders who were themselves advised by credible medical and epidemiological experts.
 
+
+[dp3t readme]: https://github.com/DP-3T/documents/blob/master/README.md
 [Guardian SK]: https://www.theguardian.com/world/2020/mar/06/more-scary-than-coronavirus-south-koreas-health-alerts-expose-private-lives
 [SK contact tracing privacy]: https://www.nytimes.com/2020/03/23/technology/coronavirus-surveillance-tracking-privacy.html
 [welcome back]: #welcome-back
