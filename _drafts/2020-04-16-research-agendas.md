@@ -1,10 +1,3 @@
----
-title: "research agendas?"
-author: "Ali"
-layout: "post"
-tags: [CHI 2020]
----
-
 Over the past few months I've been struggling to focus on work. I've been distracted, anxious, worried, but mostly I've been trying to reconcile the reshuffled priorities in my life and that I've been seeing in the world. I can share a few threads that I've been dwelling on that I'd like to share - and hopefully to work on going forward. I don't want to give the impression that this is an exhaustive outline of what I'm working on, but hopefully this sort of serves to trace the outline of the spotlight I'm using (don't overthink that metaphor).
 
 ## State panopticon
