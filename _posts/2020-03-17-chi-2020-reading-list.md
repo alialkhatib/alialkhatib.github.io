@@ -23,9 +23,9 @@ If you're interested in following along, you can keep an eye on future posts [he
 {% assign proceedings = site.data.chi_2020 | sort: 'authors' %}
 <ul class="list-group-flush" style="padding-inline-start:0px">
 {% for paper in proceedings %}
-    <li class="list-group-item {% if paper.url == null or paper.url == false %} list-group-item-secondary {% endif %}">
+    <li class="list-group-item {% if paper.url == null or paper.url == false %} list-group-item-dark {% endif %}">
     {% if paper.url == null or paper.url == false %}
-    <span class="text-black"><span class="font-weight-bold">{{paper.title}}</span> by {{paper.authors| array_to_sentence_string }}</span>
+    <a target="_blank" class="alert-link" href="https://dl.acm.org/action/doSearch?AllField={{paper.title | escape }}&expand=all&ConceptID=119596">{{paper.title}}</a> by {{paper.authors| array_to_sentence_string }}
     {% else %}
     <a class="stretched-link" target="_blank" href="{{paper.url}}"><span class="font-weight-bold title">{{paper.title}}</span> <span class="text-decoration-underline">by {{paper.authors| array_to_sentence_string }}</span></a>
     {% endif %}
