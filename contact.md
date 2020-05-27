@@ -1,15 +1,15 @@
 ---
 layout: shorty
-title: Contact
 ---
 
-You can [email me][email] if you'd like. I'm also on [twitter][tw], where my DMs should be open.
+You can [email me][email] if you'd like. I'm also on [twitter][tw], where my DMs are open.
+
+I'm [trying a thing][] where I make myself available for 30- & 45-minute blocks of time throughout the week.
+If you'd like to schedule a video chat, feel free to [claim a block][].
 
 I'm sure I'm on LinkedIn, Google+, Quora, and other sites. 
 Don't try to send messages to any of those places; I'll never find them.
 
-I'm [trying a thing][] where I make myself available for 30- & 45-minute blocks of time throughout the week.
-If you'd like to schedule a video chat, feel free to [claim a block][].
 
 [trying a thing]: /blog/coffee-talk
   "Coffee Talk"
