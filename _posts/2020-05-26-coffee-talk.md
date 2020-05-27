@@ -1,4 +1,4 @@
-A handful of people have emailed or variously asked if I could chat, and in the interest of trying to be available beyond the insulated network of "people I either already know or who have a mutual friend vouch for them", I wanted to try opening up chunks of my schedule to what I'll call "coffee talk". You can sign up [here][] (but you might want to read on to understand where I'm coming from so your expectations are measured).
+A handful of people have emailed or variously asked if I could chat, and in the interest of trying to be available beyond the insulated network of "people I either already know or who have a mutual friend to introduce us", I wanted to try opening up chunks of my schedule to what I'll call "coffee talk". You can sign up [here][] (but you might want to read on to understand where I'm coming from so your expectations are measured).
 
 The way it works is pretty simple: I've blocked off chunks of time throughout the week that you can book if you want to chat about something. It doesn't *have* to be about work stuff - if you want to think of it like running into someone in the break room and shooting the breeze, that's *fine with me*.
 
