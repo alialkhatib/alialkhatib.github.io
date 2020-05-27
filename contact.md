@@ -8,6 +8,8 @@ You can [email me][email] if you'd like. I'm also on [twitter][tw], where my DMs
 I'm sure I'm on LinkedIn, Google+, Quora, and other sites. 
 Don't try to send messages to any of those places; I'll never find them.
 
+We can zoom if you really want to. But I really want to stress that it's not necessary to 
+
 [email]: mailto:{{site.email}}
   "email address"
 [tw]: //twitter.com/{{site.twitter}}
