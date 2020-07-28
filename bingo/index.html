@@ -1,0 +1,114 @@
+<html>
+
+<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.19/lodash.min.js"></script>
+<link href="./style.css" rel="stylesheet" type="text/css">
+
+
+<script>
+
+bullshit=["marketplace of ideas",
+"all ideologies are valid",
+"there IS some evidence for phrenology",
+"we talked to a person of color",
+"national security blah blah blah",
+"if we don't do it, china will. then what??",
+"it's legal, so it's fine",
+"Manhattan project",
+// "**free space**",
+"this is just math; ethics isn't our problem",
+"Mirror on society",
+"It was performance art",
+"We were going to ask an ethicist later",
+"Our IRB (/some council) said it was fine",
+"anything \"innovation\"",
+"\"values\", without specifying further",
+"\"AI\", without specifying further",
+"self-regulation is key",
+"if you don't code, you can't possibly understand",
+"everything is biased, so nothing matters",
+"we don't sell data",
+"consumers have a choice",
+"lots of jobs tied up in this",
+"we refuse to profit from hate",
+"technology (/data) is neutral"
+]
+</script>
+
+<body>
+
+
+
+  <div id="container">
+    <div id="header">
+      <h1>Tech Bullshit BINGO</h1>
+    </div>
+  <div id="content">
+    <table id="bingotable">
+      <tr>
+        <th class="header">B</th>
+        <th class="header">I</th>
+        <th class="header">N</th>
+        <th class="header">G</th>
+        <th class="header">O</th>
+      </tr>
+      <tr>
+        <td onclick="this.classList.toggle('active')" id="square0"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square1"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square2"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square3"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square4"> &nbsp;</td>
+      </tr>
+      <tr>
+        <td onclick="this.classList.toggle('active')" id="square5"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square6"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square7"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square8"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square9"> &nbsp;</td>
+      </tr>
+      <tr>
+        <td onclick="this.classList.toggle('active')" id="square10"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square11"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="squarefree"> FREE</td>
+        <td onclick="this.classList.toggle('active')" id="square12"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square13"> &nbsp;</td>
+      </tr>
+      <tr>
+        <td onclick="this.classList.toggle('active')" id="square14"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square15"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square16"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square17"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square18"> &nbsp;</td>
+      </tr>
+      <tr>
+        <td onclick="this.classList.toggle('active')" id="square19"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square20"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square21"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square22"> &nbsp;</td>
+        <td onclick="this.classList.toggle('active')" id="square23"> &nbsp;</td>
+      </tr>
+    </table>
+  </div>
+
+
+</div>
+
+
+<script>
+
+// function this.classList.toggle('active'){
+//   console.log(this)
+// }
+
+newBingoCard=_.shuffle(bullshit)
+
+_.forEach(bullshit,function(k,v){
+  thingtochange=document.getElementById("square"+v);
+  thingtochange.innerHTML=newBingoCard[v]
+})
+
+</script>
+
+
+</body>
+
+</html>
