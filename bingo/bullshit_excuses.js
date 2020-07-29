@@ -34,4 +34,5 @@ bullshit=[
 "we're a platform, not a media company", // @StenderWorld
 "Encryption", // @StenderWorld
 "what about boobs?" // inspired but not strictly @StenderWorld's card
+"surveillance CEO doesn't want to be recorded"
 ]
