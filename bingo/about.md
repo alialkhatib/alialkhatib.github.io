@@ -8,8 +8,8 @@ layout: longy
 Hi, you apparently wanted to know more. Here's some more information.
 
 ### some privacy stuff
-- I'm not tracking anything on that bingo page. I'm pretty sure google analytics is on this and other pages on this site, though.
-- I really can't stress enough: I'm not tracking *anything* on that bingo page. if you refresh the page, you'll lose everything - even the arrangement of the placards.
+- ~~I'm not tracking anything on that bingo page. I'm pretty sure google analytics is on this and other pages on this site, though.~~ it turns out githubpages adds google analytics to everything when it compiles the site. Sorry about that.
+- If you refresh the page, you'll lose everything - even the arrangement of the squares. You might even get different squares.
 
 
 ### how to play
