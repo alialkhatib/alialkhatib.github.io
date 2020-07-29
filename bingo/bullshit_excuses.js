@@ -27,4 +27,11 @@ bullshit=[
 "It’s simply a matter of obtaining better training data", // from https://twitter.com/stuartmarks/status/1288309243573985280
 "this isn't a problem if you have nothing to hide", // https://twitter.com/stuartmarks/status/1288309243573985280
 "the remedy to bad tech is more good tech", // from https://twitter.com/steveglista/status/1288220035287310336
+"first amendment", // one of many borroed from @StenderWorld's bingo card
+"countering violent extremism", // @StenderWorld
+"CDA 230", // @StenderWorld
+"Arab Spring", // @StenderWorld
+"we're a platform, not a media company", // @StenderWorld
+"Encryption", // @StenderWorld
+"what about boobs?" // inspired but not strictly @StenderWorld's card
 ]
