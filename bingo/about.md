@@ -35,6 +35,6 @@ If it's a feature that improves accessibility, then definitely [contact me][cont
 
 So... feel free to pitch the idea if you want, but be prepared for me to pass. Sorry!
 
-[#TechBSBingo]: #
+[#TechBSBingo]: https://twitter.com/_alialkhatib/status/1288339408299520000
 [the list]: https://github.com/alialkhatib/alialkhatib.github.io/blob/master/bingo/bullshit_excuses.js
 [contact]: /contact
