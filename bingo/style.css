@@ -76,11 +76,13 @@ td {
 
 .footer {
   position: relative;
-  margin-top: 100px; /* negative value of footer height */
+  /*margin-top: 100px;  negative value of footer height */
   height: 100px;
   clear:both;
   text-align: right;
-  padding-top:20px;
+  padding-top:1em;
+  padding-right:2em;
+  /*padding-top:20px;*/
 } 
 
 /*
