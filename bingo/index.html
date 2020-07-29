@@ -14,7 +14,7 @@
   <title>Tech Bullshit Bingo!</title>
 </head>
 <body>
-  <div id="container-fluid">
+  <div class="container-fluid">
     <div class="row">
       <div class="col">
         <div id="header">
@@ -25,14 +25,18 @@
     
     <div class="row">
       <div class="col">
-        <table id="bingotable">
-          <tr>
-            <th class="header">B</th>
-            <th class="header">I</th>
-            <th class="header">N</th>
-            <th class="header">G</th>
-            <th class="header">O</th>
+        <div class="table table-bordered table-responsive">
+        <table>
+          <thead>
+          <tr class="table-active">
+            <th scope="col">B</th>
+            <th scope="col">I</th>
+            <th scope="col">N</th>
+            <th scope="col">G</th>
+            <th scope="col">O</th>
           </tr>
+          </thead>
+          <tbody>
           <tr>
             <td onclick="this.classList.toggle('active')" id="square0"></td>
             <td onclick="this.classList.toggle('active')" id="square1"></td>
@@ -68,7 +72,9 @@
             <td onclick="this.classList.toggle('active')" id="square22"></td>
             <td onclick="this.classList.toggle('active')" id="square23"></td>
           </tr>
+        </tbody>
         </table>
+      </div>
       </div>
     </div>
     

@@ -17,7 +17,7 @@ Bingo's kind of a fun game if you're listless and have nothing better to do, and
 
 The basics are hopefully easy to pick up. Load the page and it'll randomly pull up a bunch of bullshit platitudes that tech advocates give when AI or tech platforms or tech in general cause harm to people. tap or click on the square when you hear them say the thing.
 
-If you get a straight line up/down or left/right, take a screenshot and tweet it, with... I dunno, let's go with "[#TechBSBingo][]".
+If you get a straight line up/down or left/right, take a screenshot and tweet it, with... I dunno, let's go with "[#BreakUpBigTech][]".
 
 ### i want to suggest a new item
 
@@ -35,6 +35,6 @@ If it's a feature that improves accessibility, then definitely [contact me][cont
 
 So... feel free to pitch the idea if you want, but be prepared for me to pass. Sorry!
 
-[#TechBSBingo]: https://twitter.com/_alialkhatib/status/1288339408299520000
+[#BreakUpBigTech]: https://twitter.com/_alialkhatib/status/1288339408299520000
 [the list]: https://github.com/alialkhatib/alialkhatib.github.io/blob/master/bingo/bullshit_excuses.js
 [contact]: /contact

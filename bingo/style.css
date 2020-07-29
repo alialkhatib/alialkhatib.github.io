@@ -6,28 +6,44 @@ body {
   align-items: center;
 }
 
+
+.container-fluid {
+  height:100vh;
+}
+
+table {
+  height:100vh;
+  width:100%;
+  table-layout: fixed;
+  margin: 0;
+  text-align: center;
+
+}
+
+h1 {
+  font-size: 5em!important;
+}
+
 h1, p {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 20pt;
-  font-weight: 600;
   margin: 0;
   text-align: center;
   padding: 0px;
   color: black;
 }
 
-p a {
+/*p a {
   text-decoration: none;
   color: #000000;
-}
+}*/
 
 #squarefree {
   font-family: "Source Sans Pro", sans-serif;
-  margin: 0 auto;
+  margin: 0;
   background: #5dc4de;
   text-align: center;
   font-weight: bolder;
-  font-size: 20pt;
+  font-size: 3em;
 }
 
 .inactive {
@@ -37,26 +53,14 @@ p a {
   background-color:#58D68D;
 }
 
-#bingotable {
-  table-layout: fixed;
-  margin: 0;
-  text-align: center;
-  width:100%;
-/*  width: 100%;
-  height: 600px;
-  border-collapse: collapse;
-  background: white;*/
-}
-
 
 tr th {
   height:30px;
-  font-size:20px;
+  font-size:3em;
 }
 
 th, td {
   font-family: "Source Sans Pro", sans-serif;
-  /*height:100px;*/
   text-align: center;
   border: 2px solid black;
 }
@@ -67,7 +71,9 @@ th {
 }
 
 td {
+  vertical-align: middle!important;
   padding: 2em;
+  font-size:2em;
 }
 
 .header {
