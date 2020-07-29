@@ -1,7 +1,6 @@
 body {
   background: #f8f9fa;
   display: flex;
-  /*height: 100vh;*/
   align-content: center;
   justify-content: center;
   align-items: center;
@@ -39,12 +38,14 @@ p a {
 }
 
 #bingotable {
-  margin: 0 auto;
+  table-layout: fixed;
+  margin: 0;
   text-align: center;
-  width: 1000px;
+  width:100%;
+/*  width: 100%;
   height: 600px;
   border-collapse: collapse;
-  background: white;
+  background: white;*/
 }
 
 
@@ -54,13 +55,19 @@ tr th {
 }
 
 th, td {
-  font-family: Helvetica;
-  height:100px;
-  width: 200px;
-  margin: 0;
+  font-family: "Source Sans Pro", sans-serif;
+  /*height:100px;*/
   text-align: center;
   border: 2px solid black;
-  
+}
+
+
+th {
+  height:100px;
+}
+
+td {
+  padding: 2em;
 }
 
 .header {
@@ -76,7 +83,7 @@ th, td {
   padding-top:20px;
 } 
 
-
+/*
 html, body {
   height: 100%;
-}
+}*/
