@@ -1,10 +1,18 @@
 ---
-layout: home
+layout: shorty
+title: "Bio"
 ---
 
-Hi, that's me.
 
-I'm a Research Fellow at the [University of San Francisco][USF]'s [Center for Applied Data Ethics][CADE].
+If you're here, you're looking for a bio. Here are a few options:
+
+> Ali is a Research Fellow at the Center for Applied Data Ethics, a group operating out of the Data Institute at the University of San Francisco.
+
+
+> Ali is a Research Fellow at the Center for Applied Data Ethics, a group operating out of the Data Institute at the University of San Francisco.
+> His work mostly centers on human-computer interaction, but draws from theory originating in the social sciences.
+
+<!-- Hi, that's me.
 
 I study human-computer interaction - more precisely, I study how people relate to individual algorithmic systems and with algorithmically mediated social ecologies by adapting theoretical lenses and frameworks originating in the social sciences to understand these phenomena.
 
@@ -22,6 +30,7 @@ I ultimately hope to advance a narrative that represents these technologies as a
 
 ---
 
+I'm a Research Fellow at the [University of San Francisco][USF]'s [Center for Applied Data Ethics][CADE].
 
 I studied Computer Science at Stanford for a few years while pursuing a PhD;
 [Michael Bernstein][msb] was my advisor.
@@ -88,4 +97,4 @@ If this isn't enough info, click on some links floating around this text in vari
 [gig work]: /research#crowdwork-piecework
   "Piecework page"
 [AI]: /research#street-level-algorithms
-  "Street Level Algorithms page"
+  "Street Level Algorithms page" -->
