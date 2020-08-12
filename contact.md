@@ -19,5 +19,5 @@ Don't try to send messages to any of those places; I'll never find them.
   "twitter profile"
 [fb]: //facebook.com/{{site.fb}}
   "facebook profile"
-[claim a block]: //calendar.google.com/calendar/selfsched?sstoken=UU9yV3VESkxyOERlfGRlZmF1bHR8OWNhYTAwYTU2OTY3ZGQxMmZkMzIzYmFlNGVhOTI3ODM
+[claim a block]: {{site.meeting}}
   "Google Calendar appointments"

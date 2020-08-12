@@ -24,4 +24,4 @@ Anyway, if you'd like to chat, and if you've read to the end, click through to b
 
 
 [coffee talk]: /blog/coffee-talk
-[here]: https://calendly.com/alialkhatib/watercooler
+[here]: {{site.meeting}}

@@ -5,6 +5,7 @@ baseurl: ''
 twitter: '_alialkhatib'
 email: 'hi@al2.in'
 fb: 'Ali.Alkhatib'
+meeting: "https://calendly.com/alialkhatib/watercooler"
 
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
