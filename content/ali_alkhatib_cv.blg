@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2019)
+This is BibTeX, Version 0.99d (TeX Live 2020)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: ali_alkhatib_cv.aux
 The style file: biblatex.bst
@@ -19,47 +19,52 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: ali_alkhatib_cv-blx.bib
 Database file #2: references.bib
-Biblatex version: 3.13
+I was expecting an "="---line 1551 of file references.bib
+ :   u                 
+ :                     {https://ali-alkhatib.com/media/papers/quantified_self.pdf}
+I'm skipping whatever remains of this entry
+Biblatex version: 3.15
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 7 entries,
-            6365 wiz_defined-function locations,
-            1254 strings with 11000 characters,
-and the built_in function-call counts, 54310 in all, are:
-= -- 3828
-> -- 1209
-< -- 289
-+ -- 1566
-- -- 577
-* -- 4398
-:= -- 6354
+You've used 8 entries,
+            6393 wiz_defined-function locations,
+            1271 strings with 11186 characters,
+and the built_in function-call counts, 59884 in all, are:
+= -- 4221
+> -- 1350
+< -- 366
++ -- 1679
+- -- 605
+* -- 4696
+:= -- 6731
 add.period$ -- 0
-call.type$ -- 7
-change.case$ -- 107
-chr.to.int$ -- 50
-cite$ -- 12
-duplicate$ -- 5434
-empty$ -- 4428
-format.name$ -- 666
-if$ -- 10975
+call.type$ -- 8
+change.case$ -- 169
+chr.to.int$ -- 56
+cite$ -- 14
+duplicate$ -- 6055
+empty$ -- 4942
+format.name$ -- 715
+if$ -- 12181
 int.to.chr$ -- 0
-int.to.str$ -- 17
+int.to.str$ -- 21
 missing$ -- 0
-newline$ -- 315
-num.names$ -- 308
-pop$ -- 2265
+newline$ -- 349
+num.names$ -- 405
+pop$ -- 2579
 preamble$ -- 1
-purify$ -- 176
+purify$ -- 240
 quote$ -- 0
-skip$ -- 1534
+skip$ -- 1850
 stack$ -- 0
-substring$ -- 6830
-swap$ -- 1272
-text.length$ -- 280
-text.prefix$ -- 6
+substring$ -- 7330
+swap$ -- 1483
+text.length$ -- 305
+text.prefix$ -- 7
 top$ -- 1
-type$ -- 226
+type$ -- 260
 warning$ -- 0
-while$ -- 870
+while$ -- 923
 width$ -- 0
-write$ -- 309
+write$ -- 342
+(There was 1 error message)

@@ -17,6 +17,43 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
+  \entry{10.1145/3404205}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AA}{%
+         family={Alkhatib},
+         familyi={A\bibinitperiod},
+         given={Ali},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \strng{namehash}{AA1}
+    \strng{fullhash}{AA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.1145/3404205
+    \endverb
+    \field{issn}{1072-5520}
+    \field{number}{4}
+    \field{pages}{84–89}
+    \field{title}{We Need to Talk about Digital Contact Tracing}
+    \verb{url}
+    \verb https://doi.org/10.1145/3404205
+    \endverb
+    \field{volume}{27}
+    \list{location}{1}{%
+      {New York, NY, USA}%
+    }
+    \field{journaltitle}{Interactions}
+    \field{month}{07}
+    \field{year}{2020}
+  \endentry
+
   \entry{streetLevelAlgorithms}{inproceedings}{}
     \name{author}{2}{}{%
       {{hash=AA}{%
@@ -139,9 +176,6 @@
     \field{booktitle}{UC Irvine Undergraduate Research Symposium}
     \field{series}{UC Irvine Undergraduate Research Symposium}
     \field{title}{Quantified Self: Ethnography of a Digital Culture}
-    \verb{url}
-    \verb https://ali-alkhatib.com/media/papers/quantified_self.pdf
-    \endverb
     \field{venue}{University of California, Irvine, USA}
     \field{year}{2014}
   \endentry
