@@ -2,6 +2,8 @@
 layout: home
 ---
 
+*If you're looking for information about the Star Trek DS9 viewing party, go [here](/trek)*
+
 Hi, that's me.
 
 I'm a Research Fellow at the [University of San Francisco][USF]'s [Center for Applied Data Ethics][CADE].

@@ -23,13 +23,13 @@ I was expecting an "="---line 1551 of file references.bib
  :   u                 
  :                     {https://ali-alkhatib.com/media/papers/quantified_self.pdf}
 I'm skipping whatever remains of this entry
-Biblatex version: 3.15
+Biblatex version: 3.13
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 8 entries,
-            6393 wiz_defined-function locations,
-            1271 strings with 11186 characters,
-and the built_in function-call counts, 59884 in all, are:
+            6365 wiz_defined-function locations,
+            1263 strings with 11116 characters,
+and the built_in function-call counts, 59968 in all, are:
 = -- 4221
 > -- 1350
 < -- 366
@@ -45,7 +45,7 @@ cite$ -- 14
 duplicate$ -- 6055
 empty$ -- 4942
 format.name$ -- 715
-if$ -- 12181
+if$ -- 12265
 int.to.chr$ -- 0
 int.to.str$ -- 21
 missing$ -- 0
