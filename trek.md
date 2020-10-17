@@ -3,7 +3,7 @@ title: Star Trek Viewing Party
 layout: shorty
 ---
 
-# What?
+## What?
 
 - I've decided to host a weekly Star Trek viewing party
 - It'll happen every Thursday
