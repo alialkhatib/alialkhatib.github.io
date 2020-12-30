@@ -24,4 +24,4 @@ Do we talk about having ethicists involved in the process of designing an algori
 
 Anyway, when you notice this distinction, I think you start to notice and bucket different nominally ethical groups into one camp or the other relatively cleanly. I think, as far as framing devices go, that makes it at least a little useful.
 
-I don't know how useful this distinction is, but I've found it to be a useful way to frame how I approach thinking about different groups.
+I don't know how useful this distinction is, and I really don't even think this is some new insight; I'm pretty sure this is in the water already, but I haven't heard people frame it in this kind of way where we structure them as two groups within the nominal same group. But I've found it to be a useful way to frame how I approach thinking about different groups, and to the extent that AI/ethics is a growing field that's sort of still finding its footing, it kind of seems like recognizing two competing worldviews is a useful first step before *choosing* a worldview.
