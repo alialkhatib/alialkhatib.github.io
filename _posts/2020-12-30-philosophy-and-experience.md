@@ -1,0 +1,27 @@
+---
+title: Between Philosophy and Experience
+---
+
+I'm between drafts and projects and this seems like something worth unpacking further, but I haven't come across someone else's work on it, so I figured I'd put it here. If you're too lazy to click, the gist is that there's an epistemological rift in the study and discourse of AI and ethics and I think it'd be helpful to talk about it.
+
+I'm going to draw an oversimplification here, but try and bear with me to get the general verve that I'm getting at. In one camp are the people who draw mostly on philosophy to inform their conversations about ethics, and in the other are the people who draw mostly on what I'll call "phenomenological" fields to inform their conversations. That's my clumsy way of fancily saying "fields that talk about experiences" - here I'm thinking about Anthropology, Sociology, African American Studies, Gender Studies, Feminist Studies, etc...
+
+This is incredibly, obnoxiously oversimplifying things. It implies that people in feminist studies and anthropology don't do "philosophy", and that people in philosophy don't care about "experiences". That's not really the dichotomy I'm trying to go for here.
+
+The schism I'm trying to identify is where people draw **authority** from. When we talk about ethics, do we draw authority from a field and from a discipline that values distance, dispassion, notions of objectivity and platonic ideals - from maxims that can be distilled and named and that we then quiz each other on (Kantian ethics, deontology, value ethics, utilitarianism, functionalism, etc...) - or do we draw authority from fields that value people's messy, sometimes inexplicable, sometimes inarticulable experiences and reflection on those experiences?
+
+The former gives us clean lines, which I think is why philosophy appeals so much to computer science folks (and why we see CS-centered ethics groups that subscribe heavily to philosophy). That distance, dispassion, and disambiguity fundamentally supports binary ideas underwriting computing and computer science.
+
+A friend once said that philosophy is "somehow even more white and more male than computer science". I think we need to ask why a field like that gets to be authoritative about ethics, or maybe more precisely why computer scientists value that perspective to the exclusion of the authority of people who speak from experience.
+
+On the other hand is the discourse of ethics that essentially looks to the lived experiences of people. People who write about and reflect on their own struggles working through and unlearning values they uncritically learned from a hegemony that centered misogyny and white supremacy, even as it devalued them.
+I find myself thinking about Mary Gray's *Ghost Work* and the time she spends listening to people who do this work that we try to sweep under the rug; I think about Ruha Benjamin's *Race After Technology* and the analysis she brings reflecting on the racism that we're all taught to internalize, including herself, even when she types her own name into the computer and it responds with a red squiggly line that implicates her as though she's wrong to spell her name that way, let alone to say words like "overserved" and "underserved"; I think about André Brock's *Distributed Blackness* and the spaces Black people created on the web in its early days; about Safiya Noble's *Algorithms of Oppression* and her own personal experiences searching for terms that describe herself and finding the offensive autocomplete suggestions that dehumanized and objectified her; I think about Forrest Stuart's *Ballad of the Bullet*, studying the kids in Chicago who learned about and turned The Algorithm into their own tool, finding notoriety and wealth by reaching wider audiences, but who simultaneously became more violent and destructive in their offline beefs.
+
+(If you're getting the misperception from this that a work like *Distributed Blackness* is anything but deeply philosophical, I dare you to go read it. It's dense and draws so substantively from theory that you could chew on it for weeks and months after you first read it (at least, I find myself doing so).)
+
+I think the difference between ethics organizations predicated on philosophy in this way and ethics organizations predicated on listening to the people who experience power is essentially the difference between whether you think AI and ethics is something *experts* should discuss, or if that's something everyone has a right to engage in. When we talk about ethics, does the effort go to formalizing and gating the conversation, or does the effort go toward diminishing the status of algorithmic systems and elevating how we value people's stories and experiences?
+Do we talk about having ethicists involved in the process of designing an algorithm, a dataset, or a model; or do we talk about working with the community the entire way through, reflecting on our positions as designers of systems, and acknowledging the steep power dynamics that permeate our conversations and collaborations?
+
+Anyway, when you notice this distinction, I think you start to notice and bucket different nominally ethical groups into one camp or the other relatively cleanly. I think, as far as framing devices go, that makes it at least a little useful.
+
+I don't know how useful this distinction is, but I've found it to be a useful way to frame how I approach thinking about different groups.

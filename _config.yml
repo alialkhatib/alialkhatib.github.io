@@ -42,8 +42,9 @@ navigation:
       link: /content/ali_alkhatib_cv.pdf
       name: Curriculum Vitae (PDF)
 
-gems:
+plugins:
   - jekyll-redirect-from
+  - jekyll-gist
 
 
 collections:
