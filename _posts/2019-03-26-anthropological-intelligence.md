@@ -91,7 +91,7 @@ Second, the question remains of what you can do. I have some thoughts on that:
 [quantified self]: https://ali-alkhatib.com/media/papers/quantified_self.pdf
 [piecework]: https://hci.stanford.edu/publications/2017/piecework/pn4226.pdf
 [your body's natural production of melatonin through the use of blue light]: https://www.physiology.org/doi/full/10.1152/japplphysiol.01413.2009
-[Your eye movements may someday come under the scrutiny of algorithms unknown to you that classifies you on dimensions such as "narcissism" and "psychopathy"]: https://www.mq.edu.au/research/research-centres-groups-and-facilitieshealthy-people/centres/australian-institute-of-health-innovation/resources/documents/Detecting-personality-traits-using-eye-tracking-data.pdf)
+[Your eye movements may someday come under the scrutiny of algorithms unknown to you that classifies you on dimensions such as "narcissism" and "psychopathy"]: https://dl.acm.org/doi/10.1145/3290605.3300451
 [Systems with access to photos of your face may someday classify you on the basis of its hunches about your sexuality]: https://www.gsb.stanford.edu/sites/gsb/files/publication-pdf/wang_kosinski.pdf
 [Your social networks can - and it turns out do - aim to manipulate your emotional state with neither your knowledge nor consent]: https://www.pnas.org/content/111/24/8788
 [Teachers in West Virginia answered that they did not]: https://www.thenation.com/article/the-west-virginia-teachers-strike-shows-that-winning-big-requires-creating-a-crisis/
