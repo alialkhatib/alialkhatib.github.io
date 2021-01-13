@@ -7,11 +7,50 @@ layout: longy
 
 ---
 
+### To Live in Their Utopia: Why Algorithmic Systems Create Absurd Outcomes
+{: #utopia }
+
+The promise AI's proponents have made for decades is one in which our needs are predicted, anticipated, and met - often before we even realize it. Instead, algorithmic systems, particularly AIs trained on large datasets and deployed to massive scales, seem to keep making the wrong decisions, causing harm and rewarding absurd outcomes. Attempts to make sense of why AIs make wrong calls in the moment explain the instances of errors, but how the environment surrounding these systems precipitate those instances remains murky. This paper draws from anthropological work on bureaucracies, states, and power, translating these ideas into a theory describing the structural tendency for powerful algorithmic systems to cause tremendous harm. I show how administrative models and projections of the world create marginalization, just as algorithmic models cause representational and allocative harm. This paper concludes with a recommendation to avoid the absurdity algorithmic systems produce by denying them power.
+
+**Links**: paper ([coming soon][utopiaPDF])
+
+
+<!-- <div class="row">
+  <div class="col-lg-8 col-sm-12">
+<textarea readonly class="form-control" rows="5" id="utopia-bibtex"  style="font-family:monospace;font-size:9px;resize:none;">
+@article{ToLiveInTheirUtopia,
+author = {Alkhatib, Ali},
+title = {We Need to Talk about Digital Contact Tracing},
+year = {2020},
+issue_date = {July - August 2020},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {27},
+number = {4},
+issn = {1072-5520},
+url = {https://doi.org/10.1145/3404205},
+doi = {10.1145/3404205},
+journal = {Interactions},
+month = jul,
+pages = {84–89},
+numpages = {6}
+} </textarea>
+</div>
+<div class="col-lg-4 col-sm-12">
+<button class="btn btn-lg btn-primary citations btn-block" data-clipboard-target="#utopia-bibtex">
+  copy bibtex citation
+</button>
+</div>
+</div> -->
+
+---
+
+
 
 ### We Need to Talk About Digital Contact Tracing
 {: #digital-contact-tracing }
 
-Recently, Apple and Google discussed developing and distributing a digital contact-tracing system that will inform people when they’ve been exposed to someone who’s contracted Covid-19, and communicate to people that they’ve been exposed to you if you later test positive yourself. Apple has since deployed a beta of iOS 13 with the first parts of this system exposed to developers and users. At the time of this writing in late April and early May, we’re desperate for information and weary from not knowing who’s caught Covid-19, who’s still vulnerable, who gets it worse and why, or even how to treat it. We’re desperate for any information we can get our hands on. This proposal by Apple and Google promises some information that we can finally dig into. Unfortunately, this system of digital tracing isn’t going to work, and we need to stop the plan before it gets off the ground.
+Recently, Apple and Google discussed developing and distributing a digital contact-tracing system that will inform people when they've been exposed to someone who's contracted Covid-19, and communicate to people that they've been exposed to you if you later test positive yourself. Apple has since deployed a beta of iOS 13 with the first parts of this system exposed to developers and users. At the time of this writing in late April and early May, we're desperate for information and weary from not knowing who's caught Covid-19, who's still vulnerable, who gets it worse and why, or even how to treat it. We're desperate for any information we can get our hands on. This proposal by Apple and Google promises some information that we can finally dig into. Unfortunately, this system of digital tracing isn't going to work, and we need to stop the plan before it gets off the ground.
 
 **Links**: paper ([pdf][dctACM] & [blog post][dctPost])
 
@@ -268,4 +307,4 @@ window.onload=function(){
   "Quantified Self presentation in PDF format"
 [groundworkPaper]: //arxiv.org/pdf/1807.08189
   "Microsoft Research project white paper in PDF format"
-  
+[utopiaPDF]: #
