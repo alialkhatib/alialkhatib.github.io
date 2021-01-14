@@ -86,8 +86,8 @@ Anyway, that's where my head's been at recently; a lot of these are very general
 
 
 [eight dollars]: https://apps.bostonglobe.com/spotlight/boston-racism-image-reality/series/image/?p1=Spotlight_Race_FooterNav&p1=Article_Inline_Text_Link
-[digital forests]: #
-[street-level algorithms paper]: #
+[digital forests]: /blog/digital-forests
+[street-level algorithms paper]: /research#street-level-algorithms
 [parking tickets]: https://www.theverge.com/2020/2/3/21120476/jeff-bezos-washington-dc-renovate-apartment-home-parking-tickets
 [spywareFB]: https://techcrunch.com/2019/01/29/facebook-project-atlas/
 [AppleResponse]: https://www.theverge.com/2019/1/30/18203551/apple-facebook-blocked-internal-ios-apps
