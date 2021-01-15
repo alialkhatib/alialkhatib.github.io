@@ -43,7 +43,7 @@ All this is to say that there's definitely a ton of work in this area, coming fr
 
 ---
 
-I'm going to breeze through the other topics because this post is getting long and I didn't want to spend this long on it. I'm sure there's work on this stuff, but it doesn't immediately come to mind, so feel free to point it out by [contacting me][contact]
+*I'm going to breeze through the other topics because this post is getting long and I didn't want to spend this long on it. I'm sure there's work on this stuff, but it doesn't immediately come to mind, so feel free to point it out by [contacting me][contact]*
 
 ---
 
