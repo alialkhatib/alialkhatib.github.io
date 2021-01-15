@@ -42,7 +42,9 @@ All this is to say that there's definitely a ton of work in this area, coming fr
 
 
 ---
-I'm going to breeze through the other topics because this post is getting long and I didn't want to spend this long on it. I'm sure there's work on this stuff, but it doesn't immediately come to mind, so feel free to point it out by [contacting me][contact]
+
+*I'm going to breeze through the other topics because this post is getting long and I didn't want to spend this long on it. I'm sure there's work on this stuff, but it doesn't immediately come to mind, so feel free to point it out by [contacting me][contact]*
+
 ---
 
 ### How are rules applied or felt differently?
@@ -84,7 +86,7 @@ Anyway, that's where my head's been at recently; a lot of these are very general
 
 
 
-
+[contact]: /contact
 [eight dollars]: https://apps.bostonglobe.com/spotlight/boston-racism-image-reality/series/image/?p1=Spotlight_Race_FooterNav&p1=Article_Inline_Text_Link
 [digital forests]: /blog/digital-forests
 [street-level algorithms paper]: /research#street-level-algorithms
