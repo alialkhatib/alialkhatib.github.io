@@ -19,52 +19,52 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: ali_alkhatib_cv-blx.bib
 Database file #2: references.bib
-I was expecting an "="---line 1551 of file references.bib
+I was expecting an "="---line 1553 of file references.bib
  :   u                 
  :                     {https://ali-alkhatib.com/media/papers/quantified_self.pdf}
 I'm skipping whatever remains of this entry
 Biblatex version: 3.13
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 8 entries,
+You've used 9 entries,
             6365 wiz_defined-function locations,
-            1263 strings with 11116 characters,
-and the built_in function-call counts, 59968 in all, are:
-= -- 4221
-> -- 1350
-< -- 366
-+ -- 1679
-- -- 605
-* -- 4696
-:= -- 6731
+            1269 strings with 11289 characters,
+and the built_in function-call counts, 64417 in all, are:
+= -- 4493
+> -- 1459
+< -- 409
++ -- 1758
+- -- 631
+* -- 4959
+:= -- 7078
 add.period$ -- 0
-call.type$ -- 8
-change.case$ -- 169
+call.type$ -- 9
+change.case$ -- 198
 chr.to.int$ -- 56
-cite$ -- 14
-duplicate$ -- 6055
-empty$ -- 4942
-format.name$ -- 715
-if$ -- 12265
+cite$ -- 16
+duplicate$ -- 6560
+empty$ -- 5370
+format.name$ -- 770
+if$ -- 13259
 int.to.chr$ -- 0
-int.to.str$ -- 21
+int.to.str$ -- 27
 missing$ -- 0
-newline$ -- 349
-num.names$ -- 405
-pop$ -- 2579
+newline$ -- 376
+num.names$ -- 476
+pop$ -- 2908
 preamble$ -- 1
-purify$ -- 240
+purify$ -- 271
 quote$ -- 0
-skip$ -- 1850
+skip$ -- 2075
 stack$ -- 0
-substring$ -- 7330
-swap$ -- 1483
-text.length$ -- 305
-text.prefix$ -- 7
+substring$ -- 7658
+swap$ -- 1628
+text.length$ -- 330
+text.prefix$ -- 8
 top$ -- 1
-type$ -- 260
+type$ -- 294
 warning$ -- 0
-while$ -- 923
+while$ -- 971
 width$ -- 0
-write$ -- 342
+write$ -- 368
 (There was 1 error message)
