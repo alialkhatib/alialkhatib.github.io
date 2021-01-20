@@ -13,11 +13,13 @@
 % \usepackage{showframe}
 \usepackage{framed,tocloft,etoolbox,enumitem,longtable,makecell,bibentry}
 \usepackage{titlesec}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[lining]{sourcesanspro}
 \usepackage[normalem]{ulem} %for \uline
-\usepackage{array, lipsum,needspace,changepage,fontspec}
-\defaultfontfeatures{Ligatures=TeX}
-\setmainfont{SourceSansPro}
-\setmonofont{SourceCodePro}
+\usepackage{array, lipsum,needspace,changepage}
+% \defaultfontfeatures{Ligatures=TeX}
+% \setmainfont{SourceSansPro}
+% \setmonofont{SourceCodePro}
 \usepackage[style=verbose,backend=bibtex]{biblatex}
 \bibliography{references}
 % \needspace{2em}
@@ -29,7 +31,7 @@
 \titleformat{\subsection}{\large}{{\thesubsection}}{0pt}{\large}
 \titleformat{\subsubsection}{\itshape}{{\thesubsubsection}}{0pt}{\itshape}
 
-\titlespacing*{\section}{0em}{.5em}{1em}
+\titlespacing*{\section}{0em}{0em}{0em}
 \titlespacing*{\subsection}{0em}{.5em}{0em}
 \titlespacing*{\subsubsection}{0em}{.5em}{0em}
 
@@ -156,10 +158,20 @@ Aug 2012 to Jun 2014 & \makecell[tl]{\textit{B.A. Anthropology}\\
 \end{longtable}
 
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \section*{Research Experience}
+  \section*{Past Affiliations}
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   % \begin{adjustwidth}{1.5em}{0pt}
     \begin{longtable}{L!{ \VRule\ } R}
+
+                                     & {\textbf{\large University of San Francisco}}
+                                       \hfill
+                                       \textit{San Francisco, CA}\\[5pt]
+
+\mbox{Jan 2020} to \mbox{\textit{current}} & \makecell[tl]{\textit{\large Center for Applied Data Ethics}\\
+                                     Publications\\
+                                     Research, Speaking, Etc\dots}\\[30pt]
+
+
 
                                      & {\textbf{\large Microsoft Research}}
                                        \hfill
@@ -196,6 +208,7 @@ Aug 2012 to Jun 2014 & \makecell[tl]{\textit{B.A. Anthropology}\\
 
 \begin{longtable}{L!{ \VRule\ } R}
 
+    \citeyear{AlkhatibUtopia2021} \\ \textit{\footnotesize in press}    & \fullcite{AlkhatibUtopia2021}\\
     \citeyear{10.1145/3404205}\\                 & \fullcite{10.1145/3404205}\\
     \citeyear{streetLevelAlgorithms}\\     \BP   & \fullcite{streetLevelAlgorithms}\\
     \citeyear{DBLP:journals/corr/abs-1807-08189} & \fullcite{DBLP:journals/corr/abs-1807-08189}\\

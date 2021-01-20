@@ -17,6 +17,34 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
+  \entry{AlkhatibUtopia2021}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=AA}{%
+         family={Alkhatib},
+         familyi={A\bibinitperiod},
+         given={Ali},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \keyw{HCI, Artificial Intelligence, Street-Level Algorithms}
+    \strng{namehash}{AA1}
+    \strng{fullhash}{AA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{series}{CHI '21}
+    \field{title}{To Live in Their Utopia: Why Algorithmic Systems Create
+  Absurd Outcomes}
+    \list{location}{1}{%
+      {New York, NY, USA}%
+    }
+    \field{year}{2021}
+  \endentry
+
   \entry{10.1145/3404205}{article}{}
     \name{author}{1}{}{%
       {{hash=AA}{%
@@ -195,9 +223,9 @@
          giveni={J\bibinitperiod},
       }}%
       {{hash=MA}{%
-         family={Monroy{-}Hern{\'{a}}ndez},
+         family={Monroy{-}Hern{\'{a} }ndez},
          familyi={M\bibinitperiod},
-         given={Andr{\'{e}}s},
+         given={Andr{\'{e} }s},
          giveni={A\bibinitperiod},
       }}%
     }
