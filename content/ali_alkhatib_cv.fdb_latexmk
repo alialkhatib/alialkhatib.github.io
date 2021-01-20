@@ -1,5 +1,9 @@
 # Fdb version 3
+<<<<<<< HEAD
 ["bibtex ali_alkhatib_cv"] 1611158812 "ali_alkhatib_cv.aux" "ali_alkhatib_cv.bbl" "ali_alkhatib_cv" 1611163260
+=======
+["bibtex ali_alkhatib_cv"] 1611158812 "ali_alkhatib_cv.aux" "ali_alkhatib_cv.bbl" "ali_alkhatib_cv" 1611159061
+>>>>>>> db7e7500512f7673eec62db513e404e5580464a2
   "/Users/alialkhatib/Library/texmf/bibtex/bib/references.bib" 1611154286 552829 d295ba05551fccb638d30de24245f7af ""
   "/usr/local/texlive/2020/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1575845417 65050 5c39e6f144c843a658dad8c93d2a6f3c ""
   "ali_alkhatib_cv-blx.bib" 1611159059 344 adddce8f8a72533013a0549d91ea3573 "lualatex"
@@ -7,7 +11,11 @@
   (generated)
   "ali_alkhatib_cv.bbl"
   "ali_alkhatib_cv.blg"
+<<<<<<< HEAD
 ["lualatex"] 1611159055 "ali_alkhatib_cv.tex" "ali_alkhatib_cv.pdf" "ali_alkhatib_cv" 1611163260
+=======
+["lualatex"] 1611159055 "ali_alkhatib_cv.tex" "ali_alkhatib_cv.pdf" "ali_alkhatib_cv" 1611159061
+>>>>>>> db7e7500512f7673eec62db513e404e5580464a2
   "/Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmmono10-regular.luc" 1611157422 77666 2df542ef6af4555e1ceedd7d6112dba4 ""
   "/Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman10-regular.luc" 1597760054 123160 fae69f77759c5c9c8b33ffe7ddbbe92a ""
   "/Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman5-regular.luc" 1598448744 121792 dbc62c628039390f43c3da91f7fceb13 ""
@@ -168,8 +176,16 @@
   "ali_alkhatib_cv.tex" 1611159055 10509 678f6a5c8d9253239b585a445e46e732 ""
   (generated)
   "ali_alkhatib_cv.out"
+<<<<<<< HEAD
   "ali_alkhatib_cv-blx.bib"
   "ali_alkhatib_cv.run.xml"
   "ali_alkhatib_cv.pdf"
   "ali_alkhatib_cv.aux"
   "ali_alkhatib_cv.log"
+=======
+  "ali_alkhatib_cv.log"
+  "ali_alkhatib_cv.aux"
+  "ali_alkhatib_cv.run.xml"
+  "ali_alkhatib_cv.pdf"
+  "ali_alkhatib_cv-blx.bib"
+>>>>>>> db7e7500512f7673eec62db513e404e5580464a2
