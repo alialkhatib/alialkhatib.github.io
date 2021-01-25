@@ -6,4 +6,4 @@
 	url = https://github.com/alialkhatib/bookVis
 [submodule "cade-series"]
 	path = cade-series
-	url = git@github.com:alialkhatib/cade-series
+	url = https://github.com/alialkhatib/cade-series
