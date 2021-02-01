@@ -277,6 +277,7 @@ GEM
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
+    webrick (1.7.0)
     zeitwerk (2.4.2)
 
 PLATFORMS
@@ -285,11 +286,12 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (>= 3.6.3)
+  jekyll (>= 3.7.3)
   jekyll-gist
   jekyll-press
   kramdown (>= 2.3.0)
-  nokogiri (>= 1.11.0.rc4)
+  nokogiri (>= 1.11.1)
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.2.6
