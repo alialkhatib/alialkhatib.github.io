@@ -3,17 +3,17 @@ layout: cade-default
 ---
 
 <div class="row">
-  <div class="col">
+  <div class="col-4 col-md-8 col-lg-4">
     <a href="{{site.cadeprefix}}">
     <i class="fas fa-arrow-left"></i>
     return to all talks</a>
   </div>
 
-<div class="col text-right">
+<div class="col-8 col-md-4 col-lg-8 text-right">
   {% if page.event_url != nil %}
 <a class="h4" target="_blank" href="{{page.event_url}}">Register here <i class="fas fa-external-link-alt"></i></a>
 {% else %}
-<span class="h4">check back for a registration link</span>
+<a href="#mce-EMAIL" for="mce-EMAIL" class="h5">Registration link unavailable. Sign up for information about upcoming events</a>
 {% endif %}
 </div>
 </div>
