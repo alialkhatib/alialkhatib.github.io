@@ -4,7 +4,7 @@ layout: home
 
 Hi, that's me.
 
-I'm a Research Fellow at the [University of San Francisco][USF]'s [Center for Applied Data Ethics][CADE].
+I'm the interim director of the [Center for Applied Data Ethics][CADE] at the [University of San Francisco][USF].
 
 I study human-computer interaction - more precisely, I study how people relate to individual algorithmic systems and with algorithmically mediated social ecologies by adapting theoretical lenses and frameworks originating in the social sciences to understand these phenomena.
 
