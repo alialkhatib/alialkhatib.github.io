@@ -1,27 +1,16 @@
 # Fdb version 3
-<<<<<<< HEAD
-["bibtex ali_alkhatib_cv"] 1611158812 "ali_alkhatib_cv.aux" "ali_alkhatib_cv.bbl" "ali_alkhatib_cv" 1611163260
-=======
-["bibtex ali_alkhatib_cv"] 1611158812 "ali_alkhatib_cv.aux" "ali_alkhatib_cv.bbl" "ali_alkhatib_cv" 1611159061
->>>>>>> db7e7500512f7673eec62db513e404e5580464a2
+["bibtex ali_alkhatib_cv"] 1611158812 "ali_alkhatib_cv.aux" "ali_alkhatib_cv.bbl" "ali_alkhatib_cv" 1616705318
   "/Users/alialkhatib/Library/texmf/bibtex/bib/references.bib" 1611154286 552829 d295ba05551fccb638d30de24245f7af ""
   "/usr/local/texlive/2020/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1575845417 65050 5c39e6f144c843a658dad8c93d2a6f3c ""
-  "ali_alkhatib_cv-blx.bib" 1611159059 344 adddce8f8a72533013a0549d91ea3573 "lualatex"
-  "ali_alkhatib_cv.aux" 1611159060 4795 79a089cf3b3613f9893196a114020ef5 "lualatex"
+  "ali_alkhatib_cv-blx.bib" 1616705317 344 adddce8f8a72533013a0549d91ea3573 "lualatex"
+  "ali_alkhatib_cv.aux" 1616705317 4795 79a089cf3b3613f9893196a114020ef5 "lualatex"
   (generated)
   "ali_alkhatib_cv.bbl"
   "ali_alkhatib_cv.blg"
-<<<<<<< HEAD
-["lualatex"] 1611159055 "ali_alkhatib_cv.tex" "ali_alkhatib_cv.pdf" "ali_alkhatib_cv" 1611163260
-=======
-["lualatex"] 1611159055 "ali_alkhatib_cv.tex" "ali_alkhatib_cv.pdf" "ali_alkhatib_cv" 1611159061
->>>>>>> db7e7500512f7673eec62db513e404e5580464a2
-  "/Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmmono10-regular.luc" 1611157422 77666 2df542ef6af4555e1ceedd7d6112dba4 ""
-  "/Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman10-regular.luc" 1597760054 123160 fae69f77759c5c9c8b33ffe7ddbbe92a ""
-  "/Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman5-regular.luc" 1598448744 121792 dbc62c628039390f43c3da91f7fceb13 ""
-  "/Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman7-regular.luc" 1597760056 124216 43e5446308d2572554dfdcd02cd8b026 ""
-  "/Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmsans10-bold.luc" 1600012692 123929 9643ad0bc382f120b850baa043befd79 ""
-  "/Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmsans10-regular.luc" 1600012692 123475 9f4d66f70aa5f138f9cc5807b6cb254a ""
+["lualatex"] 1616705314 "ali_alkhatib_cv.tex" "ali_alkhatib_cv.pdf" "ali_alkhatib_cv" 1616705318
+  "/Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmmono10-regular.luc" 1612034562 77666 2df542ef6af4555e1ceedd7d6112dba4 ""
+  "/Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman10-regular.luc" 1611862105 123160 fae69f77759c5c9c8b33ffe7ddbbe92a ""
+  "/Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmsans10-bold.luc" 1612034739 123929 9643ad0bc382f120b850baa043befd79 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm" 1136768653 1508 3b32edd0d68f6498a5a375e78f9edc5e ""
@@ -115,7 +104,7 @@
   "/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty" 1574631863 19963 36fd8e818f9f0f32e2db8413d4970122 ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575674187 9715 b051d5b493d9fe5f4bc251462d039e5f ""
-  "/usr/local/texlive/2020/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty" 1587936753 6172 8007ee7cf6262667ed58bbed36a42c35 ""
+  "/usr/local/texlive/2020/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty" 1483481373 6186 e6af49581c58f78ba167dc52b38a9495 ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty" 1571259403 48596 2b6a95da931c07a430b1a61904aaa42d ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/tocloft/tocloft.sty" 1578692495 36103 3e78d14f0f4b1a30560fea5e04de805d ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty" 1580683321 12560 ce3f59ceae9d9a27bfe037d6bf1d903c ""
@@ -154,38 +143,33 @@
   "/usr/local/texlive/2020/texmf-dist/tex/luatex/luaotfload/luaotfload-status.lua" 1580769009 5990 e62aab6ee5ebb7d59bb00453bec3c6e9 ""
   "/usr/local/texlive/2020/texmf-dist/tex/luatex/luaotfload/luaotfload-tounicode.lua" 1580769009 7563 1f7f595fc1f43ce7519908d6e14b6494 ""
   "/usr/local/texlive/2020/texmf-dist/tex/luatex/luaotfload/luaotfload-unicode.lua" 1580769009 3061 d32d058dd7ec9090956d807868f764b0 ""
-  "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1611158059 4811913 a7a7adcc2877b5ed0e02e7604a4ca471 ""
-  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-black.luc" 1611158141 635204 7aa8d18f33f49b52472cf7a45b91362b ""
-  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-blackit.luc" 1611158144 393429 cf12bd4bdc793d6392116c66557cf700 ""
-  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-bold.luc" 1611158120 654475 572b14b359aad96aba26c79533aa7827 ""
-  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-boldit.luc" 1611158124 402068 5c71226a2017eff70038a86239fec619 ""
-  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-extralight.luc" 1611158138 608698 c1342184cd19fac7dd40a859111ced62 ""
-  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-extralightit.luc" 1611158143 388111 2fc90ec2f0d8fa419cba59f3413e115b ""
-  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-light.luc" 1611158128 619552 ae520a2276e69fa052fa05f1be6b90bc ""
-  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-lightit.luc" 1611158133 389519 7e0f74b37e8c19e346c5c8ebea45b204 ""
-  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-regular.luc" 1611158116 670630 794f18dc5228d38f3f2364c4b38d69f1 ""
-  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-regularit.luc" 1611158122 400341 19fd1e65513e0df5273c175fdd78e17d ""
-  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-semibold.luc" 1611158131 661349 8be87cce8d6f50cb89c99a3dff99919c ""
-  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-semiboldit.luc" 1611158135 407768 db7583ec06f19375a487721fdac13ea0 ""
-  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-names.luc" 1611158111 1560382 50e11e3b8b549a1cd9fe62f868237f50 ""
+  "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman5-regular.luc" 1616705293 121792 dbc62c628039390f43c3da91f7fceb13 ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman7-regular.luc" 1616705293 124216 43e5446308d2572554dfdcd02cd8b026 ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmsans10-regular.luc" 1613588448 123475 9f4d66f70aa5f138f9cc5807b6cb254a ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-black.luc" 1616705291 519178 c1eb6249da1637ec66fdb8e2c9d5d088 ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-blackit.luc" 1616705292 173773 9b10fb5db41c24b4468b5294b8e60c5c ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-bold.luc" 1613588465 538277 ed58498f626cb319920092572e70a353 ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-boldit.luc" 1613588465 179754 08e008fedde7a12607ab31439eaa358f ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-extralight.luc" 1616705290 501821 cadfd7caed2bd246e8c2bf7c9d54ea44 ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-extralightit.luc" 1616705292 176801 2d2d387707b121bc87fd3033902dc429 ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-light.luc" 1616705288 506857 d5e3e82783d42ce57ef349ca5aadce8f ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-lightit.luc" 1616705289 175853 65c7cec2a40c7efd68a8a839734b0a4c ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-regular.luc" 1613588464 546822 c8dafaa896cbd46c05889fdc72c7239b ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-regularit.luc" 1613588465 175719 9254fe22056fecb8016dca14680ca1bb ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-semibold.luc" 1616705289 539934 380bdb8d26358ff514bb5d4496934e5e ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/sourcesanspro-semiboldit.luc" 1616705289 179699 cf6b35f7fd8b73b4a764ce85be7c8f9a ""
+  "/usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-names.luc" 1612036986 1520171 215e537a39c31f7c134aae1e4641ceca ""
   "/usr/local/texlive/2020/texmf-var/web2c/luahbtex/lualatex.fmt" 1586288297 2691541 2b0b58c4e0006f8e04715f3b0a198079 ""
-  "ali_alkhatib_cv.aux" 1611159060 4795 79a089cf3b3613f9893196a114020ef5 "lualatex"
-  "ali_alkhatib_cv.bbl" 1611158812 10671 21e355bbe2246e94b62fad4eb6698270 "bibtex ali_alkhatib_cv"
-  "ali_alkhatib_cv.out" 1611159059 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "ali_alkhatib_cv.run.xml" 1611159060 2691 1c59cb50c8bb845c3da135ae2b2905d9 "lualatex"
-  "ali_alkhatib_cv.tex" 1611159055 10509 678f6a5c8d9253239b585a445e46e732 ""
+  "ali_alkhatib_cv.aux" 1616705317 4795 79a089cf3b3613f9893196a114020ef5 "lualatex"
+  "ali_alkhatib_cv.bbl" 1611941981 10671 21e355bbe2246e94b62fad4eb6698270 "bibtex ali_alkhatib_cv"
+  "ali_alkhatib_cv.out" 1616705317 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "ali_alkhatib_cv.run.xml" 1616705317 2691 1c59cb50c8bb845c3da135ae2b2905d9 "lualatex"
+  "ali_alkhatib_cv.tex" 1616705314 10510 9e1fda59de3b54813bc06ec179b0f5c9 ""
   (generated)
   "ali_alkhatib_cv.out"
-<<<<<<< HEAD
-  "ali_alkhatib_cv-blx.bib"
-  "ali_alkhatib_cv.run.xml"
-  "ali_alkhatib_cv.pdf"
-  "ali_alkhatib_cv.aux"
-  "ali_alkhatib_cv.log"
-=======
-  "ali_alkhatib_cv.log"
-  "ali_alkhatib_cv.aux"
-  "ali_alkhatib_cv.run.xml"
   "ali_alkhatib_cv.pdf"
   "ali_alkhatib_cv-blx.bib"
->>>>>>> db7e7500512f7673eec62db513e404e5580464a2
+  "ali_alkhatib_cv.run.xml"
+  "ali_alkhatib_cv.log"
+  "ali_alkhatib_cv.aux"

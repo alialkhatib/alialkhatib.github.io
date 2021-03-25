@@ -1,4 +1,4 @@
-PWD /Users/alialkhatib/code/alialkhatib.github.io/content
+PWD /Volumes/12tb1/code/alialkhatib.github.io/content
 INPUT /usr/local/texlive/2020/texmf-var/web2c/luahbtex/lualatex.fmt
 INPUT ./ali_alkhatib_cv.tex
 OUTPUT ali_alkhatib_cv.log
@@ -100,7 +100,7 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmsans10-regular.luc
+INPUT /usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmsans10-regular.luc
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg
 INPUT /Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmsans10-bold.luc
@@ -235,8 +235,8 @@ INPUT ./ali_alkhatib_cv.out
 OUTPUT ali_alkhatib_cv.out
 OUTPUT ali_alkhatib_cv.pdf
 INPUT /Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmmono10-regular.luc
-INPUT /Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman7-regular.luc
-INPUT /Users/alialkhatib/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman5-regular.luc
+INPUT /usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman7-regular.luc
+INPUT /usr/local/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman5-regular.luc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm

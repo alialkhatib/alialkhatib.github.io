@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  20 JAN 2021 11:10
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  25 MAR 2021 16:48
  restricted system commands enabled.
 **ali_alkhatib_cv.tex
 (./ali_alkhatib_cv.tex
@@ -226,7 +226,7 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidthfirst=\dimen148
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty
-Package: sourcesanspro 2018/05/19 v2.7 Adobe's Source Sans Pro typeface
+Package: sourcesanspro 2016/12/03 v2.6 Adobe's Source Sans Pro typeface
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
@@ -296,7 +296,7 @@ luaotfload | aux : font no 33 (nil) does not define feature smcp for script latn
 
 Package fontspec Info: Font family 'SourceSansPro(0)' created for font
 (fontspec)             'SourceSansPro' with options [Ligatures = TeX,Numbers =
-(fontspec)             {, },Scale = 1,Extension =
+(fontspec)             {Proportional, },Scale = 1,Extension =
 (fontspec)             .otf,Ligatures=TeX,UprightFont = *-Regular,ItalicFont =
 (fontspec)             *-RegularIt,BoldFont = *-Bold,BoldItalicFont =
 (fontspec)             *-BoldIt].
@@ -306,23 +306,23 @@ Package fontspec Info: Font family 'SourceSansPro(0)' created for font
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;"
+n;language=dflt;+pnum;+tlig;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+smcp;"
+n;language=dflt;+pnum;+tlig;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;"
+anguage=dflt;+pnum;+tlig;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+smcp;"
+anguage=dflt;+pnum;+tlig;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-RegularIt.otf]:mode=node;script=l
-atn;language=dflt;+tlig;"
+atn;language=dflt;+pnum;+tlig;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-BoldIt.otf]:mode=node;script=latn
-;language=dflt;+tlig;"
+;language=dflt;+pnum;+tlig;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
@@ -334,8 +334,8 @@ luaotfload | aux : font no 33 (nil) does not define feature smcp for script latn
 
 Package fontspec Info: Font family 'SourceSansPro(1)' created for font
 (fontspec)             'SourceSansPro' with options [Ligatures = TeX,Numbers =
-(fontspec)             {, },Scale = 1,Extension = .otf,UprightFont =
-(fontspec)             *-Regular,ItalicFont = *-RegularIt,BoldFont =
+(fontspec)             {Proportional, },Scale = 1,Extension = .otf,UprightFont
+(fontspec)             = *-Regular,ItalicFont = *-RegularIt,BoldFont =
 (fontspec)             *-Bold,BoldItalicFont = *-BoldIt].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
@@ -343,23 +343,23 @@ Package fontspec Info: Font family 'SourceSansPro(1)' created for font
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;"
+n;language=dflt;+tlig;+pnum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+smcp;"
+n;language=dflt;+tlig;+pnum;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;"
+anguage=dflt;+tlig;+pnum;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+smcp;"
+anguage=dflt;+tlig;+pnum;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-RegularIt.otf]:mode=node;script=l
-atn;language=dflt;+tlig;"
+atn;language=dflt;+tlig;+pnum;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-BoldIt.otf]:mode=node;script=latn
-;language=dflt;+tlig;"
+;language=dflt;+tlig;+pnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 luaotfload | aux : font no 39 (nil) does not define feature smcp for script latn
@@ -369,8 +369,8 @@ luaotfload | aux : font no 40 (nil) does not define feature smcp for script latn
 
 Package fontspec Info: Font family 'SourceSansPro(2)' created for font
 (fontspec)             'SourceSansPro' with options [Ligatures = TeX,Numbers =
-(fontspec)             {, },Scale = 1,Extension = .otf,UprightFont =
-(fontspec)             *-Light,ItalicFont = *-LightIt,BoldFont =
+(fontspec)             {Proportional, },Scale = 1,Extension = .otf,UprightFont
+(fontspec)             = *-Light,ItalicFont = *-LightIt,BoldFont =
 (fontspec)             *-Semibold,BoldItalicFont = *-SemiboldIt].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
@@ -378,23 +378,23 @@ Package fontspec Info: Font family 'SourceSansPro(2)' created for font
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Light.otf]:mode=node;script=latn;
-language=dflt;+tlig;"
+language=dflt;+tlig;+pnum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Light.otf]:mode=node;script=latn;
-language=dflt;+tlig;+smcp;"
+language=dflt;+tlig;+pnum;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Semibold.otf]:mode=node;script=la
-tn;language=dflt;+tlig;"
+tn;language=dflt;+tlig;+pnum;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Semibold.otf]:mode=node;script=la
-tn;language=dflt;+tlig;+smcp;"
+tn;language=dflt;+tlig;+pnum;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-LightIt.otf]:mode=node;script=lat
-n;language=dflt;+tlig;"
+n;language=dflt;+tlig;+pnum;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-SemiboldIt.otf]:mode=node;script=
-latn;language=dflt;+tlig;"
+latn;language=dflt;+tlig;+pnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 luaotfload | aux : font no 45 (nil) does not define feature smcp for script latn
@@ -404,8 +404,8 @@ luaotfload | aux : font no 46 (nil) does not define feature smcp for script latn
 
 Package fontspec Info: Font family 'SourceSansPro(3)' created for font
 (fontspec)             'SourceSansPro' with options [Ligatures = TeX,Numbers =
-(fontspec)             {, },Scale = 1,Extension = .otf,UprightFont =
-(fontspec)             *-ExtraLight,ItalicFont = *-ExtraLightIt,BoldFont =
+(fontspec)             {Proportional, },Scale = 1,Extension = .otf,UprightFont
+(fontspec)             = *-ExtraLight,ItalicFont = *-ExtraLightIt,BoldFont =
 (fontspec)             *-Black,BoldItalicFont = *-BlackIt].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
@@ -413,23 +413,23 @@ Package fontspec Info: Font family 'SourceSansPro(3)' created for font
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-ExtraLight.otf]:mode=node;script=
-latn;language=dflt;+tlig;"
+latn;language=dflt;+tlig;+pnum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-ExtraLight.otf]:mode=node;script=
-latn;language=dflt;+tlig;+smcp;"
+latn;language=dflt;+tlig;+pnum;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Black.otf]:mode=node;script=latn;
-language=dflt;+tlig;"
+language=dflt;+tlig;+pnum;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Black.otf]:mode=node;script=latn;
-language=dflt;+tlig;+smcp;"
+language=dflt;+tlig;+pnum;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-ExtraLightIt.otf]:mode=node;scrip
-t=latn;language=dflt;+tlig;"
+t=latn;language=dflt;+tlig;+pnum;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-BlackIt.otf]:mode=node;script=lat
-n;language=dflt;+tlig;"
+n;language=dflt;+tlig;+pnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 luaotfload | aux : font no 32 (nil) does not define feature smcp for script latn
@@ -439,32 +439,33 @@ luaotfload | aux : font no 33 (nil) does not define feature smcp for script latn
 
 Package fontspec Info: Font family 'SourceSansPro(4)' created for font
 (fontspec)             'SourceSansPro' with options [Ligatures = TeX,Numbers =
-(fontspec)             {, },Scale = 1,Extension = .otf,Numbers =,UprightFont =
-(fontspec)             *-Regular,ItalicFont = *-RegularIt,BoldFont =
-(fontspec)             *-Bold,BoldItalicFont = *-BoldIt].
+(fontspec)             {Proportional, },Scale = 1,Extension = .otf,Numbers =
+(fontspec)             Proportional,UprightFont = *-Regular,ItalicFont =
+(fontspec)             *-RegularIt,BoldFont = *-Bold,BoldItalicFont =
+(fontspec)             *-BoldIt].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;"
+n;language=dflt;+tlig;+pnum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Regular.otf]:mode=node;script=lat
-n;language=dflt;+tlig;+smcp;"
+n;language=dflt;+tlig;+pnum;+smcp;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;"
+anguage=dflt;+tlig;+pnum;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-Bold.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+smcp;"
+anguage=dflt;+tlig;+pnum;+smcp;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-RegularIt.otf]:mode=node;script=l
-atn;language=dflt;+tlig;"
+atn;language=dflt;+tlig;+pnum;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
 (fontspec)             <->s*[1]"[SourceSansPro-BoldIt.otf]:mode=node;script=latn
-;language=dflt;+tlig;"
+;language=dflt;+tlig;+pnum;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 )
@@ -1134,22 +1135,22 @@ Package logreq Info: Writing requests to 'ali_alkhatib_cv.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 21141 strings out of 480992
+ 21147 strings out of 480992
  100000,1373583 words of node,token memory allocated
  701 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 7 attribute, 101 glue_spec
 , 7 attribute_list, 1 write, 3 pdf_action nodes
-   avail lists: 1:2,2:1519,3:468,4:109,5:1079,6:92,7:7793,8:58,9:689,10:14,11:47
+   avail lists: 1:2,2:1519,3:470,4:109,5:1272,6:92,7:7794,8:58,9:689,10:13,11:47
 0
- 38133 multiletter control sequences out of 65536+600000
- 71 fonts using 14607235 bytes
- 52i,13n,85p,800b,1120s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 38139 multiletter control sequences out of 65536+600000
+ 71 fonts using 12356995 bytes
+ 55i,13n,87p,800b,1120s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2020/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSan
 sPro-RegularIt.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/
 lmmono10-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/adobe/so
 urcesanspro/SourceSansPro-Regular.otf></usr/local/texlive/2020/texmf-dist/fonts/
 opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf>
-Output written on ali_alkhatib_cv.pdf (2 pages, 30690 bytes).
+Output written on ali_alkhatib_cv.pdf (2 pages, 30848 bytes).
 
 PDF statistics: 68 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
