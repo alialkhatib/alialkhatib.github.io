@@ -35,8 +35,8 @@ I've made a Discord for the class where I'll occasionally drop interesting links
 ## "Office hours"
 I want to try to be available for people to ask questions or just to chat. In general, I'll try to be on Discord most of the time (in part because I don't want to leave the chat unmoderated). That being said, I'm going to commit to be on Discord for the following time windows:
 
-- Mondays:    2 am  - 4  pm (PDT)
-- Wednesdays: 12 pm - 2  pm (PDT)
+- Mondays:     2 pm -  4 pm (PDT)
+- Wednesdays: 12 pm -  2 pm (PDT)
 - Thursdays:  10 am - 12 pm (PDT)
 
 I'm trying to stagger the times, the idea being that since some of you are not on the west coast (or in any US timezones, for that matter), I want to be available during a window of time that's somewhat reasonable for you.
