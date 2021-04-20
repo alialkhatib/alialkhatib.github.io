@@ -215,7 +215,7 @@ How
 
 [know_where_you_were]: https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html
 
-[moral_character]: 
+[moral_character]: #
 [privacy_and_civil_rights]: #
 [new_wilderness]: #
 [collective_privacy]: #
