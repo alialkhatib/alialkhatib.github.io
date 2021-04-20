@@ -111,50 +111,49 @@ How
 
 ### Week 3: Ethical Foundations, and Discursive Tools
 
-- Shannon Vallor et al, Conceptual Frameworks in Technology and Engineering Practice: Ethical Lenses to Look Through
-- Ian Bogost, Enough With the Trolley Problem
-- Eric P. S. Baumer and M. Six Silberman, When the Implication Is Not to Design (Technology)
-- Zeynep Tufekci, Sociological Storytelling vs. Psychological Storytelling
+- Mark White, [Superhuman Ethics Class With The Avengers Prime][superhuman_ethics]
+- Ian Bogost, [Enough With the Trolley Problem][trolleyproblem]
+- Meg Young et al, [Toward inclusive tech policy design: a method for underrepresented voices to strengthen tech policy documents][toward_inclusive_tech]
+- Zeynep Tufekci, [Sociological Storytelling vs. Psychological Storytelling][sociological_storytelling]
+- Eric P. S. Baumer and M. Six Silberman, [When the Implication Is Not to Design (Technology)][implication_of_design]
+
+
 
 
 #### Optional Reading
-- Shannon Vallor, An Ethical Toolkit for Engineering/Design Practice
-- Meg Young et al, Toward inclusive tech policy design: a method for underrepresented
-- voices to strengthen tech policy documents
-- Margaret Mitchell et al, Model Cards for Model Reporting
-- Mark White, Superhuman Ethics Class With The Avengers Prime
-
+- Shannon Vallor, [An Ethical Toolkit for Engineering/Design Practice][ethical_toolkit]
+- Margaret Mitchell et al, [Model Cards for Model Reporting][model_cards]
+<!-- - Shannon Vallor et al, [Conceptual Frameworks in Technology and Engineering Practice: Ethical Lenses to Look Through][conceptual_frameworks] -->
 
 
 ### Week 4: Bias, Fairness, and Justice
 
 
 #### Required Reading/Watching:
-- Arvind Narayan, 21 Definitions of Fairness
-- Harini Suresh and John Guttag, A Framework for Understanding Unintended Consequences of Machine Learning
-- Samir Passi and Solon Barocas, Problem Formulation and Fairness
+- Arvind Narayan, [21 Definitions of Fairness][21_defs]
+- Harini Suresh and John Guttag, [A Framework for Understanding Unintended Consequences of Machine Learning][framework_for_understanding]
+- Samir Passi and Solon Barocas, [Problem Formulation and Fairness][problem_formulation]
 
 #### Optional Reading
-- Ulrich Aivodji et al, Fairwashing: the risk of rationalization
-- Alice Xiang and Deborah Raji, On the Legal Compatibility of Fairness Definitions
+- Ulrich Aivodji et al, [Fairwashing: the risk of rationalization][fairwashing]
+- Alice Xiang and Deborah Raji, [On the Legal Compatibility of Fairness Definitions][legal_compatibility]
 
 
 
 ### Week 5: Privacy, Surveillance, & Power
 
 #### Required Reading
-- Jennifer Valentino-DeVries et al (NYT), Your Apps Know Where You Were Last Night, and They're Not Keeping It Secret
-- Phillip Rogaway, The Moral Character of Cryptographic Work
-- Alvaro Bedoya, Privacy and Civil Rights in the Age of Facebook, ICE, and the NSA
-- Maciej Ceglowski, The New Wilderness
+- Jennifer Valentino-DeVries et al (NYT), [Your Apps Know Where You Were Last Night, and They're Not Keeping It Secret][know_where_you_were]
+- Phillip Rogaway, [The Moral Character of Cryptographic Work][moral_character]
+- Alvaro Bedoya, [Privacy and Civil Rights in the Age of Facebook, ICE, and the NSA][privacy_and_civil_rights]
+- Maciej Ceglowski, [The New Wilderness][new_wilderness]
 
 #### Optional Reading
-- Lindsey Barrett, Our collective privacy problem is not your fault
-- Ciara Byrne, Trading privacy for survival is another tax on the poor
-- Zeynep Tufekci, The Latest Data Privacy Debacle
-- Tim Wu, How Capitalism Betrayed Privacy
-- Chris Gilliard, Caught in the Spotlight
-- Forget about "privacy": Julia Angwin and Trevor Paglen on our data crisis
+- Lindsey Barrett, [Our collective privacy problem is not your fault][collective_privacy]
+- Ciara Byrne, [Trading privacy for survival is another tax on the poor][trading_privacy]
+- Zeynep Tufekci, [The Latest Data Privacy Debacle][latest_data]
+- Tim Wu, [How Capitalism Betrayed Privacy][capitalism_betrayed_privacy]
+- Chris Gilliard, [Caught in the Spotlight][caught_in_the_spotlight]
 
 
 
@@ -196,3 +195,31 @@ How
 [favorite_growth]: https://qz.com/1540608/the-problem-with-silicon-valleys-obsession-with-blitzscaling-growth/
 [HAIPost]: https://ali-alkhatib.com/blog/anthropological-intelligence
 [incompatible_incentives]: https://tomslee.github.io/publication/oup_private_sector_ai/
+
+
+[superhuman_ethics]: https://www.academia.edu/2988556/SUPERHUMAN_ETHICS_CLASS_WITH_THE_AVENGERS_PRIME
+[trolleyproblem]: https://www.theatlantic.com/technology/archive/2018/03/got-99-problems-but-a-trolley-aint-one/556805/
+[toward_inclusive_tech]: https://techpolicylab.uw.edu/wp-content/uploads/2019/03/TowardInclusiveTechPolicyDesign.pdf
+
+[sociological_storytelling]: https://blogs.scientificamerican.com/observations/the-real-reason-fans-hate-the-last-season-of-game-of-thrones/
+[implication_of_design]: https://dl.acm.org/doi/10.1145/1978942.1979275
+
+[ethical_toolkit]: https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/
+[model_cards]: https://arxiv.org/abs/1810.03993
+[21_defs]: https://www.youtube.com/watch?v=jIXIuYdnyyk
+
+[framework_for_understanding]: https://arxiv.org/abs/1901.10002
+[problem_formulation]: https://arxiv.org/abs/1901.02547
+[fairwashing]: https://arxiv.org/abs/1901.09749
+[legal_compatibility]: https://arxiv.org/abs/1912.00761
+
+[know_where_you_were]: https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html
+
+[moral_character]: 
+[privacy_and_civil_rights]: #
+[new_wilderness]: #
+[collective_privacy]: #
+[trading_privacy]: #
+[latest_data]: #
+[capitalism_betrayed_privacy]: #
+[caught_in_the_spotlight]: #
