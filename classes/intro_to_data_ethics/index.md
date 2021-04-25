@@ -143,24 +143,26 @@ How
 ### Week 5: Privacy, Surveillance, & Power
 
 #### Required Reading
-- Jennifer Valentino-DeVries et al (NYT), [Your Apps Know Where You Were Last Night, and They're Not Keeping It Secret][know_where_you_were]
-- Phillip Rogaway, [The Moral Character of Cryptographic Work][moral_character]
-- Alvaro Bedoya, [Privacy and Civil Rights in the Age of Facebook, ICE, and the NSA][privacy_and_civil_rights]
-- Maciej Ceglowski, [The New Wilderness][new_wilderness]
+
+- ["Your Apps Know Where You Were Last Night, and They're Not Keeping It Secret"][your_apps] by By Jennifer Valentino-DeVries, Natasha Singer, Michael H. Keller, & Aaron Krolik
+- ["Ruthless Quotas at Amazon Are Maiming Employees"][ruthless_quotas] by Will Evans
+- ["Trading privacy for survival is another tax on the poor"][trading_privacy] by Ciara Byrne
+- ["We Need to Talk About Digital Contact Tracing"][we_need_to_talk] by Ali Alkhatib
+- ["Proctorio Is Using Racist Algorithms to Detect Faces"][proctorio_racism] by Todd Feathers
+
+
+**and read ["The Algorithmic Colonization of Africa"][algo_colonization] by Abeba Birhane for next week**
 
 #### Optional Reading
-- Lindsey Barrett, [Our collective privacy problem is not your fault][collective_privacy]
-- Ciara Byrne, [Trading privacy for survival is another tax on the poor][trading_privacy]
-- Zeynep Tufekci, [The Latest Data Privacy Debacle][latest_data]
-- Tim Wu, [How Capitalism Betrayed Privacy][capitalism_betrayed_privacy]
-- Chris Gilliard, [Caught in the Spotlight][caught_in_the_spotlight]
-
+- [This whole thread][this_whole_thread] by Chris Gilliard
+- ["Our collective privacy problem is not your fault"][collective_privacy] by Lindsey Barrett
+- ["The New Wilderness"][new_wilderness] by Maciej Ceglowski
 
 
 ### Week 6: Algorithmic colonialism, organizing, and future steps
 
 #### Required Reading
--   Abeba Birhane, The Algorithmic Colonization of Africa
+- ["The Algorithmic Colonization of Africa"][algo_colonization] by Abeba Birhane
 - Amy Maxmen (Nature), Can tracking people through phone-call data improve lives?
 - Adrienne Lafrance, Facebook and the New Colonialism
 
@@ -215,11 +217,12 @@ How
 
 [know_where_you_were]: https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html
 
-[moral_character]: #
-[privacy_and_civil_rights]: #
-[new_wilderness]: #
-[collective_privacy]: #
-[trading_privacy]: #
-[latest_data]: #
-[capitalism_betrayed_privacy]: #
-[caught_in_the_spotlight]: #
+
+[we_need_to_talk]: https://al2.in/blog/digital-contact-tracing
+
+[ruthless_quotas]: https://www.theatlantic.com/technology/archive/2019/11/amazon-warehouse-reports-show-worker-injuries/602530/
+[trading_privacy]: https://www.fastcompany.com/90317495/another-tax-on-the-poor-surrendering-privacy-for-survival
+[proctorio_racism]: https://www.vice.com/en/article/g5gxg3/proctorio-is-using-racist-algorithms-to-detect-faces
+[this_whole_thread]: https://twitter.com/hypervisible/status/1237867298599235589?lang=en
+[collective_privacy]: https://www.fastcompany.com/90447583/our-collective-privacy-problem-is-not-your-fault
+[new_wilderness]: https://idlewords.com/2019/06/the_new_wilderness.htm
