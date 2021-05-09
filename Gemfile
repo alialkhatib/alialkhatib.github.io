@@ -7,3 +7,4 @@ gem "kramdown", ">= 2.3.1"
 gem "nokogiri", ">= 1.11.1"
 
 gem "webrick", "~> 1.7"
+gem "rexml", ">= 3.2.5"
