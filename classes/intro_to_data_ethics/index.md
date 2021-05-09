@@ -151,7 +151,7 @@ How
 - ["Proctorio Is Using Racist Algorithms to Detect Faces"][proctorio_racism] by Todd Feathers
 
 
-**and read ["The Algorithmic Colonization of Africa"][algo_colonization] by Abeba Birhane for next week**
+**and read ["The Algorithmic Colonization of Africa"][algo_colonization_africa] by Abeba Birhane for next week**
 
 #### Optional Reading
 - [This whole thread][this_whole_thread] by Chris Gilliard
@@ -162,17 +162,17 @@ How
 ### Week 6: Algorithmic colonialism, organizing, and future steps
 
 #### Required Reading
-- ["The Algorithmic Colonization of Africa"][algo_colonization] by Abeba Birhane
-- Amy Maxmen (Nature), Can tracking people through phone-call data improve lives?
-- Adrienne Lafrance, Facebook and the New Colonialism
+- "[The problems AI has today go back centuries][AI_problems_colonialism]" by Karen Hao
+- ["The Algorithmic Colonization of Africa"][algo_colonization_africa] by Abeba Birhane
+- Adrienne Lafrance, [Facebook and the New Colonialism][fb_colonialism]
+<!-- - Davey Alba, [How Duterte Used Facebook To Fuel The Philippine Drug War][duterte_drug_war] -->
+- Rumman Chowdhury, [Algorithmic Colonialism][algo_colonialism]
+- Jess Whittlestone et al, [The role and limits of principles in AI ethics: towards a focus on tensions][role_and_limits_of_principles]
 
 #### Optional Reading
-- Joe Parkinson et al, Huawei Technicians Helped African Governments Spy on Political Opponents
-- Davey Alba, How Duterte Used Facebook To Fuel The Philippine Drug War
-- Rumman Chowdhury, Algorithmic Colonialism
-- Daniel Greene, et al. Better, Nicer, Clearer, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning
-- Jess Whittlestone et al, The role and limits of principles in AI ethics: towards a focus on tensions
-- Sareeta Amrute, Tech Colonialism Today
+<!-- - Joe Parkinson et al, [Huawei Technicians Helped African Governments Spy on Political Opponents][huawei_spying] -->
+<!-- - Daniel Greene, et al. [Better, Nicer, Clearer, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning][critical_assessment] -->
+<!-- - Sareeta Amrute, [Tech Colonialism Today][tech_colonialism_today] -->
 
 
 
@@ -226,3 +226,8 @@ How
 [this_whole_thread]: https://twitter.com/hypervisible/status/1237867298599235589?lang=en
 [collective_privacy]: https://www.fastcompany.com/90447583/our-collective-privacy-problem-is-not-your-fault
 [new_wilderness]: https://idlewords.com/2019/06/the_new_wilderness.htm
+[algo_colonization_africa]: https://reallifemag.com/the-algorithmic-colonization-of-africa/
+[algo_colonization]: https://www.youtube.com/watch?v=vN2owLX9C1c
+[fb_colonialism]: #
+[duterte_drug_war]: #
+[musings]: https://arxiv.org/pdf/2101.09869
