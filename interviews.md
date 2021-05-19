@@ -24,6 +24,9 @@ Okay, this list is in no particular order. It's also not comprehensive; I'll add
 - Ruha Benjamin
 - Safiya Noble
 - Sasha Costanza-Chock
+- André Brock
+- Kavita Philip
+- Wendy Liu
 - Sarah Roberts
 - Niloufar Salehi
 - Timnit Gebru
