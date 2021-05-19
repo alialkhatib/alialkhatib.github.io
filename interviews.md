@@ -9,7 +9,7 @@ If, however, you're interviewing me for something more generally about AI bias a
 
 While I appreciate that you're reaching out to me, there's a really bad trend going around these days where people in my area of work will get ignored outright - or (perhaps worse) interviewed and then edited out of the final version of the piece or the video that goes online.
 
-I say "people"; I mean people of color, women, and people who identify as non-binary. And this is particularly worrying for a few reasons:
+I say "people"; I'm specifically talking about people of color, women, and non-binary people. And this is particularly worrying for a few reasons:
 
 1. Many of these people are the pioneers of this field
 2. There's a history of erasing Black women's work that's taking place, and this trend continues that history
