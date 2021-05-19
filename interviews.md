@@ -27,6 +27,7 @@ Okay, this list is in no particular order. It's also not comprehensive; I'll add
 - André Brock
 - Kavita Philip
 - Wendy Liu
+- Chris Gilliard
 - Sarah Roberts
 - Niloufar Salehi
 - Timnit Gebru
