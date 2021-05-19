@@ -33,6 +33,7 @@ Okay, this list is in no particular order. It's also not comprehensive; I'll add
 - Deb Raji
 - Meredith Broussard
 - Danya Glabau
+- Veena Dubal
 - Rachel Thomas
 - Shannon Mattern
 - Joan Donovan
