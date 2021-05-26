@@ -12,21 +12,28 @@ layout: longy
 
 The promise AI's proponents have made for decades is one in which our needs are predicted, anticipated, and met - often before we even realize it. Instead, algorithmic systems, particularly AIs trained on large datasets and deployed to massive scales, seem to keep making the wrong decisions, causing harm and rewarding absurd outcomes. Attempts to make sense of why AIs make wrong calls in the moment explain the instances of errors, but how the environment surrounding these systems precipitate those instances remains murky. This paper draws from anthropological work on bureaucracies, states, and power, translating these ideas into a theory describing the structural tendency for powerful algorithmic systems to cause tremendous harm. I show how administrative models and projections of the world create marginalization, just as algorithmic models cause representational and allocative harm. This paper concludes with a recommendation to avoid the absurdity algorithmic systems produce by denying them power.
 
-**Links**: paper ([pdf][utopiaPDF])
+**Links**: paper ([pdf][utopiaPDF]) & presentation ([YouTube][utopiaYT])
 
 
 <div class="row">
   <div class="col-lg-8 col-sm-12">
 <textarea readonly class="form-control" rows="5" id="utopia-bibtex"  style="font-family:monospace;font-size:9px;resize:none;">
 @inproceedings{AlkhatibUtopia2021,
-    author = {Alkhatib, Ali},
-    title = {To Live in Their Utopia: Why Algorithmic Systems Create Absurd Outcomes},
-    series = {CHI '21},
-    year = {2021},
-    publisher = {ACM},
-    address = {New York, NY, USA},
-    keywords = {HCI, Artificial Intelligence, Street-Level Algorithms},
-} </textarea>
+author = {Alkhatib, Ali},
+title = {To Live in Their Utopia: Why Algorithmic Systems Create Absurd Outcomes},
+year = {2021},
+isbn = {9781450380966},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3411764.3445740},
+doi = {10.1145/3411764.3445740},
+booktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
+articleno = {95},
+numpages = {9},
+keywords = {Artificial Intelligence, Street-Level Algorithms, HCI},
+location = {Yokohama, Japan},
+series = {CHI '21}
+}</textarea>
 </div>
 <div class="col-lg-4 col-sm-12">
 <button class="btn btn-lg btn-primary citations btn-block" data-clipboard-target="#utopia-bibtex">
@@ -34,8 +41,6 @@ The promise AI's proponents have made for decades is one in which our needs are 
 </button>
 </div>
 </div>
-
-*This bibtex entry will change when the ACM generates a page and snippet for this publication. Please use this incomplete snippet tentatively until that update is available (~May 2021)*
 
 ---
 
@@ -302,3 +307,4 @@ window.onload=function(){
 [groundworkPaper]: //arxiv.org/pdf/1807.08189
   "Microsoft Research project white paper in PDF format"
 [utopiaPDF]: /papers/chi/utopia/utopia.pdf
+[utopiaYT]: https://www.youtube.com/watch?v=ClGIosevT0Y
