@@ -5,7 +5,7 @@
 
 
 ## Focus
-Teaching "data ethics" is kind of a hopeless task - there are too many developments; there are too many shifting, moving, and changing pieces; and axioms and concrete rules to follow will either be too ossified to be relevant in 6 months or too nebulous to be actionable right now.
+Teaching "data ethics" is kind of Sisyphean - no matter how much work you think you've done to close the gap, new stuff always seems to emerge that forces you to start gaining domain expertise in some new area. There are too many shifting, moving, and changing pieces; and axioms and concrete rules to follow will either be too ossified to be relevant in 6 months or too nebulous to be actionable right now.
 
 I don't see any point in teaching you a bunch of concrete rules to follow; instead, I think you'll be much better-equipped if you come away from this class knowing how to find ways to work through issues that arises, which means not just taking you to the destination, but giving you the engine you need to get there (and anywhere else you need to go) on your own.
 
@@ -14,8 +14,8 @@ That might sound like I'm trying to be "neutral" or objective - I'm not. I think
 ## Topics for this course:
 If you thought about taking the data ethics course with Dr. Thomas last year, you might recognize a few of the modules. In general I'm following her class structure, but I moved a few things around and replaced a few things based on stuff that's happened in the past year (a *few* things have happened).
 
-- [Week 1: Histories of Data][week1_anchor]
-- [Week 2: How did we get here?][week5_anchor]
+- [Week 1: Ethics of Tech][week1_anchor]
+- [Week 2: Paradigms of Data Ethics][week5_anchor]
 - [Week 3: Ethical Foundations, and Discursive Tools][week2_anchor]
 - [Week 4: Bias, Fairness, and Justice][week3_anchor]
 - [Week 5: Privacy, Surveillance, & Power][week4_anchor]
@@ -117,29 +117,29 @@ If something substantial happens in the world, I might revise the syllabus, but 
 I don't expect you to read anything for this class. Bring yourself.
 
 
-### Week 1 (June 4): Histories of Data
+### Week 1 (June 4): Ethics of Tech
 #### Required Reading
 - "[Do Artifacts Have Politics?][politicsofArtifacts]" by Langdon Winner
 - "[The Racial Bias Built Into Photography][photography_bias]" by Sarah Lewis
-- "[Datasheets for Datasets][datasheets]" by Timnit Gebru et al. (**PDF**)
 
 #### Optional Reading
-- "[Do we need to walk 10,000 steps a day?][10ksteps]" by Claudia Hammond
 - *The Color of Law: A Forgotten History of How Our Government Segregated America* by Richard Rothstein
 - *Sorting Things Out: Classification and Its Consequences* by Geoffrey C. Bowker and Susan Leigh Star
 
 
-### Week 2 (June 11): How did we get here?
+### Week 2 (June 11): Paradigms of Data Ethics
 #### Required Reading
-- "[How social media took us from Tahrir Square to Donald Trump][social_donald]" by Zeynep Tufekci
+**TBA**
+<!-- - "[How social media took us from Tahrir Square to Donald Trump][social_donald]" by Zeynep Tufekci
 - "[The Platform is the Message][platform_message]" by James Grimmelmann (**PDF**)
 - "[The Problem with Metrics][metrics_problems]" by Rachel Thomas (**PDF**)
 - "[The fundamental problem with Silicon Valley's favorite growth strategy][favorite_growth]" by Tim O'Reilly
 - "[Anthropological/Artificial Intelligence & the Institute for Human-centered AI][HAIPost]" by Ali Alkhatib
 
 #### Optional Reading
-- [The incompatible incentives of private sector AI][incompatible_incentives] by Tom Slee
+- [The incompatible incentives of private sector AI][incompatible_incentives] by Tom Slee -->
 
+<!-- - "[Datasheets for Datasets][datasheets]" by Timnit Gebru et al. (**PDF**) -->
 
 ### Week 3 (June 18): Ethical Foundations, and Discursive Tools
 - Mark White, [Superhuman Ethics Class With The Avengers Prime][superhuman_ethics]
