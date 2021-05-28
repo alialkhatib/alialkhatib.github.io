@@ -7,42 +7,39 @@
 ## Focus
 Teaching "data ethics" is kind of a hopeless task - there are too many developments; there are too many shifting, moving, and changing pieces; and axioms and concrete rules to follow will either be too ossified to be relevant in 6 months or too nebulous to be actionable right now.
 
-Fiesler et al. wrote in 2019 that there's a substantial amount of variability in ethics courses across the US and world, and made the argument that this isn't necessarily a bad thing - that it reflects different intellectual backgrounds and epistemological worldviews (Fiesler et al 2019).
-
-This class takes that idea and goes a bit further with it. That is to say, we're going to point out a few of the different lenses that exist in data ethics, how those lenses on problems bring people and things into and out of focus.
-If you've ever studied anthropology, I hope that you'll recognize some of the ethos here.
-I don't see any point in teaching you a bunch of concrete rules to follow; instead, I think you'll be much better-equipped if you come away from this class knowing how to seek the answers to any kind of question that arises, which means not just taking you to the destination, but giving you the engine you need to get there (and anywhere else you need to go) on your own.
+I don't see any point in teaching you a bunch of concrete rules to follow; instead, I think you'll be much better-equipped if you come away from this class knowing how to find ways to work through issues that arises, which means not just taking you to the destination, but giving you the engine you need to get there (and anywhere else you need to go) on your own.
 
 That might sound like I'm trying to be "neutral" or objective - I'm not. I think that turning our attention back on ourselves, on our field, and on the experiences of people affected by systems we build is an *explicit* choice we make (or don't make), and it would be disingenuous (and maybe kind of silly) to say that we're interested in ethics but also that we're neutral. In the first class I'll probably go on a rant about how "neutrality" isn't an idea that parses out in the context of ethics, but I'll save that for the zoom.
-
 
 ## Topics for this course:
 If you thought about taking the data ethics course with Dr. Thomas last year, you might recognize a few of the modules. In general I'm following her class structure, but I moved a few things around and replaced a few things based on stuff that's happened in the past year (a *few* things have happened).
 
-
-- [Week 1: About the Histories of Data][week1_anchor]
+- [Week 1: Histories of Data][week1_anchor]
 - [Week 2: How did we get here?][week5_anchor]
 - [Week 3: Ethical Foundations, and Discursive Tools][week2_anchor]
 - [Week 4: Bias, Fairness, and Justice][week3_anchor]
 - [Week 5: Privacy, Surveillance, & Power][week4_anchor]
-- [Week 6: Organizing, future steps, and the threat of Algorithmic colonialism][week6_anchor]
-
+<!-- - [Week 6: Organizing, future steps, and the threat of Algorithmic colonialism][week6_anchor] -->
 
 
 ## Communication
-The Data Institute has a Slack! I want you to use that to ask questions, comment on the readings, and post interesting news stories
 
-## "Office hours"
+### Slack
+The Data Institute has a Slack! I want you to use that to ask questions, comment on the readings, and post interesting news stories.
+I'll follow up after the first class to invite people into the slack org (if needed) and into the slack channel once I've made it.
 
-### Ad hoc
+### "Office hours"
+I'll hold ad hoc meetings during "office hours", but I know you're all zooming in from all over the world, and some of you have jobs or childcare or just things you need to attend to, so don't feel obligated to make my office hours if you've got something that interferes with that.
+
+#### Ad hoc meetings
 I'll be available on Mondays from 10pm to 2pm pacific time, and by appointment.
 
 If it's within that time window, I *should* be active and on Slack, with the expectation that I can get on zoom to do a video or audio call if you want. Just let me know what medium you prefer.
 
-### Appointments
+#### Scheduled meetings
 First off, please feel free to [contact me][contact] at any point if you'd like to set up a time to chat.
 
-I also run a thing where you can book a meeting time that works for you. That might be easier for you. Feel free to book a meeting [here][meet].
+I also run a thing where you can book a meeting time that works for you. That might be easier for you. Feel free to book a meeting [here][meet]. I think I usually keep Tuesdays and Wednesdays clear? But that doesn't mean I'm busy on other days or at other times. Ask if you can't find a good time.
 
 
 ## Outcomes
@@ -56,29 +53,75 @@ Here's what I want you to develop or pick up in this course:
 - how to make those future steps possible, and how to bring them into existence
 
 
-
 ## Deliverables
 Here's what I'll want you to do that I'll be able to see.
 
 Every week I want you to read the required readings. During zooms I would *really* like for people to chime in with questions, thoughts, provocations, whatever comes to mind.
+
 That being said, I realize that's asking a lot, and I know some people have never thrived under that paradigm (let alone when that was held in zoom).
 
-What we've arrived at in the first class discussion is the following:
+I'll evaluate your work in two ways, for different things. At a high level, they are:
 
-- I want people to drop interesting news stories and developments in AI and data ethics that we might want to discuss in the next class. This isn't required, but it would be really great to know what you all are hearing about and thinking about.
-- Write position papers about some issue related to a pertinent ethical issue in AI or data broadly.
+- **Reflections**: weekly, due on Wednesdays at 11:59pm AOE (anywhere on earth)
+- **Term paper**: 5 pages, due on the final day of class
+
+### Reflections
+
+tl;dr: Every week, you'll write short reflections on the readings that we'll discuss later that week. Submit those by **Wednesday 11:59pm AOE** (anywhere on earth).
+
+For these reflections, I'm only interested in two things:
+
+1. did you read the articles? and
+2. what ideas seemed to resonate or frustrate people in the class?
+
+I want to be really clear about something: I don't care how long these are, except that they should **not** be longer than half a page. I'd be satisfied by a bullet point list of half-formed thoughts. Give me 3 or 4 distinct ideas.
+
+**These should amount to more than summaries of the articles.**
+
+If you're desperate for a template, list out or write about 2 or 3 of the following:
+
+- 1 or 2 parts of the article that surprised you
+- 1 or 2 parts of the article that you had trouble agreeing with
+- 1 or 2 questions that remain unanswered for you
+- 1 or 2 connections to some of the reading from a previous week
+
+That'd be *plenty*. And depending on how you do it, you'll be laying the groundwork for your term paper.
 
 
+### Term paper
 
-## Reading Syllabus
+tl;dr: you'll write a **5-page position paper** calling attention to a topic and advocating some change in policy or design, **due at 11:59pm AOE on the last day of class**
 
-### Week 1: About the Histories of Data
+I want you to be able to identify and describe an issue, situate it, and ultimately make a persuasive argument that we (where "we" is up to you) should do something different.
 
+I'll detail what I'm expecting in more precise terms soon, but I want to be intentionally open-ended since I trust your judgment.
+
+<!-- #### identifying and describing an issue
+The issue doesn't have to be a topic we discussed in class. Honestly, you might be better off going further afield and finding something we don't cover in-depth - if I've read 10 papers about the merits of digital contact tracing, what are the odds that the 11th paper on digital contact tracing will introduce some a perspective I haven't seen half a dozen times?
+
+All that is to say *if you're earnestly personally motivated to write about it, then yes, write about anything you want; but if you're just looking for any old topic, all else being equal, you'd be better off picking a topic that we haven't talked about ad nauseam*.
+
+#### situating a topic
+One of the goals of this class is to get you to recognize the social and historical influences that bear on topics in AI and data science. This is where you'll do that. This will also hopefully give you a lot of context that informs the argument you ultimately make.
+
+## making a persuasive argument
+I want you to be able to take and argue a position -->
+
+
+---
+
+## (Tentative) Schedule
+If something substantial happens in the world, I might revise the syllabus, but I'll try to give at least a week's worth of advance notice. Don't read too far ahead - or if you do, be prepared for the possibility that things will shift (or get introduced), especially further out ahead.
+
+### Week 0 (May 28): Intro/explanations/questions
+I don't expect you to read anything for this class. Bring yourself.
+
+
+### Week 1 (June 4): Histories of Data
 #### Required Reading
 - "[Do Artifacts Have Politics?][politicsofArtifacts]" by Langdon Winner
 - "[The Racial Bias Built Into Photography][photography_bias]" by Sarah Lewis
 - "[Datasheets for Datasets][datasheets]" by Timnit Gebru et al. (**PDF**)
-
 
 #### Optional Reading
 - "[Do we need to walk 10,000 steps a day?][10ksteps]" by Claudia Hammond
@@ -86,11 +129,7 @@ What we've arrived at in the first class discussion is the following:
 - *Sorting Things Out: Classification and Its Consequences* by Geoffrey C. Bowker and Susan Leigh Star
 
 
-
-
-### Week 2: How did we get here?
-
-
+### Week 2 (June 11): How did we get here?
 #### Required Reading
 - "[How social media took us from Tahrir Square to Donald Trump][social_donald]" by Zeynep Tufekci
 - "[The Platform is the Message][platform_message]" by James Grimmelmann (**PDF**)
@@ -98,31 +137,23 @@ What we've arrived at in the first class discussion is the following:
 - "[The fundamental problem with Silicon Valley's favorite growth strategy][favorite_growth]" by Tim O'Reilly
 - "[Anthropological/Artificial Intelligence & the Institute for Human-centered AI][HAIPost]" by Ali Alkhatib
 
-
 #### Optional Reading
 - [The incompatible incentives of private sector AI][incompatible_incentives] by Tom Slee
 
 
-### Week 3: Ethical Foundations, and Discursive Tools
-
+### Week 3 (June 18): Ethical Foundations, and Discursive Tools
 - Mark White, [Superhuman Ethics Class With The Avengers Prime][superhuman_ethics]
 - Ian Bogost, [Enough With the Trolley Problem][trolleyproblem]
 - Meg Young et al, [Toward inclusive tech policy design: a method for underrepresented voices to strengthen tech policy documents][toward_inclusive_tech]
 - Zeynep Tufekci, [Sociological Storytelling vs. Psychological Storytelling][sociological_storytelling]
 - Eric P. S. Baumer and M. Six Silberman, [When the Implication Is Not to Design (Technology)][implication_of_design]
 
-
-
-
 #### Optional Reading
 - Shannon Vallor, [An Ethical Toolkit for Engineering/Design Practice][ethical_toolkit]
 - Margaret Mitchell et al, [Model Cards for Model Reporting][model_cards]
-<!-- - Shannon Vallor et al, [Conceptual Frameworks in Technology and Engineering Practice: Ethical Lenses to Look Through][conceptual_frameworks] -->
 
 
-### Week 4: Bias, Fairness, and Justice
-
-
+### Week 4 (June 25): Bias, Fairness, and Justice
 #### Required Reading/Watching:
 - Arvind Narayan, [21 Definitions of Fairness][21_defs]
 - Harini Suresh and John Guttag, [A Framework for Understanding Unintended Consequences of Machine Learning][framework_for_understanding]
@@ -133,9 +164,7 @@ What we've arrived at in the first class discussion is the following:
 - Alice Xiang and Deborah Raji, [On the Legal Compatibility of Fairness Definitions][legal_compatibility]
 
 
-
-### Week 5: Privacy, Surveillance, & Power
-
+### Week 5 (July 2): Privacy, Surveillance, & Power
 #### Required Reading
 
 - ["Your Apps Know Where You Were Last Night, and They're Not Keeping It Secret"][your_apps] by By Jennifer Valentino-DeVries, Natasha Singer, Michael H. Keller, & Aaron Krolik
@@ -144,30 +173,10 @@ What we've arrived at in the first class discussion is the following:
 - ["We Need to Talk About Digital Contact Tracing"][we_need_to_talk] by Ali Alkhatib
 - ["Proctorio Is Using Racist Algorithms to Detect Faces"][proctorio_racism] by Todd Feathers
 
-
-**and read ["The Algorithmic Colonization of Africa"][algo_colonization_africa] by Abeba Birhane for next week**
-
 #### Optional Reading
 - [This whole thread][this_whole_thread] by Chris Gilliard
 - ["Our collective privacy problem is not your fault"][collective_privacy] by Lindsey Barrett
 - ["The New Wilderness"][new_wilderness] by Maciej Ceglowski
-
-
-### Week 6: Algorithmic colonialism, organizing, and future steps
-
-#### Required Reading
-- "[The problems AI has today go back centuries][AI_problems_colonialism]" by Karen Hao
-- ["The Algorithmic Colonization of Africa"][algo_colonization_africa] by Abeba Birhane
-- Adrienne Lafrance, [Facebook and the New Colonialism][fb_colonialism]
-<!-- - Davey Alba, [How Duterte Used Facebook To Fuel The Philippine Drug War][duterte_drug_war] -->
-- Rumman Chowdhury, [Algorithmic Colonialism][algo_colonialism]
-- Jess Whittlestone et al, [The role and limits of principles in AI ethics: towards a focus on tensions][role_and_limits_of_principles]
-
-#### Optional Reading
-<!-- - Joe Parkinson et al, [Huawei Technicians Helped African Governments Spy on Political Opponents][huawei_spying] -->
-<!-- - Daniel Greene, et al. [Better, Nicer, Clearer, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning][critical_assessment] -->
-<!-- - Sareeta Amrute, [Tech Colonialism Today][tech_colonialism_today] -->
-
 
 
 
@@ -178,7 +187,7 @@ What we've arrived at in the first class discussion is the following:
 [week5_anchor]: #week-5-how-did-we-get-here-the-ecologies-in-which-youll-work
 [week6_anchor]: #week-6-algorithmic-colonialism-organizing-and-future-steps
 
-
+[your_apps]: https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html
 [photography_bias]: https://www.nytimes.com/2019/04/25/lens/sarah-lewis-racial-bias-photography.html
 [datasheets]: https://arxiv.org/pdf/1803.09010
 [politicsofArtifacts]: https://www.jstor.org/stable/20024652?seq=1
