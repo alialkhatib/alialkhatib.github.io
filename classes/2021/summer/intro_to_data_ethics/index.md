@@ -1,5 +1,5 @@
 # Intro to Data Ethics
-- When: Fridays, 10am-1pm, May 28 - July 2?
+- When: Fridays, 10am-12pm, May 28 - July 2
 - Where: Zoom*
 - Instructor: Ali Alkhatib
 
@@ -141,7 +141,10 @@ I don't expect you to read anything for this class. Bring yourself.
 
 <!-- - "[Datasheets for Datasets][datasheets]" by Timnit Gebru et al. (**PDF**) -->
 
-### Week 3 (June 18): Ethical Foundations, and Discursive Tools
+### Week 3 (June 18): Ethical Foundations, and Discursive Tools*
+
+*USF is observing Juneteenth on June 18, so we won't be meeting today. I'll still ask that you complete your reflections for this week by June 16 11:59pm AOE as per usual, but I'll record a talk and upload it either on Thursday (June 17) or on Monday (June 21).*
+
 - Mark White, [Superhuman Ethics Class With The Avengers Prime][superhuman_ethics]
 - Ian Bogost, [Enough With the Trolley Problem][trolleyproblem]
 - Meg Young et al, [Toward inclusive tech policy design: a method for underrepresented voices to strengthen tech policy documents][toward_inclusive_tech]
