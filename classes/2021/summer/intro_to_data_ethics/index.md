@@ -19,7 +19,6 @@ If you thought about taking the data ethics course with Dr. Thomas last year, yo
 - [Week 3: Ethical Foundations, and Discursive Tools][week2_anchor]
 - [Week 4: Bias, Fairness, and Justice][week3_anchor]
 - [Week 5: Privacy, Surveillance, & Power][week4_anchor]
-<!-- - [Week 6: Organizing, future steps, and the threat of Algorithmic colonialism][week6_anchor] -->
 
 
 ## Communication
@@ -96,19 +95,19 @@ I want you to be able to identify and describe an issue, situate it, and ultimat
 
 I'll detail what I'm expecting in more precise terms soon, but I want to be intentionally open-ended since I trust your judgment.
 
-<!-- #### identifying and describing an issue
-The issue doesn't have to be a topic we discussed in class. Honestly, you might be better off going further afield and finding something we don't cover in-depth - if I've read 10 papers about the merits of digital contact tracing, what are the odds that the 11th paper on digital contact tracing will introduce some a perspective I haven't seen half a dozen times?
 
-All that is to say *if you're earnestly personally motivated to write about it, then yes, write about anything you want; but if you're just looking for any old topic, all else being equal, you'd be better off picking a topic that we haven't talked about ad nauseam*.
 
-#### situating a topic
-One of the goals of this class is to get you to recognize the social and historical influences that bear on topics in AI and data science. This is where you'll do that. This will also hopefully give you a lot of context that informs the argument you ultimately make.
 
-## making a persuasive argument
-I want you to be able to take and argue a position -->
+
 
 
 ---
+
+
+
+
+
+
 
 ## (Tentative) Schedule
 If something substantial happens in the world, I might revise the syllabus, but I'll try to give at least a week's worth of advance notice. Don't read too far ahead - or if you do, be prepared for the possibility that things will shift (or get introduced), especially further out ahead.
@@ -130,16 +129,8 @@ I don't expect you to read anything for this class. Bring yourself.
 ### Week 2 (June 11): Paradigms of Data Ethics
 #### Required Reading
 **TBA**
-<!-- - "[How social media took us from Tahrir Square to Donald Trump][social_donald]" by Zeynep Tufekci
-- "[The Platform is the Message][platform_message]" by James Grimmelmann (**PDF**)
-- "[The Problem with Metrics][metrics_problems]" by Rachel Thomas (**PDF**)
-- "[The fundamental problem with Silicon Valley's favorite growth strategy][favorite_growth]" by Tim O'Reilly
-- "[Anthropological/Artificial Intelligence & the Institute for Human-centered AI][HAIPost]" by Ali Alkhatib
 
-#### Optional Reading
-- [The incompatible incentives of private sector AI][incompatible_incentives] by Tom Slee -->
 
-<!-- - "[Datasheets for Datasets][datasheets]" by Timnit Gebru et al. (**PDF**) -->
 
 ### Week 3 (June 18): Ethical Foundations, and Discursive Tools*
 
@@ -237,5 +228,5 @@ I don't expect you to read anything for this class. Bring yourself.
 [fb_colonialism]: #
 [duterte_drug_war]: #
 [musings]: https://arxiv.org/pdf/2101.09869
-[contact]: /contact
-[meet]: /meet
+[contact]: https://al2.in/contact
+[meet]: https://al2.in/meet

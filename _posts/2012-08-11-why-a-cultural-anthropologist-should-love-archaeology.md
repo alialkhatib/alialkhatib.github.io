@@ -9,7 +9,7 @@ tags:
 ---
 *I was a little drunk when I wrote this, sitting in a Beatles-themed dive bar in Quito while yelling over some Beatles hit to get this point across, so bear with me. Also, immediately afterwards we wandered into a bar where we danced with an English dude who I'm pretty sure was on cocaine. So my memory might be skewed by that whole experience.*  
 
-I'm here in Ecuador getting ready to be staff on an archaeological expedition. There are times that I wonder to myself what the fuck I'm doing here, whether I belong here in the presence of a guy who gets passionate about stratification levels and dig units. It's not that I don't understand that stuff (which is obviously more than I can say for most people out there), but I'm definitely not immediately passionate about it. I admit, reluctantly, that I am **keen as fuck** to dive into a textbook Vanessa told me about recently, titled *Introduction to Statistics for Anthropologists*.
+I'm here in Ecuador getting ready to be staff on an archaeological expedition. There are times that I wonder to myself what the fuck I'm doing here, whether I belong here in the presence of a guy who gets passionate about stratification levels and dig units. It's not that I don't understand that stuff (which is more than I can say for most people out there), but I'm definitely not immediately passionate about it. I admit, reluctantly, that I am **keen as fuck** to dive into a textbook Vanessa told me about recently, titled *Introduction to Statistics for Anthropologists*.
 
 More on that later, I'm sure.
 
