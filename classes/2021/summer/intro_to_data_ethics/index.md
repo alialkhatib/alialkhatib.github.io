@@ -61,12 +61,12 @@ That being said, I realize that's asking a lot, and I know some people have neve
 
 I'll evaluate your work in two ways, for different things. At a high level, they are:
 
-- **Reflections**: weekly, due on Wednesdays at 11:59pm AOE (anywhere on earth)
+- **Reflections**: weekly, due on Thursdays at 11:59pm pacific time
 - **Term paper**: 5 pages, due on the final day of class
 
 ### Reflections
 
-tl;dr: Every week, you'll write short reflections on the readings that we'll discuss later that week. Submit those by **Wednesday 11:59pm AOE** (anywhere on earth).
+tl;dr: Every week, you'll write short reflections on the readings that we'll discuss later that week. Submit those by **Thursday 11:59pm pacific time**.
 
 For these reflections, I'm only interested in two things:
 
@@ -89,7 +89,7 @@ That'd be *plenty*. And depending on how you do it, you'll be laying the groundw
 
 ### Term paper
 
-tl;dr: you'll write a **5-page position paper** calling attention to a topic and advocating some change in policy or design, **due at 11:59pm AOE on the last day of class**
+tl;dr: you'll write a **5-page position paper** calling attention to a topic and advocating some change in policy or design, **due at 11:59pm pacific time on the last day of class**
 
 I want you to be able to identify and describe an issue, situate it, and ultimately make a persuasive argument that we (where "we" is up to you) should do something different.
 
@@ -119,9 +119,11 @@ I don't expect you to read anything for this class. Bring yourself.
 ### Week 1 (June 4): Ethics of Tech
 #### Required Reading
 - "[Do Artifacts Have Politics?][politicsofArtifacts]" by Langdon Winner
-- "[The Racial Bias Built Into Photography][photography_bias]" by Sarah Lewis
+- "[Are Robots Racist?][robots_racist]" by Ruha Benjamin ("guest lecture" - 23 minute video)
+- [*Future Ethics* Chapter 1: "Trouble in Paradise"][Future Ethics preview] by Cennydd Bowles
 
 #### Optional Reading
+- "[The Racial Bias Built Into Photography][photography_bias]" by Sarah Lewis
 - *The Color of Law: A Forgotten History of How Our Government Segregated America* by Richard Rothstein
 - *Sorting Things Out: Classification and Its Consequences* by Geoffrey C. Bowker and Susan Leigh Star
 
@@ -131,10 +133,9 @@ I don't expect you to read anything for this class. Bring yourself.
 **TBA**
 
 
-
 ### Week 3 (June 18): Ethical Foundations, and Discursive Tools*
 
-*USF is observing Juneteenth on June 18, so we won't be meeting this week. I'll still ask that you complete your reflections for this week by June 16 11:59pm AOE as per usual, but I'll record a talk and upload it either on Thursday (June 17) or on Monday (June 21).*
+*USF is observing Juneteenth on June 18, so we won't be meeting this week. I'll still ask that you complete your reflections for this week by June 17 11:59pm pacific time as per usual, but I'll record a talk and upload it on Monday (June 21).*
 
 - Mark White, [Superhuman Ethics Class With The Avengers Prime][superhuman_ethics]
 - Ian Bogost, [Enough With the Trolley Problem][trolleyproblem]
@@ -229,4 +230,6 @@ I don't expect you to read anything for this class. Bring yourself.
 [duterte_drug_war]: #
 [musings]: https://arxiv.org/pdf/2101.09869
 [contact]: https://al2.in/contact
+[robots_racist]: https://www.dropbox.com/s/j80s8kjm63erf70/Ruha%20Benjamin%20Guest%20Lecture.mp4?dl=0
 [meet]: https://al2.in/meet
+[Future Ethics preview]: https://nownext.studio/s/Future-Ethics-preview-chapters-13.pdf
