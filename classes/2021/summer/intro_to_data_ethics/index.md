@@ -68,6 +68,12 @@ I'll evaluate your work in two ways, for different things. At a high level, they
 
 tl;dr: Every week, you'll write short reflections on the readings that we'll discuss later that week. Submit those by **Thursday 11:59pm pacific time**.
 
+Some basic info:
+
+- reply in the slack channel thread with your reflections
+- if you'd rather upload a pdf or some other file, that's fine, but posting it as a message is fine with me, and makes conversations easier if someone wants to chat about it
+
+
 For these reflections, I'm only interested in two things:
 
 1. did you read the articles? and
