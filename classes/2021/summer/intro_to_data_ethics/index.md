@@ -111,10 +111,6 @@ I'll detail what I'm expecting in more precise terms soon, but I want to be inte
 
 
 
-
-
-
-
 ## (Tentative) Schedule
 If something substantial happens in the world, I might revise the syllabus, but I'll try to give at least a week's worth of advance notice. Don't read too far ahead - or if you do, be prepared for the possibility that things will shift (or get introduced), especially further out ahead.
 
@@ -123,36 +119,51 @@ I don't expect you to read anything for this class. Bring yourself.
 
 
 ### Week 1 (June 4): Ethics of Tech
+- [slides][week1slides]
+
+[week1slides]: #
+
 #### Required Reading
 - "[Do Artifacts Have Politics?][politicsofArtifacts]" by Langdon Winner
 - "[Are Robots Racist?][robots_racist]" by Ruha Benjamin ("guest lecture" - 23 minute video)
-- [*Future Ethics* Chapter 1: "Trouble in Paradise"][Future Ethics preview] by Cennydd Bowles
 
 #### Optional Reading
+- [*Future Ethics* Chapter 1: "Trouble in Paradise"][Future Ethics preview] by Cennydd Bowles
 - "[The Racial Bias Built Into Photography][photography_bias]" by Sarah Lewis
-- *The Color of Law: A Forgotten History of How Our Government Segregated America* by Richard Rothstein
-- *Sorting Things Out: Classification and Its Consequences* by Geoffrey C. Bowker and Susan Leigh Star
 
 
-### Week 2 (June 11): Paradigms of Data Ethics
+### Week 2 (June 11): Paradigms of Ethics
+<!-- - [slides][week2slides]
+
+[week2slides]: # -->
+
 #### Required Reading
-**TBA**
+- "[Superhuman Ethics Class With The Avengers Prime][superhuman_ethics]" by Mark White
+- "[The Role and Limits of Principles in AI Ethics: Towards a Focus on Tensions][tensions]" by Jess Whittlestone, Rune Nyrup, Anna Alexandrova, and Stephen Cave
 
 
-### Week 3 (June 18): Ethical Foundations, and Discursive Tools*
+#### Optional Reading
+- "[Enough With the Trolley Problem][trolleyproblem]" by Ian Bogost
+- "[When the Implication Is Not to Design (Technology)][implication_of_design]" by Eric P. S. Baumer and M. Six Silberman
+
+
+<!-- - *Sorting Things Out: Classification and Its Consequences* by Geoffrey C. Bowker and Susan Leigh Star -->
+
+### Week 3 (June 18): ~~Ethical Foundations, and Discursive Tools*~~
+<!-- - [slides][week3slides]
+
+[week3slides]: # -->
+
 
 *USF is observing Juneteenth on June 18, so we won't be meeting this week. I'll still ask that you complete your reflections for this week by June 17 11:59pm pacific time as per usual, but I'll record a talk and upload it on Monday (June 21).*
 
-- Mark White, [Superhuman Ethics Class With The Avengers Prime][superhuman_ethics]
-- Ian Bogost, [Enough With the Trolley Problem][trolleyproblem]
-- Meg Young et al, [Toward inclusive tech policy design: a method for underrepresented voices to strengthen tech policy documents][toward_inclusive_tech]
-- Zeynep Tufekci, [Sociological Storytelling vs. Psychological Storytelling][sociological_storytelling]
-- Eric P. S. Baumer and M. Six Silberman, [When the Implication Is Not to Design (Technology)][implication_of_design]
+I'll be drawing together some readings on abolitionist and emancipatory technologies to draw a contrast between carceral and punitive technologies which characterize most of the landscape of tech we interact with currently.
 
-#### Optional Reading
+
+<!-- #### Optional Reading
 - Shannon Vallor, [An Ethical Toolkit for Engineering/Design Practice][ethical_toolkit]
 - Margaret Mitchell et al, [Model Cards for Model Reporting][model_cards]
-
+ -->
 
 ### Week 4 (June 25): Bias, Fairness, and Justice
 #### Required Reading/Watching:
@@ -238,4 +249,5 @@ I don't expect you to read anything for this class. Bring yourself.
 [contact]: https://al2.in/contact
 [robots_racist]: https://www.dropbox.com/s/j80s8kjm63erf70/Ruha%20Benjamin%20Guest%20Lecture.mp4?dl=0
 [meet]: https://al2.in/meet
+[tensions]: https://dl.acm.org/doi/10.1145/3306618.3314289
 [Future Ethics preview]: https://nownext.studio/s/Future-Ethics-preview-chapters-13.pdf
