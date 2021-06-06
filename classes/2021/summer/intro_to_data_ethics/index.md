@@ -15,10 +15,10 @@ That might sound like I'm trying to be "neutral" or objective - I'm not. I think
 If you thought about taking the data ethics course with Dr. Thomas last year, you might recognize a few of the modules. In general I'm following her class structure, but I moved a few things around and replaced a few things based on stuff that's happened in the past year (a *few* things have happened).
 
 - [Week 1: Ethics of Tech][week1_anchor]
-- [Week 2: Paradigms of Data Ethics][week5_anchor]
-- [Week 3: Ethical Foundations, and Discursive Tools][week2_anchor]
-- [Week 4: Bias, Fairness, and Justice][week3_anchor]
-- [Week 5: Privacy, Surveillance, & Power][week4_anchor]
+- [Week 2: Paradigms of Data Ethics][week2_anchor]
+- [Week 3: Ethical Foundations, and Discursive Tools][week3_anchor]
+- [Week 4: Bias, Fairness, and Justice][week4_anchor]
+- [Week 5: Privacy, Surveillance, & Power][week5_anchor]
 
 
 ## Communication
@@ -192,12 +192,12 @@ I'll be drawing together some readings on abolitionist and emancipatory technolo
 
 
 
-[week1_anchor]: #week-1-about-the-histories-of-data
-[week2_anchor]: #week-2-ethical-foundations-and-discursive-tools
-[week3_anchor]: #week-3-bias-fairness-and-justice
-[week4_anchor]: #week-4-privacy-surveillance--power
-[week5_anchor]: #week-5-how-did-we-get-here-the-ecologies-in-which-youll-work
-[week6_anchor]: #week-6-algorithmic-colonialism-organizing-and-future-steps
+[week1_anchor]: #week-1-june-4-ethics-of-tech
+[week2_anchor]: #week-2-june-11-paradigms-of-ethics
+[week3_anchor]: #week-3-june-18-ethical-foundations-and-discursive-tools
+[week4_anchor]: #week-4-june-25-bias-fairness-and-justice
+[week5_anchor]: #week-5-july-2-privacy-surveillance--power
+<!-- [week6_anchor]: #week-6-algorithmic-colonialism-organizing-and-future-steps -->
 
 [your_apps]: https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html
 [photography_bias]: https://www.nytimes.com/2019/04/25/lens/sarah-lewis-racial-bias-photography.html
