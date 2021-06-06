@@ -20,6 +20,23 @@ Larger conferences tend to draw on larger groups of potential reviewers, but the
 With a smaller conference my sense is that it's much clearer from the outset whether you're submitting to the right audience given the kind of paper you're writing. There's a chance the chairs of the conference won't be able to get the "best" reviewers for your papers, but when I review for a small conference I have a very clear mental picture of what this conference is about, and what details are allowed to be a little hand-wavy because that's not the subject focus of the conference.
 
 
+
+---
+
+When you're deciding where to submit a paper, you should think about a few things:
+
+- what papers have been published there in the past?
+- who are the organizers (and especially the "area chairs") for the submission track you're thinking about?
+
+If you're thinking of submitting a paper to a conference that the conference has *never* published before, then it's possible that people have tried to submit that kind of paper and all failed. That's not necessarily to discourage you (CSCW has a long history of being difficult for systems-building people to publish in, but they're actively working on fixing that and I hear it's a lot better). It's a *great* sign if you read a bunch of papers at the same conference that feel like they have the same worldview, methods, etc... that your paper works with. I can think of a handful of papers at FAccT that resemble the kinds of papers that I write, and I would be encouraged to submit there; I can't say the same about a conference like CVPR (Computer Vision and Pattern Recognition), even if my paper was *essentially* about computer vision.
+
+The other consideration, *who* are involved in the conference, can be really helpful if the conference is new or if you're trying to branch out from your existing silo. It's generally a good sign if you recognize a lot of the names (better still if you cite them; they might not review your submission but they'll know who understands *their* work well enough to evaluate how well yours leans on their work, if that makes sense). Again, neutral information isn't a bad sign, but if I saw the names of people whose work I find rather objectionable or totally misaligned from my work, I would think about whether they even know who to even ask to review my submission.
+
+I always, always encourage people to do some basic research on the venue that you're thinking about submitting to. What do the papers from the last year or two look like (or at least the ones with keywords close to your paper)? What kind of stuff do the organizers write and publish about? These signals can tell you a lot more than the main page or the "About this conference" page can possibly say. Listen to what people and organizations *do* - if they say they want to publish the kind of work you're thinking about, but you can't find any evidence of commitment to that, it might be really risky to submit there.
+
+---
+
+
 ### CHI (Human-Computer Interaction)
 I mostly (almost exclusively?) submit here. It's a fairly large conference that broadly thinks about human-computer interaction, with a lean toward design implications and designing systems in general. It can be hard to submit a paper to this conference if design is not ultimately the goal of your paper, but it's absolutely not impossible, and if you can get a paper in here, it'll be in front of lots of people from lots of different areas (whereas some of the other conferences below may be a bit more niche - which has its pros and cons).
 
