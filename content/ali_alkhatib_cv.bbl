@@ -27,22 +27,33 @@
       }}%
     }
     \list{publisher}{1}{%
-      {ACM}%
+      {Association for Computing Machinery}%
     }
-    \keyw{HCI, Artificial Intelligence, Street-Level Algorithms}
+    \keyw{Artificial Intelligence, Street-Level Algorithms, HCI}
     \strng{namehash}{AA1}
     \strng{fullhash}{AA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{A}
     \field{sortinithash}{A}
+    \field{booktitle}{Proceedings of the 2021 CHI Conference on Human Factors
+  in Computing Systems}
+    \verb{doi}
+    \verb 10.1145/3411764.3445740
+    \endverb
+    \field{isbn}{9781450380966}
     \field{series}{CHI '21}
     \field{title}{To Live in Their Utopia: Why Algorithmic Systems Create
   Absurd Outcomes}
+    \verb{url}
+    \verb https://doi.org/10.1145/3411764.3445740
+    \endverb
+  \field{venue}{\href{https://www.youtube.com/watch?v=ClGIosevT0Y}{https://www.youtube.com/watch?v=ClGIosevT0Y}}
     \list{location}{1}{%
-      {New York, NY, USA}%
+      {Yokohama, Japan}%
     }
     \field{year}{2021}
+    \warn{\item Can't use 'location' + 'address'}
   \endentry
 
   \entry{10.1145/3404205}{article}{}

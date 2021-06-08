@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2020)
+This is BibTeX, Version 0.99d (TeX Live 2021)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: ali_alkhatib_cv.aux
 The style file: biblatex.bst
@@ -23,48 +23,48 @@ I was expecting an "="---line 1553 of file references.bib
  :   u                 
  :                     {https://ali-alkhatib.com/media/papers/quantified_self.pdf}
 I'm skipping whatever remains of this entry
-Biblatex version: 3.13
+Biblatex version: 3.16
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 9 entries,
-            6365 wiz_defined-function locations,
-            1269 strings with 11289 characters,
-and the built_in function-call counts, 64417 in all, are:
-= -- 4493
-> -- 1459
-< -- 409
-+ -- 1758
-- -- 631
-* -- 4959
-:= -- 7078
+            6393 wiz_defined-function locations,
+            1283 strings with 11620 characters,
+and the built_in function-call counts, 65551 in all, are:
+= -- 4617
+> -- 1490
+< -- 440
++ -- 1789
+- -- 635
+* -- 5006
+:= -- 7114
 add.period$ -- 0
 call.type$ -- 9
-change.case$ -- 198
+change.case$ -- 229
 chr.to.int$ -- 56
 cite$ -- 16
-duplicate$ -- 6560
-empty$ -- 5370
+duplicate$ -- 6672
+empty$ -- 5457
 format.name$ -- 770
-if$ -- 13259
+if$ -- 13468
 int.to.chr$ -- 0
 int.to.str$ -- 27
 missing$ -- 0
-newline$ -- 376
-num.names$ -- 476
-pop$ -- 2908
+newline$ -- 386
+num.names$ -- 507
+pop$ -- 2897
 preamble$ -- 1
-purify$ -- 271
+purify$ -- 302
 quote$ -- 0
-skip$ -- 2075
+skip$ -- 2168
 stack$ -- 0
-substring$ -- 7658
-swap$ -- 1628
+substring$ -- 7817
+swap$ -- 1694
 text.length$ -- 330
 text.prefix$ -- 8
 top$ -- 1
 type$ -- 294
 warning$ -- 0
-while$ -- 971
+while$ -- 973
 width$ -- 0
-write$ -- 368
+write$ -- 378
 (There was 1 error message)
