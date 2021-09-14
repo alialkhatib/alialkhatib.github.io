@@ -10,7 +10,7 @@ I study human-computer interaction - more precisely, I study how people relate t
 
 That's a little dense. Let me try again...
 
-I mostly think about problems situated in technology - how [gig work disempowers workers][gig work], or [why AI makes so many frustrating errors][AI].
+I mostly think about problems situated in technology - how [gig work disempowers workers][gig work]; [why AI makes so many frustrating errors at the margins][AI]; or [how the power AIs wield allows them to get increasingly unhinged from the reality we live in][utopia].
 I try to figure out ways that we can think about those problems essentially as *social* relationships between people and systems that do things people used to do. Most of the time I do this by adapting and extending theories from other fields - fields that mostly study relationships between people - to help frame how we make sense of these problems.
 
 Coming up with robust framings this way does a couple of useful things.
@@ -89,3 +89,5 @@ If this isn't enough info, click on some links floating around this text in vari
   "Piecework page"
 [AI]: /research#street-level-algorithms
   "Street Level Algorithms page"
+[utopia]: /research#utopia
+  "To Live in Their Utopia page"
