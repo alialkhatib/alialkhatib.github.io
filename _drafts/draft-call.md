@@ -72,13 +72,12 @@ San Francisco, CA; Remote optional
 Salary; $75,000
 
 ## Benefits
-Please see the HR handbook USFCA offers at <link>, but in addition to the standard benefits for USFCA staff, CADE can offer the following:
+Please see the HR handbook USFCA offers at `link`, but in addition to the standard benefits for USFCA staff, CADE can offer the following:
 
-- optional relocation reimbursement: up to $<checking on this now>
-- professional equipment reimbursement (not including laptops, desktops, or furniture): up to $<checking on this now>
+- optional relocation reimbursement: up to $`checking on this now`
+- professional equipment reimbursement (not including laptops, desktops, or furniture): up to $`checking on this now`
 - conference and other professional event attendance: up to $1000 (in addition to any conferences for which you are presenting work submitted while affiliated with CADE)
 
 ---
 The University of San Francisco is located in the heart of one of the world’s most innovative and diverse cities, and is home to a vibrant academic community of students and faculty who achieve excellence in their fields. Its diverse student body enjoys direct access to faculty, small classes and outstanding opportunities in the city itself. USF is San Francisco's first university, and its Jesuit Catholic mission helps ignite a student’s passion for social justice and a desire to “Change the World From Here.” For more information, visit http://www.usfca.edu.
-
 
