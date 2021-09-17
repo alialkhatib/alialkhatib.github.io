@@ -2,9 +2,9 @@
 title: A new data ethics curriculum, and fellows to implement it
 ---
 
-On Friday [I briefly talked about][tweet] a call for data ethics fellows that'll be coming out soon, promising more information on Monday. well, it's ~Monday~ Wednesday. My bad. I may be able to share the draft of the call for applicants in advance of its formal publication, but I wanted to make as much of the info available as I could, and I want to hear feedback if there are parts of this that are unclear or ambiguous, and similarly if there are questions that I can answer or incorporate into the final version.
+On Friday [I briefly talked about][tweet] a call for data ethics fellows that'll be coming out soon, promising more information on Monday. well, it's ~~Monday~~ ~~Wednesday~~ **Friday**. My bad. At the bottom of this page is a link to the **draft** call for applicants as it exists today, but I wanted to make as much of the info behind what we were thinking available as I could, and I want to hear feedback if there are parts of this that are unclear or ambiguous, and similarly if there are questions that I can answer or incorporate into the final version.
 
-Anyway, here are the details, with expanded information further below:
+Anyway, here are the bullet points, with expanded information, and the link to the actual **draft** call for fellows further below:
 
 - Full time
 - Appointment 1-1.5 years (extension possible depending on funding)
@@ -75,5 +75,10 @@ I hope it's clear that I've been thinking about what CADE can do to foster a for
 
 Something I appreciate a great deal about CADE is that we've never taken money from corporate entities or interests, and we plan never to change that. It's given me space to think about my discomfort with surveillance and algorithmic technologies without even the briefest thought that our work undermines the business interests of the people or groups who fund us. We're principally supported by Craig Newmark's philanthropy. If you join CADE, I'll do my best never to surprise you with new financial ethical entanglements, and I'll never pursue financial support that I think would undermine or compromise your independence either in appearance or practice. If you have any questions about that or anything else in this post, please feel free to [contact me][contact]. Otherwise, look forward for the formal call for applicants.
 
+---
+
+## Okay, you've read to the end, [here's the draft call][draft_call]
+
 [contact]: /contact
 [tweet]: https://twitter.com/_alialkhatib/status/1436542364584005634?s=20
+[draft_call]: /cade/draft_call
