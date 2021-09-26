@@ -55,12 +55,9 @@ Applicants should submit the following materials:
 - A description, not more than 3 pages, describing the course that the applicant could teach
 - A writing sample, not more than 20 pages, where the applicant was either the primary or sole author
 - A CV or résumé
-- 3 letters of recommendation*
+- 3 potential writers of letters of recommendation (names, relationships, and contact information are sufficient; please be sure that they know the CADE director may be in contact with them directly to request their letter of recommendation)
 
-<!-- We invite interested candidates to find out more about the Data Institute, MSDS program and the faculty here:
 
-- [https://www.usfca.edu/arts-sciences/graduate-programs/data-science/faculty](https://www.usfca.edu/arts-sciences/graduate-programs/data-science/faculty)
-- [https://www.usfca.edu/data-institute](https://www.usfca.edu/data-institute) -->
 
 Applications will be accepted on a rolling basis but review will begin after `date (at least 2-3 weeks following official publishing)`. Any questions can be sent to [aalkhatib@usfca.edu](mailto:aalkhatib@usfca.edu).
 
@@ -69,7 +66,7 @@ Applications will be accepted on a rolling basis but review will begin after `da
 Full time
 
 ### Location
-San Francisco, CA; Remote optional
+San Francisco, CA; Remote optional (residence and employment eligibility in the United States required)
 
 ### Pay Rate
 Salary; $75,000
@@ -77,10 +74,10 @@ Salary; $75,000
 ### Benefits
 Please see the HR handbook USFCA offers at `link`, but in addition to the standard benefits for USFCA staff, CADE can offer the following:
 
-- optional relocation reimbursement: up to $`checking on this now`
-- professional equipment reimbursement (not including laptops, desktops, or furniture): up to $`checking on this now`
-- conference and other professional event attendance: up to $1000 (in addition to any conferences for which you are presenting work submitted while affiliated with CADE)
-
+- relocation reimbursement if desired (scales with distance, see [USFFA policy on relocation expense reimbursements][USFFA])
+- conference and other professional event attendance
 
 
 [contact]: /contact
+[USFFA]: https://myusf.usfca.edu/human-resources/benefits/rent-relocation-reimbursement
+
