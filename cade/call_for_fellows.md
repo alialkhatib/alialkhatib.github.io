@@ -50,7 +50,7 @@ Applicants should submit the following materials:
 - A CV or resume
 - 3 potential writers of letters of recommendation (names, relationships, and contact information are sufficient; please be sure that they know the CADE director may be in contact with them directly to request their letter of recommendation)
 
-Applications will be accepted on a rolling basis but review will begin after **November 1**, and any applications submitted by then will be given full consideration. Any questions can be sent to [aalkhatib@usfca.edu](mailto:aalkhatib@usfca.edu).
+Applications will be accepted on a rolling basis and interviews will begin as soon as possible, but any applications submitted by **November 15** will be given full consideration. Any questions can be sent to [aalkhatib@usfca.edu](mailto:aalkhatib@usfca.edu).
 
 ---
 ### Full-Time/Part-Time
