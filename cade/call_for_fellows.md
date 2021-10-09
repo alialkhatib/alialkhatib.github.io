@@ -3,13 +3,6 @@ title: DRAFT Call for Fellows
 layout: listicle
 ---
 
-## **THIS IS A DRAFT. PLEASE DO NOT ACT ON THIS CALL UNTIL THE FINAL VERSION IS MADE PUBLIC.**
-
-### If you have any feedback or questions related to this draft, please feel free to [let me know][contact].
-
----
-
-
 ## Job Title
 Applied Data Ethics Fellow
 
@@ -43,10 +36,10 @@ Fellows of this cohort will collectively design a curriculum on data ethics at t
 Fellows of this cohort will continue to pursue their research agendas or explore new ones, leveraging any resources that CADE, the Data Institute, and the University of San Francisco can make available to the fellows.
 
 ### Appointment
-This appointment is tentatively expected to run for 1 calendar year, with an extension of 6 months if their course is prepared or already taught. While it is possible that further extensions will be made, that cannot be guaranteed at this time.
+This appointment is tentatively expected to run for 1 year, with an extension of 6 months if their course is prepared or already taught. While it is possible that further extensions will be made, that cannot be guaranteed at this time.
 
 ### Qualifications
-Conventional qualifications - for example, a graduate degree or equivalent experience - serve as a shorthand, but are not strictly necessary. An applicant with a history of advocacy and activism could be successful with a clear and persuasive statement of purpose. We'll work with fellows to understand their professional goals and figure out together how CADE can support those goals.
+Conventional qualifications - for example, a graduate degree or equivalent experience - serve as a shorthand, but are not strictly necessary. An applicant with a history of advocacy and activism could be successful with a clear and persuasive statement of purpose. We'll work with fellows to understand their professional goals and figure out together how CADE can support those goals. In addition, a deep appreciation for our diverse student population and the ability to foster student success are highly preferred. 
 
 ### Submission materials
 Applicants should submit the following materials:
