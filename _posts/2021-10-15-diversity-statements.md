@@ -32,3 +32,7 @@ And I'll do my best to take that harm seriously.
 
 I'll also keep paying attention to this meta-conversation, if I'm being ignorant or naive about how I learn and mature.
 I'll work to ask less of people who are already doing everything they can to exist in a society that is in some cases outright hostile to them.
+
+If you have any questions or concerns about this, I'd like to chat about it. Please feel free to [contact me][contact] if you'd like.
+
+[contact]: /contact
