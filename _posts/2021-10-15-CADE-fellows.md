@@ -1,7 +1,7 @@
 ---
 title: CADE Data Ethics Fellowship for 2022-2023
 layout: post
-date: 2021-10-15 00:00:00 +08:00
+date: 2021-10-15 13:00:00 -08:00
 ---
 
 I wrote about this a few weeks ago and got some great feedback and questions, and in that time the call for applicants has made its way through USF's system and is now up and going, so I can officially say that I'm looking to bring 3 people on as Data Ethics Fellows at the Center for Applied Data Ethics at the University of San Francisco. All applications received by November 15 will receive full consideration, but I'll be reviewing applications and scheduling interviews as soon as I can. More info in the coming paragraphs (or after the fold).

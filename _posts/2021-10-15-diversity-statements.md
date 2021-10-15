@@ -1,7 +1,7 @@
 ---
 title: Diversity Statements
 layout: post
-date: 2021-10-15 00:01:00 +08:00
+date: 2021-10-15 14:00:00 -08:00
 ---
 
 As part of the application for the Data Ethics Fellowship, we ask that applicants write a statement reflecting on diversity, equity, and inclusion, and on supporting Black and Indigenous people of color.
