@@ -12,7 +12,7 @@ So I'm offering some of my thoughts here.
 
 First: I realize this isn't equivalent for lots of reasons - for one thing, this isn't part of a job application.
 But I want to be upfront about my values so that you know what they are.
-I also want prompt you to bring this up with me if you feel like I'm wrong on an issue or flat-out absent about something.
+I also want to prompt you to bring this up with me if you feel like I'm wrong on an issue or flat-out absent on a topic that you think I should be present for.
 
 I recognize that there is no such thing as a "neutral" position, or a "view from nowhere".
 Any position - any point of view - makes a decision about how to portray the world.
