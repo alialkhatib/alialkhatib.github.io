@@ -22,7 +22,8 @@ I try to pay close attention to the power disparities and hegemonies bearing dow
 
 I'm also acutely aware that the things we construct - socially, computationally, or otherwise - are themselves built on foundations of violence. That there's no way to build a house on an uneven foundation except by addressing that unevenness. That this manifests in American society and history over centuries of slavery never redressed; centuries of classifying and reclassifying people to exclude them of rights and protections; centuries of theft, of violence, and of careful and intentional systems of exclusion.
 
-As interim director of the Center for Applied Data Ethics, I'm doing my best to continue to work in that spirit. I recognize that the same forces and mechanisms that structurally minoritize and marginalize people are the very ones that tend to make it difficult for someone like me - cisgender, a man, light-skinned, without visible disabilities - to recognize the patterns of harm that I've just said I'm trying to understand better.
+As interim director of the Center for Applied Data Ethics, I'm doing my best to continue to work in the spirit of dismantling the foundations of oppression.
+I recognize that the same forces and mechanisms that structurally minoritize and marginalize people are the very ones that tend to make it difficult for someone like me - cisgender, a man, light-skinned, without visible disabilities - to recognize the patterns of harm that I've just said I'm trying to understand better.
 Challenging that tendency, listening to and learning from people who take the time to explain these structures to me (or take the time to point me in the right direction), is one way that I try to create a more just, more equitable world.
 
 My commitment to you is that I will do my best to show gratitude when you take the time to tell me if something I'm doing - or not doing - is causing harm.
