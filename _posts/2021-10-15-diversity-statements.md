@@ -24,7 +24,7 @@ I'm also acutely aware that the things we construct - socially, computationally,
 
 As interim director of the Center for Applied Data Ethics, I'm doing my best to continue to work in the spirit of dismantling those oppressive foundations.
 I recognize that the same forces and mechanisms that structurally minoritize and marginalize people are the very ones that tend to make it difficult for someone like me - a cisgender man, light-skinned, without visible disabilities - to recognize the patterns of harm that I've just said I'm trying to understand better.
-Challenging that tendency, listening to and learning from people who take the time to explain these structures to me (or take the time to point me in the right direction), is one way that I try to create a more just, more equitable world.
+Challenging that tendency, listening to and learning from people who take the time to explain these structures to me (or take the time to point me in the right direction), is one way that I try to work toward a more just, more equitable world.
 
 My commitment to you is that I will do my best to show gratitude when you take the time to tell me if something I'm doing - or not doing - is causing harm.
 I'll try to recognize the risk and uncertainty that you overcame in telling me - someone in a position of relative power - that I'm wrong or ignorant about something and that something I'm saying or doing is harmful.
