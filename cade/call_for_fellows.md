@@ -49,8 +49,9 @@ Applicants should submit the following materials:
 - A writing sample, not more than 20 pages, where the applicant was either the primary or sole author
 - A CV or resume
 - 3 potential writers of letters of recommendation (names, relationships, and contact information are sufficient; please be sure that they know the CADE director may be in contact with them directly to request their letter of recommendation)
+- A diversity statement expressing your thoughts and/or experiences concerning equitable education for underserved and marginalized communities, your commitment to or experience with broadening participation and accessibility in the field, and/or experience and success in engaging with BIPOC students
 
-Applications will be accepted on a rolling basis and interviews will begin as soon as possible, but any applications submitted by **November 15** will be given full consideration. Any questions can be sent to [aalkhatib@usfca.edu](mailto:aalkhatib@usfca.edu).
+Applications will be accepted on a rolling basis and interviews will begin as soon as possible, but any applications submitted by **November 20** will be given full consideration. Any questions can be sent to [aalkhatib@usfca.edu](mailto:aalkhatib@usfca.edu).
 
 ---
 ### Full-Time/Part-Time
