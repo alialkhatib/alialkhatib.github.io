@@ -1,5 +1,8 @@
+*This is a tentative syllabus. The class will start on March 10; the syllabus will be finalized by March 1. Please [contact me][contact] if you have any questions or concerns!*
+
+
 ## Intro to Data Ethics Syllabus
-This course will give students a partial survey of ethical issues that arise in the practice of data science, and ways to navigate and competently advocate in those kinds of contexts.
+*This course will give students a partial survey of ethical issues that arise in the practice of data science, and ways to navigate and competently advocate in those kinds of contexts.*
 
 This course considers two aspects of data: **collection**, and **application**: First, we will explore how ethical issues arise in the **collection** of data; Second, we will question some of the "myths" associated with the **applications** of data to try to come up with our own generative approach for interrogating applications of AI in any given setting.
 
@@ -98,3 +101,4 @@ How the data you work with got collected, and how it arrived in your stewardship
 
 
 
+[contact]: /contact
