@@ -37,7 +37,7 @@ If this isn't enough info, click on some links floating around this text in vari
 
 
 
-<a rel="me" href="https://mastodon.social/@al2"></a>
+<a rel="me" href="https://masto.al2.in/@ali"></a>
 
 
 
