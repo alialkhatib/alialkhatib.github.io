@@ -4,6 +4,6 @@
 [submodule "bookVis"]
 	path = bookVis
 	url = https://github.com/alialkhatib/bookVis
-# [submodule "cade-series"]
-# 	path = cade-series
-# 	url = https://github.com/alialkhatib/cade-series
+[submodule "cade-series"]
+	path = cade-series
+	url = https://github.com/alialkhatib/cade-series
