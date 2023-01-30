@@ -11,7 +11,6 @@ markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 highlighter: rouge
 
-cadeprefix: "/cade-series"
 
 kramdown:
   input: GFM
@@ -53,13 +52,3 @@ collections:
   books:
     output: true
     permalink: /books/:name
-  talks:
-    output: true
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "talks" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "talk"

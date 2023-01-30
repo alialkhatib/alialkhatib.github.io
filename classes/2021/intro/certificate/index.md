@@ -144,7 +144,7 @@ How
 
 #### Required Reading
 
-- ["Your Apps Know Where You Were Last Night, and They're Not Keeping It Secret"][your_apps] by By Jennifer Valentino-DeVries, Natasha Singer, Michael H. Keller, & Aaron Krolik
+- ["Your Apps Know Where You Were Last Night, and They're Not Keeping It Secret"][know_where_you_were] by By Jennifer Valentino-DeVries, Natasha Singer, Michael H. Keller, & Aaron Krolik
 - ["Ruthless Quotas at Amazon Are Maiming Employees"][ruthless_quotas] by Will Evans
 - ["Trading privacy for survival is another tax on the poor"][trading_privacy] by Ciara Byrne
 - ["We Need to Talk About Digital Contact Tracing"][we_need_to_talk] by Ali Alkhatib
@@ -209,7 +209,6 @@ How
 [ethical_toolkit]: https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/
 [model_cards]: https://arxiv.org/abs/1810.03993
 [21_defs]: https://www.youtube.com/watch?v=jIXIuYdnyyk
-
 [framework_for_understanding]: https://arxiv.org/abs/1901.10002
 [problem_formulation]: https://arxiv.org/abs/1901.02547
 [fairwashing]: https://arxiv.org/abs/1901.09749
@@ -231,3 +230,4 @@ How
 [fb_colonialism]: #
 [duterte_drug_war]: #
 [musings]: https://arxiv.org/pdf/2101.09869
+
