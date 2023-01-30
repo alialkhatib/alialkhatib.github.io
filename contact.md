@@ -14,8 +14,8 @@ You might find me on [twitter][tw], but I'm generally not directing much energy 
 
 *If you want to follow an online presence, I recommend *mastodon*.*
 
-I'm on [mastodon][masto], where you can follow me. my handle is <span id="masto">`ali@masto.al2.in`</span> <button class="btn btn-lg btn-primary citations btn-block" data-clipboard-target="#masto">
-  copy masto handle
+I'm on [mastodon][masto], where you can follow me. my handle is <span id="masto">`ali@masto.al2.in`</span>
+<button class="btn btn-mini" data-clipboard-target="#masto"><i class="fa-solid fa-copy"></i>
 </button>
 
 
