@@ -1,5 +1,5 @@
 ---
 title: meet with me
 redirect_to:
-  - https://calendly.com/alialkhatib/30m
+  - https://fantastical.app/al2/60m
 ---
