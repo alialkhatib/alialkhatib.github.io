@@ -9,12 +9,12 @@ You can reach me a number of ways.
 
 ## Direct
 
-<!-- For direct contact, I prefer **email** and **Signal**. -->
 
 You can [**email** me][email] if you'd like.
 
 If you'd like to reach me via **Signal**, please reach out by email for contact information and I'll send you my contact info.
 
+If you'd like to set up a meeting, feel free to book a meeting [here][meet]
 
 ## Social
 
@@ -46,14 +46,17 @@ window.onload=function(){
 }
 </script>
 
+[meet]: /meet
+  "fantastical openings"
 [masto]: //masto.al2.in/@ali
+  "mastodon"
 [trying a thing]: /blog/coffee-talk
   "Coffee Talk"
 [email]: mailto:{{site.email}}
-  "email address"
+  "{{site.email}}"
 [tw]: //twitter.com/{{site.twitter}}
-  "twitter profile"
+  "@{{site.twitter}}"
 [fb]: //facebook.com/{{site.fb}}
-  "facebook profile"
+  "{{site.fb}}"
 [claim a block]: {{site.meeting}}
   "Google Calendar appointments"
