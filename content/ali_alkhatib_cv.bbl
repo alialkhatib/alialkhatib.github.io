@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.1 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -48,7 +48,7 @@
     \verb{url}
     \verb https://doi.org/10.1145/3411764.3445740
     \endverb
-  \field{venue}{\href{https://www.youtube.com/watch?v=ClGIosevT0Y}{https://www.youtube.com/watch?v=ClGIosevT0Y}}
+    \field{venue}{\url{https://www.youtube.com/watch?v=ClGIosevT0Y}}
     \list{location}{1}{%
       {Yokohama, Japan}%
     }
