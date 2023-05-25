@@ -2,9 +2,9 @@
 layout: home
 ---
 
-Hi, that's me.
+Hi, that's a picture of me.
 
-I'm the interim director of the [Center for Applied Data Ethics][CADE] at the [University of San Francisco][USF].
+<!-- I'm the interim director of the [Center for Applied Data Ethics][CADE] at the [University of San Francisco][USF]. -->
 
 I study human-computer interaction - more precisely, I study how people relate to individual algorithmic systems and with algorithmically mediated social ecologies by adapting theoretical lenses and frameworks originating in the social sciences to understand these phenomena.
 
@@ -22,9 +22,9 @@ I ultimately hope to advance a narrative that represents these technologies as a
 
 ---
 
-
-I studied Computer Science at Stanford for a few years while pursuing a PhD;
-[Michael Bernstein][msb] was my advisor.
+I was interim director for the Center for Applied Data Ethics at the University of San Francisco for a number of years. Before that,
+I studied Computer Science at Stanford while pursuing a PhD, working with [Michael Bernstein][msb].
+<!-- [Michael Bernstein][msb] was my advisor. -->
 
 I earned my B.A. in Anthropology & B.S. in Informatics,
 specializing in human-computer interaction,
@@ -45,8 +45,8 @@ If this isn't enough info, click on some links floating around this text in vari
 
 
 
-[USF]: https://www.usfca.edu/data-institute
-[CADE]: https://www.usfca.edu/data-institute/initiatives/center-applied-data-ethics
+<!-- [USF]: https://www.usfca.edu/data-institute -->
+<!-- [CADE]: https://www.usfca.edu/data-institute/initiatives/center-applied-data-ethics -->
 [qsthesis]: /media/papers/quantified_self.pdf
   "Quantified Self thesis (PDF)"
 [blog]: /blog/
