@@ -89,7 +89,7 @@ I have no idea where or how this piece was supposed to end. I actually do have s
 
 
 
-
+[utopia]: /papers/chi/utopia/utopia.pdf
 
 
 
