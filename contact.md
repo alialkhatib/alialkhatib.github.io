@@ -12,7 +12,12 @@ You can reach me a number of ways.
 
 You can [**email** me][email] if you'd like.
 
-You can reach me on **Signal** at `@ali.01`
+You can reach me on **Signal** at:
+
+<span id="signal">`@ali.01`</span>
+<button class="btn btn-mini" data-clipboard-target="#signal"><i class="fa-regular fa-copy"></i>
+</button>
+
 
 
 ## Social
