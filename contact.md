@@ -12,9 +12,8 @@ You can reach me a number of ways.
 
 You can [**email** me][email] if you'd like.
 
-If you'd like to reach me via **Signal**, please reach out by email for contact information and I'll send you my contact info.
+You can reach me on **Signal** at `@ali.01`
 
-If you'd like to set up a meeting, feel free to book a meeting [here][meet]
 
 ## Social
 
