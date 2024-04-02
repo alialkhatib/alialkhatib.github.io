@@ -45,7 +45,7 @@ I'd like to tell you a story; would that be okay? If not, you can skip to the ne
 
 In 2009 or 2010, I remember it seemingly wasn't as common to file tax returns online as it is now. Maybe it's more accurate to say it was something I wasn't aware I could do. I remember filling out my tax information, printing out some documents, and *driving my car* over to the nearest regional processing facility - this huge shipping facility in San Jose - where you could drop off the mail.
 
-This bit requires some explanation. Post offices and mailboxes all indicate a "last pickup" time. Sometimes it's as early as 1pm, sometimes as late as 7pm. The idea is that if you drop off mail in a mailbox before its "last pickup" time, then the mail will be stamped and dated on that date, and if the recipient cares about that sort of thing, they'll cut you some slack of your envelope arrives late.
+This bit requires some explanation. Post offices and mailboxes all indicate a "last pickup" time. Sometimes it's as early as 1pm, sometimes as late as 7pm. The idea is that if you drop off mail in a mailbox before its "last pickup" time, then the mail will be stamped and dated on that date, and if the recipient cares about that sort of thing, they'll cut you some slack if your envelope arrives late.
 
 This was one of those things. The IRS wouldn't penalize you as long as your tax returns were postmarked April 15 or earlier. So if you blew past 1pm or 4pm or 7pm, you might think you were out of luck... but regional processing facilities tended to be open later, and on Tax Day this one would push their "last pickup" time to 11:59pm.
 
