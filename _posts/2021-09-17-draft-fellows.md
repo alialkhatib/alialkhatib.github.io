@@ -1,5 +1,6 @@
 ---
 title: A new data ethics curriculum, and fellows to implement it
+hidden:true
 ---
 
 On Friday [I briefly talked about][tweet] a call for data ethics fellows that'll be coming out soon, promising more information on Monday. well, it's ~~Monday~~ ~~Wednesday~~ **Friday**. My bad. At the bottom of this page is a link to the **draft** call for applicants as it exists today, but I wanted to make as much of the info behind what we were thinking available as I could, and I want to hear feedback if there are parts of this that are unclear or ambiguous, and similarly if there are questions that I can answer or incorporate into the final version.
