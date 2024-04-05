@@ -1,6 +1,7 @@
 ---
 title: Diversity Statements
 layout: post
+hidden: true
 date: 2021-10-19 14:00:00 -08:00
 ---
 
