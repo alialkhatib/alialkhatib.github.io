@@ -39,9 +39,15 @@ navigation:
     - title: contact
       link: /contact
       name: contact page
+    - title: mastodon
+      link: //masto.al2.in/@ali
+      outbound: true
+      name: mastodon instance
     - title: CV
+      outbound: true
       link: /content/ali_alkhatib_cv.pdf
       name: Curriculum Vitae (PDF)
+
 
 plugins:
   - jekyll-redirect-from

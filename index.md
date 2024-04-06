@@ -22,7 +22,7 @@ I ultimately hope to advance a narrative that represents these technologies as a
 
 ---
 
-I was interim director for the Center for Applied Data Ethics at the University of San Francisco for a number of years. Before that,
+I was interim director for the Center for Applied Data Ethics at the University of San Francisco. Before that,
 I studied Computer Science at Stanford while pursuing a PhD, working with [Michael Bernstein][msb].
 <!-- [Michael Bernstein][msb] was my advisor. -->
 

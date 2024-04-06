@@ -58,7 +58,8 @@
             {% endif %}
             {% if item.name %} title="{{item.name}}"
             {% endif %}
-            href="{{ site.base }}{{ item.link }}">
+            href="{{ site.base }}{{ item.link }}"
+            {% if item.outbound %} target="_blank"{% endif %}>
             {{ item.title }}
         </a>
         {% endfor %}
@@ -78,7 +79,5 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <!-- <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101296240);</script>
-<script async src="//static.getclicky.com/js"></script> -->
 
 </html>
