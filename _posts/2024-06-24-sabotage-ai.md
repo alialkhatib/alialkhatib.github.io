@@ -1,3 +1,7 @@
+---
+title: Sabotage AI
+---
+
 I've been struggling to articulate this idea, and maybe the problem is that it's actually kind of simple once you put it out there, and there's really no good reason to unpack a whole case for it once you put the thought on paper.
 
 I'm gravitating away from the discourse of measuring and fixing unfair algorithmic systems, or making them more transparent, or accountable. Instead, I'm finding myself fixated on articulating the moral case for sabotaging, circumventing, and destroying AI as valid responses to harm.
