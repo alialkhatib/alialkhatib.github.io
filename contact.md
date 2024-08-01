@@ -3,8 +3,6 @@ layout: shorty
 title: "Contact"
 ---
 
-
-<!-- This page kinda got out of hand. -->
 You can reach me a number of ways.
 
 ## Direct
@@ -14,7 +12,7 @@ You can reach me a number of ways.
 - [**signal**][signal], or copy username:
 
 <span id="signal">
-<button class="btn btn-mini" data-clipboard-target="#signal">`@ali.01` <i class="fa-regular fa-copy"></i>
+<button class="btn btn-mini" data-clipboard-text="@ali.01" data-clipboard-target="#signal">`@ali.01` <i class="fa-regular fa-copy"></i>
 </button></span>
 
 
@@ -26,7 +24,7 @@ You can reach me a number of ways.
 - [**Mastodon**][masto], or copy my username:
 
 <span id="masto">
-<button class="btn btn-mini" data-clipboard-target="#masto">`ali@masto.al2.in` <i class="fa-regular fa-copy"></i>
+<button class="btn btn-mini" data-clipboard-text="ali@masto.al2.in" data-clipboard-target="#masto">`ali@masto.al2.in` <i class="fa-regular fa-copy"></i>
 </button></span>
 
 ---
