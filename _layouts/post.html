@@ -1,8 +1,19 @@
 ---
 layout: default
 ---
-<p class="tagline">{{ page.date | date_to_long_string }}</p>
-<h1 class="with-tagline">{{ page.title }}</h1>
+
+
+<!-- <h2>Blog</h2> -->
+<!-- <div class="with-tagline"> -->
+        <!-- <a class="h2 fw-bold link-primary" href="{{ site.base }}{{ post.url }}">{{ post.title }}</a> -->
+    <!-- </div> -->
+    <!-- <span class="tagline fst-italic">{{ post.date || date_to_long_string }}</span> -->
+
+<div>
+<span class="h2 fw-bold">{{ page.title }}</span>
+</div>
+<span class="tagline fst-italic">{{ page.date | date_to_long_string }}</span>
+
 
 <article class="full">
 {{ content }}

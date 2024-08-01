@@ -13,9 +13,9 @@ You can reach me a number of ways.
 - [**email**][email]
 - [**signal**][signal], or copy username:
 
-<span id="signal">`@ali.01`</span>
-<button class="btn btn-mini" data-clipboard-target="#signal"><i class="fa-regular fa-copy"></i>
-</button>
+<span id="signal">
+<button class="btn btn-mini" data-clipboard-target="#signal">`@ali.01` <i class="fa-regular fa-copy"></i>
+</button></span>
 
 
 
@@ -25,9 +25,9 @@ You can reach me a number of ways.
 - [**Bluesky**][bsky]
 - [**Mastodon**][masto], or copy my username:
 
-<span id="masto">`ali@masto.al2.in`</span>
-<button class="btn btn-mini" data-clipboard-target="#masto"><i class="fa-regular fa-copy"></i>
-</button>
+<span id="masto">
+<button class="btn btn-mini" data-clipboard-target="#masto">`ali@masto.al2.in` <i class="fa-regular fa-copy"></i>
+</button></span>
 
 ---
 

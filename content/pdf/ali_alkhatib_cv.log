@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.21)  12 JUL 2024 20:52
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.21)  15 JUL 2024 14:08
  restricted system commands enabled.
 **ali_alkhatib_cv.tex
 (./ali_alkhatib_cv.tex
@@ -1099,7 +1099,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \@quotelevel=\count436
 \@quotereset=\count437
 
-(./ali_alkhatib_cv.aux)
+(./pdf/ali_alkhatib_cv.aux)
 \openout1 = ali_alkhatib_cv.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
@@ -1222,7 +1222,7 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'ali_alkhatib_cv.bbl' found.
 
-(./ali_alkhatib_cv.bbl
+(./pdf/ali_alkhatib_cv.bbl
 
 Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                with 'AlkhatibUtopia2021':
@@ -1242,7 +1242,7 @@ Package biblatex Warning: BibTeX reported the following issues
 Package biblatex Info: Reference section=0 on input line 114.
 Package biblatex Info: Reference segment=0 on input line 114.
 Package hyperref Info: Link coloring ON on input line 114.
- (./ali_alkhatib_cv.out) (./ali_alkhatib_cv.out)
+ (./pdf/ali_alkhatib_cv.out) (./pdf/ali_alkhatib_cv.out)
 \@outlinefile=\write4
 
 \openout4 = ali_alkhatib_cv.out
@@ -1342,7 +1342,7 @@ Overfull \hbox (8.49998pt too wide) in alignment at lines 317--327
 
 
 
-[3] (./ali_alkhatib_cv.aux)
+[3] (./pdf/ali_alkhatib_cv.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
@@ -1370,7 +1370,7 @@ sPro-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/adobe/source
 sanspro/SourceSansPro-RegularIt.otf></usr/local/texlive/2024/texmf-dist/fonts/op
 entype/public/lm/lmmono10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/
 opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf>
-Output written on ali_alkhatib_cv.pdf (3 pages, 37658 bytes).
+Output written on ali_alkhatib_cv.pdf (3 pages, 37737 bytes).
 
 PDF statistics: 99 PDF objects out of 1000 (max. 8388607)
  81 compressed objects within 1 object stream

@@ -27,22 +27,15 @@ exclude:
 permalink: /blog/:title
 
 navigation:
-    - title: home
-      link: /
-      name: homepage
     - title: research
       link: /research
-      name: page summarizing some of my published research
+      name: published research
     - title: blog
       link: /blog
       name: blog posts
     - title: contact
       link: /contact
       name: contact page
-    - title: mastodon
-      link: //masto.al2.in/@ali
-      outbound: true
-      name: mastodon instance
     - title: CV
       outbound: true
       link: /content/ali_alkhatib_cv.pdf

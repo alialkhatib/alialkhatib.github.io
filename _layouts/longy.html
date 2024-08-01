@@ -1,16 +1,30 @@
 ---
 layout: default
 ---
-<h1 class="with-tagline">{{ page.title }}</h1>
 
+<!-- <div class="col-12">
+    <h2 class="with-tagline">{{ page.title }}</h2>
+</div> -->
 
-<div class="blurb">
-    {{ page.blurb | markdownify }}
+<div class="col-12">
+    <div class="row">
+        <div class="col">
+            <div class="blurb">
+              {{ page.blurb | markdownify }}
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-11">
+            {{ content }}
+        </div>
+    </div>
 </div>
 
-{{ content }}
+<hr>
 
-<footer>If you need to contact me, 
+<div>If you need to contact me, 
 <a href="mailto:{{site.email}}">email me</a> or 
 <a href="https://twitter.com/{{site.twitter}}">tweet</a> at me.
-</footer>
+</div>

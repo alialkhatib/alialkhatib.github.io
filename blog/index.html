@@ -2,13 +2,15 @@
 layout: default
 title: Blog
 ---
+<!-- <h2>Blog</h2> -->
 
+<div class="col-12 col-md-11">
 {% for post in site.posts %}
 <article class="preview">
-    <p class="tagline">{{ post.date || date_to_long_string }}</p>
-    <h1 class="with-tagline">
-        <a href="{{ site.base }}{{ post.url }}">{{ post.title }}</a>
-    </h1>
+    <div class="with-tagline">
+        <a class="h2 fw-bold link-primary" href="{{ site.base }}{{ post.url }}">{{ post.title }}</a>
+    </div>
+    <span class="tagline fst-italic">{{ post.date || date_to_long_string }}</span>
 
     <div class="excerpt">
         {{ post.excerpt | replace: 'SITE_BASE', site.url | markdownify }}
@@ -16,3 +18,5 @@ title: Blog
 </article>
 <hr>
 {% endfor %}
+
+</div>
