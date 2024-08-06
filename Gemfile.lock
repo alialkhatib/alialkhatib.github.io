@@ -292,6 +292,7 @@ DEPENDENCIES
   addressable (>= 2.8.0)
   github-pages
   jekyll (>= 3.7.3)
+  jekyll-feed
   jekyll-gist
   jekyll-press
   kramdown (>= 2.3.1)
@@ -300,4 +301,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.26
+   2.4.5

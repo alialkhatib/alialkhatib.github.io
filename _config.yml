@@ -48,7 +48,8 @@ plugins:
   - jekyll-gist
 
 feed:
-  posts_limit: 20
+    posts_limit: 20
+
 
 
 collections:
