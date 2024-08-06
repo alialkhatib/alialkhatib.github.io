@@ -43,8 +43,12 @@ navigation:
 
 
 plugins:
+  - jekyll-feed
   - jekyll-redirect-from
   - jekyll-gist
+
+feed:
+  posts_limit: 20
 
 
 collections:
