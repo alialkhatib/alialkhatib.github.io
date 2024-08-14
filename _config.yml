@@ -3,6 +3,7 @@ author: Ali Alkhatib
 url: https://ali-alkhatib.com
 baseurl: ''
 twitter: '_alialkhatib'
+mastodon: '@ali@masto.al2.in'
 email: 'hi@al2.in'
 fb: 'Ali.Alkhatib'
 meeting: "https://calendly.com/alialkhatib/watercooler"
@@ -27,12 +28,9 @@ exclude:
 permalink: /blog/:title
 
 navigation:
-    - title: home
-      link: /
-      name: homepage
     - title: research
       link: /research
-      name: page summarizing some of my published research
+      name: published research
     - title: blog
       link: /blog
       name: blog posts
@@ -40,12 +38,19 @@ navigation:
       link: /contact
       name: contact page
     - title: CV
+      outbound: true
       link: /content/ali_alkhatib_cv.pdf
       name: Curriculum Vitae (PDF)
 
+
 plugins:
+  - jekyll-feed
   - jekyll-redirect-from
   - jekyll-gist
+
+feed:
+    posts_limit: 20
+
 
 
 collections:

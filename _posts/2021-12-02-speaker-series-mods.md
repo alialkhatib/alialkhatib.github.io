@@ -1,5 +1,6 @@
 ---
 title: CADE Speaker Series for 2022 - Formats, Topics, and other thoughts
+published: false
 ---
 
 One of the things I'm thinking about for 2022 is the CADE Speaker Series. I thoroughly enjoyed the 2021 speaker series, and I'd be happy to do more of that, but I also want to reflect on what should (or can) change, and whether that would help or make the whole experience better. If you're not super interested in event organization and logistics, you ~~might~~ **absolutely will** find this post unbearably tedious, but if you invite speakers to events and/or if you're interested in this stuff, you might be able to tolerate it. In particular, if you're a person who gives talks, I'd love to hear your thoughts.

@@ -1,14 +1,28 @@
 ---
 layout: default
 ---
-<p class="tagline">{{ page.date | date_to_long_string }}</p>
-<h1 class="with-tagline">{{ page.title }}</h1>
+
+
+<!-- <h2>Blog</h2> -->
+<!-- <div class="with-tagline"> -->
+        <!-- <a class="h2 fw-bold link-primary" href="{{ site.base }}{{ post.url }}">{{ post.title }}</a> -->
+    <!-- </div> -->
+    <!-- <span class="tagline fst-italic">{{ post.date || date_to_long_string }}</span> -->
+
+<div>
+<span class="h2 fw-bold">{{ page.title }}</span>
+</div>
+<span class="tagline fst-italic">{{ page.date | date_to_long_string }}</span>
+
 
 <article class="full">
 {{ content }}
 </article>
 
-<footer>If you have something to say about this post, 
-<a title="email address" href="mailto:{{site.email}}">email me</a> or 
-<a title="Twitter profile" href="https://twitter.com/{{site.twitter}}">tweet</a> at me.
+<hr class="end-of-page">
+
+<footer>If you have something to say about this, 
+<!--<a title="email address" href="mailto:{{site.email}}">email me</a> or 
+<a title="Twitter profile" href="https://twitter.com/{{site.twitter}}">tweet</a> at me.-->
+<a href="/contact" title="contact page">contact me</a>
 </footer>

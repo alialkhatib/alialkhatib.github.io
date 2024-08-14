@@ -17,4 +17,8 @@ If you need a slightly longer bio, feel free to use this:
 
 And if you need to use a photo, this should work:
 
-<img class="float-left px-2" src="/content/ali_profile_3k_sq_compressed.jpg" srcset="/content/ali_profile_1k_sq_compressed.jpg 1000w, /content/ali_profile_3k_sq_compressed.jpg 3000w" alt="profile photo of Ali Alkhatib">
+
+<img class="col-12 img-fluid m-sm-2 m-2 float-start" src="/content/ali_profile_3k_sq_compressed.jpg">
+
+
+<!-- <img class="float-left px-2 img-fluid" src="/content/ali_profile_3k_sq_compressed.jpg" srcset="/content/ali_profile_1k_sq_compressed.jpg 1000w, /content/ali_profile_3k_sq_compressed.jpg 3000w" alt="profile photo of Ali Alkhatib"> -->

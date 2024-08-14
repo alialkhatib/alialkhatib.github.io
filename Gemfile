@@ -8,4 +8,4 @@ gem "nokogiri", ">= 1.12.5"
 gem "webrick", "~> 1.7"
 gem "rexml", ">= 3.2.5"
 gem "addressable", ">= 2.8.0"
-
+gem 'jekyll-feed'

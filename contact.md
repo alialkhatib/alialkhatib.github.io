@@ -1,26 +1,35 @@
 ---
 layout: shorty
+title: "Contact"
 ---
 
-You can [email me][email] if you'd like.
+You can reach me a number of ways.
 
-If you'd like to reach me via Signal, please reach out by email for contact information and I'll send you my contact info.
+## Direct
+
+
+- [**email**][email]
+- [**signal**][signal], or copy username:
+
+<span id="signal">
+<button class="btn btn-mini" data-clipboard-text="@ali.01" data-clipboard-target="#signal">`@ali.01` <i class="fa-regular fa-copy"></i>
+</button></span>
+
 
 
 ## Social
-You might find me on [twitter][tw], but I'm generally not directing much energy or attention there anymore.
 
-**If you want to follow an online presence, I recommend *mastodon*.**
+- [**Twitter**][tw]
+- [**Bluesky**][bsky]
+- [**Mastodon**][masto], or copy my username:
 
-I'm on [mastodon][masto], where you can follow me. My handle is <span id="masto">`ali@masto.al2.in`</span>
-<button class="btn btn-mini" data-clipboard-target="#masto"><i class="fa-regular fa-copy"></i>
-</button>
+<span id="masto">
+<button class="btn btn-mini" data-clipboard-text="ali@masto.al2.in" data-clipboard-target="#masto">`ali@masto.al2.in` <i class="fa-regular fa-copy"></i>
+</button></span>
 
-*You should be able to click or tap on the copy icon and search for/add me in your client.*
+---
 
-
-I'm sure I'm on LinkedIn, Google+, Quora, and other sites. 
-Don't try to send messages to any of those places; I'll never find them.
+If you need to reach me some other way, please consider trying email first.
 
 
 <script>
@@ -30,14 +39,20 @@ window.onload=function(){
 }
 </script>
 
+[meet]: /meet
+  "fantastical openings"
 [masto]: //masto.al2.in/@ali
+  "mastodon"
 [trying a thing]: /blog/coffee-talk
   "Coffee Talk"
 [email]: mailto:{{site.email}}
-  "email address"
+  "{{site.email}}"
 [tw]: //twitter.com/{{site.twitter}}
-  "twitter profile"
+  "@{{site.twitter}}"
 [fb]: //facebook.com/{{site.fb}}
-  "facebook profile"
+  "{{site.fb}}"
 [claim a block]: {{site.meeting}}
   "Google Calendar appointments"
+[bsky]: https://bsky.app/profile/al2.bsky.social
+  "bluesky"
+[signal]: https://signal.me/#eu/JPleQkHS6fzEGpuvHx0FWnas8mX7jgxBRFNJCblvpwyCemTM3eFMhZk91yABzdtu
