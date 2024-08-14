@@ -3,20 +3,30 @@ layout: default
 title: Blog
 ---
 <!-- <h2>Blog</h2> -->
-
-<div class="col-12 col-md-11">
-{% for post in site.posts %}
-<article class="preview">
-    <div class="with-tagline">
-        <a class="h2 fw-bold link-primary" href="{{ site.base }}{{ post.url }}">{{ post.title }}</a>
+<div class="row">
+    <div class="col-12 col-md-11 text-end">
+        <a href="/feed.xml">
+            <i class="fa-solid fa-rss px-3"></i>
+        </a>
     </div>
-    <span class="tagline fst-italic">{{ post.date || date_to_long_string }}</span>
-
-    <div class="excerpt">
-        {{ post.excerpt | replace: 'SITE_BASE', site.url | markdownify }}
+</div>
+<div class="row">
+    <div class="col-12 col-md-11">
+        {% for post in site.posts %}
+            <div class="row">
+                <div class="col">
+                    <article class="preview">
+                        <div class="with-tagline">
+                            <a class="h2 fw-bold link-primary" href="{{ site.base }}{{ post.url }}">{{ post.title }}</a>
+                        </div>
+                        <span class="tagline fst-italic">{{ post.date || date_to_long_string }}</span>
+                        <div class="excerpt">
+                            {{ post.excerpt | replace: 'SITE_BASE', site.url | markdownify }}
+                        </div>
+                    </article>
+                    <hr>
+                </div>
+            </div>
+        {% endfor %}
     </div>
-</article>
-<hr>
-{% endfor %}
-
 </div>
