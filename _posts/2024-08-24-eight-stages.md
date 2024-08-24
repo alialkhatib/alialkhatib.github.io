@@ -2,7 +2,7 @@
 title: Eight Stages of White Settler-Colonial Denial
 ---
 
-I've been seeing this image floating around and [I mentioned intending to provide alt text][tweet], which led me down a rabbit hole for a little while, including sifting through links that don't work anymore, tweets that don't exist anymore, twitter users who have deleted their accounts, etc... so I wanted to compile information in one place in case more of the web becomes impossible to search and archive effectively... But first, the original image:
+I've been seeing this image floating around and [I mentioned intending to provide alt text][tweet], which led me down a hole for a little while, including sifting through links that don't work anymore, tweets that don't exist anymore, twitter users who have deleted their accounts, etc... so I wanted to compile information in one place in case more of the web becomes impossible to search and archive effectively... But first, the original image:
 
 
 ![Eight Stages of White Settler-Colonial Denial][eightstages]
