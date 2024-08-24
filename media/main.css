@@ -6,6 +6,10 @@
 }*/
 
 
+img {
+  width: 100%;
+}
+
 hr.end-of-page {
   border-top:5px solid black;
 }

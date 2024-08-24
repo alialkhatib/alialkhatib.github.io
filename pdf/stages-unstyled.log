@@ -1,0 +1,503 @@
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.21)  24 AUG 2024 15:57
+ restricted system commands enabled.
+**stages-unstyled.tex
+(./stages-unstyled.tex
+LaTeX2e <2024-06-01> patch level 1
+L3 programming layer <2024-05-27>
+Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "/Users/alialkhatib/Library/texlive/
+2024/texmf-var/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
+olved path "/usr/local/texlive/2024/texmf-dist/tex/luatex/luaotfload/fontloader-
+2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/Users/alialkhatib/Library/texlive/
+2024/texmf-var/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{enumerate}
+                   
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--1
+[] 
+ []
+
+luaotfload | db : Font names database loaded from /Users/alialkhatib/Library/tex
+live/2024/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz
+Overfull \hbox (31.44002pt too wide) in paragraph at lines 2--3
+\TU/lmr/bx/n/10 ``They
+ []
+
+
+Overfull \hbox (30.02pt too wide) in paragraph at lines 2--3
+\TU/lmr/bx/n/10 didn’t
+ []
+
+
+Overfull \hbox (15.17001pt too wide) in paragraph at lines 2--3
+\TU/lmr/bx/n/10 ex-
+ []
+
+
+Overfull \hbox (17.91pt too wide) in paragraph at lines 2--3
+\TU/lmr/bx/n/10 ist''
+ []
+
+
+Overfull \hbox (29.28001pt too wide) in paragraph at lines 2--3
+\TU/lmr/bx/n/10 (terra
+ []
+
+
+Overfull \hbox (19.48pt too wide) in paragraph at lines 2--3
+\TU/lmr/bx/n/10 nul-
+ []
+
+
+Overfull \hbox (21.78pt too wide) in paragraph at lines 2--3
+\TU/lmr/bx/n/10 lius) 
+ []
+
+
+Overfull \hbox (13.58pt too wide) in paragraph at lines 8--9
+\TU/lmr/bx/n/10 ``If
+ []
+
+
+Overfull \hbox (22.20001pt too wide) in paragraph at lines 8--9
+\TU/lmr/bx/n/10 they
+ []
+
+
+Overfull \hbox (19.16pt too wide) in paragraph at lines 8--9
+\TU/lmr/bx/n/10 did,
+ []
+
+
+Overfull \hbox (22.20001pt too wide) in paragraph at lines 8--9
+\TU/lmr/bx/n/10 they
+ []
+
+
+Overfull \hbox (37.32pt too wide) in paragraph at lines 8--9
+\TU/lmr/bx/n/10 weren’t
+ []
+
+
+Overfull \hbox (27.38002pt too wide) in paragraph at lines 8--9
+\TU/lmr/bx/n/10 here''
+ []
+
+
+Overfull \hbox (29.28001pt too wide) in paragraph at lines 8--9
+\TU/lmr/bx/n/10 (terra
+ []
+
+
+Overfull \hbox (19.48pt too wide) in paragraph at lines 8--9
+\TU/lmr/bx/n/10 nul-
+ []
+
+
+Overfull \hbox (21.78pt too wide) in paragraph at lines 8--9
+\TU/lmr/bx/n/10 lius) 
+ []
+
+
+Overfull \hbox (13.58pt too wide) in paragraph at lines 13--14
+\TU/lmr/bx/n/10 ``If
+ []
+
+
+Overfull \hbox (22.20001pt too wide) in paragraph at lines 13--14
+\TU/lmr/bx/n/10 they
+ []
+
+
+Overfull \hbox (26.46pt too wide) in paragraph at lines 13--14
+\TU/lmr/bx/n/10 were,
+ []
+
+
+Overfull \hbox (22.20001pt too wide) in paragraph at lines 13--14
+\TU/lmr/bx/n/10 they
+ []
+
+
+Overfull \hbox (30.02pt too wide) in paragraph at lines 13--14
+\TU/lmr/bx/n/10 didn’t
+ []
+
+
+Overfull \hbox (16.2pt too wide) in paragraph at lines 13--14
+\TU/lmr/bx/n/10 use
+ []
+
+
+Overfull \hbox (16.13pt too wide) in paragraph at lines 13--14
+\TU/lmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (27.27pt too wide) in paragraph at lines 13--14
+\TU/lmr/bx/n/10 land''
+ []
+
+
+Overfull \hbox (25.87001pt too wide) in paragraph at lines 13--14
+\TU/lmr/bx/n/10 (doc-
+ []
+
+
+Overfull \hbox (24.06001pt too wide) in paragraph at lines 13--14
+\TU/lmr/bx/n/10 trine
+ []
+
+
+Overfull \hbox (9.26pt too wide) in paragraph at lines 13--14
+\TU/lmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (17.95pt too wide) in paragraph at lines 13--14
+\TU/lmr/bx/n/10 dis-
+ []
+
+
+Overfull \hbox (20.44pt too wide) in paragraph at lines 13--14
+\TU/lmr/bx/n/10 cov-
+ []
+
+
+Overfull \hbox (20.55002pt too wide) in paragraph at lines 13--14
+\TU/lmr/bx/n/10 ery) 
+ []
+
+
+Overfull \hbox (13.58pt too wide) in paragraph at lines 18--19
+\TU/lmr/bx/n/10 ``If
+ []
+
+
+Overfull \hbox (22.20001pt too wide) in paragraph at lines 18--19
+\TU/lmr/bx/n/10 they
+ []
+
+
+Overfull \hbox (19.16pt too wide) in paragraph at lines 18--19
+\TU/lmr/bx/n/10 did,
+ []
+
+
+Overfull \hbox (22.20001pt too wide) in paragraph at lines 18--19
+\TU/lmr/bx/n/10 they
+ []
+
+
+Overfull \hbox (30.02pt too wide) in paragraph at lines 18--19
+\TU/lmr/bx/n/10 didn’t
+ []
+
+
+Overfull \hbox (15.49pt too wide) in paragraph at lines 18--19
+\TU/lmr/bx/n/10 de-
+ []
+
+
+Overfull \hbox (25.57pt too wide) in paragraph at lines 18--19
+\TU/lmr/bx/n/10 serve
+ []
+
+
+Overfull \hbox (13.37001pt too wide) in paragraph at lines 18--19
+\TU/lmr/bx/n/10 it''
+ []
+
+
+Overfull \hbox (30.29001pt too wide) in paragraph at lines 18--19
+\TU/lmr/bx/n/10 (great
+ []
+
+
+Overfull \hbox (26.34999pt too wide) in paragraph at lines 18--19
+\TU/lmr/bx/n/10 chain
+ []
+
+
+Overfull \hbox (9.26pt too wide) in paragraph at lines 18--19
+\TU/lmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (15.81001pt too wide) in paragraph at lines 18--19
+\TU/lmr/bx/n/10 be-
+ []
+
+
+Overfull \hbox (19.8pt too wide) in paragraph at lines 18--19
+\TU/lmr/bx/n/10 ing) 
+ []
+
+
+Overfull \hbox (13.58pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 ``If
+ []
+
+
+Overfull \hbox (22.20001pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 they
+ []
+
+
+Overfull \hbox (19.16pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 did,
+ []
+
+
+Overfull \hbox (22.20001pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 they
+ []
+
+
+Overfull \hbox (17.95pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 lost
+ []
+
+
+Overfull \hbox (13.37001pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 it''
+ []
+
+
+Overfull \hbox (28.69pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 (right
+ []
+
+
+Overfull \hbox (9.26pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (21.08pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 con-
+ []
+
+
+Overfull \hbox (31.21pt too wide) in paragraph at lines 23--24
+\TU/lmr/bx/n/10 quest) 
+ []
+
+
+Overfull \hbox (13.58pt too wide) in paragraph at lines 28--29
+\TU/lmr/bx/n/10 ``If
+ []
+
+
+Overfull \hbox (22.20001pt too wide) in paragraph at lines 28--29
+\TU/lmr/bx/n/10 they
+ []
+
+
+Overfull \hbox (33.21pt too wide) in paragraph at lines 28--29
+\TU/lmr/bx/n/10 didn’t,
+ []
+
+
+Overfull \hbox (7.66pt too wide) in paragraph at lines 28--29
+\TU/lmr/bx/n/10 it
+ []
+
+
+Overfull \hbox (36.32pt too wide) in paragraph at lines 28--29
+\TU/lmr/bx/n/10 doesn’t
+ []
+
+
+Overfull \hbox (23.47pt too wide) in paragraph at lines 28--29
+\TU/lmr/bx/n/10 mat-
+ []
+
+
+Overfull \hbox (14.48001pt too wide) in paragraph at lines 28--29
+\TU/lmr/bx/n/10 ter
+ []
+
+
+Overfull \hbox (21.56pt too wide) in paragraph at lines 28--29
+\TU/lmr/bx/n/10 any-
+ []
+
+
+Overfull \hbox (31.05002pt too wide) in paragraph at lines 28--29
+\TU/lmr/bx/n/10 more''
+ []
+
+
+Overfull \hbox (33.51pt too wide) in paragraph at lines 28--29
+\TU/lmr/bx/n/10 (West-
+ []
+
+
+Overfull \hbox (36.73pt too wide) in paragraph at lines 28--29
+\TU/lmr/bx/n/10 phalian
+ []
+
+
+Overfull \hbox (60.7pt too wide) in paragraph at lines 28--29
+\TU/lmr/bx/n/10 sovereignty) 
+ []
+
+
+Overfull \hbox (13.58pt too wide) in paragraph at lines 33--34
+\TU/lmr/bx/n/10 ``If
+ []
+
+
+Overfull \hbox (7.66pt too wide) in paragraph at lines 33--34
+\TU/lmr/bx/n/10 it
+ []
+
+
+Overfull \hbox (25.46pt too wide) in paragraph at lines 33--34
+\TU/lmr/bx/n/10 does,
+ []
+
+
+Overfull \hbox (13.26pt too wide) in paragraph at lines 33--34
+\TU/lmr/bx/n/10 we
+ []
+
+
+Overfull \hbox (23.32pt too wide) in paragraph at lines 33--34
+\TU/lmr/bx/n/10 need
+ []
+
+
+Overfull \hbox (10.22pt too wide) in paragraph at lines 33--34
+\TU/lmr/bx/n/10 to
+ []
+
+
+Overfull \hbox (26.03pt too wide) in paragraph at lines 33--34
+\TU/lmr/bx/n/10 move
+ []
+
+
+Overfull \hbox (19.44pt too wide) in paragraph at lines 33--34
+\TU/lmr/bx/n/10 on''.
+ []
+
+
+Overfull \hbox (21.07pt too wide) in paragraph at lines 33--34
+\TU/lmr/bx/n/10 (lib-
+ []
+
+
+Overfull \hbox (13.84001pt too wide) in paragraph at lines 33--34
+\TU/lmr/bx/n/10 er-
+ []
+
+
+Overfull \hbox (12.61pt too wide) in paragraph at lines 33--34
+\TU/lmr/bx/n/10 al-
+ []
+
+
+Overfull \hbox (21.78pt too wide) in paragraph at lines 33--34
+\TU/lmr/bx/n/10 ism) 
+ []
+
+
+Overfull \hbox (13.58pt too wide) in paragraph at lines 38--39
+\TU/lmr/bx/n/10 ``If
+ []
+
+
+Overfull \hbox (13.26pt too wide) in paragraph at lines 38--39
+\TU/lmr/bx/n/10 we
+ []
+
+
+Overfull \hbox (27.94pt too wide) in paragraph at lines 38--39
+\TU/lmr/bx/n/10 can’t,
+ []
+
+
+Overfull \hbox (13.26pt too wide) in paragraph at lines 38--39
+\TU/lmr/bx/n/10 we
+ []
+
+
+Overfull \hbox (15.6pt too wide) in paragraph at lines 38--39
+\TU/lmr/bx/n/10 are
+ []
+
+
+Overfull \hbox (23.6pt too wide) in paragraph at lines 38--39
+\TU/lmr/bx/n/10 you''
+ []
+
+
+Overfull \hbox (24.81pt too wide) in paragraph at lines 38--39
+\TU/lmr/bx/n/10 (self-
+ []
+
+
+Overfull \hbox (74.73001pt too wide) in paragraph at lines 38--39
+\TU/lmr/bx/n/10 indigenization) 
+ []
+
+)
+! Emergency stop.
+<*> stages-unstyled.tex
+                    
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 23 strings out of 475931
+ 100000,1977958 words of node,token memory allocated 16192 words of node memory still in use:
+   136 hlist, 19 disc, 17 local_par, 1 dir, 480 glue, 28 kern, 59 penalty, 1478 
+glyph, 92 attribute, 39 glue_spec, 92 attribute_list nodes
+   avail lists: 1:1,2:5,4:26,5:10,7:22,10:25
+ 22753 multiletter control sequences out of 65536+600000
+ 15 fonts using 723367 bytes
+ 19i,1n,22p,157b,124s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
