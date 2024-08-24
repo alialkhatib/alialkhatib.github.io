@@ -2,7 +2,7 @@
 title: Eight Stages of White Settler-Colonial Denial
 ---
 
-I've been seeing this image floating around and I wanted to provide alt text, which led me down a rabbit hole for a little while, including sifting through links that don't work anymore, tweets that don't exist anymore, twitter users who have deleted their accounts, etc... so I wanted to compile information in one place in case more of the web becomes impossible to search and archive effectively... But first, the original image:
+I've been seeing this image floating around and [I mentioned intending to provide alt text][tweet], which led me down a rabbit hole for a little while, including sifting through links that don't work anymore, tweets that don't exist anymore, twitter users who have deleted their accounts, etc... so I wanted to compile information in one place in case more of the web becomes impossible to search and archive effectively... But first, the original image:
 
 
 ![Eight Stages of White Settler-Colonial Denial][eightstages]
@@ -66,3 +66,4 @@ If you'd like to download a ridiculously high-resolution version (~10k by 13k), 
 [tex]: /content/eight-stages.tex
 [ridic]: /content/eight-stages-1200.png
 [KTB_paper]: https://journals.library.ualberta.ca/aps/index.php/aps/article/download/29425/21434/77990
+[tweet]: https://twitter.com/_alialkhatib/status/1827142946237407451
