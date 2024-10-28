@@ -224,6 +224,7 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
+    mini_portile2 (2.8.7)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
@@ -234,6 +235,9 @@ GEM
     multi_js (0.1.0)
       uglifier (~> 2)
     multipart-post (2.1.1)
+    nokogiri (1.13.10)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
     nokogiri (1.13.10-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.13.10-x86_64-darwin)
@@ -248,7 +252,7 @@ GEM
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.2.5)
+    rexml (3.3.9)
     rouge (3.26.0)
     ruby-enum (0.9.0)
       i18n
@@ -285,6 +289,7 @@ GEM
 PLATFORMS
   arm64-darwin-23
   x86_64-darwin-19
+  x86_64-linux
 
 DEPENDENCIES
   addressable (>= 2.8.0)
