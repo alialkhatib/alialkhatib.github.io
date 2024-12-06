@@ -6,6 +6,27 @@
 }*/
 
 
+
+
+blockquote, q{
+    margin:0 0 0 40px;
+    padding:0 10px;
+    border:0;
+    outline:0;
+    border-left: 5px solid #999999;
+
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+/*    quotes:none;*/
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
 img {
   width: 100%;
 }
