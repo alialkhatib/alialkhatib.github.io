@@ -6,11 +6,12 @@ title: "Bio"
 
 If you're here, you're looking for a bio. Here are a few options:
 
-> Ali is the interim director of the Center for Applied Data Ethics at the University of San Francisco. His work draws theoretical frameworks from the social sciences to make sense of technical systems and ecologies from the perspectives of people who experience them.
+> Ali was the Director of the Center for Applied Data Ethics at the University of San Francisco. He studies human-computer interaction, and how people endure and deal with (or avoid) algorithmic systems and the harms they project.
+
 
 If you need a slightly longer bio, feel free to use this:
 
-> Ali is the interim director of the Center for Applied Data Ethics at the University of San Francisco. His work draws theoretical frameworks from the social sciences to make sense of technical systems and ecologies from the perspectives of people who experience them.
+> Ali was the Director of the Center for Applied Data Ethics at the University of San Francisco. His work draws theory from the social sciences to make sense of technical systems and ecologies from the perspectives of people who experience them. That has taken a number of forms, such as collaborating with labor advocacy organizations and gig workers to develop a framework to understand and talk about gig work as a kind of piecework; and content creators to think about algorithmic monetization and recommendation systems along the lines of street-level bureaucracies or "street-level algorithms".
 > 
 > Ali studied Anthropology and Informatics at UC Irvine, and Computer Science at Stanford University as a PhD student.
 
