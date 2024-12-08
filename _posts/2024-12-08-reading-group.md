@@ -25,6 +25,7 @@ Additionally, if you have thoughts about what format you'd like to participate i
 - [_Refuge: How the State Shapes Human Potential_ by Heba Gowayed][]
 - [_The Spectre of State Capitalism_ by Dr Ilias Alami and Prof Adam D. Dixo][]
 - [_Silicon Valley Imperialism: Techno Fantasies and Frictions in Postsocialist Times_ by Erin McElroy][]
+- [_Resisting AI - An Anti-fascist Approach to Artificial Intelligence_ by Dan McQuillan][]
 
 Let's say, for the sake of organizing, that we would start in early January.
 
@@ -41,3 +42,4 @@ Let's say, for the sake of organizing, that we would start in early January.
 [_The Spectre of State Capitalism_ by Dr Ilias Alami and Prof Adam D. Dixo]: https://global.oup.com/academic/product/the-spectre-of-state-capitalism-9780198925194
 [_Silicon Valley Imperialism: Techno Fantasies and Frictions in Postsocialist Times_ by Erin McElroy]: https://www.dukeupress.edu/silicon-valley-imperialism
 [Workshops 4 Gaza]: https://www.workshops4gaza.com
+[_Resisting AI - An Anti-fascist Approach to Artificial Intelligence_ by Dan McQuillan]: https://bristoluniversitypress.co.uk/resisting-ai
