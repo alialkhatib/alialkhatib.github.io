@@ -30,7 +30,6 @@ Additionally, if you have thoughts about what format you'd like to participate i
 Let's say, for the sake of organizing, that we would start in early January.
 
 
----
 
 [_No One Knows Their Blood Type_ by Maya Abu Al-Hayyat]: https://www.workshops4gaza.com/bookstore/no-one-knows-their-bloodtype
 [_Imagination: A Manifesto_ by Ruha Benjamin]: https://www.workshops4gaza.com/bookstore/imagination
