@@ -3,10 +3,9 @@ layout: shorty
 title: "Contact"
 ---
 
-You can reach me a number of ways.
+This page is divided into two sections. The first section is "ways you can reach out". The second section is more of a ledger of other places I am so you don't necessarily get duped into following someone impersonating me on that platform. Please don't think of the second section as an alternative mode to reach out to me; think of it as some level of proof that I do in fact use that platform you're thinking of, and that profile page is in fact me. If I ever make a backup page or anything of that nature, I'll post those here too.
 
 ## Direct
-
 
 - [**email**][email]
 - [**signal**][signal], or copy username:
@@ -17,19 +16,19 @@ You can reach me a number of ways.
 
 
 
-## Social
+## Other places
 
 - [**Twitter**][tw]
 - [**Bluesky**][bsky]
+- [**Instagram**][ig]
+- [**Threads**][th]
+- [**LinkedIn**][li]
 - [**Mastodon**][masto], or copy my username:
 
 <span id="masto">
 <button class="btn btn-mini" data-clipboard-text="ali@masto.al2.in" data-clipboard-target="#masto">`ali@masto.al2.in` <i class="fa-regular fa-copy"></i>
 </button></span>
 
----
-
-If you need to reach me some other way, please consider trying email first.
 
 
 <script>
@@ -41,6 +40,9 @@ window.onload=function(){
 
 [meet]: /meet
   "fantastical openings"
+[ig]: //instagram.com/alialkhatib
+[th]: //www.threads.net/@alialkhatib
+[li]: //www.linkedin.com/in/asalkhatib
 [masto]: //masto.al2.in/@ali
   "mastodon"
 [trying a thing]: /blog/coffee-talk
