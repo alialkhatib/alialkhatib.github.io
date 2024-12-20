@@ -55,6 +55,6 @@ window.onload=function(){
   "{{site.fb}}"
 [claim a block]: {{site.meeting}}
   "Google Calendar appointments"
-[bsky]: https://bsky.app/profile/al2.bsky.social
+[bsky]: https://bsky.app/profile/ali-alkhatib.com
   "bluesky"
 [signal]: https://signal.me/#eu/JPleQkHS6fzEGpuvHx0FWnas8mX7jgxBRFNJCblvpwyCemTM3eFMhZk91yABzdtu
