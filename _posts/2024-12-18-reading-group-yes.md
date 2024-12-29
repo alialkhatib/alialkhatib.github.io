@@ -21,6 +21,11 @@ On Saturdays, I'll host a jitsi or zoom call or something. if you want to unpack
 
 You don't have to participate in the social network stuff; nor do you have to really participate in the zoom stuff, to be honest. You can do one, or both, or *neither*; the best way to be involved will be by signing up for the mailing list, so you can keep apprised of what conversations people are having from week to week.
 
-If you're interested in joining, please be sure to [buy *Imagination: A Manifesto*](https://www.workshops4gaza.com/bookstore/imagination) as soon as you can. Then subscribe to this [buttondown mailing list](https://buttondown.com/al2).
+If you're interested in joining, please be sure to [buy *Imagination: A Manifesto*][imagination] as soon as you can. Then subscribe to this [buttondown mailing list][].
 
 I'll send an email in a few weeks giving people a schedule of upcoming calls, a firm calendar of what to read (and when), and some other organizing details. Hope to see you soon.
+
+*edit notes: fixed a link that went to a 404 error.*
+
+[imagination]: https://open-books-a-poem-emporium.myshopify.com/collections/workshops-4-gaza-bookstore/products/w4g-benjamin-ruha-imagination-a-manifesto
+[buttondown mailing list]: https://buttondown.com/al2
