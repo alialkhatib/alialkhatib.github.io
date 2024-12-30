@@ -6,7 +6,7 @@ Hi all, it sounds like there's enthusiasm for a reading group. That's exciting a
 
 I'm going to make a few unilateral decisions:
 
-- We're going to start with Ruha Benjamin's *Imagination: A Manifesto*.
+- We're going to start with Ruha Benjamin's [*Imagination: A Manifesto*][imagination].
 - I'll draw up a reading calendar, so if you were pulling for another book, stay tuned.
 
 Now some overwrought thoughts. I want to try to give as complete an experience as I can to everyone, in whatever format they're able to participate, without anyone feeling like they're missing out on anything.
