@@ -10,8 +10,6 @@ layout: default
 
 <div class="col" markdown="1">
 
-That's me.
-
 I think and write about power and technology. You can see some of my work on the [research][] page, or see what I'm thinking about more currently on my [blog][].
 
 
