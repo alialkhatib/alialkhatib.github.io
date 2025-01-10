@@ -5,7 +5,7 @@ layout: default
 
 <div class="row">
   <div class="col">
-  <img class="col-5 col-md-4 col-lg-4 img-fluid m-sm-2 m-2 float-start" src="/content/ali_profile_1k_sq_compressed.jpg">
+  <img class="col-5 col-md-4 col-lg-4 img-fluid m-sm-2 m-2 float-start" src="/content/ali_profile_600_sq_very_compressed.jpg">
 
 
 <div class="col" markdown="1">
@@ -23,9 +23,6 @@ specializing in human-computer interaction,
 both from UC Irvine in 2014.
 I wrote an honors thesis on the culture of [Quantified Self][qsthesis]
 while I worked with [Tom Boellstorff][boellstorff].
-
-<!-- If this isn't enough info, click on some links floating around this text in various places -->
-<!-- (determined mostly by the size of your browser). -->
 
 <a rel="me" href="https://masto.al2.in/@ali"></a>
 
