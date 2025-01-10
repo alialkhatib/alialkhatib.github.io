@@ -5,7 +5,7 @@ layout: default
 
 <div class="row">
   <div class="col">
-  <img class="col-5 col-md-4 col-lg-4 img-fluid m-sm-2 m-2 float-start" src="/content/ali_profile_600_sq_very_compressed.jpg">
+  <img class="col-5 col-md-4 col-lg-4 img-fluid m-sm-2 m-2 float-start" width="600" height="600"  src="/content/ali_profile_600_sq_very_compressed.jpg">
 
 
 <div class="col" markdown="1">
