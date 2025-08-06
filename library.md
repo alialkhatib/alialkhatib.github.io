@@ -1,8 +1,10 @@
 ---
-title: Books
+title: Library of books
 layout: longy
 ---
 
+
+# This page is very old, and the data hasn't been updated in years. Please ignore the page.
 
 Some people have brought up that I have a fair number of books.
 I realize most of the people I know have access to a library,
