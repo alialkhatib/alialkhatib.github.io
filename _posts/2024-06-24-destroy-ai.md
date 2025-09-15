@@ -1,6 +1,6 @@
 ---
 title: Destroy AI
-slug: destroy-AI
+slug: destroy-ai
 redirect_from:
   - /blog/fuck-up-ai/
 ---
