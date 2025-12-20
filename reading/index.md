@@ -1,6 +1,7 @@
 ---
 title: reading groups
 layout: longy
+image: /reading/reading_group_image.png
 ---
 
 I run a couple of reading groups, and in the interest of keeping them disambiguated, here's a quick summary of each reading group. You're welcome to join one or both if you'd like.
