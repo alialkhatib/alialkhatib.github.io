@@ -70,4 +70,6 @@ class="finished"
 
 
 [Thought Soup]: https://buttondown.com/al2
+{:target="_blank"}
 [AI Skeptics]: https://buttondown.com/ai-skeptics-reading-group
+{:target="_blank"}
