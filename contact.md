@@ -3,9 +3,10 @@ layout: shorty
 title: "Contact"
 ---
 
-This page is divided into two sections. The first section is "ways you can reach out". The second section is more of a ledger of other places I am so you don't necessarily get duped into following someone impersonating me on that platform. Please don't think of the second section as an alternative mode to reach out to me; think of it as some level of proof that I do in fact use that platform you're thinking of, and that profile page is in fact me. If I ever make a backup page or anything of that nature, I'll post those here too.
+Here are some links you can use to reach me.
 
 ## Direct
+If you'd like to contact me directly, I really recommend email or signal
 
 - [**email**][email]
 - [**signal**][signal], or copy username:
@@ -17,12 +18,14 @@ This page is divided into two sections. The first section is "ways you can reach
 
 
 ## Other places
+You may find me posting and commenting publicly elsewhere on the web. In an effort to avoid imposters, AI-generated garbage, etc... here's a list of social media accounts I use sometimes.
 
 - [**Twitter**][tw]
 - [**Bluesky**][bsky]
 - [**Instagram**][ig]
 - [**Threads**][th]
 - [**LinkedIn**][li]
+- [YouTube][yt]
 - [**Mastodon**][masto], or copy my username:
 
 <span id="masto">
@@ -58,3 +61,5 @@ window.onload=function(){
 [bsky]: https://bsky.app/profile/ali-alkhatib.com
   "bluesky"
 [signal]: https://signal.me/#eu/JPleQkHS6fzEGpuvHx0FWnas8mX7jgxBRFNJCblvpwyCemTM3eFMhZk91yABzdtu
+[yt]: https://www.youtube.com/@ali_alkhatib
+  "YouTube"
