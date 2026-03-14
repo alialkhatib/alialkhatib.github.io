@@ -51,7 +51,14 @@
 
   {
     "cover": "https://open-books-a-poem-emporium.myshopify.com/cdn/shop/files/91bJIFp_Q1L._AC_UF1000_1000_QL80_1024x1024@2x.jpg?v=1723223106",
-    "finished": false,
+    "finished": true,
     "url": "https://open-books-a-poem-emporium.myshopify.com/collections/workshops-4-gaza-bookstore/products/w4g-10-01-24-shi-jane-echolalia-echolalia"
   },
+
+    {
+    "cover": "https://open-books-a-poem-emporium.myshopify.com/cdn/shop/files/view_archive_f392d1f3-15db-4da8-bcb7-5a9ef732474e_1024x1024@2x.jpg?v=1718231754",
+    "finished": false,
+    "url": "https://open-books-a-poem-emporium.myshopify.com/collections/bookshop-4-gaza-bookstore/products/w4g-burton-orisanmi-tip-of-the-spear"
+  },
+
 ]

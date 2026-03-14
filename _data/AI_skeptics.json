@@ -1,5 +1,4 @@
 [
-
   {
     "cover": "https://open-books-a-poem-emporium.myshopify.com/cdn/shop/files/81mbT1xgrlL._AC_UF1000_1000_QL80_1024x1024@2x.jpg?v=1760930488",
     "finished": true,
@@ -9,8 +8,15 @@
 
   {
     "cover": "https://indiepubs-us.imgix.net/covers/9781529213508.jpg?auto=format&w=300",
-    "finished": false,
+    "finished": true,
     "url": "https://indiepubs.com/products/resisting-ai-1?_pos=2&_sid=598ac88b1&_ss=r"
+  },
+
+{
+    "cover": "https://images.squarespace-cdn.com/content/v1/53f742fee4b017241942bdbe/1713984601030-YUER4FRYD9ZW7WYQXTOV/9781945335174_FC.jpg?format=1500w",
+    "finished": false,
+
+    "url": "https://www.commonnotions.org/why-we-fear-ai"
   },
 
 
