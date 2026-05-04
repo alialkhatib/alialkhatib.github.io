@@ -1,5 +1,7 @@
 ---
 title: On techno-optimism
+redirect_from: 
+  - /blog/techno-optimism/
 ---
 
 I've got a longer draft in the works, but I don't think that's going to become a *blog post*, so I figure it might be useful to publish something here and solicit feedback, or just plant a flag in the ground that this was a thing I did. ~~Last week~~ Several weeks ago I gave a talk at Wayne State University titled "the uncanny pessimism of techno-optimism". In this post I'm going to breeze through some of the stuff I talked about and give a sense of what'll be coming. Eventually.
