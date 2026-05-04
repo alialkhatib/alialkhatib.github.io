@@ -2,7 +2,7 @@
 title: On techno-optimism
 ---
 
-I've got a longer draft in the works, but I don't think that's going to become a *blog post*, so I figure it might be useful to publish something here and solicit feedback, or just plant a flag in the ground that this was a thing I did. Last week I gave a talk at Wayne State University titled "the uncanny pessimism of techno-optimism". In this post I'm going to breeze through some of the stuff I talked about and give a sense of what'll be coming. Eventually.
+I've got a longer draft in the works, but I don't think that's going to become a *blog post*, so I figure it might be useful to publish something here and solicit feedback, or just plant a flag in the ground that this was a thing I did. ~~Last week~~ Several weeks ago I gave a talk at Wayne State University titled "the uncanny pessimism of techno-optimism". In this post I'm going to breeze through some of the stuff I talked about and give a sense of what'll be coming. Eventually.
 
 The gist is that techno-optimism, especially what we see in this era of AI's ascent, is neither particularly "techno" nor "optimistic", but something else entirely. In the talk I pieced apart some issues with talking about "AI" as a purely technological project (stuff I've written about [elsewhere][defining AI]), and then I talked about how *techno-optimism*, taken on its own terms, seems to foreclose on our self-determination - that is, our ability to shape our own futures and make decisions about what our future looks like and is constituted of.
 
