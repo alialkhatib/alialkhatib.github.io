@@ -7,17 +7,27 @@
   },
 
   {
-    "cover": "https://indiepubs-us.imgix.net/covers/9781529213508.jpg?auto=format&w=300",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/af/Resisting_AI.jpg",
     "finished": true,
     "url": "https://indiepubs.com/products/resisting-ai-1?_pos=2&_sid=598ac88b1&_ss=r"
   },
 
 {
     "cover": "https://images.squarespace-cdn.com/content/v1/53f742fee4b017241942bdbe/1713984601030-YUER4FRYD9ZW7WYQXTOV/9781945335174_FC.jpg?format=1500w",
-    "finished": false,
-
+    "finished": true,
     "url": "https://www.commonnotions.org/why-we-fear-ai"
   },
 
+{
+    "cover": "https://m.media-amazon.com/images/I/71FUIz3KNNL._SL1500_.jpg",
+    "finished": true,
+    "url": "https://link.springer.com/book/10.1007/978-3-032-02665-1"
+  },
+
+{
+    "cover": "https://minnesota-us.imgix.net/covers/9781517917739.jpg?auto=format&w=298&dpr=2&q=100",
+    "finished": false,
+    "url": "https://www.upress.umn.edu/9781517917739/techno-negative/"
+  },
 
 ]
