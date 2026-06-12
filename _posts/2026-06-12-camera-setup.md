@@ -27,11 +27,11 @@ I don't use the full extent of the features of most of these things, and if I ne
 So with that... here's what I think I would get, if I was determined to have a dedicated light, video, and audio setup without wanting to improve my setup for at least several years (if ever).
 
 # video stuff
-- camera body: [sony zv-e10 ii] ($950)
+- camera body: [sony zv-e10 ii] ([on B&H][BH sony zv-e10 ii]) ($950)
 - lens: any one of the following:
-  - [sigma 17-40 f/1.8] ($900)
-  - [sigma 16mm f/1.4] ($500)
-  - [sigma 30mm f/1.4]  ($300)
+  - [sigma 17-40 f/1.8] ([on B&H][BH sigma 17-40 f/1.8]) ($900)
+  - [sigma 16mm f/1.4] ([on B&H][BH sigma 16mm f/1.4]) ($500)
+  - [sigma 30mm f/1.4] ([on B&H][BH sigma 30mm f/1.4])  ($300)
 
 The 17-40mm f/1.8 is very versatile, but if you want to set it up in one place and not adjust things, the versatility might be $500 spent on versatility you don't care about. I still think it's a good option, especially if you don't have a strong intuition about how far you want the camera, how tight a frame you want on your face, etc... but the lens is going to eclipse the cost of almost everything else, so if you think you're pretty satisfied with a 30mm or even 16mm lens, then you can save about $300-400.
 
@@ -40,19 +40,19 @@ Optical quality on a prime is also generally better (for the same price) than on
 If you think you just want to replicate the view I have, I would say go with the 30mm. If you don't have a ton of room, you might find 16mm better for your setting.
 
 - optional: adjustable ND filter:
-  - [k&f 82mm filter] ($32)
-  - [step up rings] ($9)
+  - [k&f 82mm filter] ([on B&H][BH k&f 82mm filter]) ($32)
+  - [step up rings] ([on B&H][BH step up rings]) ($9)
 
 I'm listing an adjustable ND filter because the goal with lighting (in the next section) might involve trying to overpower ambient light that fluctuates or doesn't provide the look you want. That often means a *lot* of light, so you'll sort of have to balance it back out by knocking down the exposure with an ND filter. This isn't an amazing ND filter, but I've been happy with it, and I think it'll do the job. I'm also suggesting an oversized filter *and step-up rings* because it's just cheaper to buy one giant filter and then stepping up to that size, rather than getting multiple filter sizes that may not be compatible with whatever lens you're using down the road.
 
 # lighting
 - light: either:
-  - 1x [amaran halo 60x] ($120)
-  - 1x [amaran halo 60x] ($120) + 1x [amaran halo 100x] ($170) ($290 total)
-- 1x [bowens reflector] ($10)
+  - 1x [amaran halo 60x] ([on B&H][BH amaran halo 60x]) ($120)
+  - 1x [amaran halo 60x] ([on B&H][BH amaran halo 60x]) ($120) + 1x [amaran halo 100x] ([B&H][BH amaran halo 100x]) ($170) ($290 total)
+- 1x [bowens reflector] ([on B&H][BH bowens reflector]) ($10)
 - light stands:
-  - if you have space: [neewer light stands] ($35)
-  - if you don't have space: some kind of desk clamp thing [like this][desk clamp] ($33)
+  - if you have space: [neewer light stands] ([on B&H][BH light stands]) ($35)
+  - if you don't have space: some kind of desk clamp thing [like this][desk clamp] ([on B&H][BH desk clamp]) ($33)
 
 Lighting can be annoying. I think you'll find it easiest to use a dark room and then add lights to it. I would suggest some kind of modified "3-point lighting" setup, but instead of a *fill light*, use something to reflect the *key light* back to your face. The image below doesn't show it, but imagine the camera between the *key light* and the *fill light* pointing at the object.
 
@@ -75,9 +75,9 @@ I will offer that video compression "crushes" shadows (and so does YouTube, for 
 
 # audio stuff
 - microphone: either:
-  - if you can have the microphone in the video frame: [shure sm58] ($100)
-  - if you cannot tolerate the microphone being visible in the video frame: [se electronics se7] ($120)
-- field recorder: [zoom h1 xlr] ($150)
+  - if you can have the microphone in the video frame: [shure sm58] ([on B&H][BH shure sm58]) ($100)
+  - if you cannot tolerate the microphone being visible in the video frame: [se electronics se7] (not on B&H as far as I can tell) ($120)
+- field recorder: [zoom h1 xlr] ([on B&H][BH zoom h1 xlr]) ($150)
 
 I have my microphone on a little arm that I can adjust and point just under my mouth toward my chest. There's a bit of technique to make sure you're not breathing into the microphone or making "mouth sounds" that can be quite upsetting to people listening on their headphones, but either the SM58 or the SE7 will be reliable tools to work on mic technique.
 
@@ -93,26 +93,26 @@ I would **not** recommend buying those 12" square foam panels that you see in pa
 ## some other audio things
 These are the less exciting peripherals and cables that you almost definitely need if you're getting the above stuff:
 
-- microphone clamp: [elgato microphone arm] ($100)
-- usb cable: [almost any usb cable will do fine][usb cable] ($16)
-- xlr cable: [2x 10ft any cable with neutrik connectors] ($22)
-- 3.5mm cable: [any][3.5mm cable] ($2)
+- microphone clamp: [elgato microphone arm] ([on B&H][BH elgato microphone arm]) ($100)
+- usb cable: [almost any usb cable will do fine][usb cable] (not sure what I would recommend on B&H) ($16)
+- xlr cable: [2x 10ft any cable with neutrik connectors] ([on B&H][BH xlr]) ($22)
+- 3.5mm cable: [any][3.5mm cable] ([on B&H][BH 3.5mm cable]) ($2)
 
 
 
 # misc/peripherals
 ## necessary
 - usb-c cable: [almost any will do for the field recorder, but you need a 5gbps cable for the camera][usb cable] ($16)
-- tripod: [neewer video tripod with fluid head] ($100)
-- dummy battery: [neewer dummy battery] ($35)
-- gray card: [any gray card] ($15)
-- fan for camera: [smallrig fan] ($40)
+- tripod: [neewer video tripod with fluid head] ([similar option on B&H][BH tripod]) ($100)
+- dummy battery: [neewer dummy battery] ([on B&H][BH dummy battery]) ($35)
+- gray card: [any gray card] ([on B&H][BH gray card]) ($15)
+- fan for camera: [smallrig fan] ([on B&H][BH smallrig fan]) ($40)
 
 ## optional
-- hdmi adapter: [any micro to full-size hdmi adapter][hdmi adapter] ($10)
-- hdmi cable: [monoprice hdmi cable] ($20)
-- hdmi capture: [elgato 4k capture device] ($100)
-- sd card: [lexar 64gb] ($100)
+- hdmi adapter: [any micro to full-size hdmi adapter][hdmi adapter] ([on B&H][BH hdmi adapter]) ($10)
+- hdmi cable: [monoprice hdmi cable] ([on B&H][BH monoprice hdmi cable]) ($20)
+- hdmi capture: [elgato 4k capture device] ([on B&H][bh elgato 4k capture device]) ($100)
+- sd card: [lexar 64gb] ([on B&H][BH lexar 64gb]) ($100)
 
 Subtotal is, I think, **$2,523.23** (or thereabout) with the 16mm lens. The 30mm lens will be a little less, and the 17-40 zoom lens will be about $400-500 more.
 
@@ -148,3 +148,33 @@ Lights are complicated; LEDs deteriorate with heat over time, so if they spent 5
 [k&f 82mm filter]: https://amazon.com/Concept-Variable-Neutral-Adjustable-Cleaning/dp/B07DNTWD2G/
 [step up rings]: https://amazon.com/Filter-Adapter-Aluminum-Professional-Accessories/dp/B0GDFT4S91/
 
+
+[BH sony zv-e10 ii]: https://www.bhphotovideo.com/c/product/803445250-USE/sony_zve10m2b_zv_e10_ii_mirrorless_camera.html
+[BH sigma 17-40 f/1.8]: https://www.bhphotovideo.com/c/product/1901072-REG/sigma_214965_17_40mm_f_1_8_dc_art.html
+[BH sigma 16mm f/1.4]: https://www.bhphotovideo.com/c/used/1369132/sigma_402965_16mm_f_1_4_dc_dn.html
+[BH zoom h1 xlr]: https://www.bhphotovideo.com/c/product/1845628-REG/zoom_zh1xlr_h1_xlr_portable_audio.html 
+[BH shure sm58]: https://www.bhphotovideo.com/c/used/68463/Shure_SM58_LC_SM58_LC_Cardioid_Dynamic.html
+[BH sigma 30mm f/1.4]: https://www.bhphotovideo.com/c/product/1234027-REG/sigma_302965_30mm_f_1_4_dc_dn.html
+
+[BH se electronics se7]:
+
+[BH usb cable]:
+
+[BH xlr]: https://www.bhphotovideo.com/c/product/845514-REG/Kopul_m4010_Kopul_Studio_Elite_4000.html
+[BH elgato microphone arm]: https://www.bhphotovideo.com/c/product/1709808-REG/elgato_10aan9901_wave_mic_arm_lp.html
+[BH tripod]: https://www.bhphotovideo.com/c/product/1774976-REG/smallrig_3751b_ad_01_heavy_duty_tripod_with.html
+[BH dummy battery]: https://www.bhphotovideo.com/c/product/1807537-REG/smallrig_4268b_sony_np_fz100_dummy.html
+[BH lexar 64gb]: https://www.bhphotovideo.com/c/product/1592045-REG/lexar_lsd2000064g_bnnnu_64gb_2000x_sd_uhs_ii.html
+[BH gray card]: https://www.bhphotovideo.com/c/product/231564-REG/Delta_98705C_Gray_Card_4.html
+[BH smallrig fan]: https://www.bhphotovideo.com/c/product/1860821-REG/ulanzi_c045_cu01_thermostatic_semiconductor_camera.html
+[BH light stands]: https://www.bhphotovideo.com/c/product/1480565-REG/impact_2_light_stand_kit_6.html
+[BH desk clamp]: https://www.bhphotovideo.com/c/product/1592094-REG/impact_ls_12_telescoping_table_top_light.html
+[BH hdmi adapter]: https://www.bhphotovideo.com/c/product/1387379-REG/smallhd_cbl_sgl_adp_hdmi_micro_full_f_micro_hdmi_to_full.html
+[BH monoprice hdmi cable]: https://www.bhphotovideo.com/c/product/751035-REG/Pearstone_hda_106_Standard_Series_HDMI_to.html
+[BH elgato 4k capture device]: https://www.bhphotovideo.com/c/product/1453840-REG/elgato_systems_10gam9901_cam_link_4k_game.html
+[BH 3.5mm cable]: https://www.bhphotovideo.com/c/product/827822-REG/pearstone_mmsa_106b_stereo_mini_male_to.html
+[BH amaran halo 60x]: https://www.bhphotovideo.com/c/product/1954191-REG/amaran_mp00000437_halo_60x_bi_color_led.html
+[BH amaran halo 100x]: https://www.bhphotovideo.com/c/product/1954192-REG/amaran_mp0000043d_halo_100x_bi_color_led.html
+[BH bowens reflector]: https://www.bhphotovideo.com/c/product/1930183-REG/amaran_ma00060401_mini_reflector_for_ray.html
+[BH k&f 82mm filter]: https://www.bhphotovideo.com/c/product/1532915-REG/k_f_concept_kf01_1114_82mm_variable_fader_nd2_400.html
+[BH step up rings]: https://www.bhphotovideo.com/c/product/1849889-REG/sensei_sur_sdr_k_step_up_step_down_ring.html
