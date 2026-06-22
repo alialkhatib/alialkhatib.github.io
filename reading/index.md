@@ -57,6 +57,9 @@ Here are (most, if not all of) the books we've read since we've started. The cur
   <a href="{{book.url}}" target="_blank"><img
 {% if book.finished %}
 class="finished"
+alt="'{{book.title}}' by {{book.author}} (finished)"
+{% else %}
+alt="'{{book.title}}' by {{book.author}}"
 {% endif %}
     src="{{book.cover}}"></a>
 </div>{% endfor %}
