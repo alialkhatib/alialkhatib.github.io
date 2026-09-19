@@ -1,7 +1,7 @@
 [
   {
     "cover": "https://open-books-a-poem-emporium.myshopify.com/cdn/shop/files/81mbT1xgrlL._AC_UF1000_1000_QL80_1024x1024@2x.jpg?v=1760930488",
-    "title": "The AI Con",
+    "title": "The AI Con: How to Fight Big Tech’s Hype and Create the Future We Want",
     "author": "Emily M. Bender & Alex Hanna",
     "finished": true,
 
@@ -10,34 +10,59 @@
 
   {
     "cover": "https://upload.wikimedia.org/wikipedia/en/a/af/Resisting_AI.jpg",
-    "title": "Resisting AI",
+    "title": "Resisting AI: An Anti-Fascist Approach to Artificial Intelligence",
     "author": "Dan McQuillan",
     "finished": true,
-    "url": "https://indiepubs.com/products/resisting-ai-1?_pos=2&_sid=598ac88b1&_ss=r"
+    "url": "https://bookshop.org/p/books/resisting-ai-an-anti-fascist-approach-to-artificial-intelligence-dan-mcquillan/62bc466434e9e0ae?ean=9781529213508&listref=ai-skeptics-books&aid=124793&bkshp-astro=t"
   },
 
 {
     "cover": "https://images.squarespace-cdn.com/content/v1/53f742fee4b017241942bdbe/1713984601030-YUER4FRYD9ZW7WYQXTOV/9781945335174_FC.jpg?format=1500w",
-    "title": "Why We Fear AI",
+    "title": "Why We Fear AI: On the Interpretation of Nightmares",
     "author": "Hagen Blix & Ingeborb Glimmer",
     "finished": true,
-    "url": "https://www.commonnotions.org/why-we-fear-ai"
+    "url": "https://bookshop.org/p/books/why-we-fear-ai-on-the-interpretation-of-nightmares-hagen-blix/2451e86880671618?ean=9781945335174&listref=ai-skeptics-books&aid=124793&bkshp-astro=t"
   },
 
 {
     "cover": "https://m.media-amazon.com/images/I/71FUIz3KNNL._SL1500_.jpg",
-    "title": "Disabling Intelligences",
+    "title": "Disabling Intelligences: Legacies of Eugenics and How We Are Wrong about AI",
     "author": "Rua Williams",
     "finished": true,
-    "url": "https://link.springer.com/book/10.1007/978-3-032-02665-1"
+    "url": "https://bookshop.org/p/books/disabling-intelligences-legacies-of-eugenics-and-how-we-are-wrong-about-ai-rua-m-williams/b5e49f6b89f846a8?ean=9783032026644&listref=ai-skeptics-books&aid=124793&bkshp-astro=t"
   },
 
 {
     "cover": "https://minnesota-us.imgix.net/covers/9781517917739.jpg?auto=format&w=298&dpr=2&q=100",
     "title": "Techno-Negative: A Long History of Refusing the Machine",
     "author": "Thomas Dekeyser",
-    "finished": false,
-    "url": "https://www.upress.umn.edu/9781517917739/techno-negative/"
+    "finished": true,
+    "url": "https://bookshop.org/p/books/techno-negative/d11674d13628d615?ean=9781517917739&listref=ai-skeptics-books&aid=124793&bkshp-astro=t"
   },
+
+{
+    "cover": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668221402/the-nerd-reich-9781668221402_xlg.jpg",
+    "title": "The Nerd Reich: Silicon Valley Fascism and the War on Democracy",
+    "author": "Gil Durán",
+    "finished": false,
+    "url": "https://bookshop.org/p/books/the-nerd-reich-silicon-valley-fascism-and-the-war-on-democracy-gil-dur-n/a6f6f0dce1150339?ean=9781668221402&listref=ai-skeptics-books&aid=124793&bkshp-astro=t"
+  },
+
+{
+    "cover": "https://images-us.bookshop.org/ingram/9781788730068.jpg",
+    "title": "The Eye of the Master: A Social History of Artificial Intelligence",
+    "author": "Matteo Pasquinelli",
+    "finished": false,
+    "url": "https://bookshop.org/p/books/the-eye-of-the-master-a-social-history-of-artificial-intelligence-matteo-pasquinelli/f2447f79ea5e9ced?ean=9781788730068&listref=ai-skeptics-books&aid=124793&bkshp-astro=t"
+  },
+
+  {
+    "cover": "https://images-us.bookshop.org/ingram/9798217048526.jpg",
+    "title": "Hyperscale: The Ambition and Excess of Big Tech's Data Empires",
+    "author": "Paris Marx",
+    "finished": false,
+    "url": "https://bookshop.org/p/books/hyperscale-the-ambition-and-excess-of-big-tech-s-data-empires-paris-marx/bef8c026f7d016e2?ean=9798217048526&listref=ai-skeptics-books&aid=124793&bkshp-astro=t"
+  },
+
 
 ]
