@@ -122,7 +122,7 @@ GEM
       coffee-script (~> 2.2)
       coffee-script-source (~> 1.11.1)
     jekyll-commonmark (1.4.0)
-      commonmarker (~> 0.22)
+      commonmarker (~> 0.23.4)
     jekyll-commonmark-ghpages (0.4.0)
       commonmarker (~> 0.23.7)
       jekyll (~> 3.9.0)
