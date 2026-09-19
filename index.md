@@ -5,29 +5,22 @@ layout: default
 
 <div class="row">
   <div class="col">
-  <img class="col-5 col-md-4 col-lg-4 img-fluid m-sm-2 m-2 float-start" src="/content/ali_profile_1k_sq_compressed.jpg">
+  <img class="col-5 col-md-4 col-lg-4 img-fluid m-sm-2 m-2 float-start" width="600" height="600"  src="/content/ali_profile_600_sq_very_compressed.jpg">
 
 
 <div class="col" markdown="1">
 
-That's me.
-
-I think and write about power and technology. You can see some of my work on the [research][] page, or see what I'm thinking about more currently on my [blog][].
+I write and work around issues of power and technology. You can see some of my work on the [research][] page, or see what I'm thinking about more currently on my [blog][].
 
 
+I was interim Director for the Center for Applied Data Ethics at the University of San Francisco.
 
-I was interim Director for the Center for Applied Data Ethics at the University of San Francisco. Before that,
-I studied Computer Science at Stanford while pursuing a PhD, where I worked with [Michael Bernstein][msb].
+Before that, I spent some time at Stanford studying Computer Science.
 
 
 I earned a BA in Anthropology & a BS in Informatics,
 specializing in human-computer interaction,
 both from UC Irvine in 2014.
-I wrote an honors thesis on the culture of [Quantified Self][qsthesis]
-while I worked with [Tom Boellstorff][boellstorff].
-
-<!-- If this isn't enough info, click on some links floating around this text in various places -->
-<!-- (determined mostly by the size of your browser). -->
 
 <a rel="me" href="https://masto.al2.in/@ali"></a>
 

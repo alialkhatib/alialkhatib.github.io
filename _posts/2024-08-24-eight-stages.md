@@ -2,7 +2,7 @@
 title: Eight Stages of White Settler-Colonial Denial
 ---
 
-I've been seeing this image floating around and [I mentioned intending to provide alt text][tweet], which led me down a rabbit hole for a little while, including sifting through links that don't work anymore, tweets that don't exist anymore, twitter users who have deleted their accounts, etc... so I wanted to compile information in one place in case more of the web becomes impossible to search and archive effectively... But first, the original image:
+I've been seeing this image floating around and [I mentioned intending to provide alt text][tweet], which led me down a hole for a little while, including sifting through links that don't work anymore, tweets that don't exist anymore, twitter users who have deleted their accounts, etc... so I wanted to compile information in one place in case more of the web becomes impossible to search and archive effectively... But first, the original image:
 
 
 ![Eight Stages of White Settler-Colonial Denial][eightstages]
@@ -52,7 +52,7 @@ CC SA 4.0
 
 ### Background
 
-As far as I can tell, it's often attributed to Kim TallBear, who has since deleted her Twitter account, but she fortunately also published [a paper where she pointed out that she didn't create the image and instead saw it on Twitter][KTB_paper]. She apparently saw it posted by someone who went by @pazuzumycete (now deleted), who may have created the graphic or may not have.
+As far as I can tell, it's often attributed to Dr. Kim TallBear, who has since deleted her Twitter account, but she fortunately also published [a paper where she pointed out that she didn't create the image and instead saw it on Twitter][KTB_paper]. She apparently saw it posted by someone who went by @pazuzumycete (now deleted), who may have created the graphic or may not have.
 
 ... and since I was working with the text a lot, I ended up putting it in a latex file. If you want that text, it's [here][tex]; it produces a PDF much like this:
 

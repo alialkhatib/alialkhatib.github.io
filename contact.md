@@ -3,13 +3,13 @@ layout: shorty
 title: "Contact"
 ---
 
-You can reach me a number of ways.
+Here are some links you can use to reach me.
 
 ## Direct
+If you'd like to contact me directly, I really recommend email or signal
 
-
-- [**email**][email]
-- [**signal**][signal], or copy username:
+- **[email][email]**
+- **[signal][signal]**, or copy username:
 
 <span id="signal">
 <button class="btn btn-mini" data-clipboard-text="@ali.01" data-clipboard-target="#signal">`@ali.01` <i class="fa-regular fa-copy"></i>
@@ -17,20 +17,23 @@ You can reach me a number of ways.
 
 
 
-## Social
+## Other places
+You may find me posting and commenting publicly elsewhere on the web. Here's a list of accounts I use sometimes.
 
-- [**Twitter**][tw]
-- [**Bluesky**][bsky]
-- [**Mastodon**][masto], or copy my username:
+- **[Twitter][tw]**
+- **[Bluesky][bsky]**
+- **[Instagram][ig]**
+- **[Threads][th]**
+- **[LinkedIn][li]**
+- **[YouTube][yt]**
+- **[Mastodon][masto]**, or copy my username:
 
 <span id="masto">
 <button class="btn btn-mini" data-clipboard-text="ali@masto.al2.in" data-clipboard-target="#masto">`ali@masto.al2.in` <i class="fa-regular fa-copy"></i>
 </button></span>
 
----
 
-If you need to reach me some other way, please consider trying email first.
-
+**Other accounts claiming to be me are probably fake.**
 
 <script>
 window.onload=function(){
@@ -41,8 +44,14 @@ window.onload=function(){
 
 [meet]: /meet
   "fantastical openings"
+[ig]: //instagram.com/alialkhatib
+  "@alialkhatib"
+[th]: //www.threads.net/@alialkhatib
+  "@alialkhatib"
+[li]: //www.linkedin.com/in/asalkhatib
+  "@asalkhatib"
 [masto]: //masto.al2.in/@ali
-  "mastodon"
+  "@ali@masto.al2.in"
 [trying a thing]: /blog/coffee-talk
   "Coffee Talk"
 [email]: mailto:{{site.email}}
@@ -53,6 +62,9 @@ window.onload=function(){
   "{{site.fb}}"
 [claim a block]: {{site.meeting}}
   "Google Calendar appointments"
-[bsky]: https://bsky.app/profile/al2.bsky.social
-  "bluesky"
+[bsky]: https://bsky.app/profile/ali-alkhatib.com
+  "@ali-alkhatib.com"
 [signal]: https://signal.me/#eu/JPleQkHS6fzEGpuvHx0FWnas8mX7jgxBRFNJCblvpwyCemTM3eFMhZk91yABzdtu
+  "@ali.01"
+[yt]: https://www.youtube.com/@ali_alkhatib
+  "@ali_alkhatib"
