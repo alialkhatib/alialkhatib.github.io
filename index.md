@@ -21,6 +21,8 @@ specializing in human-computer interaction,
 both from UC Irvine in 2014.
 After that, I spent some time at Stanford CS in the HCI group,
 where I worked with Michael Bernstein.
+Later, I served as interim Director for the Center for Applied Data Ethics at
+the University of San Francisco.
 
 <a rel="me" href="https://masto.al2.in/@ali"></a>
 
