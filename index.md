@@ -12,15 +12,15 @@ layout: default
 
 I write and work around issues of power and technology. You can see some of my work on the [research][] page, or see what I'm thinking about more currently on my [blog][].
 
+I'm currently a [Harrington graduate fellow][harrington] at [the iSchool at the University of Texas at Austin][ischool], advised by [David Gray Widder][dw].
 
-I was interim Director for the Center for Applied Data Ethics at the University of San Francisco.
-
-Before that, I spent some time at Stanford studying Computer Science.
-
+<!-- I was interim Director for the Center for Applied Data Ethics at the University of San Francisco. Before that, I spent some time at Stanford studying Computer Science. -->
 
 I earned a BA in Anthropology & a BS in Informatics,
 specializing in human-computer interaction,
 both from UC Irvine in 2014.
+After that, I spent some time at Stanford CS in the HCI group,
+where I worked with Michael Bernstein.
 
 <a rel="me" href="https://masto.al2.in/@ali"></a>
 
@@ -78,3 +78,12 @@ both from UC Irvine in 2014.
   "To Live in Their Utopia page"
 [research]: /research
   "Research"
+
+[ischool]: https://ischool.utexas.edu/
+  "iSchool at UT Austin"
+[uta]: https://utexas.edu/
+  "UT Austin"
+[dw]: https://davidwidder.me/
+  "David Gray Widder homepage"
+[harrington]: https://harrington.utexas.edu/
+  "Harrington Fellowship Program"
